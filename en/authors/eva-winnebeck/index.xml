@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eva Winnebeck | Corona Data Donation Project | News &amp; Analyses</title>
+    <link>https://corona-datenspende.de/en/authors/eva-winnebeck/</link>
+      <atom:link href="https://corona-datenspende.de/en/authors/eva-winnebeck/index.xml" rel="self" type="application/rss+xml" />
+    <description>Eva Winnebeck</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 29 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://corona-datenspende.de/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
+      <title>Eva Winnebeck</title>
+      <link>https://corona-datenspende.de/en/authors/eva-winnebeck/</link>
+    </image>
+    
+    <item>
+      <title>Clock change</title>
+      <link>https://corona-datenspende.de/en/reports/clockchange/</link>
+      <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://corona-datenspende.de/en/reports/clockchange/</guid>
+      <description>&lt;p&gt;This weekend it&amp;rsquo;s that time again: The clocks will be changed back one hour, from daylight saving time to standard time.&lt;/p&gt;
+&lt;p&gt;Since the beginning of the Corona Data Donation, this is the third clock change. Whether these changeovers are useful, unnecessary or even harmful is widely debated - both in terms of personal preference and public health. After all, numerous studies have shown that in the short term, the changeover can disturb one’s routines and well-being. In the long term, the changes influence when and how much sunlight we get in our daily lives. This can have a variety of effects on our bodies and psyche, in part mediated by changes in our sleep.&lt;/p&gt;
+&lt;p&gt;Therefore, today, we take a look at the sleep data of our donors during the last two clock changes.&lt;/p&gt;
+&lt;h3 id=&#34;daylight-saving-time-summer-time-standard-time-what-time&#34;&gt;Daylight saving time, summer time, standard time, what time?&lt;/h3&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig-1-shift-in-sleep-timing-between-dst-and-winter-time-shown-is-the-average-daily-midsleep-time-over-the-full-course-of-the-data-donation---measured-in-local-time-top-and-in-standard-time-bottom-the-weekly-peaks-reflect-the-later-sleep-on-weekends-the-large-central-peak-is-caused-by-new-years-eve-looking-at-the-bottom-graph-one-can-see-that-sleep-is-essentially-almost-an-hour-earlier-during-dst-the-top-graph-shows-that-sleep-in-local-time-appears-nonetheless-slightly-later-because-the-shift-in-sleep-timing-is-not-exactly-a-full-hour&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;**Fig. 1: Shift in sleep timing between DST and winter time.** Shown is the average daily midsleep time over the full course of the Data Donation - measured in local time (top) and in standard time (bottom). The weekly peaks reflect the later sleep on weekends, the large central peak is caused by New Year&amp;#39;s Eve. Looking at the bottom graph one can see that sleep is essentially almost an hour earlier during DST. The top graph shows that sleep in local time appears nonetheless slightly later because the shift in sleep timing is not exactly a full hour.&#34; srcset=&#34;
+               /media/figures/dst/midSleepOverTimeYearEng_hu34056d5b548f919c821b52ba31d161d6_1014350_9f3ec5dfb03363fc2783f403148cc118.webp 400w,
+               /media/figures/dst/midSleepOverTimeYearEng_hu34056d5b548f919c821b52ba31d161d6_1014350_7a575587881ea609aae25fb02784d666.webp 760w,
+               /media/figures/dst/midSleepOverTimeYearEng_hu34056d5b548f919c821b52ba31d161d6_1014350_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://corona-datenspende.de/media/figures/dst/midSleepOverTimeYearEng_hu34056d5b548f919c821b52ba31d161d6_1014350_9f3ec5dfb03363fc2783f403148cc118.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;532&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;strong&gt;Fig. 1: Shift in sleep timing between DST and winter time.&lt;/strong&gt; Shown is the average daily midsleep time over the full course of the Data Donation - measured in local time (top) and in standard time (bottom). The weekly peaks reflect the later sleep on weekends, the large central peak is caused by New Year&amp;rsquo;s Eve. Looking at the bottom graph one can see that sleep is essentially almost an hour earlier during DST. The top graph shows that sleep in local time appears nonetheless slightly later because the shift in sleep timing is not exactly a full hour.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;Standard time&lt;/strong&gt;, the time in effect during the winter months, is the regular time in our time zone. For &lt;strong&gt;Daylight Saving Time (DST)&lt;/strong&gt;, also called &lt;em&gt;summer time&lt;/em&gt; in some regions, the clocks are then set forward by one hour, meaning we pretend that it&amp;rsquo;s already one hour later or that we live in a time zone further east.&lt;/p&gt;
+&lt;p&gt;So DST means that work and schools essentially start one hour earlier.  And most of us react to this by shifting our sleep forward.&lt;/p&gt;
+&lt;p&gt;This shift is also quite obvious in our donors&amp;rsquo; data: measured in standard time, their &lt;strong&gt;midsleep, the midpoint between falling asleep and waking up, was on average almost one hour earlier during DST than during standard time&lt;/strong&gt; (Fig. 1, bottom). Looking at the same pattern in local time (Fig. 1, top), however, you can hardly make out a difference between summer and winter. Hardly? Indeed, because a closer look reveals that the shift in sleep did not fully compensate for the one-hour clock change, so that sleep during DST appears on average a few minutes later (Fig. 1, top).&lt;/p&gt;
+&lt;h3 id=&#34;the-2021-spring-changeover---unusual-pattern-during-unusual-times&#34;&gt;The 2021 spring changeover - unusual pattern during unusual times?&lt;/h3&gt;
+&lt;p&gt;Normally, the spring changeover is the “more difficult&amp;quot; one. When we change from standard time to DST, we usually &amp;ldquo;lose&amp;rdquo; an hour of sleep, since work or school starts essentially an hour earlier from then on.&lt;/p&gt;
+&lt;p&gt;This spring, however, the changeover seems to have been quite smooth on average (Fig. 2): &lt;strong&gt;Although the donors slept less on the night of the changeover, the following 2-3 weeks they slept actually more than before.&lt;/strong&gt; This is unusual, because previous studies have shown that the first week of DST is usually marked by sleep loss in the majority of people.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig-2-sleep-duration-around-the-start-of-dst-shown-in-purple-is-the-sleep-duration-over-4-weeks-before-and-after-the-changeover-the-solid-line-shows-the-daily-value-the-dashed-line-the-mean-value-over-several-weeks-before-and-after-apart-from-the-shorter-sleep-on-the-sunday-of-the-changeover-compare-with-the-expected-duration-in-red-there-is-an-unusual-increase-in-sleep-duration-after-the-changeover-to-dst---probably-driven-by-the-easter-vacations-following-the-changeover-and-the-pandemic-situation-at-that-time&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;**Fig. 2: Sleep duration around the start of DST.** Shown in purple is the sleep duration over 4 weeks before and after the changeover. The solid line shows the daily value, the dashed line the mean value over several weeks before and after. Apart from the shorter sleep on the Sunday of the changeover (compare with the expected duration in red), there is an unusual increase in sleep duration after the changeover to DST - probably driven by the Easter vacations following the changeover and the pandemic situation at that time.&#34; srcset=&#34;
+               /media/figures/dst/sleepDurationSpringEng_hu8bb8b407e4a2933a0c97efbd69e1d983_454287_e0e2266d3ae9f1c275226d010e8f97f5.webp 400w,
+               /media/figures/dst/sleepDurationSpringEng_hu8bb8b407e4a2933a0c97efbd69e1d983_454287_3fdf50910e194b5dd771ae9081891a00.webp 760w,
+               /media/figures/dst/sleepDurationSpringEng_hu8bb8b407e4a2933a0c97efbd69e1d983_454287_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://corona-datenspende.de/media/figures/dst/sleepDurationSpringEng_hu8bb8b407e4a2933a0c97efbd69e1d983_454287_e0e2266d3ae9f1c275226d010e8f97f5.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;475&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;strong&gt;Fig. 2: Sleep duration around the start of DST.&lt;/strong&gt; Shown in purple is the sleep duration over 4 weeks before and after the changeover. The solid line shows the daily value, the dashed line the mean value over several weeks before and after. Apart from the shorter sleep on the Sunday of the changeover (compare with the expected duration in red), there is an unusual increase in sleep duration after the changeover to DST - probably driven by the Easter vacations following the changeover and the pandemic situation at that time.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;What was going on in Germany in the spring of 2021?&lt;/strong&gt; Easter break started directly after the changeover in 3 federal states and one week later in nearly all others. In addition, there were the Easter holidays themselves and the third Corona wave during which the home office rate was 24-31% according to surveys. Maybe that&amp;rsquo;s why some of the donors didn&amp;rsquo;t have to get up a whole hour earlier after all?&lt;/p&gt;
+&lt;p&gt;A look at the wake-up times supports this hypothesis (Fig. 3): the donors woke up &amp;ldquo;only&amp;rdquo; 40 minutes earlier on average in the 3 weeks after the changeover - probably because a significant part of them did not have to adapt immediately and completely to DST.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig-3-wake-up-times-around-the-start-of-dst-shown-in-blue-is-the-wake-up-time-over-4-weeks-before-and-after-the-spring-changeover-the-solid-line-shows-the-daily-value-the-dashed-line-the-mean-value-over-several-weeks-before-and-after-wake-up-times-became-essentially-earlier-with-the-start-of-dst-standard-time-dark-blue-but-at-first-only-by-half-an-hour-making-wake-up-later-in-local-time-dst-light-blue-this-suggests-that-some-of-the-donors-did-not-have-to-adapt-to-the-new-time-and-explains-the-unexpected-increase-in-sleep-duration-after-the-change-illustrated-in-fig-2&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;**Fig. 3: Wake-up times around the start of DST.** Shown in blue is the wake-up time over 4 weeks before and after the spring changeover. The solid line shows the daily value, the dashed line the mean value over several weeks before and after. Wake-up times became essentially earlier with the start of DST (standard time, dark blue), but at first only by half an hour, making wake-up later in local time (DST, light blue). This suggests that some of the donors did not (have to) adapt to the new time and explains the unexpected increase in sleep duration after the change illustrated in Fig. 2.&#34; srcset=&#34;
+               /media/figures/dst/sleepOffsetSpringEng_hub36ad97898a65cf18228b4414248d435_497511_bb47ee10da83aad3bbb5f206445f33f1.webp 400w,
+               /media/figures/dst/sleepOffsetSpringEng_hub36ad97898a65cf18228b4414248d435_497511_f84608884c200d78e5449adc1426a534.webp 760w,
+               /media/figures/dst/sleepOffsetSpringEng_hub36ad97898a65cf18228b4414248d435_497511_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://corona-datenspende.de/media/figures/dst/sleepOffsetSpringEng_hub36ad97898a65cf18228b4414248d435_497511_bb47ee10da83aad3bbb5f206445f33f1.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;475&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;strong&gt;Fig. 3: Wake-up times around the start of DST.&lt;/strong&gt; Shown in blue is the wake-up time over 4 weeks before and after the spring changeover. The solid line shows the daily value, the dashed line the mean value over several weeks before and after. Wake-up times became essentially earlier with the start of DST (standard time, dark blue), but at first only by half an hour, making wake-up later in local time (DST, light blue). This suggests that some of the donors did not (have to) adapt to the new time and explains the unexpected increase in sleep duration after the change illustrated in Fig. 2.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h3 id=&#34;the-fall-changeover-2020---later-is-earlier&#34;&gt;The fall changeover 2020 - later is earlier?&lt;/h3&gt;
+&lt;p&gt;In the fall, we get back the hour that we &amp;ldquo;lose&amp;rdquo; during the spring. Work and schools start an hour later again, so most people can get up later. Accordingly, the fall changeover is considered the &amp;ldquo;easier&amp;rdquo; change.&lt;/p&gt;
+&lt;p&gt;The donor data from last year’s fall change support this: &lt;strong&gt;The changeover proceeded without any obvious disturbances&lt;/strong&gt; - apart from the nearly one-hour shift in sleep, of course (Fig.1)!&lt;/p&gt;
+&lt;p&gt;The sleep on the Sunday of the changeover appeared slightly shorter (fig. 4) just as in spring. However, this could also be a miscalculation of some devices caused by the changeover (we will investigate further) since the donors neither fell asleep later nor woke up earlier. On the contrary, the donors &lt;strong&gt;got up essentially half an hour later on Sunday on average&lt;/strong&gt; (Fig. 5, standard time). &lt;strong&gt;Only on their adjusted watches did it look like an earlier wake up than usual&lt;/strong&gt; (Fig. 5, local time). The fact that despite getting up later it looks as if one had gotten up earlier may be quite a welcome side effect to some of us. Interestingly, this effect persisted for several weeks past the changeover.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig-4-sleep-duration-around-the-return-to-standard-time-shown-in-purple-is-the-sleep-duration-over-4-weeks-before-and-after-the-fall-changeover-the-solid-line-shows-the-daily-value-the-dashed-line-the-mean-value-over-several-weeks-before-and-after-here-the-most-noticeable-feature-is-the-shortened-sleep-on-the-day-of-the-changeover-where-it-stays-clearly-below-the-expected-target-red-circle&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;**Fig. 4: Sleep duration around the return to standard time.** Shown in purple is the sleep duration over 4 weeks before and after the fall changeover. The solid line shows the daily value, the dashed line the mean value over several weeks before and after. Here, the most noticeable feature is the shortened sleep on the day of the changeover, where it stays clearly below the expected target (red circle).&#34; srcset=&#34;
+               /media/figures/dst/sleepDurationAutumnEng_hu8bb8b407e4a2933a0c97efbd69e1d983_473377_578479c95412e6a0b8c501c85ede47a0.webp 400w,
+               /media/figures/dst/sleepDurationAutumnEng_hu8bb8b407e4a2933a0c97efbd69e1d983_473377_e9ce00cbec6f6de20854b1245738d766.webp 760w,
+               /media/figures/dst/sleepDurationAutumnEng_hu8bb8b407e4a2933a0c97efbd69e1d983_473377_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://corona-datenspende.de/media/figures/dst/sleepDurationAutumnEng_hu8bb8b407e4a2933a0c97efbd69e1d983_473377_578479c95412e6a0b8c501c85ede47a0.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;475&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;strong&gt;Fig. 4: Sleep duration around the return to standard time.&lt;/strong&gt; Shown in purple is the sleep duration over 4 weeks before and after the fall changeover. The solid line shows the daily value, the dashed line the mean value over several weeks before and after. Here, the most noticeable feature is the shortened sleep on the day of the changeover, where it stays clearly below the expected target (red circle).
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig-5-wake-up-times-around-the-return-to-standard-time-shown-in-blue-is-the-wake-up-time-over-4-weeks-before-and-after-the-fall-changeover-the-solid-line-shows-the-daily-value-the-dashed-line-the-average-value-over-several-weeks-before-and-after-the-graph-indicates-that-the-wake-up-time-became-immediately-later-on-the-sunday-of-the-changeover-standard-time-dark-blue-although-it-looked-earlier-on-the-donors-watches-local-time-light-blue&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;**Fig. 5: Wake-up times around the return to standard time.** Shown in blue is the wake-up time over 4 weeks before and after the fall changeover. The solid line shows the daily value, the dashed line the average value over several weeks before and after. The graph indicates that the wake-up time became immediately later on the Sunday of the changeover (standard time, dark blue), although it looked earlier on the donors&amp;#39; watches (local time, light blue).&#34; srcset=&#34;
+               /media/figures/dst/sleepOffsetAutumEng_hub36ad97898a65cf18228b4414248d435_496333_635e7cf7a30bff126d6b607e22ab3a31.webp 400w,
+               /media/figures/dst/sleepOffsetAutumEng_hub36ad97898a65cf18228b4414248d435_496333_db8976e5f68eb37450901478eaf18986.webp 760w,
+               /media/figures/dst/sleepOffsetAutumEng_hub36ad97898a65cf18228b4414248d435_496333_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://corona-datenspende.de/media/figures/dst/sleepOffsetAutumEng_hub36ad97898a65cf18228b4414248d435_496333_635e7cf7a30bff126d6b607e22ab3a31.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;475&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;strong&gt;Fig. 5: Wake-up times around the return to standard time.&lt;/strong&gt; Shown in blue is the wake-up time over 4 weeks before and after the fall changeover. The solid line shows the daily value, the dashed line the average value over several weeks before and after. The graph indicates that the wake-up time became immediately later on the Sunday of the changeover (standard time, dark blue), although it looked earlier on the donors&amp;rsquo; watches (local time, light blue).
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;What will this upcoming clock change bring? We are curious and wish all donors a smooth transition back to standard time.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

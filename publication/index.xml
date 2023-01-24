@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wissenschaftliche Veröffentlichungen | Corona-Datenspende | News &amp; Analysen</title>
+    <link>https://corona-datenspende.de/publication/</link>
+      <atom:link href="https://corona-datenspende.de/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wissenschaftliche Veröffentlichungen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://corona-datenspende.de/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
+      <title>Wissenschaftliche Veröffentlichungen</title>
+      <link>https://corona-datenspende.de/publication/</link>
+    </image>
+    
+    <item>
+      <title>From delta to omicron: The role of individual factors and social context in self-reported compliance with pandemic regulations and recommendations</title>
+      <link>https://corona-datenspende.de/publication/sprengholz_etal_2022/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://corona-datenspende.de/publication/sprengholz_etal_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evidence for positive long- and short-term effects of vaccinations against COVID-19 in wearable sensor metrics: Insights from the German Corona Data Donation Project</title>
+      <link>https://corona-datenspende.de/publication/wiedermann_etal_2022/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://corona-datenspende.de/publication/wiedermann_etal_2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

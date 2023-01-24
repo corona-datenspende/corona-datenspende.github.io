@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tests, Symptoms &amp; Life Situation | Corona Data Donation Project | News &amp; Analyses</title>
+    <link>https://corona-datenspende.de/en/tag/tests-symptoms-life-situation/</link>
+      <atom:link href="https://corona-datenspende.de/en/tag/tests-symptoms-life-situation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tests, Symptoms &amp; Life Situation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://corona-datenspende.de/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
+      <title>Tests, Symptoms &amp; Life Situation</title>
+      <link>https://corona-datenspende.de/en/tag/tests-symptoms-life-situation/</link>
+    </image>
+    
+    <item>
+      <title>Demographics of the donors in the &#39;Tests, symptoms and living situation&#39; study</title>
+      <link>https://corona-datenspende.de/en/reports/fragebogenteilnehmer/</link>
+      <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://corona-datenspende.de/en/reports/fragebogenteilnehmer/</guid>
+      <description>&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
+&lt;p&gt;In previous blogposts, we have already discussed the &lt;a href=&#34;https://corona-datenspende.de/en/reports/demographie/&#34;&gt;sociodemographics&lt;/a&gt; and &lt;a href=&#34;https://corona-datenspende.de/en/reports/users/&#34;&gt;spatial distribution&lt;/a&gt; of donors.&lt;/p&gt;
+&lt;p&gt;In this blogpost, we will again look at the sociodemographic composition and spatial distribution of donors. For the analysis, we will look at two selection levels each and compare them with the actual population composition (Census update, as of 12/31/2019). To do this, we look at sociodemographic and spatial distribution using three variables: spatial distribution at the state level (classified using the first three digits of the given zip code), gender, and age (recorded in categories of 10). In the first group, the data of the self-report at new registration of all data donors are analyzed, in the second group the data of the sub-study &amp;ldquo;tests, symptoms and living situation&amp;rdquo;. We would like to investigate two questions:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;How much does the current sample of all individuals participating in the Data- Donation-App deviate from the true distribution in the population?&lt;/li&gt;
+&lt;li&gt;How much do donors who participated in the &amp;ldquo;tests, symptoms, and living situation&amp;rdquo; sub-study differ from the overall donor sample?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;regional-distribution&#34;&gt;Regional Distribution&lt;/h3&gt;
+&lt;p&gt;In order to map the regional distribution of donors, we first look at the postal code of the donors.
+We assign these to the corresponding federal state.
+For reasons of data protection, we only collect the first three digits of the donor&amp;rsquo;s postal code (and thus no longer give a distribution at the county level).
+If we compare the spatial distribution within the federal states with the true distribution in the population (Figure 1, bar chart), &lt;strong&gt;we see different participation rates in the federal states&lt;/strong&gt;.
+In the states of Hamburg and Berlin, we see that donors are disproportionately represented relative to the population distribution.
+For example, the value 0.41 of Hamburg indicates that, compared to the distribution in the population, about 40 percent more people from Hamburg are represented in the data donation sample than would be expected according to the population distribution in Hamburg. On the other hand, the states of Saxony-Anhalt, Thuringia, Mecklenburg-Western Pomerania and Saxony are clearly underrepresented.
+This distribution is also reflected when we look at all donors per 100,000 inhabitants per federal state (Figure 1, Map of Germany).&lt;/p&gt;
+&lt;section class=&#34;center mw10 mw8-ns&#34;&gt;
+ &lt;figure&gt;
+ 	&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.js&#34; integrity=&#34;sha512-n/4gHW3atM3QqRcbCn6ewmpxcLAHGaDjpEBu4xZd47N0W2oQ+6q7oc3PXstrJYXcbNU1OHdQ1T7pAP+gi5Yu8g==&#34; crossorigin=&#34;anonymous&#34; referrerpolicy=&#34;no-referrer&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;https://cdnjs.cloudflare.com/ajax/libs/jqvmap/1.5.1/jquery.vmap.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;https://cdnjs.cloudflare.com/ajax/libs/jqvmap/1.5.1/maps/jquery.vmap.germany.js&#34;&gt;&lt;/script&gt;&lt;link href=&#34;https://cdnjs.cloudflare.com/ajax/libs/jqvmap/1.5.1/jqvmap.min.css&#34; rel=&#34;stylesheet&#34; type=&#34;text/css&#34; /&gt;&lt;style&gt;.one { //margin-top: -20px; width: 50%;  height: 380px;  float: left;  }&lt;/style&gt;&lt;script src=&#34;https://cdn.jsdelivr.net/npm/chart.js&#34;&gt;&lt;/script&gt;&lt;div style=&#34;margin-top:4%; width: 100%;&#34;&gt;&lt;div id=&#34;map1&#34; class=&#34;one&#34; &gt;&lt;/div&gt;&lt;div style=&#34;float: left; width: 50%; height:430px;&#34;&gt;&lt;canvas id=&#34;bev_chart&#34; &gt;&lt;/canvas&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;SCRIPT&gt;
+//bula all
+ var map1 = {
+    ni:  406.7,
+    sh:  411.7,
+    be:  440.3,
+    mv:  206.6,
+    hb:  363.5,
+    sl:  312.9,
+    by:  325.2,
+    th:  205.6,
+    st:  183.7,
+    sn:  217.5,
+    bb:  278.0,
+    nw:  409.4,
+    bw:  320.9,
+    he:  397.4,
+    hh:  499.3,
+    rp:  351.1
+}
+jQuery(&#39;#map1&#39;).vectorMap({
+	map: &#39;germany_en&#39;,
+	backgroundColor: &#39;rgba(76, 175, 80, 0.0)&#39;,
+    borderColor: &#39;white&#39;,
+    borderOpacity: 0.25,
+    borderWidth: 2,
+    // colors: colors,
+    enableZoom: false,
+    hoverColor: false,
+    hoverOpacity: 0.7,
+    normalizeFunction: &#39;linear&#39;,
+    scaleColors: [&#39;#ddeaf5&#39;, &#39;#0275d8&#39;],
+    selectedColor: false,
+    selectedRegions: null,
+    showTooltip: true,
+        legend: {
+          horizontal: true,
+          cssClass: &#39;jvectormap-legend-icons&#39;,
+          title: &#39;Business type&#39;
+        },
+    values: map1,
+	onLabelShow: function (event, label, code) {
+if(label[0].innerHTML ==&#39;Niedersachsen&#39;) {label[0].innerHTML =&#39;Lower Saxony&#39;;}
+if(label[0].innerHTML ==&#39;Schleswig-Holstein&#39;) {label[0].innerHTML =&#39;Schleswig-Holstein&#39;;}
+if(label[0].innerHTML ==&#39;Berlin&#39;) {label[0].innerHTML =&#39;Berlin&#39;;}
+if(label[0].innerHTML ==&#39;Mecklenburg-Vorpommern&#39;) {label[0].innerHTML =&#39;Mecklenburg Western Pomerania&#39;;}
+if(label[0].innerHTML ==&#39;Bremen&#39;) {label[0].innerHTML =&#39;Bremen&#39;;}
+if(label[0].innerHTML ==&#39;Saarland&#39;) {label[0].innerHTML =&#39;Saarland&#39;;}
+if(label[0].innerHTML ==&#39;Bayern&#39;) {label[0].innerHTML =&#39;Bavaria&#39;;}
+if(label[0].innerHTML ==&#39;Thüringen&#39;) {label[0].innerHTML =&#39;Thuringia&#39;;}
+if(label[0].innerHTML ==&#39;Sachsen-Anhalt&#39;) {label[0].innerHTML =&#39;Saxony-Anhalt&#39;;}
+if(label[0].innerHTML ==&#39;Sachsen&#39;) {label[0].innerHTML =&#39;Saxony&#39;;}
+if(label[0].innerHTML ==&#39;Brandenburg&#39;) {label[0].innerHTML =&#39;Brandenburg&#39;;}
+if(label[0].innerHTML ==&#39;Nordrhein-Westfalen&#39;) {label[0].innerHTML =&#39;Northrhine-Westphalia&#39;;}
+if(label[0].innerHTML ==&#39;Baden-Württemberg&#39;) {label[0].innerHTML =&#39;Baden-Württemberg&#39;;}
+if(label[0].innerHTML ==&#39;Hessen&#39;) {label[0].innerHTML =&#39;Hesse&#39;;}
+if(label[0].innerHTML ==&#39;Hamburg&#39;) {label[0].innerHTML =&#39;Hamburg&#39;;}
+if(label[0].innerHTML ==&#39;Rheinland-Pfalz&#39;) {label[0].innerHTML =&#39;Rhineland Palatinate&#39;;}
+        label.append(&#39;  &lt;br&gt; &#39;+map1[code] + &#39; data donors/100k&#39;); 
+	}
+});
+label=[&#39;Lower Saxony&#39;,&#39;Schleswig-Holstein&#39;,&#39;Berlin&#39;,&#39;Mecklenburg Western Pomerania&#39;,&#39;Bremen&#39;,&#39;Saarland&#39;,&#39;Bavaria&#39;,&#39;Thuringia&#39;,&#39;Saxony-Anhalt&#39;,&#39;Saxony&#39;,&#39;Brandenburg&#39;,&#39;Northrhine-Westphalia&#39;,&#39;Baden-Württemberg&#39;,&#39;Hesse&#39;,&#39;Hamburg&#39;,&#39;Rhineland Palatinate&#39;];
+data=[  0.15,   0.17,   0.25,  -0.42,   0.03,  -0.12,  -0.08,  -0.42, -0.48, -0.39, -0.21,  0.16, -0.09,  0.12,  0.41, -0.01];
+const labels_ = label;
+const data1_ = data;
+// Construct and array of objects that have &#39;label&#39; and &#39;data&#39;
+// We expect that labels and data1 are the same length but if there is
+// a chance that they are not, you should check for that.
+const allData_ = [];
+for (let i = 0; i &lt; labels_.length; ++i) {
+    allData_.push({
+        label: labels_[i],
+        data: data1_[i]
+    });
+}
+// Sort them by the data value
+allData_.sort((a, b) =&gt; b.data - a.data);
+// And split them again
+const sortedLabels_ = allData_.map(e =&gt; e.label);
+const sortedData_ = allData_.map(e =&gt; e.data);
+  const bev_chart = document.getElementById(&#39;bev_chart&#39;).getContext(&#39;2d&#39;);
+const bev_chart_ = new Chart(bev_chart, {
+    type: &#39;bar&#39;,
+    data: {
+      labels: sortedLabels_,
+      datasets: [
+{
+          data: sortedData_,          
+          label: &#39;Comparison to the population&#39;,
+ backgroundColor: [
+                &#39;rgba(2, 117, 216, 0.2)&#39;,
+            ],
+            borderColor: [
+                &#39;rgba(2, 117, 216, 1)&#39;,
+            ],borderWidth: 1
+        },
+]
+    },
+    options: {
+	       scales: {
+            y: {
+			  grid: {
+          drawBorder: false,
+		  display: false
+		  },
+            },
+			x: {
+			  grid: {
+          drawBorder: false,
+		  display: true
+		  }
+			}
+        },indexAxis: &#39;y&#39;,
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+title: {
+            display: true,
+            text: &#39;&#39;,
+			font: {
+                        size: 16
+                    }
+        },         
+        tooltip: {
+          enabled: true,
+        },
+        legend: {
+          reverse: false,
+          display: false,
+          position: &#39;bottom&#39;
+        },
+      },
+    }
+  });
+&lt;/SCRIPT&gt;
+
+ 	&lt;figcaption&gt;
+ 		&lt;div class=&#34;pa4 tl f4 lh-copy&#34;&gt;&lt;em&gt;Figure 1: Distribution of the total data donor sample calculated per 100,000 inhabitants in the federal states (map) and comparison of the federal state distribution of the data donor sample to the census as of 12/31/2019 (bar chart).&lt;/em&gt;&lt;/div&gt;	
+ 	&lt;/figcaption&gt;
+ &lt;/figure&gt;
+&lt;/section&gt;
+
+&lt;p&gt;We see similar results when comparing the participants in the sub-study with the distribution in the population (Figure 2, bar chart).
+&lt;strong&gt;The distribution of the partial study almost matches the distribution of all data donation participants within the states relative to the population&lt;/strong&gt;.
+Here, the relative distribution of partial study participants in the states of Hamburg and Berlin is also significantly higher than the distribution in the population.
+Here, too, the states of Saxony-Anhalt, Mecklenburg-Western Pomerania and Thuringia are most underrepresented, closely followed by Saxony.
+This distribution is also reflected when we look at all donors per 100,000 inhabitants per state (Figure 2, map).&lt;/p&gt;
+&lt;section class=&#34;center mw10 mw8-ns&#34;&gt;
+ &lt;figure&gt;
+ 	&lt;script type=&#34;text/javascript&#34; src=&#34;https://cdnjs.cloudflare.com/ajax/libs/jqvmap/1.5.1/jquery.vmap.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text/javascript&#34; src=&#34;https://cdnjs.cloudflare.com/ajax/libs/jqvmap/1.5.1/maps/jquery.vmap.germany.js&#34;&gt;&lt;/script&gt;&lt;link href=&#34;https://cdnjs.cloudflare.com/ajax/libs/jqvmap/1.5.1/jqvmap.min.css&#34; rel=&#34;stylesheet&#34; type=&#34;text/css&#34; /&gt;&lt;style&gt;.one { //margin-top: -20px; width: 50%;  height: 380px;  float: left;  }&lt;/style&gt;&lt;script src=&#34;https://cdn.jsdelivr.net/npm/chart.js&#34;&gt;&lt;/script&gt;&lt;div style=&#34;margin-top:4%; width: 100%;&#34;&gt;&lt;div id=&#34;map2&#34; class=&#34;one&#34; &gt;&lt;/div&gt;&lt;div style=&#34;float: left; width: 50%; height:430px;&#34;&gt;&lt;canvas id=&#34;bev_chart2&#34; &gt;&lt;/canvas&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;script&gt;
+//bula all
+ var map2 = {
+    ni:   28.8,
+    sh:   27.0,
+    be:   34.6,
+    mv:   15.2,
+    hb:   31.6,
+    sl:   21.3,
+    by:   25.1,
+    th:   16.1,
+    st:   15.2,
+    sn:   19.1,
+    bb:   21.7,
+    nw:   27.8,
+    bw:   23.6,
+    he:   29.2,
+    hh:   36.8,
+    rp:   23.7
+}
+jQuery(&#39;#map2&#39;).vectorMap({
+	map: &#39;germany_en&#39;,
+	backgroundColor: &#39;rgba(76, 175, 80, 0.0)&#39;,
+    borderColor: &#39;white&#39;,
+    borderOpacity: 0.25,
+    borderWidth: 2,
+    // colors: colors,
+    enableZoom: false,
+    hoverColor: false,
+    hoverOpacity: 0.7,
+    normalizeFunction: &#39;linear&#39;,
+    scaleColors: [&#39;#ddeaf5&#39;, &#39;#0275d8&#39;],
+    selectedColor: false,
+    selectedRegions: null,
+    showTooltip: true,
+        legend: {
+          horizontal: true,
+          cssClass: &#39;jvectormap-legend-icons&#39;,
+          title: &#39;Business type&#39;
+        },
+    values: map2,
+	onLabelShow: function (event, label, code) {
+if(label[0].innerHTML ==&#39;Niedersachsen&#39;) {label[0].innerHTML =&#39;Lower Saxony&#39;;}
+if(label[0].innerHTML ==&#39;Schleswig-Holstein&#39;) {label[0].innerHTML =&#39;Schleswig-Holstein&#39;;}
+if(label[0].innerHTML ==&#39;Berlin&#39;) {label[0].innerHTML =&#39;Berlin&#39;;}
+if(label[0].innerHTML ==&#39;Mecklenburg-Vorpommern&#39;) {label[0].innerHTML =&#39;Mecklenburg Western Pomerania&#39;;}
+if(label[0].innerHTML ==&#39;Bremen&#39;) {label[0].innerHTML =&#39;Bremen&#39;;}
+if(label[0].innerHTML ==&#39;Saarland&#39;) {label[0].innerHTML =&#39;Saarland&#39;;}
+if(label[0].innerHTML ==&#39;Bayern&#39;) {label[0].innerHTML =&#39;Bavaria&#39;;}
+if(label[0].innerHTML ==&#39;Thüringen&#39;) {label[0].innerHTML =&#39;Thuringia&#39;;}
+if(label[0].innerHTML ==&#39;Sachsen-Anhalt&#39;) {label[0].innerHTML =&#39;Saxony-Anhalt&#39;;}
+if(label[0].innerHTML ==&#39;Sachsen&#39;) {label[0].innerHTML =&#39;Saxony&#39;;}
+if(label[0].innerHTML ==&#39;Brandenburg&#39;) {label[0].innerHTML =&#39;Brandenburg&#39;;}
+if(label[0].innerHTML ==&#39;Nordrhein-Westfalen&#39;) {label[0].innerHTML =&#39;Northrhine-Westphalia&#39;;}
+if(label[0].innerHTML ==&#39;Baden-Württemberg&#39;) {label[0].innerHTML =&#39;Baden-Württemberg&#39;;}
+if(label[0].innerHTML ==&#39;Hessen&#39;) {label[0].innerHTML =&#39;Hesse&#39;;}
+if(label[0].innerHTML ==&#39;Hamburg&#39;) {label[0].innerHTML =&#39;Hamburg&#39;;}
+if(label[0].innerHTML ==&#39;Rheinland-Pfalz&#39;) {label[0].innerHTML =&#39;Rhineland Palatinate&#39;;}
+        label.append(&#39;  &lt;br&gt; &#39;+map2[code] + &#39; Participants of the sub-study/100k&#39;); 
+	}
+});
+label2=[&#39;Lower Saxony&#39;,&#39;Schleswig-Holstein&#39;,&#39;Berlin&#39;,&#39;Mecklenburg Western Pomerania&#39;,&#39;Bremen&#39;,&#39;Saarland&#39;,&#39;Bavaria&#39;,&#39;Thuringia&#39;,&#39;Saxony-Anhalt&#39;,&#39;Saxony&#39;,&#39;Brandenburg&#39;,&#39;Northrhine-Westphalia&#39;,&#39;Baden-Württemberg&#39;,&#39;Hesse&#39;,&#39;Hamburg&#39;,&#39;Rhineland Palatinate&#39;];
+data2=[  0.12,   0.05,   0.34,  -0.41,   0.23,  -0.17,  -0.03,  -0.37, -0.41, -0.26, -0.16,  0.08, -0.08,  0.13,  0.43, -0.08];
+const labels_2 = label2;
+const data1_2 = data2;
+// Construct and array of objects that have &#39;label&#39; and &#39;data&#39;
+// We expect that labels and data1 are the same length but if there is
+// a chance that they are not, you should check for that.
+const allData_2 = [];
+for (let i = 0; i &lt; labels_2.length; ++i) {
+    allData_2.push({
+        label: labels_2[i],
+        data: data1_2[i]
+    });
+}
+// Sort them by the data value
+allData_2.sort((a, b) =&gt; b.data - a.data);
+// And split them again
+const sortedLabels_2 = allData_2.map(e =&gt; e.label);
+const sortedData_2 = allData_2.map(e =&gt; e.data);
+  const bev_chart2 = document.getElementById(&#39;bev_chart2&#39;).getContext(&#39;2d&#39;);
+const bev_chart2_ = new Chart(bev_chart2, {
+    type: &#39;bar&#39;,
+    data: {
+      labels: sortedLabels_2,
+      datasets: [
+{
+          data: sortedData_2,          
+          label: &#39;Comparison to the population&#39;,
+ backgroundColor: [
+                &#39;rgba(2, 117, 216, 0.2)&#39;,
+            ],
+            borderColor: [
+                &#39;rgba(2, 117, 216, 1)&#39;,
+            ],borderWidth: 1
+        },
+]
+    },
+    options: {
+	       scales: {
+            y: {
+			  grid: {
+          drawBorder: false,
+		  display: false
+		  },
+            },
+			x: {
+			  grid: {
+          drawBorder: false,
+		  display: true
+		  }
+			}
+        },indexAxis: &#39;y&#39;,
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+title: {
+            display: false,
+            text: &#39;&#39;,
+			font: {
+                        size: 16
+                    }
+        },         
+        tooltip: {
+          enabled: true,
+        },
+        legend: {
+          reverse: false,
+          display: false,
+          position: &#39;bottom&#39;
+        },
+      },
+    }
+  });
+&lt;/SCRIPT&gt;
+
+ 	&lt;figcaption&gt;
+ 		&lt;div class=&#34;pa4 tl f4 lh-copy&#34;&gt;&lt;em&gt;Figure 2: Distribution of the sub-study sample calculated per 100,000 inhabitants in the federal states (map) and comparison of the federal state distribution of the sub-study sample to the census as of 12/31/2019 (bar chart).&lt;/em&gt;&lt;/div&gt;	
+ 	&lt;/figcaption&gt;
+ &lt;/figure&gt;
+&lt;/section&gt;
+
+&lt;h3 id=&#34;gender-distribution&#34;&gt;Gender Distribution&lt;/h3&gt;
+&lt;p&gt;In the next step, we look at the gender distribution among all data donors and among the donors in the sub-study.
+At first glance, it is noticeable that &lt;strong&gt;male data donors are overrepresented and female data donors underrepresented&lt;/strong&gt; compared to the total population.
+We see the same result for the participants of the partial study. &lt;strong&gt;Here we also see that the gender difference in the sub-study increases&lt;/strong&gt;.
+In our old blog post on the &lt;a href=&#34;https://corona-datenspende.de/en/reports/demographie/&#34;&gt;sociodemographics&lt;/a&gt; of donors, we had to make a correction to the gender distribution. Already since the launch of the data donation app, more men than women participate in the data donation.
+&lt;section class=&#34;center mw10 mw8-ns&#34;&gt;
+ &lt;figure&gt;
+ 	&lt;script src=&#34;https://cdn.jsdelivr.net/npm/chart.js&#34;&gt;&lt;/script&gt;&lt;div style=&#34;display: block; margin-left: auto;  margin-right: auto; width: 90%; height:400px;&#34;&gt;&lt;canvas id=&#34;sex&#34; &gt;&lt;/canvas&gt;&lt;/div&gt;
+&lt;SCRIPT&gt;
+//options
+Chart.defaults.font.size = 15;
+ var labels_sex = [&#39;Men&#39;, &#39;Women&#39;];
+  var all_sex = [62.4, 37.6];
+  var fb_sex = [68.0, 32.0];
+  var bev_sex = [48.9, 51.1];
+  const sex = document.getElementById(&#39;sex&#39;).getContext(&#39;2d&#39;);
+  const sex_ = new Chart(sex, {
+    type: &#39;bar&#39;,
+    data: {
+      labels: labels_sex,
+      datasets: [
+{
+          data: all_sex,          
+          label: &#39;All data donors&#39;,
+ backgroundColor: [
+                &#39;rgba(2, 117, 216, 0.2)&#39;,
+            ],
+            borderColor: [
+                &#39;rgba(2, 117, 216, 1)&#39;,
+            ],borderWidth: 1
+        },
+{
+          data: fb_sex,          
+          label: &#39;Participants of the sub-study&#39;,
+ backgroundColor: [
+                &#39;rgba(92, 184, 92, 0.2)&#39;,
+            ],
+            borderColor: [
+                &#39;rgba(92, 184, 92, 1)&#39;,
+            ],borderWidth: 1
+        },
+{
+          data: bev_sex,          
+          label: &#39;Population distribution&#39;,
+ backgroundColor: [
+                &#39;rgba(240, 173, 78, 0.2)&#39;,
+            ],
+            borderColor: [
+                &#39;rgba(240, 173, 78, 1)&#39;,
+            ],borderWidth: 1
+        }
+]
+    },
+    options: {
+	       scales: {
+            y: {max:80,
+			  grid: {
+          drawBorder: false,
+		  display: true
+		  },
+                ticks: {
+                    // Include a dollar sign in the ticks
+                    callback: function(value, index, values) {
+                        return value+&#39;%&#39;;
+                    }
+                }
+            },
+			x: {
+			  grid: {
+          drawBorder: false,
+		  display: false
+		  }
+			}
+        },
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+		title: {
+            display: true,
+            text: &#39;       Gender&#39;,
+			font: {
+                        size: 16
+                    }
+        },         
+        tooltip: {
+          enabled: true, mode:&#39;index&#39;},
+        legend: {
+          reverse: false,
+          display: true,
+          position: &#39;bottom&#39;
+        },
+      },
+    }
+  });
+&lt;/SCRIPT&gt;
+
+ 	&lt;figcaption&gt;
+ 		&lt;div class=&#34;pa4 tl f4 lh-copy&#34;&gt;&lt;em&gt;Figure 3: Gender distribution of the data donor sample (census 12/31/2019)&lt;/em&gt;&lt;/div&gt;	
+ 	&lt;/figcaption&gt;
+ &lt;/figure&gt;
+&lt;/section&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;age-distribution&#34;&gt;Age Distribution&lt;/h3&gt;
+&lt;p&gt;Essentially, we see a different age distribution in our data and the age distribution of the overall population.
+We see that both the participants in the data donation and the participants in the partial study &lt;strong&gt;are slightly underrepresented in the youngest age groups and strongly underrepresented in older age groups&lt;/strong&gt;.
+Significantly overrepresented compared to the total population are the age groups from 30 to 59.
+The comparison between participants in the data donation and participants in the sub-study, shows minor selection effects.
+With regard to age, however, the participants in the sub-study are similarly distributed compared to all donors in general.
+If we look at the age distribution differentiated by gender, we see greater differences between the participants of the data donation and the participants of the sub-study among women, especially in both age groups from 40 to 59 years.
+&lt;section class=&#34;center mw10 mw8-ns&#34;&gt;
+ &lt;figure&gt;
+ 	 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/chart.js&#34;&gt;&lt;/script&gt; &lt;button id=&#34;gesamt&#34; &gt;Total&lt;/button&gt; &lt;button id=&#34;men&#34; &gt;Men&lt;/button&gt; &lt;button id=&#34;women&#34; &gt;Women&lt;/button&gt;&lt;div style=&#34;display: block; margin-left: auto;  margin-right: auto; width: 100%; height:400px;&#34;&gt;&lt;canvas id=&#34;age&#34; &gt;&lt;/canvas&gt;    &lt;/div&gt;
+&lt;SCRIPT&gt;
+//options
+Chart.defaults.font.size = 15;
+ var labels_age = [&#39;16-29 J.&#39;,&#39;30-39 J.&#39;,&#39;40-49 J.&#39;,&#39;50-59 J.&#39;,&#39;60-69 J.&#39;,&#39;70-79 J.&#39;,&#39;80+ J.&#39;];
+  var all_age = [14.1,21.4,24.2,23.9,12.2,3.7,0.5];
+  var all_men = [13.6,20.9,23.6,23.6,13.2,4.4,0.6];
+  var all_women = [14.8,22.4,25.1,24.5,10.6,2.4,0.3];
+  var fb_age = [11.0,22.5,28.0,25.2,11.1,2.0,0.2];
+  var fb_men = [11.9,22.9,27.2,23.5,11.8,2.4,0.3];
+  var fb_women = [9.0,21.5,29.8,28.8,9.5,1.2,0.1];
+  var bev_age = [18.1,15.2,14.3,18.9,14.8,10.6,8.0];
+  var bev_men = [19.3,15.8,14.7,19.4,14.6,9.9,6.2];
+  var bev_women = [17.0,14.6,14.0,18.5,14.9,11.3,9.7];
+  const age = document.getElementById(&#39;age&#39;).getContext(&#39;2d&#39;);
+const age_ = new Chart(age, {
+    type: &#39;bar&#39;,
+    data: {
+      labels: labels_age,
+      datasets: [
+{
+          data: all_age,          
+          label: &#39;All data donors&#39;,
+ backgroundColor: [
+                &#39;rgba(2, 117, 216, 0.2)&#39;,
+            ],
+            borderColor: [
+                &#39;rgba(2, 117, 216, 1)&#39;,
+            ],borderWidth: 1
+        },
+{
+          data: fb_age,          
+          label: &#39;Participants of the sub-study&#39;,
+ backgroundColor: [
+                &#39;rgba(92, 184, 92, 0.2)&#39;,
+            ],
+            borderColor: [
+                &#39;rgba(92, 184, 92, 1)&#39;,
+            ],borderWidth: 1
+        },
+{
+          data: bev_age,          
+          label: &#39;Population distribution&#39;,
+ backgroundColor: [
+                &#39;rgba(240, 173, 78, 0.2)&#39;,
+            ],
+            borderColor: [
+                &#39;rgba(240, 173, 78, 1)&#39;,
+            ],borderWidth: 1
+        }
+]
+    },
+    options: {
+	       scales: {
+            y: { max:35,
+			  grid: {
+          drawBorder: false,
+		  display: true
+		  },
+                ticks: {
+                    // Include a dollar sign in the ticks
+                    callback: function(value, index, values) {
+                        return value+&#39;%&#39;;
+                    }
+                }
+            },
+			x: {
+			  grid: {
+          drawBorder: false,
+		  display: false
+		  }
+			}
+        },
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+title: {
+            display: true,
+            text: &#39;Age - Total&#39;,
+			font: {
+                        size: 16
+                    }
+        },         
+        tooltip: {
+          enabled: true,mode:&#39;index&#39;
+        },
+        legend: {
+          reverse: false,
+          display: true,
+          position: &#39;bottom&#39;
+        },
+      },
+    }
+  });
+  $( document ).ready(function() {
+    $(&#39;#gesamt&#39;).click(function () {
+		age_.options.plugins.title.text = &#39;Age - Total&#39;;	
+	    age_.data.datasets[0].data = all_age;
+		age_.data.datasets[1].data = fb_age;
+		age_.data.datasets[2].data = bev_age;
+		age_.update(); 
+		});
+    $(&#39;#men&#39;).click(function () {
+		age_.options.plugins.title.text = &#39;Age - Men&#39;;	
+	    age_.data.datasets[0].data = all_men;
+		age_.data.datasets[1].data = fb_men;
+		age_.data.datasets[2].data = bev_men;
+		age_.update(); 
+		});
+    $(&#39;#women&#39;).click(function () {
+		age_.options.plugins.title.text = &#39;Age - Women&#39;;	
+	    age_.data.datasets[0].data = all_women;
+		age_.data.datasets[1].data = fb_women;
+		age_.data.datasets[2].data = bev_women;
+		age_.update(); 
+		});
+});
+&lt;/SCRIPT&gt;
+
+ 	&lt;figcaption&gt;
+ 		&lt;div class=&#34;pa4 tl f4 lh-copy&#34;&gt;&lt;em&gt;Figure 4: Age distribution of the data donor samp (census 12/31/2019)&lt;/em&gt;&lt;/div&gt;	
+ 	&lt;/figcaption&gt;
+ &lt;/figure&gt;
+&lt;/section&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;outlook&#34;&gt;Outlook&lt;/h3&gt;
+&lt;p&gt;In the next post, we will give you further insight into the socio-demographic and health situation of the data donors in the study &amp;ldquo;Tests, Symptoms and Living Situation&amp;rdquo;.
+We will present further comparisons, e.g. on the subjectively assessed health with reference data (also called benchmark) from representative health studies of the RKI.
+In this way, we are getting closer and closer to one of the goals of the sub-study, namely to describe the sample composition more precisely.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

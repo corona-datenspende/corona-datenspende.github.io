@@ -1,0 +1,1457 @@
+<!DOCTYPE html>
+<!-- This site was created with Wowchemy. https://www.wowchemy.com -->
+<!-- Last Published: 24. Januar 2023 --><html lang="de" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.5.0 for Hugo" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Dirk Brockmann" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Liebe Spender:innen, in diesem Bericht wollen wir uns die Detektionen, die wir im Laufe des letzten Jahres beobachtet haben, genauer ansehen und die Fieberkurve mit anderen bestehenden COVID-19-bezogenen Public Health Daten vergleichen." />
+
+  
+    <link rel="alternate" hreflang="en" href="https://corona-datenspende.de/en/reports/detectionscompared/" />
+  
+  <link rel="alternate" hreflang="de" href="https://corona-datenspende.de/reports/detectionscompared/" />
+
+  
+  
+  
+    <meta name="theme-color" content="#39a9dc" />
+  
+
+  
+  
+    
+    <script src="/js/mathjax-config.js"></script>
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.c7b8d9abd591ba2253ea42747e3ac3f5.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha512-W0xM4mr6dEP9nREo7Z9z+9X70wytKvMGeDsj7ps2+xg5QPrEBXC8tAW1IFnzjR6eoJ90JmCnFzerQJTLzIEHjA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
+        
+      
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.5317eeec2f2727219290b866b21b284a.css" />
+
+  
+
+
+
+  
+
+
+  
+
+
+  
+
+
+
+
+  
+  
+  
+
+  
+
+  
+    <link rel="manifest" href="/manifest.webmanifest" />
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_hu8889594b02524d35114c47287bb2ec0e_6788_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu8889594b02524d35114c47287bb2ec0e_6788_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="https://corona-datenspende.de/reports/detectionscompared/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary_large_image" />
+  
+    <meta property="twitter:site" content="@dirkbrockmann" />
+    <meta property="twitter:creator" content="@dirkbrockmann" />
+  
+  <meta property="og:site_name" content="Corona-Datenspende | News &amp; Analysen" />
+  <meta property="og:url" content="https://corona-datenspende.de/reports/detectionscompared/" />
+  <meta property="og:title" content="Vergleich der Detektionen | Corona-Datenspende | News &amp; Analysen" />
+  <meta property="og:description" content="Liebe Spender:innen, in diesem Bericht wollen wir uns die Detektionen, die wir im Laufe des letzten Jahres beobachtet haben, genauer ansehen und die Fieberkurve mit anderen bestehenden COVID-19-bezogenen Public Health Daten vergleichen." /><meta property="og:image" content="https://corona-datenspende.de/reports/detectionscompared/featured.jpg" />
+    <meta property="twitter:image" content="https://corona-datenspende.de/reports/detectionscompared/featured.jpg" /><meta property="og:locale" content="de" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2021-07-02T00:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2021-07-02T00:00:00&#43;00:00">
+  
+
+  
+
+
+
+  
+
+  
+
+  
+
+
+
+
+
+  <title>Vergleich der Detektionen | Corona-Datenspende | News &amp; Analysen</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="801f2b03c6fc26123371e721a15e9eb3" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.d19d76a4c69132eb854f898fcfe6d6a5.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Suche</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Suche..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Suche...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  
+
+  <div class="page-header header--fixed">
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<header class="header--fixed">
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/"><img src="/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_0x70_resize_lanczos_3.png" alt="Corona-Datenspende | News &amp; Analysen"
+            
+            ></a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Navigation einblenden">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/"><img src="/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_0x70_resize_lanczos_3.png" alt="Corona-Datenspende | News &amp; Analysen"
+          
+          ></a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#home"><span>Home</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#projects"><span>Unsere Reports</span></a>
+          </li>
+
+          
+          
+
+          
+          <li class="nav-item dropdown">
+            <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>Tools</span><span class="caret"></span>
+            </a>
+            <div class="dropdown-menu">
+              
+                <a class="dropdown-item" href="/monitor"><span>Fieberkurve</span></a>
+              
+                <a class="dropdown-item" href="/vitaldata-tool"><span>Vitaldaten-Explorer</span></a>
+              
+            </div>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#people"><span>Team</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#about"><span>Über das Projekt</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/faq"><span>FAQ</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/contact"><span>Kontakt</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/"><span>|</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/publication"><span>Publikationen</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+          
+        
+
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="Suche"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+        <li class="nav-item dropdown theme-dropdown">
+          <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Einstellungen anzeigen">
+            <i class="fas fa-moon" aria-hidden="true"></i>
+          </a>
+          <div class="dropdown-menu">
+            <a href="#" class="dropdown-item js-set-theme-light">
+              <span>Hell</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-dark">
+              <span>Dunkel</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-auto">
+              <span>Automatisch</span>
+            </a>
+          </div>
+        </li>
+        
+
+        
+        
+        <li class="nav-item dropdown i18n-dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown"
+             aria-haspopup="true" aria-label="语言">
+            <i class="fas fa-globe mr-1" aria-hidden="true"></i><span class="d-none d-lg-inline">Deutsch</span></a>
+          <div class="dropdown-menu">
+            <div class="dropdown-item dropdown-item-active">
+              <span>Deutsch</span>
+            </div>
+            
+            <a class="dropdown-item" href="https://corona-datenspende.de/en/reports/detectionscompared/">
+              <span>English</span>
+            </a>
+            
+          </div>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+     
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Vergleich der Detektionen</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/authors/annika-rose/">Annika Rose</a></span>, <span >
+      <a href="/authors/dirk-brockmann/">Dirk Brockmann</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    02. Juli 2021
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/category/fiebermonitor/">Fiebermonitor</a>, <a href="/category/ruhepuls/">Ruhepuls</a>, <a href="/category/aktvitat/">Aktvität</a></span>
+  
+
+</div>
+
+    
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <h3 id="liebe-spenderinnen">Liebe Spender:innen,</h3>
+<p>in diesem Bericht wollen wir uns die Detektionen, die wir im Laufe des letzten Jahres beobachtet haben,
+genauer ansehen und die Fieberkurve mit anderen bestehenden COVID-19-bezogenen Public Health Daten vergleichen.</p>
+<p>Um Trends in den Daten deutlicher zu visualisieren, zeigen die folgenden Abbildungen die Fieberkurven
+mit einer Aggregierung nach Kalenderwoche. Aus diesem Grund aktualisieren wir auch den Fiebermonitor
+auf unserer Seite in den nächsten Tagen und stellen auf eine wöchentliche Ansicht um.</p>
+<h3 id="wöchentliche-detektionen-im-vergleich-zu-covid-19-fällen">Wöchentliche Detektionen im Vergleich zu COVID-19-Fällen</h3>
+<section class="center mw10 mw10-ns">
+ <figure>
+ 	<div>                        <script type="text/javascript">window.PlotlyConfig = {MathJaxConfig: 'local'};</script>
+        <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>                <div id="366ab54f-fe0a-4668-b9c6-e3183825a554" class="plotly-graph-div" style="height:600px; width:900px;"></div>            <script type="text/javascript">                                    window.PLOTLYENV=window.PLOTLYENV || {};                                    if (document.getElementById("366ab54f-fe0a-4668-b9c6-e3183825a554")) {                    Plotly.newPlot(                        "366ab54f-fe0a-4668-b9c6-e3183825a554",                        [{"fill": "tozeroy", "fillcolor": "rgba(25,85,139,0.075)", "legendgroup": "15-34", "line": {"color": "#19558B", "dash": "solid", "width": 2}, "marker": {"size": 6}, "mode": "lines", "name": "Detektionen (15-34)", "type": "scatter", "x": ["2020-04-20T00:00:00", "2020-04-27T00:00:00", "2020-05-04T00:00:00", "2020-05-11T00:00:00", "2020-05-18T00:00:00", "2020-05-25T00:00:00", "2020-06-01T00:00:00", "2020-06-08T00:00:00", "2020-06-15T00:00:00", "2020-06-22T00:00:00", "2020-06-29T00:00:00", "2020-07-06T00:00:00", "2020-07-13T00:00:00", "2020-07-20T00:00:00", "2020-07-27T00:00:00", "2020-08-03T00:00:00", "2020-08-10T00:00:00", "2020-08-17T00:00:00", "2020-08-24T00:00:00", "2020-08-31T00:00:00", "2020-09-07T00:00:00", "2020-09-14T00:00:00", "2020-09-21T00:00:00", "2020-09-28T00:00:00", "2020-10-05T00:00:00", "2020-10-12T00:00:00", "2020-10-19T00:00:00", "2020-10-26T00:00:00", "2020-11-02T00:00:00", "2020-11-09T00:00:00", "2020-11-16T00:00:00", "2020-11-23T00:00:00", "2020-11-30T00:00:00", "2020-12-07T00:00:00", "2020-12-14T00:00:00", "2020-12-21T00:00:00", "2020-12-28T00:00:00", "2021-01-04T00:00:00", "2021-01-11T00:00:00", "2021-01-18T00:00:00", "2021-01-25T00:00:00", "2021-02-01T00:00:00", "2021-02-08T00:00:00", "2021-02-15T00:00:00", "2021-02-22T00:00:00", "2021-03-01T00:00:00", "2021-03-08T00:00:00", "2021-03-15T00:00:00", "2021-03-22T00:00:00", "2021-03-29T00:00:00", "2021-04-05T00:00:00", "2021-04-12T00:00:00", "2021-04-19T00:00:00", "2021-04-26T00:00:00", "2021-05-03T00:00:00", "2021-05-10T00:00:00", "2021-05-17T00:00:00", "2021-05-24T00:00:00", "2021-05-31T00:00:00", "2021-06-07T00:00:00", "2021-06-14T00:00:00", "2021-06-21T00:00:00"], "xaxis": "x3", "y": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.00010991254102093049, 0.00010861132660977503, 0.0005422489387413627, 0.00032570763861961997, 0.00010837758751490192, 0.00021903748670129545, 0.0, 0.00023283274293602087, 0.0, 0.0007733219702349952, 0.0001094416910304717, 0.00021797686331293694, 0.0002167719559023907, 0.0, 0.0005448403617740002, 0.0004380475594493117, 0.0005553880575699392, 0.0009324785613187912, 0.0, 0.000625860558267618, 0.0012905128866929686, 0.0006572276260938146, 0.0009342052582410249, 0.0009507547828786527, 0.0008289255545906686, 0.0007011217948717949, 0.0007086454747924682, 0.0011462725672411675, 0.00014532771399505885, 0.0, 0.0, 0.0002876751736325155, 0.0, 0.00029067956730270125, 0.0005857740585774059, 0.0005906923758491204, 0.0001462843768285547, 0.00014758902780998966, 0.0006000471465615156, 0.001663318428272093, 0.0006059687926071808, 0.0007639752908563072, 0.0004670402989057913, 0.00015674683147476378, 0.0, 0.00031797946761151995, 0.0004839378715951514, 0.00048823584116060634, 0.0003302432005283891, 0.0004984689881079541, 0.00033479207021067987, 0.0001706817516824344, 0.00017437225986448784, 0.000180635838150289], "yaxis": "y"}, {"legendgroup": "15-34", "line": {"color": "#455266", "dash": "dot", "width": 3}, "marker": {"size": 6}, "mode": "lines", "name": "best\u00e4tigte F\u00e4lle (15-34)", "type": "scatter", "x": ["2020-04-20T00:00:00", "2020-04-27T00:00:00", "2020-05-04T00:00:00", "2020-05-11T00:00:00", "2020-05-18T00:00:00", "2020-05-25T00:00:00", "2020-06-01T00:00:00", "2020-06-08T00:00:00", "2020-06-15T00:00:00", "2020-06-22T00:00:00", "2020-06-29T00:00:00", "2020-07-06T00:00:00", "2020-07-13T00:00:00", "2020-07-20T00:00:00", "2020-07-27T00:00:00", "2020-08-03T00:00:00", "2020-08-10T00:00:00", "2020-08-17T00:00:00", "2020-08-24T00:00:00", "2020-08-31T00:00:00", "2020-09-07T00:00:00", "2020-09-14T00:00:00", "2020-09-21T00:00:00", "2020-09-28T00:00:00", "2020-10-05T00:00:00", "2020-10-12T00:00:00", "2020-10-19T00:00:00", "2020-10-26T00:00:00", "2020-11-02T00:00:00", "2020-11-09T00:00:00", "2020-11-16T00:00:00", "2020-11-23T00:00:00", "2020-11-30T00:00:00", "2020-12-07T00:00:00", "2020-12-14T00:00:00", "2020-12-21T00:00:00", "2020-12-28T00:00:00", "2021-01-04T00:00:00", "2021-01-11T00:00:00", "2021-01-18T00:00:00", "2021-01-25T00:00:00", "2021-02-01T00:00:00", "2021-02-08T00:00:00", "2021-02-15T00:00:00", "2021-02-22T00:00:00", "2021-03-01T00:00:00", "2021-03-08T00:00:00", "2021-03-15T00:00:00", "2021-03-22T00:00:00", "2021-03-29T00:00:00", "2021-04-05T00:00:00", "2021-04-12T00:00:00", "2021-04-19T00:00:00", "2021-04-26T00:00:00", "2021-05-03T00:00:00", "2021-05-10T00:00:00", "2021-05-17T00:00:00", "2021-05-24T00:00:00", "2021-05-31T00:00:00", "2021-06-07T00:00:00", "2021-06-14T00:00:00", "2021-06-21T00:00:00"], "xaxis": "x3", "y": [2102.0, 1775.0, 1387.0, 1125.0, 1031.0, 817.0, 828.0, 1424.0, 1087.0, 969.0, 875.0, 1098.0, 1416.0, 1820.0, 2407.0, 3444.0, 4567.0, 4244.0, 4114.0, 4283.0, 5242.0, 5369.0, 6336.0, 9900.0, 15674.0, 26448.0, 37504.0, 41775.0, 40893.0, 38414.0, 34762.0, 35531.0, 41917.0, 45715.0, 34431.0, 31166.0, 39662.0, 31535.0, 24073.0, 19840.0, 16708.0, 13594.0, 14587.0, 15965.0, 16779.0, 21042.0, 27346.0, 34055.0, 33018.0, 36717.0, 45295.0, 44331.0, 37974.0, 30650.0, 21597.0, 16609.0, 9857.0, 6835.0, 4730.0, 2556.0, 781.0], "yaxis": "y2"}, {"fill": "tozeroy", "fillcolor": "rgba(15,142,208,0.075)", "legendgroup": "35-59", "line": {"color": "#0F8ED0", "dash": "solid", "width": 2}, "marker": {"size": 6}, "mode": "lines", "name": "Detektionen (35-59)", "type": "scatter", "x": ["2020-04-20T00:00:00", "2020-04-27T00:00:00", "2020-05-04T00:00:00", "2020-05-11T00:00:00", "2020-05-18T00:00:00", "2020-05-25T00:00:00", "2020-06-01T00:00:00", "2020-06-08T00:00:00", "2020-06-15T00:00:00", "2020-06-22T00:00:00", "2020-06-29T00:00:00", "2020-07-06T00:00:00", "2020-07-13T00:00:00", "2020-07-20T00:00:00", "2020-07-27T00:00:00", "2020-08-03T00:00:00", "2020-08-10T00:00:00", "2020-08-17T00:00:00", "2020-08-24T00:00:00", "2020-08-31T00:00:00", "2020-09-07T00:00:00", "2020-09-14T00:00:00", "2020-09-21T00:00:00", "2020-09-28T00:00:00", "2020-10-05T00:00:00", "2020-10-12T00:00:00", "2020-10-19T00:00:00", "2020-10-26T00:00:00", "2020-11-02T00:00:00", "2020-11-09T00:00:00", "2020-11-16T00:00:00", "2020-11-23T00:00:00", "2020-11-30T00:00:00", "2020-12-07T00:00:00", "2020-12-14T00:00:00", "2020-12-21T00:00:00", "2020-12-28T00:00:00", "2021-01-04T00:00:00", "2021-01-11T00:00:00", "2021-01-18T00:00:00", "2021-01-25T00:00:00", "2021-02-01T00:00:00", "2021-02-08T00:00:00", "2021-02-15T00:00:00", "2021-02-22T00:00:00", "2021-03-01T00:00:00", "2021-03-08T00:00:00", "2021-03-15T00:00:00", "2021-03-22T00:00:00", "2021-03-29T00:00:00", "2021-04-05T00:00:00", "2021-04-12T00:00:00", "2021-04-19T00:00:00", "2021-04-26T00:00:00", "2021-05-03T00:00:00", "2021-05-10T00:00:00", "2021-05-17T00:00:00", "2021-05-24T00:00:00", "2021-05-31T00:00:00", "2021-06-07T00:00:00", "2021-06-14T00:00:00", "2021-06-21T00:00:00"], "xaxis": "x3", "y": [0.0, 0.00010333842152037391, 6.044035112965895e-05, 1.9925308557635378e-05, 0.0, 0.0, 7.81646930081682e-05, 7.771733096480515e-05, 0.0002114153295333487, 1.9034877333811924e-05, 9.498454465766214e-05, 5.7084297197161e-05, 0.00017024956424218678, 0.000266970322707188, 0.00017476515931716757, 8.212733256290073e-05, 0.00019004180919802356, 0.00011424871946226936, 0.00015109449071713224, 0.0002823985046326802, 0.00016863316130966401, 0.0004488462247490602, 0.0004315185432362819, 0.0006215910038829257, 0.000853718690205814, 0.0006242893135047156, 0.00035939313901383664, 0.000673112226165708, 0.0008728723735893759, 0.000738425556155003, 0.0009012240093433019, 0.0007621832661886171, 0.0009049688148377047, 0.0009811448176121867, 0.0015052700499403027, 0.001333578737653095, 0.000525261488871634, 0.0007283842226774623, 0.0005683681986625484, 0.00043280182232346244, 0.00034253502012801025, 0.00041279399286456097, 0.00036964306341688807, 0.00018585263213790265, 0.00023068202789275265, 0.0006938478821119408, 0.0007465745891340068, 0.0011504122030896785, 0.0008720215749585033, 0.0002851623897966181, 0.0007468876811718909, 0.0007268548643896497, 0.0005356372692238129, 0.0005875954405391888, 0.0006666549090844959, 0.00047416682115710964, 0.0003778922251373908, 0.0002794522735438541, 0.0005894434701745265, 0.00098855726385188, 0.0010069273573835031, 0.00027205385111658673], "yaxis": "y3"}, {"legendgroup": "35-59", "line": {"color": "#455266", "dash": "dot", "width": 3}, "marker": {"size": 6}, "mode": "lines", "name": "best\u00e4tigte F\u00e4lle (35-59)", "type": "scatter", "x": ["2020-04-20T00:00:00", "2020-04-27T00:00:00", "2020-05-04T00:00:00", "2020-05-11T00:00:00", "2020-05-18T00:00:00", "2020-05-25T00:00:00", "2020-06-01T00:00:00", "2020-06-08T00:00:00", "2020-06-15T00:00:00", "2020-06-22T00:00:00", "2020-06-29T00:00:00", "2020-07-06T00:00:00", "2020-07-13T00:00:00", "2020-07-20T00:00:00", "2020-07-27T00:00:00", "2020-08-03T00:00:00", "2020-08-10T00:00:00", "2020-08-17T00:00:00", "2020-08-24T00:00:00", "2020-08-31T00:00:00", "2020-09-07T00:00:00", "2020-09-14T00:00:00", "2020-09-21T00:00:00", "2020-09-28T00:00:00", "2020-10-05T00:00:00", "2020-10-12T00:00:00", "2020-10-19T00:00:00", "2020-10-26T00:00:00", "2020-11-02T00:00:00", "2020-11-09T00:00:00", "2020-11-16T00:00:00", "2020-11-23T00:00:00", "2020-11-30T00:00:00", "2020-12-07T00:00:00", "2020-12-14T00:00:00", "2020-12-21T00:00:00", "2020-12-28T00:00:00", "2021-01-04T00:00:00", "2021-01-11T00:00:00", "2021-01-18T00:00:00", "2021-01-25T00:00:00", "2021-02-01T00:00:00", "2021-02-08T00:00:00", "2021-02-15T00:00:00", "2021-02-22T00:00:00", "2021-03-01T00:00:00", "2021-03-08T00:00:00", "2021-03-15T00:00:00", "2021-03-22T00:00:00", "2021-03-29T00:00:00", "2021-04-05T00:00:00", "2021-04-12T00:00:00", "2021-04-19T00:00:00", "2021-04-26T00:00:00", "2021-05-03T00:00:00", "2021-05-10T00:00:00", "2021-05-17T00:00:00", "2021-05-24T00:00:00", "2021-05-31T00:00:00", "2021-06-07T00:00:00", "2021-06-14T00:00:00", "2021-06-21T00:00:00"], "xaxis": "x3", "y": [2590.0, 2304.0, 1776.0, 1287.0, 1145.0, 784.0, 776.0, 1716.0, 1321.0, 999.0, 861.0, 1122.0, 1549.0, 1837.0, 2187.0, 2654.0, 3159.0, 2874.0, 2854.0, 3304.0, 4281.0, 4623.0, 5718.0, 9868.0, 15700.0, 28682.0, 43099.0, 48449.0, 48744.0, 49185.0, 46803.0, 48133.0, 59291.0, 66599.0, 53139.0, 46289.0, 53935.0, 43380.0, 35577.0, 29309.0, 24348.0, 19439.0, 20194.0, 21968.0, 22725.0, 27905.0, 35890.0, 45210.0, 43384.0, 47182.0, 53961.0, 55508.0, 48732.0, 39008.0, 26861.0, 19166.0, 10708.0, 7220.0, 4674.0, 2348.0, 745.0], "yaxis": "y4"}, {"fill": "tozeroy", "fillcolor": "rgba(144,210,229,0.075)", "legendgroup": "60+", "line": {"color": "#90D2E5", "dash": "solid", "width": 2}, "marker": {"size": 6}, "mode": "lines", "name": "Detektionen (60+)", "type": "scatter", "x": ["2020-04-20T00:00:00", "2020-04-27T00:00:00", "2020-05-04T00:00:00", "2020-05-11T00:00:00", "2020-05-18T00:00:00", "2020-05-25T00:00:00", "2020-06-01T00:00:00", "2020-06-08T00:00:00", "2020-06-15T00:00:00", "2020-06-22T00:00:00", "2020-06-29T00:00:00", "2020-07-06T00:00:00", "2020-07-13T00:00:00", "2020-07-20T00:00:00", "2020-07-27T00:00:00", "2020-08-03T00:00:00", "2020-08-10T00:00:00", "2020-08-17T00:00:00", "2020-08-24T00:00:00", "2020-08-31T00:00:00", "2020-09-07T00:00:00", "2020-09-14T00:00:00", "2020-09-21T00:00:00", "2020-09-28T00:00:00", "2020-10-05T00:00:00", "2020-10-12T00:00:00", "2020-10-19T00:00:00", "2020-10-26T00:00:00", "2020-11-02T00:00:00", "2020-11-09T00:00:00", "2020-11-16T00:00:00", "2020-11-23T00:00:00", "2020-11-30T00:00:00", "2020-12-07T00:00:00", "2020-12-14T00:00:00", "2020-12-21T00:00:00", "2020-12-28T00:00:00", "2021-01-04T00:00:00", "2021-01-11T00:00:00", "2021-01-18T00:00:00", "2021-01-25T00:00:00", "2021-02-01T00:00:00", "2021-02-08T00:00:00", "2021-02-15T00:00:00", "2021-02-22T00:00:00", "2021-03-01T00:00:00", "2021-03-08T00:00:00", "2021-03-15T00:00:00", "2021-03-22T00:00:00", "2021-03-29T00:00:00", "2021-04-05T00:00:00", "2021-04-12T00:00:00", "2021-04-19T00:00:00", "2021-04-26T00:00:00", "2021-05-03T00:00:00", "2021-05-10T00:00:00", "2021-05-17T00:00:00", "2021-05-24T00:00:00", "2021-05-31T00:00:00", "2021-06-07T00:00:00", "2021-06-14T00:00:00", "2021-06-21T00:00:00"], "xaxis": "x3", "y": [0.0, 0.0, 5.1473994602583995e-05, 5.0851767098906685e-05, 0.0, 0.0, 0.0, 4.9497949370668936e-05, 0.00044126917419625973, 9.723977940461472e-05, 0.00024257545829434797, 4.851172944315465e-05, 9.630730284519289e-05, 0.00014534581923132824, 0.00027538888845176366, 0.0002593034368818391, 4.824691392061315e-05, 0.0004849962932426159, 0.0003839403247038175, 0.00019097376156925868, 0.00019013601515655666, 0.000522140096290771, 0.0009499898215376265, 0.0006661455324066207, 0.00023965872597421273, 0.0002929994070250096, 0.00019752807720525988, 0.0007502465095674293, 0.0008600378705751413, 0.000869044489235533, 0.001296478763677851, 0.0007322558711229666, 0.00158489369891548, 0.002131238630222486, 0.001178685688918824, 0.001289213579716373, 0.0010824435389718333, 0.0012495634289262291, 0.00043433074286068835, 0.0007614075161799098, 0.0007074389931044133, 0.0008215705298738694, 0.0008269865398095568, 0.001165057777355081, 0.00027494540369840843, 0.0004968493442377305, 0.0007236983370843706, 0.000615576483379435, 0.0009543515221505789, 0.0009027380367059735, 0.001199657240788346, 0.0014393814772166475, 0.0006359011627906977, 0.0009876748142922354, 0.0012310217480508822, 0.0012408099872542647, 0.00035817840695889476, 0.0003012307427489457, 0.0007305745446955069, 0.0007440739822130887, 0.000825299511168751, 0.00032752828440684627], "yaxis": "y5"}, {"legendgroup": "60+", "line": {"color": "#455266", "dash": "dot", "width": 3}, "marker": {"size": 6}, "mode": "lines", "name": "best\u00e4tigte F\u00e4lle (60+)", "type": "scatter", "x": ["2020-04-20T00:00:00", "2020-04-27T00:00:00", "2020-05-04T00:00:00", "2020-05-11T00:00:00", "2020-05-18T00:00:00", "2020-05-25T00:00:00", "2020-06-01T00:00:00", "2020-06-08T00:00:00", "2020-06-15T00:00:00", "2020-06-22T00:00:00", "2020-06-29T00:00:00", "2020-07-06T00:00:00", "2020-07-13T00:00:00", "2020-07-20T00:00:00", "2020-07-27T00:00:00", "2020-08-03T00:00:00", "2020-08-10T00:00:00", "2020-08-17T00:00:00", "2020-08-24T00:00:00", "2020-08-31T00:00:00", "2020-09-07T00:00:00", "2020-09-14T00:00:00", "2020-09-21T00:00:00", "2020-09-28T00:00:00", "2020-10-05T00:00:00", "2020-10-12T00:00:00", "2020-10-19T00:00:00", "2020-10-26T00:00:00", "2020-11-02T00:00:00", "2020-11-09T00:00:00", "2020-11-16T00:00:00", "2020-11-23T00:00:00", "2020-11-30T00:00:00", "2020-12-07T00:00:00", "2020-12-14T00:00:00", "2020-12-21T00:00:00", "2020-12-28T00:00:00", "2021-01-04T00:00:00", "2021-01-11T00:00:00", "2021-01-18T00:00:00", "2021-01-25T00:00:00", "2021-02-01T00:00:00", "2021-02-08T00:00:00", "2021-02-15T00:00:00", "2021-02-22T00:00:00", "2021-03-01T00:00:00", "2021-03-08T00:00:00", "2021-03-15T00:00:00", "2021-03-22T00:00:00", "2021-03-29T00:00:00", "2021-04-05T00:00:00", "2021-04-12T00:00:00", "2021-04-19T00:00:00", "2021-04-26T00:00:00", "2021-05-03T00:00:00", "2021-05-10T00:00:00", "2021-05-17T00:00:00", "2021-05-24T00:00:00", "2021-05-31T00:00:00", "2021-06-07T00:00:00", "2021-06-14T00:00:00", "2021-06-21T00:00:00"], "xaxis": "x3", "y": [2357.0, 1790.0, 1254.0, 878.0, 708.0, 440.0, 386.0, 456.0, 382.0, 351.0, 324.0, 376.0, 459.0, 567.0, 608.0, 615.0, 627.0, 644.0, 665.0, 1123.0, 1593.0, 1772.0, 2388.0, 4008.0, 7113.0, 13518.0, 21159.0, 24799.0, 26463.0, 28984.0, 30207.0, 33448.0, 42364.0, 49637.0, 42790.0, 39435.0, 44233.0, 37247.0, 30060.0, 23928.0, 18683.0, 13620.0, 13140.0, 12667.0, 11462.0, 12853.0, 16323.0, 19587.0, 19178.0, 20437.0, 23049.0, 22260.0, 19006.0, 15577.0, 10755.0, 7542.0, 3893.0, 2536.0, 1571.0, 755.0, 240.0], "yaxis": "y6"}],                        {"annotations": [{"font": {"size": 16}, "showarrow": false, "text": "15 - 34 Jahre", "x": 0.47, "xanchor": "center", "xref": "paper", "y": 1.0, "yanchor": "bottom", "yref": "paper"}, {"font": {"size": 16}, "showarrow": false, "text": "35 - 59 Jahre", "x": 0.47, "xanchor": "center", "xref": "paper", "y": 0.6333333333333333, "yanchor": "bottom", "yref": "paper"}, {"font": {"size": 16}, "showarrow": false, "text": "60+ Jahre", "x": 0.47, "xanchor": "center", "xref": "paper", "y": 0.26666666666666666, "yanchor": "bottom", "yref": "paper"}], "autosize": true, "font": {"size": 12}, "height": 600, "hoverlabel": {"font": {"color": "black"}, "namelength": -1}, "hovermode": "x unified", "legend": {"font": {"size": 11}, "itemclick": "toggleothers", "itemdoubleclick": "toggle", "tracegroupgap": 2, "yanchor": "auto"}, "margin": {"b": 75, "l": 85, "pad": 0, "r": 60, "t": 85}, "showlegend": true, "template": {"data": {"bar": [{"error_x": {"color": "#2a3f5f"}, "error_y": {"color": "#2a3f5f"}, "marker": {"line": {"color": "white", "width": 0.5}}, "type": "bar"}], "barpolar": [{"marker": {"line": {"color": "white", "width": 0.5}}, "type": "barpolar"}], "carpet": [{"aaxis": {"endlinecolor": "#2a3f5f", "gridcolor": "#C8D4E3", "linecolor": "#C8D4E3", "minorgridcolor": "#C8D4E3", "startlinecolor": "#2a3f5f"}, "baxis": {"endlinecolor": "#2a3f5f", "gridcolor": "#C8D4E3", "linecolor": "#C8D4E3", "minorgridcolor": "#C8D4E3", "startlinecolor": "#2a3f5f"}, "type": "carpet"}], "choropleth": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "type": "choropleth"}], "contour": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "contour"}], "contourcarpet": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "type": "contourcarpet"}], "heatmap": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "heatmap"}], "heatmapgl": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "heatmapgl"}], "histogram": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "histogram"}], "histogram2d": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "histogram2d"}], "histogram2dcontour": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "histogram2dcontour"}], "mesh3d": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "type": "mesh3d"}], "parcoords": [{"line": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "parcoords"}], "pie": [{"automargin": true, "type": "pie"}], "scatter": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scatter"}], "scatter3d": [{"line": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scatter3d"}], "scattercarpet": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scattercarpet"}], "scattergeo": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scattergeo"}], "scattergl": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scattergl"}], "scattermapbox": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scattermapbox"}], "scatterpolar": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scatterpolar"}], "scatterpolargl": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scatterpolargl"}], "scatterternary": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scatterternary"}], "surface": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "surface"}], "table": [{"cells": {"fill": {"color": "#EBF0F8"}, "line": {"color": "white"}}, "header": {"fill": {"color": "#C8D4E3"}, "line": {"color": "white"}}, "type": "table"}]}, "layout": {"annotationdefaults": {"arrowcolor": "#2a3f5f", "arrowhead": 0, "arrowwidth": 1}, "autotypenumbers": "strict", "coloraxis": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "colorscale": {"diverging": [[0, "#8e0152"], [0.1, "#c51b7d"], [0.2, "#de77ae"], [0.3, "#f1b6da"], [0.4, "#fde0ef"], [0.5, "#f7f7f7"], [0.6, "#e6f5d0"], [0.7, "#b8e186"], [0.8, "#7fbc41"], [0.9, "#4d9221"], [1, "#276419"]], "sequential": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "sequentialminus": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]]}, "colorway": ["#636efa", "#EF553B", "#00cc96", "#ab63fa", "#FFA15A", "#19d3f3", "#FF6692", "#B6E880", "#FF97FF", "#FECB52"], "font": {"color": "#2a3f5f"}, "geo": {"bgcolor": "white", "lakecolor": "white", "landcolor": "white", "showlakes": true, "showland": true, "subunitcolor": "#C8D4E3"}, "hoverlabel": {"align": "left"}, "hovermode": "closest", "mapbox": {"style": "light"}, "paper_bgcolor": "white", "plot_bgcolor": "white", "polar": {"angularaxis": {"gridcolor": "#EBF0F8", "linecolor": "#EBF0F8", "ticks": ""}, "bgcolor": "white", "radialaxis": {"gridcolor": "#EBF0F8", "linecolor": "#EBF0F8", "ticks": ""}}, "scene": {"xaxis": {"backgroundcolor": "white", "gridcolor": "#DFE8F3", "gridwidth": 2, "linecolor": "#EBF0F8", "showbackground": true, "ticks": "", "zerolinecolor": "#EBF0F8"}, "yaxis": {"backgroundcolor": "white", "gridcolor": "#DFE8F3", "gridwidth": 2, "linecolor": "#EBF0F8", "showbackground": true, "ticks": "", "zerolinecolor": "#EBF0F8"}, "zaxis": {"backgroundcolor": "white", "gridcolor": "#DFE8F3", "gridwidth": 2, "linecolor": "#EBF0F8", "showbackground": true, "ticks": "", "zerolinecolor": "#EBF0F8"}}, "shapedefaults": {"line": {"color": "#2a3f5f"}}, "ternary": {"aaxis": {"gridcolor": "#DFE8F3", "linecolor": "#A2B1C6", "ticks": ""}, "baxis": {"gridcolor": "#DFE8F3", "linecolor": "#A2B1C6", "ticks": ""}, "bgcolor": "white", "caxis": {"gridcolor": "#DFE8F3", "linecolor": "#A2B1C6", "ticks": ""}}, "title": {"x": 0.05}, "xaxis": {"automargin": true, "gridcolor": "#EBF0F8", "linecolor": "#EBF0F8", "ticks": "", "title": {"standoff": 15}, "zerolinecolor": "#EBF0F8", "zerolinewidth": 2}, "yaxis": {"automargin": true, "gridcolor": "#EBF0F8", "linecolor": "#EBF0F8", "ticks": "", "title": {"standoff": 15}, "zerolinecolor": "#EBF0F8", "zerolinewidth": 2}}}, "title": {"x": 0.5, "xanchor": "center", "y": 0.92, "yanchor": "top"}, "width": 900, "xaxis": {"anchor": "y", "domain": [0.0, 0.94], "fixedrange": true, "linecolor": "#455266", "linewidth": 1.5, "matches": "x3", "rangemode": "normal", "showline": false, "showticklabels": false, "ticks": "outside", "tickwidth": 0}, "xaxis2": {"anchor": "y3", "domain": [0.0, 0.94], "matches": "x3", "showticklabels": false}, "xaxis3": {"anchor": "y5", "domain": [0.0, 0.94]}, "yaxis": {"anchor": "x", "domain": [0.7333333333333334, 1.0], "fixedrange": true, "linecolor": "#455266", "linewidth": 1.5, "rangemode": "normal", "showline": false, "tickformat": ".4f", "ticks": "outside", "tickwidth": 0}, "yaxis2": {"anchor": "x", "overlaying": "y", "side": "right"}, "yaxis3": {"anchor": "x2", "domain": [0.3666666666666667, 0.6333333333333333], "tickformat": ".4f", "title": {"text": "Detektionsrate"}}, "yaxis4": {"anchor": "x2", "overlaying": "y3", "side": "right", "title": {"text": "best\u00e4tigte F\u00e4lle"}}, "yaxis5": {"anchor": "x3", "domain": [0.0, 0.26666666666666666], "tickformat": ".4f"}, "yaxis6": {"anchor": "x3", "overlaying": "y5", "side": "right"}},                        {"responsive": "true", "displayModeBar": false}                    )                };                            </script>        </div>
+ 	<figcaption>
+ 		<div class="pa4 tl f4 lh-copy" style= "text-align:justify"><strong>Wöchentliche Detektionsrate aufgeteilt nach Altersgruppen</strong> Vergleich mit offiziell gemeldeten COVID-19-Fallzahlen
+in den jeweiligen Altersklassen.</div>	
+ 	</figcaption>
+ </figure>
+</section>
+
+<p>In dieser ersten Abbildung betrachten wir die Aufschlüsselung der Detektionen nach Altersgruppen im Vergleich
+zu bestätigten COVID-19-Fallzahlen pro Woche. Von den aktiven Spender:innen liegt die
+überwiegende Mehrheit in der Altersklasse 35 bis 59 Jahren, und damit bei fast 65% der Nutzer:innen.
+Die Altersgruppe der 15- bis 34-Jährigen ist am wenigsten vertreten und macht nur einen Anteil von
+10% der regelmäßigen Nutzer:innen aus. Die restlichen 25% gehören der Altersklsse 60+ an.</p>
+<p>Es ist wichtig zu beachten, dass nur 53% der aktiven Spender:innen Daten zu Alter und Geschlecht angegeben haben,
+daher sind unsere Schätzungen mit Vorsicht zu genießen. Unabhängig davon weisen die Detektionskurven für diese Gruppen
+alle eine gelungene Übereinstimmung mit den nach Alter aufgeteilten Fallzahlen auf. Wie anzunehmen war, zeigt die am
+wenigsten vertretene, jüngste Altersgruppe die höchsten Inkonsistenzen.</p>
+<p>Wenn wir die Detektionen nach Geschlecht betrachten, sehen wir eine ähnliche Übereinstimmung mit den
+Trends der offiziell gemeldeten COVID-19-Fallzahlen. Bedenken muss man allerdings, dass wir eine Schiefe in den Daten
+haben, denn unsere Spender:innen-Population ist zu 60% weiblich, was mehr ist als der weibliche Anteil in der
+deutschen Bevölkerung.</p>
+<section class="center mw10 mw10-ns">
+ <figure>
+ 	<div>                        <script type="text/javascript">window.PlotlyConfig = {MathJaxConfig: 'local'};</script>
+        <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>                <div id="625910f7-e64c-4db7-a27a-22136e6931b1" class="plotly-graph-div" style="height:600px; width:1000px;"></div>            <script type="text/javascript">                                    window.PLOTLYENV=window.PLOTLYENV || {};                                    if (document.getElementById("625910f7-e64c-4db7-a27a-22136e6931b1")) {                    Plotly.newPlot(                        "625910f7-e64c-4db7-a27a-22136e6931b1",                        [{"legendgroup": "F", "line": {"color": "#455266", "dash": "dot", "width": 3}, "marker": {"size": 6}, "mode": "lines", "name": "best\u00e4tigte F\u00e4lle (W)", "type": "scatter", "x": ["2020-04-20T00:00:00", "2020-04-27T00:00:00", "2020-05-04T00:00:00", "2020-05-11T00:00:00", "2020-05-18T00:00:00", "2020-05-25T00:00:00", "2020-06-01T00:00:00", "2020-06-08T00:00:00", "2020-06-15T00:00:00", "2020-06-22T00:00:00", "2020-06-29T00:00:00", "2020-07-06T00:00:00", "2020-07-13T00:00:00", "2020-07-20T00:00:00", "2020-07-27T00:00:00", "2020-08-03T00:00:00", "2020-08-10T00:00:00", "2020-08-17T00:00:00", "2020-08-24T00:00:00", "2020-08-31T00:00:00", "2020-09-07T00:00:00", "2020-09-14T00:00:00", "2020-09-21T00:00:00", "2020-09-28T00:00:00", "2020-10-05T00:00:00", "2020-10-12T00:00:00", "2020-10-19T00:00:00", "2020-10-26T00:00:00", "2020-11-02T00:00:00", "2020-11-09T00:00:00", "2020-11-16T00:00:00", "2020-11-23T00:00:00", "2020-11-30T00:00:00", "2020-12-07T00:00:00", "2020-12-14T00:00:00", "2020-12-21T00:00:00", "2020-12-28T00:00:00", "2021-01-04T00:00:00", "2021-01-11T00:00:00", "2021-01-18T00:00:00", "2021-01-25T00:00:00", "2021-02-01T00:00:00", "2021-02-08T00:00:00", "2021-02-15T00:00:00", "2021-02-22T00:00:00", "2021-03-01T00:00:00", "2021-03-08T00:00:00", "2021-03-15T00:00:00", "2021-03-22T00:00:00", "2021-03-29T00:00:00", "2021-04-05T00:00:00", "2021-04-12T00:00:00", "2021-04-19T00:00:00", "2021-04-26T00:00:00", "2021-05-03T00:00:00", "2021-05-10T00:00:00", "2021-05-17T00:00:00", "2021-05-24T00:00:00", "2021-05-31T00:00:00", "2021-06-07T00:00:00", "2021-06-14T00:00:00", "2021-06-21T00:00:00"], "xaxis": "x2", "y": [5544.0, 3554.0, 2994.0, 2359.0, 1801.0, 1646.0, 1187.0, 1247.0, 2420.0, 1769.0, 1401.0, 1354.0, 1582.0, 2051.0, 2418.0, 3248.0, 4234.0, 5222.0, 4657.0, 4601.0, 5035.0, 6262.0, 6703.0, 8239.0, 13271.0, 21261.0, 37355.0, 54875.0, 61323.0, 61372.0, 60478.0, 56989.0, 58547.0, 70484.0, 78462.0, 61436.0, 53895.0, 65096.0, 53578.0, 43454.0, 35953.0, 30356.0, 24405.0, 25613.0, 27870.0, 29423.0, 35615.0, 46412.0, 58809.0, 56046.0, 59714.0, 72026.0, 74739.0, 64538.0, 51518.0, 35955.0, 26578.0, 15307.0, 10487.0, 7096.0, 3700.0, 1195.0], "yaxis": "y2"}, {"fill": "tozeroy", "fillcolor": "rgba(121,4,119,0.075)", "legendgroup": "F", "line": {"color": "#790477", "dash": "solid", "width": 2}, "marker": {"size": 6}, "mode": "lines", "name": "Detektionen (W)", "type": "scatter", "x": ["2020-04-20T00:00:00", "2020-04-27T00:00:00", "2020-05-04T00:00:00", "2020-05-11T00:00:00", "2020-05-18T00:00:00", "2020-05-25T00:00:00", "2020-06-01T00:00:00", "2020-06-08T00:00:00", "2020-06-15T00:00:00", "2020-06-22T00:00:00", "2020-06-29T00:00:00", "2020-07-06T00:00:00", "2020-07-13T00:00:00", "2020-07-20T00:00:00", "2020-07-27T00:00:00", "2020-08-03T00:00:00", "2020-08-10T00:00:00", "2020-08-17T00:00:00", "2020-08-24T00:00:00", "2020-08-31T00:00:00", "2020-09-07T00:00:00", "2020-09-14T00:00:00", "2020-09-21T00:00:00", "2020-09-28T00:00:00", "2020-10-05T00:00:00", "2020-10-12T00:00:00", "2020-10-19T00:00:00", "2020-10-26T00:00:00", "2020-11-02T00:00:00", "2020-11-09T00:00:00", "2020-11-16T00:00:00", "2020-11-23T00:00:00", "2020-11-30T00:00:00", "2020-12-07T00:00:00", "2020-12-14T00:00:00", "2020-12-21T00:00:00", "2020-12-28T00:00:00", "2021-01-04T00:00:00", "2021-01-11T00:00:00", "2021-01-18T00:00:00", "2021-01-25T00:00:00", "2021-02-01T00:00:00", "2021-02-08T00:00:00", "2021-02-15T00:00:00", "2021-02-22T00:00:00", "2021-03-01T00:00:00", "2021-03-08T00:00:00", "2021-03-15T00:00:00", "2021-03-22T00:00:00", "2021-03-29T00:00:00", "2021-04-05T00:00:00", "2021-04-12T00:00:00", "2021-04-19T00:00:00", "2021-04-26T00:00:00", "2021-05-03T00:00:00", "2021-05-10T00:00:00", "2021-05-17T00:00:00", "2021-05-24T00:00:00", "2021-05-31T00:00:00", "2021-06-07T00:00:00", "2021-06-14T00:00:00", "2021-06-21T00:00:00"], "xaxis": "x2", "y": [0.0, 0.00010267442428983524, 9.993670675239016e-05, 3.290896440190308e-05, 0.0, 0.0, 9.702726928301467e-05, 9.64112075733299e-05, 0.0002860619710123869, 6.2983624257693e-05, 0.000220130730699252, 0.00015762641638594153, 0.0, 0.00012611362837916962, 0.0001774415963659961, 0.0, 0.00019013644553496248, 0.00015925595617276086, 0.0002202831312572772, 0.00025089268513416035, 3.123368597652119e-05, 0.00028084878744650497, 0.0005637558668641304, 0.0008802579694784022, 0.0006327969625745796, 0.00048383975227404683, 0.0001311561413863204, 0.0007657040672678156, 0.0013548299688389107, 0.0008242688293910714, 0.0014263562809375186, 0.0006696068954406316, 0.0013578148369346053, 0.0015525547520554588, 0.0013086558235184146, 0.0013896289795108088, 0.0009222029584270906, 0.0008422220013496477, 0.0004730934593529537, 0.0005103422417564106, 0.0005839781425323795, 0.0007320912185658333, 0.0005529342376879977, 0.00037102997922232116, 0.00022073082926470355, 0.00033222766559967096, 0.0010424589265864257, 0.0011618817129456112, 0.001090565267376519, 0.0005302772051144696, 0.0009980587209493623, 0.0010789208589531165, 0.0004642038075764693, 0.00112766501127665, 0.0009407443079369701, 0.0009496568799249319, 0.00035944132548267836, 0.00036230842223308507, 0.0006084663749891345, 0.0016463421804626221, 0.0007558669674137352, 0.00021543234193421311], "yaxis": "y"}, {"legendgroup": "M", "line": {"color": "#455266", "dash": "dot", "width": 3}, "marker": {"size": 6}, "mode": "lines", "name": "best\u00e4tigte F\u00e4lle (M)", "type": "scatter", "x": ["2020-04-20T00:00:00", "2020-04-27T00:00:00", "2020-05-04T00:00:00", "2020-05-11T00:00:00", "2020-05-18T00:00:00", "2020-05-25T00:00:00", "2020-06-01T00:00:00", "2020-06-08T00:00:00", "2020-06-15T00:00:00", "2020-06-22T00:00:00", "2020-06-29T00:00:00", "2020-07-06T00:00:00", "2020-07-13T00:00:00", "2020-07-20T00:00:00", "2020-07-27T00:00:00", "2020-08-03T00:00:00", "2020-08-10T00:00:00", "2020-08-17T00:00:00", "2020-08-24T00:00:00", "2020-08-31T00:00:00", "2020-09-07T00:00:00", "2020-09-14T00:00:00", "2020-09-21T00:00:00", "2020-09-28T00:00:00", "2020-10-05T00:00:00", "2020-10-12T00:00:00", "2020-10-19T00:00:00", "2020-10-26T00:00:00", "2020-11-02T00:00:00", "2020-11-09T00:00:00", "2020-11-16T00:00:00", "2020-11-23T00:00:00", "2020-11-30T00:00:00", "2020-12-07T00:00:00", "2020-12-14T00:00:00", "2020-12-21T00:00:00", "2020-12-28T00:00:00", "2021-01-04T00:00:00", "2021-01-11T00:00:00", "2021-01-18T00:00:00", "2021-01-25T00:00:00", "2021-02-01T00:00:00", "2021-02-08T00:00:00", "2021-02-15T00:00:00", "2021-02-22T00:00:00", "2021-03-01T00:00:00", "2021-03-08T00:00:00", "2021-03-15T00:00:00", "2021-03-22T00:00:00", "2021-03-29T00:00:00", "2021-04-05T00:00:00", "2021-04-12T00:00:00", "2021-04-19T00:00:00", "2021-04-26T00:00:00", "2021-05-03T00:00:00", "2021-05-10T00:00:00", "2021-05-17T00:00:00", "2021-05-24T00:00:00", "2021-05-31T00:00:00", "2021-06-07T00:00:00", "2021-06-14T00:00:00", "2021-06-21T00:00:00"], "xaxis": "x2", "y": [6794.0, 3879.0, 3238.0, 2398.0, 1788.0, 1546.0, 1159.0, 1085.0, 1696.0, 1441.0, 1287.0, 1069.0, 1432.0, 1869.0, 2400.0, 2799.0, 3701.0, 4319.0, 4116.0, 3973.0, 4684.0, 5969.0, 6292.0, 7634.0, 12761.0, 20584.0, 37139.0, 55547.0, 63544.0, 65312.0, 67068.0, 65493.0, 68986.0, 84879.0, 95268.0, 76711.0, 68305.0, 79466.0, 64569.0, 51528.0, 41734.0, 33800.0, 26086.0, 26542.0, 28277.0, 28694.0, 35342.0, 45750.0, 56973.0, 53499.0, 57991.0, 69249.0, 69339.0, 59538.0, 48998.0, 34483.0, 25893.0, 14406.0, 10091.0, 6799.0, 3482.0, 1037.0], "yaxis": "y4"}, {"fill": "tozeroy", "fillcolor": "rgba(229,82,153,0.075)", "legendgroup": "M", "line": {"color": "#E55299", "dash": "solid", "width": 2}, "marker": {"size": 6}, "mode": "lines", "name": "Detektionen (M)", "type": "scatter", "x": ["2020-04-20T00:00:00", "2020-04-27T00:00:00", "2020-05-04T00:00:00", "2020-05-11T00:00:00", "2020-05-18T00:00:00", "2020-05-25T00:00:00", "2020-06-01T00:00:00", "2020-06-08T00:00:00", "2020-06-15T00:00:00", "2020-06-22T00:00:00", "2020-06-29T00:00:00", "2020-07-06T00:00:00", "2020-07-13T00:00:00", "2020-07-20T00:00:00", "2020-07-27T00:00:00", "2020-08-03T00:00:00", "2020-08-10T00:00:00", "2020-08-17T00:00:00", "2020-08-24T00:00:00", "2020-08-31T00:00:00", "2020-09-07T00:00:00", "2020-09-14T00:00:00", "2020-09-21T00:00:00", "2020-09-28T00:00:00", "2020-10-05T00:00:00", "2020-10-12T00:00:00", "2020-10-19T00:00:00", "2020-10-26T00:00:00", "2020-11-02T00:00:00", "2020-11-09T00:00:00", "2020-11-16T00:00:00", "2020-11-23T00:00:00", "2020-11-30T00:00:00", "2020-12-07T00:00:00", "2020-12-14T00:00:00", "2020-12-21T00:00:00", "2020-12-28T00:00:00", "2021-01-04T00:00:00", "2021-01-11T00:00:00", "2021-01-18T00:00:00", "2021-01-25T00:00:00", "2021-02-01T00:00:00", "2021-02-08T00:00:00", "2021-02-15T00:00:00", "2021-02-22T00:00:00", "2021-03-01T00:00:00", "2021-03-08T00:00:00", "2021-03-15T00:00:00", "2021-03-22T00:00:00", "2021-03-29T00:00:00", "2021-04-05T00:00:00", "2021-04-12T00:00:00", "2021-04-19T00:00:00", "2021-04-26T00:00:00", "2021-05-03T00:00:00", "2021-05-10T00:00:00", "2021-05-17T00:00:00", "2021-05-24T00:00:00", "2021-05-31T00:00:00", "2021-06-07T00:00:00", "2021-06-14T00:00:00", "2021-06-21T00:00:00"], "xaxis": "x2", "y": [0.0, 4.299199734677959e-05, 2.097510255326927e-05, 2.0738651513625297e-05, 0.0, 0.0, 2.030215405854561e-05, 4.040077569489334e-05, 0.00023993761621978285, 3.960138378549627e-05, 0.00015804342243031273, 3.9524910574889825e-05, 0.0002359471029066436, 0.0002973914521199762, 0.00018233499496950772, 0.0002346602302717792, 9.836185358697578e-05, 0.0003547866634003768, 0.00019574779853636574, 0.0002534345957718197, 0.0002715230503675258, 0.0005031599551026502, 0.00058202216672995, 0.00044770848338056057, 0.0006874221389209997, 0.0006293466975249563, 0.00037484604537422133, 0.0006394270733422853, 0.0006296955747600643, 0.0007268974067699008, 0.0007401687328375378, 0.0008413324887524566, 0.000897828439126903, 0.001069710580168496, 0.0012419199882168239, 0.0012486369327284232, 0.00045246867589974923, 0.0007636736795093397, 0.00047780754594631486, 0.0005028632417232816, 0.00028817158559553744, 0.00036249145555854753, 0.00048684814510856716, 0.000563086694366335, 0.00024303699022991298, 0.0007562003199040985, 0.0005173779146502419, 0.00099126974573931, 0.0007212008171240785, 0.0004760950185426481, 0.000737077542009789, 0.0007173889968632532, 0.0005411195653374267, 0.0003627829151458165, 0.0007066213033237373, 0.0005022601707684581, 0.00037409577615330294, 0.0002695459306265788, 0.0005989957097904682, 0.00030479236514917014, 0.0009612277867528271, 0.00032060356744333226], "yaxis": "y3"}],                        {"annotations": [{"font": {"size": 16}, "showarrow": false, "text": "Weiblich", "x": 0.47, "xanchor": "center", "xref": "paper", "y": 1.0, "yanchor": "bottom", "yref": "paper"}, {"font": {"size": 16}, "showarrow": false, "text": "M\u00e4nnlich", "x": 0.47, "xanchor": "center", "xref": "paper", "y": 0.45, "yanchor": "bottom", "yref": "paper"}], "autosize": true, "font": {"size": 12}, "height": 600, "hoverlabel": {"font": {"color": "black"}, "namelength": -1}, "hovermode": "x unified", "legend": {"font": {"size": 11}, "itemclick": "toggleothers", "itemdoubleclick": "toggle", "tracegroupgap": 2, "yanchor": "auto"}, "margin": {"b": 75, "l": 85, "pad": 0, "r": 60, "t": 85}, "showlegend": true, "template": {"data": {"bar": [{"error_x": {"color": "#2a3f5f"}, "error_y": {"color": "#2a3f5f"}, "marker": {"line": {"color": "white", "width": 0.5}}, "type": "bar"}], "barpolar": [{"marker": {"line": {"color": "white", "width": 0.5}}, "type": "barpolar"}], "carpet": [{"aaxis": {"endlinecolor": "#2a3f5f", "gridcolor": "#C8D4E3", "linecolor": "#C8D4E3", "minorgridcolor": "#C8D4E3", "startlinecolor": "#2a3f5f"}, "baxis": {"endlinecolor": "#2a3f5f", "gridcolor": "#C8D4E3", "linecolor": "#C8D4E3", "minorgridcolor": "#C8D4E3", "startlinecolor": "#2a3f5f"}, "type": "carpet"}], "choropleth": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "type": "choropleth"}], "contour": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "contour"}], "contourcarpet": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "type": "contourcarpet"}], "heatmap": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "heatmap"}], "heatmapgl": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "heatmapgl"}], "histogram": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "histogram"}], "histogram2d": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "histogram2d"}], "histogram2dcontour": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "histogram2dcontour"}], "mesh3d": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "type": "mesh3d"}], "parcoords": [{"line": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "parcoords"}], "pie": [{"automargin": true, "type": "pie"}], "scatter": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scatter"}], "scatter3d": [{"line": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scatter3d"}], "scattercarpet": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scattercarpet"}], "scattergeo": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scattergeo"}], "scattergl": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scattergl"}], "scattermapbox": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scattermapbox"}], "scatterpolar": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scatterpolar"}], "scatterpolargl": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scatterpolargl"}], "scatterternary": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scatterternary"}], "surface": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "surface"}], "table": [{"cells": {"fill": {"color": "#EBF0F8"}, "line": {"color": "white"}}, "header": {"fill": {"color": "#C8D4E3"}, "line": {"color": "white"}}, "type": "table"}]}, "layout": {"annotationdefaults": {"arrowcolor": "#2a3f5f", "arrowhead": 0, "arrowwidth": 1}, "autotypenumbers": "strict", "coloraxis": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "colorscale": {"diverging": [[0, "#8e0152"], [0.1, "#c51b7d"], [0.2, "#de77ae"], [0.3, "#f1b6da"], [0.4, "#fde0ef"], [0.5, "#f7f7f7"], [0.6, "#e6f5d0"], [0.7, "#b8e186"], [0.8, "#7fbc41"], [0.9, "#4d9221"], [1, "#276419"]], "sequential": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "sequentialminus": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]]}, "colorway": ["#636efa", "#EF553B", "#00cc96", "#ab63fa", "#FFA15A", "#19d3f3", "#FF6692", "#B6E880", "#FF97FF", "#FECB52"], "font": {"color": "#2a3f5f"}, "geo": {"bgcolor": "white", "lakecolor": "white", "landcolor": "white", "showlakes": true, "showland": true, "subunitcolor": "#C8D4E3"}, "hoverlabel": {"align": "left"}, "hovermode": "closest", "mapbox": {"style": "light"}, "paper_bgcolor": "white", "plot_bgcolor": "white", "polar": {"angularaxis": {"gridcolor": "#EBF0F8", "linecolor": "#EBF0F8", "ticks": ""}, "bgcolor": "white", "radialaxis": {"gridcolor": "#EBF0F8", "linecolor": "#EBF0F8", "ticks": ""}}, "scene": {"xaxis": {"backgroundcolor": "white", "gridcolor": "#DFE8F3", "gridwidth": 2, "linecolor": "#EBF0F8", "showbackground": true, "ticks": "", "zerolinecolor": "#EBF0F8"}, "yaxis": {"backgroundcolor": "white", "gridcolor": "#DFE8F3", "gridwidth": 2, "linecolor": "#EBF0F8", "showbackground": true, "ticks": "", "zerolinecolor": "#EBF0F8"}, "zaxis": {"backgroundcolor": "white", "gridcolor": "#DFE8F3", "gridwidth": 2, "linecolor": "#EBF0F8", "showbackground": true, "ticks": "", "zerolinecolor": "#EBF0F8"}}, "shapedefaults": {"line": {"color": "#2a3f5f"}}, "ternary": {"aaxis": {"gridcolor": "#DFE8F3", "linecolor": "#A2B1C6", "ticks": ""}, "baxis": {"gridcolor": "#DFE8F3", "linecolor": "#A2B1C6", "ticks": ""}, "bgcolor": "white", "caxis": {"gridcolor": "#DFE8F3", "linecolor": "#A2B1C6", "ticks": ""}}, "title": {"x": 0.05}, "xaxis": {"automargin": true, "gridcolor": "#EBF0F8", "linecolor": "#EBF0F8", "ticks": "", "title": {"standoff": 15}, "zerolinecolor": "#EBF0F8", "zerolinewidth": 2}, "yaxis": {"automargin": true, "gridcolor": "#EBF0F8", "linecolor": "#EBF0F8", "ticks": "", "title": {"standoff": 15}, "zerolinecolor": "#EBF0F8", "zerolinewidth": 2}}}, "title": {"x": 0.5, "xanchor": "center", "y": 0.92, "yanchor": "top"}, "width": 1000, "xaxis": {"anchor": "y", "domain": [0.0, 0.94], "fixedrange": true, "linecolor": "#455266", "linewidth": 1.5, "matches": "x2", "rangemode": "normal", "showline": false, "showticklabels": false, "ticks": "outside", "tickwidth": 0}, "xaxis2": {"anchor": "y3", "domain": [0.0, 0.94]}, "yaxis": {"anchor": "x", "domain": [0.55, 1.0], "fixedrange": true, "linecolor": "#455266", "linewidth": 1.5, "rangemode": "normal", "showline": false, "tickformat": ".4f", "ticks": "outside", "tickwidth": 0}, "yaxis2": {"anchor": "x", "overlaying": "y", "side": "right"}, "yaxis3": {"anchor": "x2", "domain": [0.0, 0.45], "tickformat": ".4f", "title": {"text": "Detektionsrate"}}, "yaxis4": {"anchor": "x2", "overlaying": "y3", "side": "right", "title": {"text": "best\u00e4tigte F\u00e4lle"}}},                        {"responsive": "true", "displayModeBar": false}                    )                };                            </script>        </div>
+ 	<figcaption>
+ 		<div class="pa4 tl f4 lh-copy" style= "text-align:justify"><strong>Wöchentliche Detektionsrate, aufgeteilt nach Geschlecht</strong> und im Vergleich zu offiziell gemeldeten COVID-19-Fallzahlen.</div>	
+ 	</figcaption>
+ </figure>
+</section>
+
+<p>Wenn wir uns die regionale Verteilung der Detektionen und unserer Spender:innen ansehen, stellen wir fest, dass wir
+auch hier eine Schiefe aufweisen. 89% unserer Spender:innen befinden sich in Westdeutschland, im Vergleich zu
+82% der deutschen Bevölkerung.</p>
+<section class="center mw10 mw10-ns">
+ <figure>
+ 	<div>                        <script type="text/javascript">window.PlotlyConfig = {MathJaxConfig: 'local'};</script>
+        <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>                <div id="dceabdc9-99a1-47b9-b8b3-a519f9f5d98a" class="plotly-graph-div" style="height:600px; width:1000px;"></div>            <script type="text/javascript">                                    window.PLOTLYENV=window.PLOTLYENV || {};                                    if (document.getElementById("dceabdc9-99a1-47b9-b8b3-a519f9f5d98a")) {                    Plotly.newPlot(                        "dceabdc9-99a1-47b9-b8b3-a519f9f5d98a",                        [{"fill": "tozeroy", "fillcolor": "rgba(1,134,113,0.075)", "legendgroup": "East", "line": {"color": "#018671", "dash": "solid", "width": 2}, "marker": {"size": 6}, "mode": "lines", "name": "Detektionen (Ost)", "type": "scatter", "x": ["2020-04-20T00:00:00", "2020-04-27T00:00:00", "2020-05-04T00:00:00", "2020-05-11T00:00:00", "2020-05-18T00:00:00", "2020-05-25T00:00:00", "2020-06-01T00:00:00", "2020-06-08T00:00:00", "2020-06-15T00:00:00", "2020-06-22T00:00:00", "2020-06-29T00:00:00", "2020-07-06T00:00:00", "2020-07-13T00:00:00", "2020-07-20T00:00:00", "2020-07-27T00:00:00", "2020-08-03T00:00:00", "2020-08-10T00:00:00", "2020-08-17T00:00:00", "2020-08-24T00:00:00", "2020-08-31T00:00:00", "2020-09-07T00:00:00", "2020-09-14T00:00:00", "2020-09-21T00:00:00", "2020-09-28T00:00:00", "2020-10-05T00:00:00", "2020-10-12T00:00:00", "2020-10-19T00:00:00", "2020-10-26T00:00:00", "2020-11-02T00:00:00", "2020-11-09T00:00:00", "2020-11-16T00:00:00", "2020-11-23T00:00:00", "2020-11-30T00:00:00", "2020-12-07T00:00:00", "2020-12-14T00:00:00", "2020-12-21T00:00:00", "2020-12-28T00:00:00", "2021-01-04T00:00:00", "2021-01-11T00:00:00", "2021-01-18T00:00:00", "2021-01-25T00:00:00", "2021-02-01T00:00:00", "2021-02-08T00:00:00", "2021-02-15T00:00:00", "2021-02-22T00:00:00", "2021-03-01T00:00:00", "2021-03-08T00:00:00", "2021-03-15T00:00:00", "2021-03-22T00:00:00", "2021-03-29T00:00:00", "2021-04-05T00:00:00", "2021-04-12T00:00:00", "2021-04-19T00:00:00", "2021-04-26T00:00:00", "2021-05-03T00:00:00", "2021-05-10T00:00:00", "2021-05-17T00:00:00", "2021-05-24T00:00:00", "2021-05-31T00:00:00", "2021-06-07T00:00:00", "2021-06-14T00:00:00", "2021-06-21T00:00:00"], "xaxis": "x2", "y": [0.0, 6.163328197226502e-05, 0.00012002846389286603, 0.0, 0.0, 0.0, 0.0, 5.772719775688603e-05, 5.7092988165439166e-05, 0.00016960651289009497, 0.00039675792098849404, 0.00017052652093416053, 0.00011297884874553128, 0.0001718859986576522, 0.0004718661826025827, 0.0001247293817877284, 0.00022702395913568737, 0.00039821210889882166, 5.657754356470855e-05, 0.0002256281326048768, 0.00016882250323576464, 0.0005089181853431563, 0.0002852485737571312, 0.0005760273859877224, 0.0004075047403612654, 0.000542112690599938, 0.0004973842915382497, 0.00031934597943411895, 0.0009211305467567746, 0.0002696845653744281, 0.0015860350109840311, 0.0009161750196323219, 0.0015778850193137225, 0.0018855023516979883, 0.0022753725004980656, 0.0014844346424633132, 0.00022576518270853716, 0.000676982591876209, 0.0006767426122264832, 0.0011345586566825505, 0.0007607041947402738, 0.0009211839406933005, 0.0006211524596528202, 0.00023415286837263758, 0.00015507654135005206, 0.0006236010734847051, 0.0011026846996871975, 0.0019020662326634588, 0.0007969578978527677, 0.0005623006127929127, 0.0007336586274760979, 0.0011494522508151727, 0.0006604240866099017, 0.00016604400166044003, 0.0012597178232076015, 0.001190201484108381, 0.0006006447737775654, 0.0005185313217610311, 0.0, 0.0006203316875553868, 0.0009933689398044226, 0.0005600821453813226], "yaxis": "y"}, {"legendgroup": "East", "line": {"color": "#455266", "dash": "dot", "width": 3}, "marker": {"size": 6}, "mode": "lines", "name": "best\u00e4tigte F\u00e4lle (Ost)", "type": "scatter", "x": ["2020-04-20T00:00:00", "2020-04-27T00:00:00", "2020-05-04T00:00:00", "2020-05-11T00:00:00", "2020-05-18T00:00:00", "2020-05-25T00:00:00", "2020-06-01T00:00:00", "2020-06-08T00:00:00", "2020-06-15T00:00:00", "2020-06-22T00:00:00", "2020-06-29T00:00:00", "2020-07-06T00:00:00", "2020-07-13T00:00:00", "2020-07-20T00:00:00", "2020-07-27T00:00:00", "2020-08-03T00:00:00", "2020-08-10T00:00:00", "2020-08-17T00:00:00", "2020-08-24T00:00:00", "2020-08-31T00:00:00", "2020-09-07T00:00:00", "2020-09-14T00:00:00", "2020-09-21T00:00:00", "2020-09-28T00:00:00", "2020-10-05T00:00:00", "2020-10-12T00:00:00", "2020-10-19T00:00:00", "2020-10-26T00:00:00", "2020-11-02T00:00:00", "2020-11-09T00:00:00", "2020-11-16T00:00:00", "2020-11-23T00:00:00", "2020-11-30T00:00:00", "2020-12-07T00:00:00", "2020-12-14T00:00:00", "2020-12-21T00:00:00", "2020-12-28T00:00:00", "2021-01-04T00:00:00", "2021-01-11T00:00:00", "2021-01-18T00:00:00", "2021-01-25T00:00:00", "2021-02-01T00:00:00", "2021-02-08T00:00:00", "2021-02-15T00:00:00", "2021-02-22T00:00:00", "2021-03-01T00:00:00", "2021-03-08T00:00:00", "2021-03-15T00:00:00", "2021-03-22T00:00:00", "2021-03-29T00:00:00", "2021-04-05T00:00:00", "2021-04-12T00:00:00", "2021-04-19T00:00:00", "2021-04-26T00:00:00", "2021-05-03T00:00:00", "2021-05-10T00:00:00", "2021-05-17T00:00:00", "2021-05-24T00:00:00", "2021-05-31T00:00:00", "2021-06-07T00:00:00", "2021-06-14T00:00:00", "2021-06-21T00:00:00"], "xaxis": "x2", "y": [1295.0, 932.0, 781.0, 508.0, 407.0, 373.0, 240.0, 321.0, 534.0, 240.0, 254.0, 200.0, 180.0, 296.0, 322.0, 515.0, 592.0, 571.0, 581.0, 683.0, 872.0, 1190.0, 1403.0, 1797.0, 3063.0, 5384.0, 9231.0, 14439.0, 17140.0, 18294.0, 21782.0, 24730.0, 28832.0, 36567.0, 44008.0, 37998.0, 34028.0, 41704.0, 33912.0, 25195.0, 18841.0, 14990.0, 11136.0, 11888.0, 12514.0, 12620.0, 15526.0, 20326.0, 26182.0, 24446.0, 25197.0, 28636.0, 27502.0, 24361.0, 20062.0, 13306.0, 9690.0, 4779.0, 3064.0, 1497.0, 734.0, 256.0], "yaxis": "y2"}, {"fill": "tozeroy", "fillcolor": "rgba(167,97,11,0.075)", "legendgroup": "West", "line": {"color": "#A7610B", "dash": "solid", "width": 2}, "marker": {"size": 6}, "mode": "lines", "name": "Detektionen (West)", "type": "scatter", "x": ["2020-04-20T00:00:00", "2020-04-27T00:00:00", "2020-05-04T00:00:00", "2020-05-11T00:00:00", "2020-05-18T00:00:00", "2020-05-25T00:00:00", "2020-06-01T00:00:00", "2020-06-08T00:00:00", "2020-06-15T00:00:00", "2020-06-22T00:00:00", "2020-06-29T00:00:00", "2020-07-06T00:00:00", "2020-07-13T00:00:00", "2020-07-20T00:00:00", "2020-07-27T00:00:00", "2020-08-03T00:00:00", "2020-08-10T00:00:00", "2020-08-17T00:00:00", "2020-08-24T00:00:00", "2020-08-31T00:00:00", "2020-09-07T00:00:00", "2020-09-14T00:00:00", "2020-09-21T00:00:00", "2020-09-28T00:00:00", "2020-10-05T00:00:00", "2020-10-12T00:00:00", "2020-10-19T00:00:00", "2020-10-26T00:00:00", "2020-11-02T00:00:00", "2020-11-09T00:00:00", "2020-11-16T00:00:00", "2020-11-23T00:00:00", "2020-11-30T00:00:00", "2020-12-07T00:00:00", "2020-12-14T00:00:00", "2020-12-21T00:00:00", "2020-12-28T00:00:00", "2021-01-04T00:00:00", "2021-01-11T00:00:00", "2021-01-18T00:00:00", "2021-01-25T00:00:00", "2021-02-01T00:00:00", "2021-02-08T00:00:00", "2021-02-15T00:00:00", "2021-02-22T00:00:00", "2021-03-01T00:00:00", "2021-03-08T00:00:00", "2021-03-15T00:00:00", "2021-03-22T00:00:00", "2021-03-29T00:00:00", "2021-04-05T00:00:00", "2021-04-12T00:00:00", "2021-04-19T00:00:00", "2021-04-26T00:00:00", "2021-05-03T00:00:00", "2021-05-10T00:00:00", "2021-05-17T00:00:00", "2021-05-24T00:00:00", "2021-05-31T00:00:00", "2021-06-07T00:00:00", "2021-06-14T00:00:00", "2021-06-21T00:00:00"], "xaxis": "x2", "y": [0.0, 3.784544784140379e-05, 2.2125035953183423e-05, 1.4588895349685402e-05, 7.207355621222573e-06, 0.0, 5.004524498679418e-05, 8.546304181279321e-05, 0.00021845820854201798, 7.673128703281109e-05, 0.00018824963694712875, 0.00011195264403157465, 0.00018106894349256125, 0.00018363138119049637, 0.00021011404990628913, 0.00021695839822713994, 0.00017542276887298392, 0.0002318111070636156, 0.0002236506576727152, 0.00024456662793529864, 0.0002023444041306168, 0.00041959550992842906, 0.0005649632017271732, 0.0005709292995818963, 0.0005636419944255187, 0.0005318761852170526, 0.00042481633589841483, 0.0006913117214229443, 0.0008584984336783679, 0.0008550294051079026, 0.000841055266894054, 0.0008859138445653508, 0.0008671797373684223, 0.0011792880728618601, 0.0011497590761981476, 0.0011346047815487222, 0.0007075214244225615, 0.0006603150646165456, 0.00033060260083041975, 0.0003704075568568816, 0.0003820105762356678, 0.00045215412271105564, 0.0005148615979860724, 0.0005578898062766098, 0.00026155983769450916, 0.00043795559547362464, 0.0006887662229044288, 0.0009025347482962354, 0.0007759043335535992, 0.0005208296071599763, 0.0008244730352240472, 0.0008192943827128885, 0.0005756781841465277, 0.0007125281028164776, 0.0007413639306310096, 0.0006640216221099626, 0.00031912711136776364, 0.0003640997633351538, 0.00048582321587207583, 0.0007795320298261189, 0.0008511400797383864, 0.00024258106250505377], "yaxis": "y3"}, {"legendgroup": "West", "line": {"color": "#455266", "dash": "dot", "width": 3}, "marker": {"size": 6}, "mode": "lines", "name": "best\u00e4tigte F\u00e4lle (West)", "type": "scatter", "x": ["2020-04-20T00:00:00", "2020-04-27T00:00:00", "2020-05-04T00:00:00", "2020-05-11T00:00:00", "2020-05-18T00:00:00", "2020-05-25T00:00:00", "2020-06-01T00:00:00", "2020-06-08T00:00:00", "2020-06-15T00:00:00", "2020-06-22T00:00:00", "2020-06-29T00:00:00", "2020-07-06T00:00:00", "2020-07-13T00:00:00", "2020-07-20T00:00:00", "2020-07-27T00:00:00", "2020-08-03T00:00:00", "2020-08-10T00:00:00", "2020-08-17T00:00:00", "2020-08-24T00:00:00", "2020-08-31T00:00:00", "2020-09-07T00:00:00", "2020-09-14T00:00:00", "2020-09-21T00:00:00", "2020-09-28T00:00:00", "2020-10-05T00:00:00", "2020-10-12T00:00:00", "2020-10-19T00:00:00", "2020-10-26T00:00:00", "2020-11-02T00:00:00", "2020-11-09T00:00:00", "2020-11-16T00:00:00", "2020-11-23T00:00:00", "2020-11-30T00:00:00", "2020-12-07T00:00:00", "2020-12-14T00:00:00", "2020-12-21T00:00:00", "2020-12-28T00:00:00", "2021-01-04T00:00:00", "2021-01-11T00:00:00", "2021-01-18T00:00:00", "2021-01-25T00:00:00", "2021-02-01T00:00:00", "2021-02-08T00:00:00", "2021-02-15T00:00:00", "2021-02-22T00:00:00", "2021-03-01T00:00:00", "2021-03-08T00:00:00", "2021-03-15T00:00:00", "2021-03-22T00:00:00", "2021-03-29T00:00:00", "2021-04-05T00:00:00", "2021-04-12T00:00:00", "2021-04-19T00:00:00", "2021-04-26T00:00:00", "2021-05-03T00:00:00", "2021-05-10T00:00:00", "2021-05-17T00:00:00", "2021-05-24T00:00:00", "2021-05-31T00:00:00", "2021-06-07T00:00:00", "2021-06-14T00:00:00", "2021-06-21T00:00:00"], "xaxis": "x2", "y": [11060.0, 6506.0, 5457.0, 4255.0, 3192.0, 2831.0, 2111.0, 2022.0, 3590.0, 2974.0, 2435.0, 2228.0, 2841.0, 3632.0, 4505.0, 5541.0, 7358.0, 9023.0, 8243.0, 7936.0, 8895.0, 11100.0, 11656.0, 14125.0, 23050.0, 36671.0, 65587.0, 96584.0, 108618.0, 109458.0, 106576.0, 98485.0, 99598.0, 119773.0, 130776.0, 101004.0, 89076.0, 103832.0, 85093.0, 70383.0, 59314.0, 49611.0, 39677.0, 40550.0, 43881.0, 45775.0, 55832.0, 72284.0, 90221.0, 85703.0, 93110.0, 113472.0, 117473.0, 100538.0, 81076.0, 57592.0, 43137.0, 25148.0, 17677.0, 12567.0, 6531.0, 2013.0], "yaxis": "y4"}],                        {"annotations": [{"font": {"size": 16}, "showarrow": false, "text": "Ostdeutschland", "x": 0.47, "xanchor": "center", "xref": "paper", "y": 1.0, "yanchor": "bottom", "yref": "paper"}, {"font": {"size": 16}, "showarrow": false, "text": "Westdeutschland", "x": 0.47, "xanchor": "center", "xref": "paper", "y": 0.45, "yanchor": "bottom", "yref": "paper"}], "autosize": true, "font": {"size": 12}, "height": 600, "hoverlabel": {"font": {"color": "black"}, "namelength": -1}, "hovermode": "x unified", "legend": {"font": {"size": 11}, "itemclick": "toggleothers", "itemdoubleclick": "toggle", "tracegroupgap": 2, "yanchor": "auto"}, "margin": {"b": 75, "l": 85, "pad": 0, "r": 60, "t": 85}, "showlegend": true, "template": {"data": {"bar": [{"error_x": {"color": "#2a3f5f"}, "error_y": {"color": "#2a3f5f"}, "marker": {"line": {"color": "white", "width": 0.5}}, "type": "bar"}], "barpolar": [{"marker": {"line": {"color": "white", "width": 0.5}}, "type": "barpolar"}], "carpet": [{"aaxis": {"endlinecolor": "#2a3f5f", "gridcolor": "#C8D4E3", "linecolor": "#C8D4E3", "minorgridcolor": "#C8D4E3", "startlinecolor": "#2a3f5f"}, "baxis": {"endlinecolor": "#2a3f5f", "gridcolor": "#C8D4E3", "linecolor": "#C8D4E3", "minorgridcolor": "#C8D4E3", "startlinecolor": "#2a3f5f"}, "type": "carpet"}], "choropleth": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "type": "choropleth"}], "contour": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "contour"}], "contourcarpet": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "type": "contourcarpet"}], "heatmap": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "heatmap"}], "heatmapgl": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "heatmapgl"}], "histogram": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "histogram"}], "histogram2d": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "histogram2d"}], "histogram2dcontour": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "histogram2dcontour"}], "mesh3d": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "type": "mesh3d"}], "parcoords": [{"line": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "parcoords"}], "pie": [{"automargin": true, "type": "pie"}], "scatter": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scatter"}], "scatter3d": [{"line": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scatter3d"}], "scattercarpet": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scattercarpet"}], "scattergeo": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scattergeo"}], "scattergl": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scattergl"}], "scattermapbox": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scattermapbox"}], "scatterpolar": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scatterpolar"}], "scatterpolargl": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scatterpolargl"}], "scatterternary": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scatterternary"}], "surface": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "surface"}], "table": [{"cells": {"fill": {"color": "#EBF0F8"}, "line": {"color": "white"}}, "header": {"fill": {"color": "#C8D4E3"}, "line": {"color": "white"}}, "type": "table"}]}, "layout": {"annotationdefaults": {"arrowcolor": "#2a3f5f", "arrowhead": 0, "arrowwidth": 1}, "autotypenumbers": "strict", "coloraxis": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "colorscale": {"diverging": [[0, "#8e0152"], [0.1, "#c51b7d"], [0.2, "#de77ae"], [0.3, "#f1b6da"], [0.4, "#fde0ef"], [0.5, "#f7f7f7"], [0.6, "#e6f5d0"], [0.7, "#b8e186"], [0.8, "#7fbc41"], [0.9, "#4d9221"], [1, "#276419"]], "sequential": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "sequentialminus": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]]}, "colorway": ["#636efa", "#EF553B", "#00cc96", "#ab63fa", "#FFA15A", "#19d3f3", "#FF6692", "#B6E880", "#FF97FF", "#FECB52"], "font": {"color": "#2a3f5f"}, "geo": {"bgcolor": "white", "lakecolor": "white", "landcolor": "white", "showlakes": true, "showland": true, "subunitcolor": "#C8D4E3"}, "hoverlabel": {"align": "left"}, "hovermode": "closest", "mapbox": {"style": "light"}, "paper_bgcolor": "white", "plot_bgcolor": "white", "polar": {"angularaxis": {"gridcolor": "#EBF0F8", "linecolor": "#EBF0F8", "ticks": ""}, "bgcolor": "white", "radialaxis": {"gridcolor": "#EBF0F8", "linecolor": "#EBF0F8", "ticks": ""}}, "scene": {"xaxis": {"backgroundcolor": "white", "gridcolor": "#DFE8F3", "gridwidth": 2, "linecolor": "#EBF0F8", "showbackground": true, "ticks": "", "zerolinecolor": "#EBF0F8"}, "yaxis": {"backgroundcolor": "white", "gridcolor": "#DFE8F3", "gridwidth": 2, "linecolor": "#EBF0F8", "showbackground": true, "ticks": "", "zerolinecolor": "#EBF0F8"}, "zaxis": {"backgroundcolor": "white", "gridcolor": "#DFE8F3", "gridwidth": 2, "linecolor": "#EBF0F8", "showbackground": true, "ticks": "", "zerolinecolor": "#EBF0F8"}}, "shapedefaults": {"line": {"color": "#2a3f5f"}}, "ternary": {"aaxis": {"gridcolor": "#DFE8F3", "linecolor": "#A2B1C6", "ticks": ""}, "baxis": {"gridcolor": "#DFE8F3", "linecolor": "#A2B1C6", "ticks": ""}, "bgcolor": "white", "caxis": {"gridcolor": "#DFE8F3", "linecolor": "#A2B1C6", "ticks": ""}}, "title": {"x": 0.05}, "xaxis": {"automargin": true, "gridcolor": "#EBF0F8", "linecolor": "#EBF0F8", "ticks": "", "title": {"standoff": 15}, "zerolinecolor": "#EBF0F8", "zerolinewidth": 2}, "yaxis": {"automargin": true, "gridcolor": "#EBF0F8", "linecolor": "#EBF0F8", "ticks": "", "title": {"standoff": 15}, "zerolinecolor": "#EBF0F8", "zerolinewidth": 2}}}, "title": {"x": 0.5, "xanchor": "center", "y": 0.92, "yanchor": "top"}, "width": 1000, "xaxis": {"anchor": "y", "domain": [0.0, 0.94], "fixedrange": true, "linecolor": "#455266", "linewidth": 1.5, "matches": "x2", "rangemode": "normal", "showline": false, "showticklabels": false, "ticks": "outside", "tickwidth": 0}, "xaxis2": {"anchor": "y3", "domain": [0.0, 0.94]}, "yaxis": {"anchor": "x", "domain": [0.55, 1.0], "fixedrange": true, "linecolor": "#455266", "linewidth": 1.5, "rangemode": "normal", "showline": false, "tickformat": ".4f", "ticks": "outside", "tickwidth": 0}, "yaxis2": {"anchor": "x", "overlaying": "y", "side": "right"}, "yaxis3": {"anchor": "x2", "domain": [0.0, 0.45], "tickformat": ".4f", "title": {"text": "Detektionsrate"}}, "yaxis4": {"anchor": "x2", "overlaying": "y3", "side": "right", "title": {"text": "best\u00e4tigte F\u00e4lle"}}},                        {"responsive": "true", "displayModeBar": false}                    )                };                            </script>        </div>
+ 	<figcaption>
+ 		<div class="pa4 tl f4 lh-copy" style= "text-align:justify"><strong>Wöchentliche Erkennungsrate in West- und Ostdeutschland</strong> im Vergleich zu bestätigten Fallzahlen</div>	
+ 	</figcaption>
+ </figure>
+</section>
+
+<p>Weitere Informationen zur Demografie der Spender:innen, einschließlich eines Vergleichs der Alters- und
+Geschlechterverteilung zum bundesdeutschen Durchschnitt finden Sie in unserem früheren Beitrag:
+<a href="https://corona-datenspende.de/reports/demographie/">Demographics des Spenders</a>.</p>
+<h2 id="vergleich-mit-anderen-datenquellen">Vergleich mit anderen Datenquellen</h2>
+<p>Nun vergleichen wir die wöchentlich aggregierte Detektionskurve mit den drei folgenden Datenquellen:</p>
+
+<div style="text-align: center;">
+  
+<ul>
+    <strong>i)</strong> die bestätigten Fallzahlen wie bisher, <br/>
+    <strong>ii)</strong> die Testpositivenrate und <br/>
+    <strong>iii)</strong> die Anzahl der COVID-19-Patienten auf der Intensivstation.
+</ul>
+
+</div>
+
+<section class="center mw10 mw10-ns">
+ <figure>
+ 	<div>                        <script type="text/javascript">window.PlotlyConfig = {MathJaxConfig: 'local'};</script>
+        <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>                <div id="f50f0f00-8147-4d10-9280-a6dd75e1df5f" class="plotly-graph-div" style="height:800px; width:1000px;"></div>            <script type="text/javascript">                                    window.PLOTLYENV=window.PLOTLYENV || {};                                    if (document.getElementById("f50f0f00-8147-4d10-9280-a6dd75e1df5f")) {                    Plotly.newPlot(                        "f50f0f00-8147-4d10-9280-a6dd75e1df5f",                        [{"line": {"color": "#455266", "dash": "dot", "width": 3}, "marker": {"size": 6}, "mode": "lines", "name": "Detektionsrate", "type": "scatter", "x": ["2020-04-20T00:00:00", "2020-04-27T00:00:00", "2020-05-04T00:00:00", "2020-05-11T00:00:00", "2020-05-18T00:00:00", "2020-05-25T00:00:00", "2020-06-01T00:00:00", "2020-06-08T00:00:00", "2020-06-15T00:00:00", "2020-06-22T00:00:00", "2020-06-29T00:00:00", "2020-07-06T00:00:00", "2020-07-13T00:00:00", "2020-07-20T00:00:00", "2020-07-27T00:00:00", "2020-08-03T00:00:00", "2020-08-10T00:00:00", "2020-08-17T00:00:00", "2020-08-24T00:00:00", "2020-08-31T00:00:00", "2020-09-07T00:00:00", "2020-09-14T00:00:00", "2020-09-21T00:00:00", "2020-09-28T00:00:00", "2020-10-05T00:00:00", "2020-10-12T00:00:00", "2020-10-19T00:00:00", "2020-10-26T00:00:00", "2020-11-02T00:00:00", "2020-11-09T00:00:00", "2020-11-16T00:00:00", "2020-11-23T00:00:00", "2020-11-30T00:00:00", "2020-12-07T00:00:00", "2020-12-14T00:00:00", "2020-12-21T00:00:00", "2020-12-28T00:00:00", "2021-01-04T00:00:00", "2021-01-11T00:00:00", "2021-01-18T00:00:00", "2021-01-25T00:00:00", "2021-02-01T00:00:00", "2021-02-08T00:00:00", "2021-02-15T00:00:00", "2021-02-22T00:00:00", "2021-03-01T00:00:00", "2021-03-08T00:00:00", "2021-03-15T00:00:00", "2021-03-22T00:00:00", "2021-03-29T00:00:00", "2021-04-05T00:00:00", "2021-04-12T00:00:00", "2021-04-19T00:00:00", "2021-04-26T00:00:00", "2021-05-03T00:00:00", "2021-05-10T00:00:00", "2021-05-17T00:00:00", "2021-05-24T00:00:00", "2021-05-31T00:00:00", "2021-06-07T00:00:00", "2021-06-14T00:00:00", "2021-06-21T00:00:00"], "xaxis": "x3", "y": [0.0, 4.0281664745295196e-05, 3.270303680399762e-05, 1.2939097516432654e-05, 6.392764121615945e-06, 0.0, 4.437059406792323e-05, 8.207344581303669e-05, 0.00019988577955454027, 8.656807916915844e-05, 0.00021019610059738085, 0.00011787028773643848, 0.00017285947494816422, 0.00018156871794596584, 0.0002381418134499094, 0.00020589870372058957, 0.00018033544168857935, 0.00024904052689860045, 0.00020440904107382884, 0.00024145595286213749, 0.00019780873837763277, 0.0004276243563500889, 0.0005319267818429699, 0.0005691077474534687, 0.0005441114340216876, 0.0005307734886224911, 0.0004310188954383345, 0.0006474339898823359, 0.0008617657404150546, 0.00078693726561572, 0.0009195497137670813, 0.0008854722629697275, 0.0009418942816953645, 0.0012523811872160783, 0.0012696139071554137, 0.0011686280964529668, 0.0006511146462634844, 0.0006593286055617288, 0.00036762862824390487, 0.0004536812996889043, 0.0004224043254202923, 0.0005021936011050691, 0.0005243986608798599, 0.0005196064846889289, 0.000248661758761346, 0.00045656481128244255, 0.000731558019518167, 0.0010093183277162575, 0.0007748544632120233, 0.0005231689088191331, 0.0008108880382430245, 0.0008522068660934345, 0.0005825278066007682, 0.0006492802395412972, 0.0007952801050509534, 0.0007189801420085824, 0.0003486975674642282, 0.0003794963541243122, 0.0004305178377890791, 0.0007587032011438909, 0.0008630707746379071, 0.000276327909118821], "yaxis": "y"}, {"line": {"color": "#223692", "width": 2}, "marker": {"size": 6}, "mode": "lines", "name": "best\u00e4tigte F\u00e4lle", "type": "scatter", "x": ["2020-04-20T00:00:00", "2020-04-27T00:00:00", "2020-05-04T00:00:00", "2020-05-11T00:00:00", "2020-05-18T00:00:00", "2020-05-25T00:00:00", "2020-06-01T00:00:00", "2020-06-08T00:00:00", "2020-06-15T00:00:00", "2020-06-22T00:00:00", "2020-06-29T00:00:00", "2020-07-06T00:00:00", "2020-07-13T00:00:00", "2020-07-20T00:00:00", "2020-07-27T00:00:00", "2020-08-03T00:00:00", "2020-08-10T00:00:00", "2020-08-17T00:00:00", "2020-08-24T00:00:00", "2020-08-31T00:00:00", "2020-09-07T00:00:00", "2020-09-14T00:00:00", "2020-09-21T00:00:00", "2020-09-28T00:00:00", "2020-10-05T00:00:00", "2020-10-12T00:00:00", "2020-10-19T00:00:00", "2020-10-26T00:00:00", "2020-11-02T00:00:00", "2020-11-09T00:00:00", "2020-11-16T00:00:00", "2020-11-23T00:00:00", "2020-11-30T00:00:00", "2020-12-07T00:00:00", "2020-12-14T00:00:00", "2020-12-21T00:00:00", "2020-12-28T00:00:00", "2021-01-04T00:00:00", "2021-01-11T00:00:00", "2021-01-18T00:00:00", "2021-01-25T00:00:00", "2021-02-01T00:00:00", "2021-02-08T00:00:00", "2021-02-15T00:00:00", "2021-02-22T00:00:00", "2021-03-01T00:00:00", "2021-03-08T00:00:00", "2021-03-15T00:00:00", "2021-03-22T00:00:00", "2021-03-29T00:00:00", "2021-04-05T00:00:00", "2021-04-12T00:00:00", "2021-04-19T00:00:00", "2021-04-26T00:00:00", "2021-05-03T00:00:00", "2021-05-10T00:00:00", "2021-05-17T00:00:00", "2021-05-24T00:00:00", "2021-05-31T00:00:00", "2021-06-07T00:00:00", "2021-06-14T00:00:00", "2021-06-21T00:00:00"], "xaxis": "x3", "y": [12355, 7438, 6238, 4763, 3600, 3205, 2351, 2343, 4126, 3216, 2688, 2427, 3021, 3928, 4829, 6055, 7951, 9597, 8823, 8619, 9766, 12289, 13059, 15921, 26113, 42055, 74802, 111022, 125756, 127755, 128360, 123209, 128425, 156341, 174774, 138992, 123088, 145552, 118977, 95579, 78155, 64593, 50811, 52439, 56381, 58390, 71339, 92606, 116394, 110140, 118295, 142085, 144955, 124881, 101115, 70888, 52794, 29930, 20746, 14058, 7268, 4772], "yaxis": "y2"}, {"line": {"color": "#455266", "dash": "dot", "width": 3}, "marker": {"size": 6}, "mode": "lines", "name": "Detektionsrate", "type": "scatter", "x": ["2020-04-20T00:00:00", "2020-04-27T00:00:00", "2020-05-04T00:00:00", "2020-05-11T00:00:00", "2020-05-18T00:00:00", "2020-05-25T00:00:00", "2020-06-01T00:00:00", "2020-06-08T00:00:00", "2020-06-15T00:00:00", "2020-06-22T00:00:00", "2020-06-29T00:00:00", "2020-07-06T00:00:00", "2020-07-13T00:00:00", "2020-07-20T00:00:00", "2020-07-27T00:00:00", "2020-08-03T00:00:00", "2020-08-10T00:00:00", "2020-08-17T00:00:00", "2020-08-24T00:00:00", "2020-08-31T00:00:00", "2020-09-07T00:00:00", "2020-09-14T00:00:00", "2020-09-21T00:00:00", "2020-09-28T00:00:00", "2020-10-05T00:00:00", "2020-10-12T00:00:00", "2020-10-19T00:00:00", "2020-10-26T00:00:00", "2020-11-02T00:00:00", "2020-11-09T00:00:00", "2020-11-16T00:00:00", "2020-11-23T00:00:00", "2020-11-30T00:00:00", "2020-12-07T00:00:00", "2020-12-14T00:00:00", "2020-12-21T00:00:00", "2020-12-28T00:00:00", "2021-01-04T00:00:00", "2021-01-11T00:00:00", "2021-01-18T00:00:00", "2021-01-25T00:00:00", "2021-02-01T00:00:00", "2021-02-08T00:00:00", "2021-02-15T00:00:00", "2021-02-22T00:00:00", "2021-03-01T00:00:00", "2021-03-08T00:00:00", "2021-03-15T00:00:00", "2021-03-22T00:00:00", "2021-03-29T00:00:00", "2021-04-05T00:00:00", "2021-04-12T00:00:00", "2021-04-19T00:00:00", "2021-04-26T00:00:00", "2021-05-03T00:00:00", "2021-05-10T00:00:00", "2021-05-17T00:00:00", "2021-05-24T00:00:00", "2021-05-31T00:00:00", "2021-06-07T00:00:00", "2021-06-14T00:00:00", "2021-06-21T00:00:00"], "xaxis": "x3", "y": [0.0, 4.0281664745295196e-05, 3.270303680399762e-05, 1.2939097516432654e-05, 6.392764121615945e-06, 0.0, 4.437059406792323e-05, 8.207344581303669e-05, 0.00019988577955454027, 8.656807916915844e-05, 0.00021019610059738085, 0.00011787028773643848, 0.00017285947494816422, 0.00018156871794596584, 0.0002381418134499094, 0.00020589870372058957, 0.00018033544168857935, 0.00024904052689860045, 0.00020440904107382884, 0.00024145595286213749, 0.00019780873837763277, 0.0004276243563500889, 0.0005319267818429699, 0.0005691077474534687, 0.0005441114340216876, 0.0005307734886224911, 0.0004310188954383345, 0.0006474339898823359, 0.0008617657404150546, 0.00078693726561572, 0.0009195497137670813, 0.0008854722629697275, 0.0009418942816953645, 0.0012523811872160783, 0.0012696139071554137, 0.0011686280964529668, 0.0006511146462634844, 0.0006593286055617288, 0.00036762862824390487, 0.0004536812996889043, 0.0004224043254202923, 0.0005021936011050691, 0.0005243986608798599, 0.0005196064846889289, 0.000248661758761346, 0.00045656481128244255, 0.000731558019518167, 0.0010093183277162575, 0.0007748544632120233, 0.0005231689088191331, 0.0008108880382430245, 0.0008522068660934345, 0.0005825278066007682, 0.0006492802395412972, 0.0007952801050509534, 0.0007189801420085824, 0.0003486975674642282, 0.0003794963541243122, 0.0004305178377890791, 0.0007587032011438909, 0.0008630707746379071, 0.000276327909118821], "yaxis": "y3"}, {"line": {"color": "#48B7C3", "width": 2}, "marker": {"size": 6}, "mode": "lines", "name": "Positivenrate", "type": "scatter", "x": ["2020-04-20T00:00:00", "2020-04-27T00:00:00", "2020-05-04T00:00:00", "2020-05-11T00:00:00", "2020-05-18T00:00:00", "2020-05-25T00:00:00", "2020-06-01T00:00:00", "2020-06-08T00:00:00", "2020-06-15T00:00:00", "2020-06-22T00:00:00", "2020-06-29T00:00:00", "2020-07-06T00:00:00", "2020-07-13T00:00:00", "2020-07-20T00:00:00", "2020-07-27T00:00:00", "2020-08-03T00:00:00", "2020-08-10T00:00:00", "2020-08-17T00:00:00", "2020-08-24T00:00:00", "2020-08-31T00:00:00", "2020-09-07T00:00:00", "2020-09-14T00:00:00", "2020-09-21T00:00:00", "2020-09-28T00:00:00", "2020-10-05T00:00:00", "2020-10-12T00:00:00", "2020-10-19T00:00:00", "2020-10-26T00:00:00", "2020-11-02T00:00:00", "2020-11-09T00:00:00", "2020-11-16T00:00:00", "2020-11-23T00:00:00", "2020-11-30T00:00:00", "2020-12-07T00:00:00", "2020-12-14T00:00:00", "2020-12-21T00:00:00", "2020-12-28T00:00:00", "2021-01-04T00:00:00", "2021-01-11T00:00:00", "2021-01-18T00:00:00", "2021-01-25T00:00:00", "2021-02-01T00:00:00", "2021-02-08T00:00:00", "2021-02-15T00:00:00", "2021-02-22T00:00:00", "2021-03-01T00:00:00", "2021-03-08T00:00:00", "2021-03-15T00:00:00", "2021-03-22T00:00:00", "2021-03-29T00:00:00", "2021-04-05T00:00:00", "2021-04-12T00:00:00", "2021-04-19T00:00:00", "2021-04-26T00:00:00", "2021-05-03T00:00:00", "2021-05-10T00:00:00", "2021-05-17T00:00:00", "2021-05-24T00:00:00", "2021-05-31T00:00:00", "2021-06-07T00:00:00", "2021-06-14T00:00:00", "2021-06-21T00:00:00"], "xaxis": "x3", "y": [0.049846147077344444, 0.038438189256221035, 0.026400406598934754, 0.01654458606103567, 0.01490929593900513, 0.010622969138252981, 0.009403262368255007, 0.009012744679553632, 0.01452054652135726, 0.008288513883630872, 0.006245991473168944, 0.0059232201132460496, 0.006629684005887336, 0.008150777710308749, 0.00999319417312598, 0.010249125752631084, 0.009808411703059376, 0.00857267975511601, 0.00729784064014227, 0.0077905525660482726, 0.00905817765452147, 0.011888883758654005, 0.012438139146867233, 0.01765080455962881, 0.024791056187591677, 0.03581581018866367, 0.05541269475593633, 0.07098050952168039, 0.07862893482650642, 0.08789781485484383, 0.09369386742087427, 0.09331722077130322, 0.099087255246133, 0.1118177776546498, 0.11260722724970142, 0.12969243524228427, 0.1536307729781053, 0.12812356617035012, 0.10444658140529689, 0.09891711337984538, 0.08456079323881827, 0.07483983190179927, 0.06400327361253326, 0.0610742446504857, 0.06149438725787209, 0.06218405056925091, 0.06691535486895044, 0.07889286689036236, 0.09311414789525232, 0.10932211065186975, 0.12050773400825987, 0.1245343219041263, 0.12415421512564545, 0.11174905948742066, 0.10249784188245188, 0.08208249148609555, 0.057658717559331156, 0.041408295001143604, 0.03116507462857208, 0.02318207807058579, 0.014447218440926113], "yaxis": "y4"}, {"line": {"color": "#455266", "dash": "dot", "width": 3}, "marker": {"size": 6}, "mode": "lines", "name": "Detektionsrate", "type": "scatter", "x": ["2020-04-20T00:00:00", "2020-04-27T00:00:00", "2020-05-04T00:00:00", "2020-05-11T00:00:00", "2020-05-18T00:00:00", "2020-05-25T00:00:00", "2020-06-01T00:00:00", "2020-06-08T00:00:00", "2020-06-15T00:00:00", "2020-06-22T00:00:00", "2020-06-29T00:00:00", "2020-07-06T00:00:00", "2020-07-13T00:00:00", "2020-07-20T00:00:00", "2020-07-27T00:00:00", "2020-08-03T00:00:00", "2020-08-10T00:00:00", "2020-08-17T00:00:00", "2020-08-24T00:00:00", "2020-08-31T00:00:00", "2020-09-07T00:00:00", "2020-09-14T00:00:00", "2020-09-21T00:00:00", "2020-09-28T00:00:00", "2020-10-05T00:00:00", "2020-10-12T00:00:00", "2020-10-19T00:00:00", "2020-10-26T00:00:00", "2020-11-02T00:00:00", "2020-11-09T00:00:00", "2020-11-16T00:00:00", "2020-11-23T00:00:00", "2020-11-30T00:00:00", "2020-12-07T00:00:00", "2020-12-14T00:00:00", "2020-12-21T00:00:00", "2020-12-28T00:00:00", "2021-01-04T00:00:00", "2021-01-11T00:00:00", "2021-01-18T00:00:00", "2021-01-25T00:00:00", "2021-02-01T00:00:00", "2021-02-08T00:00:00", "2021-02-15T00:00:00", "2021-02-22T00:00:00", "2021-03-01T00:00:00", "2021-03-08T00:00:00", "2021-03-15T00:00:00", "2021-03-22T00:00:00", "2021-03-29T00:00:00", "2021-04-05T00:00:00", "2021-04-12T00:00:00", "2021-04-19T00:00:00", "2021-04-26T00:00:00", "2021-05-03T00:00:00", "2021-05-10T00:00:00", "2021-05-17T00:00:00", "2021-05-24T00:00:00", "2021-05-31T00:00:00", "2021-06-07T00:00:00", "2021-06-14T00:00:00", "2021-06-21T00:00:00"], "xaxis": "x3", "y": [0.0, 4.0281664745295196e-05, 3.270303680399762e-05, 1.2939097516432654e-05, 6.392764121615945e-06, 0.0, 4.437059406792323e-05, 8.207344581303669e-05, 0.00019988577955454027, 8.656807916915844e-05, 0.00021019610059738085, 0.00011787028773643848, 0.00017285947494816422, 0.00018156871794596584, 0.0002381418134499094, 0.00020589870372058957, 0.00018033544168857935, 0.00024904052689860045, 0.00020440904107382884, 0.00024145595286213749, 0.00019780873837763277, 0.0004276243563500889, 0.0005319267818429699, 0.0005691077474534687, 0.0005441114340216876, 0.0005307734886224911, 0.0004310188954383345, 0.0006474339898823359, 0.0008617657404150546, 0.00078693726561572, 0.0009195497137670813, 0.0008854722629697275, 0.0009418942816953645, 0.0012523811872160783, 0.0012696139071554137, 0.0011686280964529668, 0.0006511146462634844, 0.0006593286055617288, 0.00036762862824390487, 0.0004536812996889043, 0.0004224043254202923, 0.0005021936011050691, 0.0005243986608798599, 0.0005196064846889289, 0.000248661758761346, 0.00045656481128244255, 0.000731558019518167, 0.0010093183277162575, 0.0007748544632120233, 0.0005231689088191331, 0.0008108880382430245, 0.0008522068660934345, 0.0005825278066007682, 0.0006492802395412972, 0.0007952801050509534, 0.0007189801420085824, 0.0003486975674642282, 0.0003794963541243122, 0.0004305178377890791, 0.0007587032011438909, 0.0008630707746379071, 0.000276327909118821], "yaxis": "y5"}, {"line": {"color": "#e55299", "width": 2}, "marker": {"size": 6}, "mode": "lines", "name": "ITS F\u00e4llen", "type": "scatter", "x": ["2020-04-20T00:00:00", "2020-04-27T00:00:00", "2020-05-04T00:00:00", "2020-05-11T00:00:00", "2020-05-18T00:00:00", "2020-05-25T00:00:00", "2020-06-01T00:00:00", "2020-06-08T00:00:00", "2020-06-15T00:00:00", "2020-06-22T00:00:00", "2020-06-29T00:00:00", "2020-07-06T00:00:00", "2020-07-13T00:00:00", "2020-07-20T00:00:00", "2020-07-27T00:00:00", "2020-08-03T00:00:00", "2020-08-10T00:00:00", "2020-08-17T00:00:00", "2020-08-24T00:00:00", "2020-08-31T00:00:00", "2020-09-07T00:00:00", "2020-09-14T00:00:00", "2020-09-21T00:00:00", "2020-09-28T00:00:00", "2020-10-05T00:00:00", "2020-10-12T00:00:00", "2020-10-19T00:00:00", "2020-10-26T00:00:00", "2020-11-02T00:00:00", "2020-11-09T00:00:00", "2020-11-16T00:00:00", "2020-11-23T00:00:00", "2020-11-30T00:00:00", "2020-12-07T00:00:00", "2020-12-14T00:00:00", "2020-12-21T00:00:00", "2020-12-28T00:00:00", "2021-01-04T00:00:00", "2021-01-11T00:00:00", "2021-01-18T00:00:00", "2021-01-25T00:00:00", "2021-02-01T00:00:00", "2021-02-08T00:00:00", "2021-02-15T00:00:00", "2021-02-22T00:00:00", "2021-03-01T00:00:00", "2021-03-08T00:00:00", "2021-03-15T00:00:00", "2021-03-22T00:00:00", "2021-03-29T00:00:00", "2021-04-05T00:00:00", "2021-04-12T00:00:00", "2021-04-19T00:00:00", "2021-04-26T00:00:00", "2021-05-03T00:00:00", "2021-05-10T00:00:00", "2021-05-17T00:00:00", "2021-05-24T00:00:00", "2021-05-31T00:00:00", "2021-06-07T00:00:00", "2021-06-14T00:00:00", "2021-06-21T00:00:00"], "xaxis": "x3", "y": [37840, 31154, 24636, 18626, 14044, 10590, 8648, 6646, 5478, 4938, 4488, 3878, 3514, 3450, 3612, 3366, 3164, 3214, 3290, 3166, 3188, 3376, 4098, 5220, 6870, 9276, 14562, 23778, 36538, 44658, 49968, 53370, 55768, 60826, 67758, 74690, 79004, 77128, 71472, 66984, 62248, 57784, 51266, 44814, 40838, 39226, 38670, 40664, 45770, 52650, 61934, 65826, 69900, 70470, 66708, 59870, 50466, 40000, 29202, 21300, 15128, 10914], "yaxis": "y6"}],                        {"annotations": [{"font": {"size": 16}, "showarrow": false, "text": "Detektionsrate vgl. mit Fallzahlen", "x": 0.47, "xanchor": "center", "xref": "paper", "y": 1.0, "yanchor": "bottom", "yref": "paper"}, {"font": {"size": 16}, "showarrow": false, "text": "Detektionsrate vgl. mit positiver Testrate", "x": 0.47, "xanchor": "center", "xref": "paper", "y": 0.6333333333333333, "yanchor": "bottom", "yref": "paper"}, {"font": {"size": 16}, "showarrow": false, "text": "Detektionsrate vgl. mit ITS F\u00e4llen", "x": 0.47, "xanchor": "center", "xref": "paper", "y": 0.26666666666666666, "yanchor": "bottom", "yref": "paper"}], "autosize": true, "font": {"size": 12}, "height": 800, "hoverlabel": {"font": {"color": "black"}, "namelength": -1}, "hovermode": "x unified", "legend": {"font": {"size": 11}, "itemclick": "toggleothers", "itemdoubleclick": "toggle", "tracegroupgap": 2, "yanchor": "auto"}, "margin": {"b": 75, "l": 85, "pad": 0, "r": 60, "t": 85}, "showlegend": true, "template": {"data": {"bar": [{"error_x": {"color": "#2a3f5f"}, "error_y": {"color": "#2a3f5f"}, "marker": {"line": {"color": "white", "width": 0.5}}, "type": "bar"}], "barpolar": [{"marker": {"line": {"color": "white", "width": 0.5}}, "type": "barpolar"}], "carpet": [{"aaxis": {"endlinecolor": "#2a3f5f", "gridcolor": "#C8D4E3", "linecolor": "#C8D4E3", "minorgridcolor": "#C8D4E3", "startlinecolor": "#2a3f5f"}, "baxis": {"endlinecolor": "#2a3f5f", "gridcolor": "#C8D4E3", "linecolor": "#C8D4E3", "minorgridcolor": "#C8D4E3", "startlinecolor": "#2a3f5f"}, "type": "carpet"}], "choropleth": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "type": "choropleth"}], "contour": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "contour"}], "contourcarpet": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "type": "contourcarpet"}], "heatmap": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "heatmap"}], "heatmapgl": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "heatmapgl"}], "histogram": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "histogram"}], "histogram2d": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "histogram2d"}], "histogram2dcontour": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "histogram2dcontour"}], "mesh3d": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "type": "mesh3d"}], "parcoords": [{"line": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "parcoords"}], "pie": [{"automargin": true, "type": "pie"}], "scatter": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scatter"}], "scatter3d": [{"line": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scatter3d"}], "scattercarpet": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scattercarpet"}], "scattergeo": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scattergeo"}], "scattergl": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scattergl"}], "scattermapbox": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scattermapbox"}], "scatterpolar": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scatterpolar"}], "scatterpolargl": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scatterpolargl"}], "scatterternary": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scatterternary"}], "surface": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "surface"}], "table": [{"cells": {"fill": {"color": "#EBF0F8"}, "line": {"color": "white"}}, "header": {"fill": {"color": "#C8D4E3"}, "line": {"color": "white"}}, "type": "table"}]}, "layout": {"annotationdefaults": {"arrowcolor": "#2a3f5f", "arrowhead": 0, "arrowwidth": 1}, "autotypenumbers": "strict", "coloraxis": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "colorscale": {"diverging": [[0, "#8e0152"], [0.1, "#c51b7d"], [0.2, "#de77ae"], [0.3, "#f1b6da"], [0.4, "#fde0ef"], [0.5, "#f7f7f7"], [0.6, "#e6f5d0"], [0.7, "#b8e186"], [0.8, "#7fbc41"], [0.9, "#4d9221"], [1, "#276419"]], "sequential": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "sequentialminus": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]]}, "colorway": ["#636efa", "#EF553B", "#00cc96", "#ab63fa", "#FFA15A", "#19d3f3", "#FF6692", "#B6E880", "#FF97FF", "#FECB52"], "font": {"color": "#2a3f5f"}, "geo": {"bgcolor": "white", "lakecolor": "white", "landcolor": "white", "showlakes": true, "showland": true, "subunitcolor": "#C8D4E3"}, "hoverlabel": {"align": "left"}, "hovermode": "closest", "mapbox": {"style": "light"}, "paper_bgcolor": "white", "plot_bgcolor": "white", "polar": {"angularaxis": {"gridcolor": "#EBF0F8", "linecolor": "#EBF0F8", "ticks": ""}, "bgcolor": "white", "radialaxis": {"gridcolor": "#EBF0F8", "linecolor": "#EBF0F8", "ticks": ""}}, "scene": {"xaxis": {"backgroundcolor": "white", "gridcolor": "#DFE8F3", "gridwidth": 2, "linecolor": "#EBF0F8", "showbackground": true, "ticks": "", "zerolinecolor": "#EBF0F8"}, "yaxis": {"backgroundcolor": "white", "gridcolor": "#DFE8F3", "gridwidth": 2, "linecolor": "#EBF0F8", "showbackground": true, "ticks": "", "zerolinecolor": "#EBF0F8"}, "zaxis": {"backgroundcolor": "white", "gridcolor": "#DFE8F3", "gridwidth": 2, "linecolor": "#EBF0F8", "showbackground": true, "ticks": "", "zerolinecolor": "#EBF0F8"}}, "shapedefaults": {"line": {"color": "#2a3f5f"}}, "ternary": {"aaxis": {"gridcolor": "#DFE8F3", "linecolor": "#A2B1C6", "ticks": ""}, "baxis": {"gridcolor": "#DFE8F3", "linecolor": "#A2B1C6", "ticks": ""}, "bgcolor": "white", "caxis": {"gridcolor": "#DFE8F3", "linecolor": "#A2B1C6", "ticks": ""}}, "title": {"x": 0.05}, "xaxis": {"automargin": true, "gridcolor": "#EBF0F8", "linecolor": "#EBF0F8", "ticks": "", "title": {"standoff": 15}, "zerolinecolor": "#EBF0F8", "zerolinewidth": 2}, "yaxis": {"automargin": true, "gridcolor": "#EBF0F8", "linecolor": "#EBF0F8", "ticks": "", "title": {"standoff": 15}, "zerolinecolor": "#EBF0F8", "zerolinewidth": 2}}}, "title": {"x": 0.5, "xanchor": "center", "y": 0.92, "yanchor": "top"}, "width": 1000, "xaxis": {"anchor": "y", "domain": [0.0, 0.94], "fixedrange": true, "linecolor": "#455266", "linewidth": 1.5, "matches": "x3", "rangemode": "normal", "showline": false, "showticklabels": false, "ticks": "outside", "tickwidth": 0}, "xaxis2": {"anchor": "y3", "domain": [0.0, 0.94], "matches": "x3", "showticklabels": false}, "xaxis3": {"anchor": "y5", "domain": [0.0, 0.94]}, "yaxis": {"anchor": "x", "domain": [0.7333333333333334, 1.0], "fixedrange": true, "linecolor": "#455266", "linewidth": 1.5, "rangemode": "normal", "showline": false, "tickformat": ".4f", "ticks": "outside", "tickwidth": 0}, "yaxis2": {"anchor": "x", "overlaying": "y", "side": "right", "title": {"text": "best\u00e4tigte F\u00e4lle"}}, "yaxis3": {"anchor": "x2", "domain": [0.3666666666666667, 0.6333333333333333], "tickformat": ".4f", "title": {"text": "Detektionsrate"}}, "yaxis4": {"anchor": "x2", "overlaying": "y3", "side": "right", "title": {"text": "positiver Testrate"}}, "yaxis5": {"anchor": "x3", "domain": [0.0, 0.26666666666666666], "tickformat": ".4f"}, "yaxis6": {"anchor": "x3", "overlaying": "y5", "side": "right", "title": {"text": "ITS F\u00e4llen"}}},                        {"responsive": "true", "displayModeBar": true}                    )                };                            </script>        </div>
+
+ 	<figcaption>
+ 		<div class="pa4 tl f4 lh-copy" style= "text-align:justify"><strong>Vergleich der wöchentlichen Detektionsrate</strong> mit der Anzahl der COVID-19-Fälle, der Testpositivenrate und
+der Anzahl der Fälle auf der Intensivstation</div>	
+ 	</figcaption>
+ </figure>
+</section>
+
+<p>In allen Kurven können wir ähnliche Trends erkennen, die durch zwei unterschiedliche Wellen gekennzeichnet sind
+und ihren Höhepunkte etwa im Dezember 2020 sowie April 2021 erreichen. Während sich die Fallzahlen mit den Detektionen
+beinahe überlagern, ist die Detektionsrate im Vergleich zur Testpositivität und dern Intensivfällen zeitlich deutlich
+nach vorne verschoben.</p>
+<p>Bei näherer Betrachtung deuten erste Analysen darauf hin, dass die Detektionen der Datenspende allen drei Maßnahmen
+vorausgehen, also den Testergebnissen, den offiziellen Meldungen sowie der ITS Hospitalisierung. Wenn diese Ergebnisse
+tatsächlich zutreffen, kann ein Anstieg der Detektionen auch einen tatsächlichen Anstieg der Fallzahlen vorhersagen.
+Wir prüfen derzeit, in welchem Ausmaß die Detektionen das Nowcasting aus aktuellen Surveillence Maßnahmen verbessern
+können, da diese Systeme oft eine Verzögerung um 1 bis 3 Wochen aufweisen.</p>
+
+    </div>
+
+    
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/fiebermonitor/">Fiebermonitor</a>
+  
+  <a class="badge badge-light" href="/tag/ruhepuls/">Ruhepuls</a>
+  
+  <a class="badge badge-light" href="/tag/aktvitat/">Aktvität</a>
+  
+</div>
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://corona-datenspende.de/reports/detectionscompared/&amp;text=Vergleich%20der%20Detektionen" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://corona-datenspende.de/reports/detectionscompared/&amp;t=Vergleich%20der%20Detektionen" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Vergleich%20der%20Detektionen&amp;body=https://corona-datenspende.de/reports/detectionscompared/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://corona-datenspende.de/reports/detectionscompared/&amp;title=Vergleich%20der%20Detektionen" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=Vergleich%20der%20Detektionen%20https://corona-datenspende.de/reports/detectionscompared/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://corona-datenspende.de/reports/detectionscompared/&amp;title=Vergleich%20der%20Detektionen" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/authors/annika-rose/"><img class="avatar mr-3 avatar-circle" src="/authors/annika-rose/avatar_huab55308732bec8bc9f633b3be541197c_131638_270x270_fill_q75_lanczos_center.jpg" alt="Annika Rose"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/authors/annika-rose/">Annika Rose</a></h5>
+      <h6 class="card-subtitle">PhD Student</h6>
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:annikahoperose@gmail.gmail" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/annika-rose-00160856/" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+    
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/authors/dirk-brockmann/"><img class="avatar mr-3 avatar-circle" src="/authors/dirk-brockmann/avatar_hu62a76def9c5c606f5f4043af574c0c95_1490926_270x270_fill_lanczos_center_3.png" alt="Dirk Brockmann"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/authors/dirk-brockmann/">Dirk Brockmann</a></h5>
+      <h6 class="card-subtitle">Professor</h6>
+      <p class="card-text">Head of Research on Complex Systems Group</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/#contact" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/DirkBrockmann" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.de/citations?user=jiQAjmEAAAAJ" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+  
+
+  
+
+  
+
+  
+  
+
+
+
+
+
+
+  
+  <p class="powered-by copyright-license-text">
+    © 2020 - 2023 Robert Koch Institute &amp; <a href="https://rocs.hu-berlin.de" target="_blank" rel="noopener">Research on Complex Systems</a> of Humboldt University of Berlin <br> <a href="/science/datenschutz">Website-Datenschutz</a> | <a href="/science/datenschutz-cda">App-Datenschutz</a>
+  </p>
+  
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+      
+
+    
+    <script src="/js/vendor-bundle.min.53d67dc2cb1ebceb89d5e2aba2f86112.js"></script>
+
+    
+    
+    
+      
+
+      
+      
+
+      
+
+      
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/highlight.min.js" integrity="sha512-Ypjm0o7jOxAd4hpdoppSEN0TQOC19UtPAqD+4s5AlXmUvbmmS/YMxYqAqarQYyxTnB6/rqip9qcxlNB/3U9Wdg==" crossorigin="anonymous"></script>
+        
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/r.min.js" crossorigin="anonymous"></script>
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/latex.min.js" crossorigin="anonymous"></script>
+        
+      
+
+    
+
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+      
+      <script id="search-hit-fuse-template" type="text/x-template">
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script>
+      
+        <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
+    
+
+    
+
+    
+    
+    
+    <script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+    
+    
+      <script src="/js/wowchemy-headroom.c251366b4128fd5e6b046d4c97a62a51.js" type="module"></script>
+    
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    <script src="/de/js/wowchemy.min.c61341ac70b3e387381eb0f75df0718e.js"></script>
+
+    
+    
+    
+    
+    
+    
+      
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Zitieren</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Kopie
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      <script src="/js/wowchemy-publication.68f8d7090562ca65fc6d3cb3f8f2d2cb.js" type="module"></script>
+
+
+
+
+
+
+  
+
+
+
+
+<script src="/js/d3.v4.min.js" ></script>
+<script src="/js/insertdonorstats.js" ></script>
+
+</body>
+</html>

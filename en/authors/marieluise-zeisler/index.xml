@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marie-Luise Zeisler | Corona Data Donation Project | News &amp; Analyses</title>
+    <link>https://corona-datenspende.de/en/authors/marieluise-zeisler/</link>
+      <atom:link href="https://corona-datenspende.de/en/authors/marieluise-zeisler/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marie-Luise Zeisler</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://corona-datenspende.de/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
+      <title>Marie-Luise Zeisler</title>
+      <link>https://corona-datenspende.de/en/authors/marieluise-zeisler/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Long COVID | Corona Data Donation Project | News &amp; Analyses</title>
+    <link>https://corona-datenspende.de/en/category/long-covid/</link>
+      <atom:link href="https://corona-datenspende.de/en/category/long-covid/index.xml" rel="self" type="application/rss+xml" />
+    <description>Long COVID</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 02 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://corona-datenspende.de/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
+      <title>Long COVID</title>
+      <link>https://corona-datenspende.de/en/category/long-covid/</link>
+    </image>
+    
+    <item>
+      <title>The data donation project launches Long COVID study</title>
+      <link>https://corona-datenspende.de/en/reports/longcovidlaunch/</link>
+      <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://corona-datenspende.de/en/reports/longcovidlaunch/</guid>
+      <description>&lt;p&gt;Dear Donors,&lt;/p&gt;
+&lt;p&gt;For almost two years now, your data has helped us to better understand the course of the COVID-19 pandemic. For this, we would like to thank you once again.&lt;/p&gt;
+&lt;p&gt;During this time, we have learned that there is a great willingness to support science and research with health data from fitness trackers and smartwatches. Over 500,000 people have donated their vital data for at least a certain period of time and more than 38,000 people already regularly participate in our in-app surveys. Using your data, we were able to capture anomalies in vital data that is potentially related to COVID-19 symptoms and the frequency of those detections in the &lt;a href=&#34;https://corona-datenspende.de/en/monitor/&#34;&gt;fever monitor&lt;/a&gt; maps well to the pandemic&amp;rsquo;s waves of infection.&lt;/p&gt;
+&lt;h3 id=&#34;keeping-an-eye-on-the-long-term-consequences-of-the-pandemic&#34;&gt;Keeping an eye on the long-term consequences of the pandemic&lt;/h3&gt;
+&lt;p&gt;In 2022, we are expanding the focus of our research and examine the long-term health consequences of COVID-19. In the coming months, we would like to investigate, among other things, how physical activity, sleep, fitness and mental health develop in individuals after the disease.&lt;/p&gt;
+&lt;p&gt;For this reason, &lt;strong&gt;we will launch a new study on Long COVID in the data donation app&lt;/strong&gt; which is developed in close collaboration with the Long COVID group at the Robert Koch Institute. By answering monthly questionnaires, you will help us to understand potential long-term changes in vital signs after a SARS-CoV-2 infection, to determine the frequency of long-lasting or emerging symptoms, and also study the interaction between the two.&lt;/p&gt;
+&lt;h3 id=&#34;new-research-questions-thanks-to-comprehensive-vital-data&#34;&gt;New research questions thanks to comprehensive vital data&lt;/h3&gt;
+&lt;p&gt;From your donated data we have already gained important insights into the potential changes of vital signs following the acute phase of COVID-19. In one of our &lt;a href=&#34;https://corona-datenspende.de/en/reports/prolongedchanges/&#34;&gt;recent blogposts&lt;/a&gt;, we were able to show that the average daily resting heart rate in COVID-19 positive individuals is elevated for months following an infection and normalizations may only happen slowly (Fig. 1).&lt;/p&gt;
+&lt;p&gt;  &lt;!-- insert blank line before figure --&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-1-average-change-in-daily-resting-heart-rate-for-covid-19-positive-individuals-regardless-of-vaccination-status-using-data-until-october-2021-details-on-the-calculation-and-results-can-be-found-hereenreportsprolongedchanges&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;**Figure 1:** Average change in daily resting heart rate for COVID-19 positive individuals regardless of vaccination status using data until October 2021. Details on the calculation and results can be found [here](/en/reports/prolongedchanges/).&#34; srcset=&#34;
+               /media/figures/prolonged_changes/vitals_65_en_hu8dc088bcc61666e02b89fbe06c1f7477_191228_ca2544cd0fe5887a09e62d4c0c040484.webp 400w,
+               /media/figures/prolonged_changes/vitals_65_en_hu8dc088bcc61666e02b89fbe06c1f7477_191228_dadd2c827d8ec594a2be248c507bed23.webp 760w,
+               /media/figures/prolonged_changes/vitals_65_en_hu8dc088bcc61666e02b89fbe06c1f7477_191228_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://corona-datenspende.de/media/figures/prolonged_changes/vitals_65_en_hu8dc088bcc61666e02b89fbe06c1f7477_191228_ca2544cd0fe5887a09e62d4c0c040484.webp&#34;
+               width=&#34;60%&#34;
+               height=&#34;596&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;strong&gt;Figure 1:&lt;/strong&gt; Average change in daily resting heart rate for COVID-19 positive individuals regardless of vaccination status using data until October 2021. Details on the calculation and results can be found &lt;a href=&#34;https://corona-datenspende.de/en/reports/prolongedchanges/&#34;&gt;here&lt;/a&gt;.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+  &lt;!-- insert blank line before figure --&gt;&lt;/p&gt;
+&lt;p&gt;Similarly, in preliminary analyses, we found that vaccinations can have a strong positive effect on the normalization of vital signs after contracting COVID-19 (Fig. 2). You can also find these results in one of our recent &lt;a href=&#34;https://corona-datenspende.de/en/reports/breakthroughinfections/&#34;&gt;blogposts&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;  &lt;!-- insert blank line before figure --&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-2-average-change-in-resting-heart-rate-weekly-aggregates-for-covid-19-positive-individuals-who-bt-the-time-of-infection-were-either-unvaccinated-red-or-at-least-fully-vaccinated-purple-results-are-based-on-data-collected-until-january-2022-full-details-about-this-analysis-are-found-hereenreportsbreakthroughinfections&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;**Figure 2:** Average change in resting heart rate (weekly aggregates) for COVID-19 positive individuals who bt the time of infection were either unvaccinated (red) or at least fully vaccinated (purple). Results are based on data collected until January 2022. Full details about this analysis are found [here](/en/reports/breakthroughinfections/).&#34; srcset=&#34;
+               /media/figures/vaccinations/vaccines_long_covid_65_hu06435cb7b43c9780d26f4326971c5fb1_147860_3b7f6223d192ce69bafdddd18988ce7d.webp 400w,
+               /media/figures/vaccinations/vaccines_long_covid_65_hu06435cb7b43c9780d26f4326971c5fb1_147860_2e97e6246b3e73e03659bb311da37efd.webp 760w,
+               /media/figures/vaccinations/vaccines_long_covid_65_hu06435cb7b43c9780d26f4326971c5fb1_147860_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://corona-datenspende.de/media/figures/vaccinations/vaccines_long_covid_65_hu06435cb7b43c9780d26f4326971c5fb1_147860_3b7f6223d192ce69bafdddd18988ce7d.webp&#34;
+               width=&#34;60%&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;strong&gt;Figure 2:&lt;/strong&gt; Average change in resting heart rate (weekly aggregates) for COVID-19 positive individuals who bt the time of infection were either unvaccinated (red) or at least fully vaccinated (purple). Results are based on data collected until January 2022. Full details about this analysis are found &lt;a href=&#34;https://corona-datenspende.de/en/reports/breakthroughinfections/&#34;&gt;here&lt;/a&gt;.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+  &lt;!-- insert blank line before figure --&gt;&lt;/p&gt;
+&lt;p&gt;From here, there are many other questions that we want to look at in the following months and that you can help us understand better. This includes, among others:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What are the long-term effects of pandemic-related behavior change on the health-related quality of life?&lt;/li&gt;
+&lt;li&gt;How long do people have diminished physical or mental capacity after being sick with COVID-19?&lt;/li&gt;
+&lt;li&gt;How much do Long COVID symptoms, such as fatigue (persistent exhaustion), affect the activity and sleep patterns of recovered people?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;study-starts-on-april-4-2022&#34;&gt;Study starts on April 4, 2022&lt;/h3&gt;
+&lt;p&gt;The new &lt;strong&gt;Long COVID study&lt;/strong&gt; is expected to be available in the Data Donation app on April 4. All donors will be notified via push notification once participation is open. New donors can find the app in the app stores of &lt;a href=&#34;https://play.google.com/store/apps/details?id=de.rki.coronadatenspende&amp;amp;hl=de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google&lt;/a&gt;, &lt;a href=&#34;https://apps.apple.com/de/app/corona-datenspende/id1504705422&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Apple&lt;/a&gt;, and &lt;a href=&#34;https://appgallery.huawei.com/app/C104457185&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Huawei&lt;/a&gt;. To sign up for the study, you need to first add the study via the main menu, and then elect to participate.&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;monthly questionnaires&lt;/strong&gt; will only take a few minutes to complete. Already now, we like to thank all donors for their continued participation and support. As usual, we will share our results with you in this blog on a regular basis.&lt;/p&gt;
+&lt;p&gt;If you have not yet participated in our other sub-studies (&lt;strong&gt;Test, Symptoms and Life Situation&lt;/strong&gt; and &lt;strong&gt;Experience and Behavior in the Pandemic&lt;/strong&gt;), we would like to invite you to participate in these surveys as well. Consent for participation in those studies is also possible through the data donation app.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

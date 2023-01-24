@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tests, Symptome und Lebenssituation | Corona-Datenspende | News &amp; Analysen</title>
+    <link>https://corona-datenspende.de/tag/tests-symptome-und-lebenssituation/</link>
+      <atom:link href="https://corona-datenspende.de/tag/tests-symptome-und-lebenssituation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tests, Symptome und Lebenssituation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de</language><lastBuildDate>Thu, 02 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://corona-datenspende.de/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
+      <title>Tests, Symptome und Lebenssituation</title>
+      <link>https://corona-datenspende.de/tag/tests-symptome-und-lebenssituation/</link>
+    </image>
+    
+    <item>
+      <title>Demographie der Spender:innen in der Studie „Tests, Symptome und Lebenssituation“</title>
+      <link>https://corona-datenspende.de/reports/fragebogenteilnehmer/</link>
+      <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://corona-datenspende.de/reports/fragebogenteilnehmer/</guid>
+      <description>&lt;h3 id=&#34;einleitung&#34;&gt;Einleitung&lt;/h3&gt;
+&lt;p&gt;In den bisherigen Blogposts sind wir schon einmal auf die &lt;a href=&#34;https://corona-datenspende.de/reports/demographie/&#34;&gt;Soziodemographie&lt;/a&gt;  und räumliche &lt;a href=&#34;https://corona-datenspende.de/reports/users/&#34;&gt;Verteilung&lt;/a&gt; der Spender:innen eingegangen.&lt;/p&gt;
+&lt;p&gt;In diesem Blogpost wollen wir uns erneut mit der soziodemographischen Zusammensetzung und der räumlichen Verteilung der Spender:innen beschäftigen. Wir werden für die Analyse jeweils zwei Auswahlebenen bzw. Selektionsstufen betrachten und diese mit der tatsächlichen Bevölkerungszusammensetzung (Fortschreibung des Zensus, Stand: 31.12.2019) vergleichen. Dazu schauen wir uns die Soziodemographie und die räumliche Verteilung anhand von drei Variablen an: räumliche Verteilung auf Bundeslandebene (anhand der ersten drei Stellen der angegebenen Postleitzahl klassifiziert), Geschlecht und Alter (erfasst in 10er Kategorien). In der ersten Gruppe werden die Daten der Selbstangabe bei Neuregistrierung aller Datenspender:innen ausgewertet, in der zweiten Gruppe die Daten der Teil-Studie „Tests, Symptome und Lebenssituation“. Wir möchten damit zwei Fragen nachgehen:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Wie sehr weicht die aktuelle Stichprobe aller an der Datenspende teilnehmenden Personen von der wahren Verteilung in der Bevölkerung (Bevölkerungsfortschreibung Stand: 31.12.2019) ab?&lt;/li&gt;
+&lt;li&gt;Wie sehr unterscheiden sich Spender:innen, die an der Teil-Studie „Tests, Symptome und Lebenssituation“ teilgenommen haben, von der gesamten Spender:innen-Stichprobe?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;regionale-verteilung&#34;&gt;Regionale Verteilung&lt;/h3&gt;
+&lt;p&gt;Um die regionale Verteilung der Spender:innen abzubilden, schauen wir zunächst auf die Postleitzahl der Spender:innen. Diese ordnen wir dem entsprechenden Bundesland zu. Aus Gründen des Datenschutzes erheben wir dabei nur die ersten drei Ziffern der Postleitzahl der Spender:innen (und geben somit keine Verteilung auf Landkreisebene mehr an).&lt;/p&gt;
+&lt;p&gt;Betrachten wir die räumliche Verteilung innerhalb der Bundesländer im Vergleich zur wahren Verteilung in der Bevölkerung (Abbildung 1, Balkendiagramm) zeigen sich &lt;strong&gt;unterschiedliche Teilnahmeraten in den Bundesländern&lt;/strong&gt;. In den Bundesländern Hamburg und Berlin sehen wir, dass die Spender:innen überproportional häufig im Verhältnis zur Bevölkerungsverteilung vertreten sind.
+So sagt der Wert 0.41 von Hamburg aus, dass im Vergleich zur Verteilung in der Bevölkerung rund 40 Prozent mehr Hamburger:innen in der Datenspende Stichprobe vertreten sind, als nach der Bevölkerungsverteilung in Hamburg zu erwarten wäre.
+Dahingegen lässt sich erkennen, dass die Bundesländer Sachsen-Anhalt, Thüringen, Mecklenburg-Vorpommern und Sachsen deutlich unterrepräsentiert sind.
+Diese Verteilung spiegelt sich auch dann wieder, wenn wir uns alle Spender:innen berechnet auf jeweils 100.000 Einwohner pro Bundesland anschauen (Abbildung 1, Deutschlandkarte).&lt;/p&gt;
+&lt;section class=&#34;center mw10 mw8-ns&#34;&gt;
+ &lt;figure&gt;
+ 	&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.js&#34; integrity=&#34;sha512-n/4gHW3atM3QqRcbCn6ewmpxcLAHGaDjpEBu4xZd47N0W2oQ+6q7oc3PXstrJYXcbNU1OHdQ1T7pAP+gi5Yu8g==&#34; crossorigin=&#34;anonymous&#34; referrerpolicy=&#34;no-referrer&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;https://cdnjs.cloudflare.com/ajax/libs/jqvmap/1.5.1/jquery.vmap.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;https://cdnjs.cloudflare.com/ajax/libs/jqvmap/1.5.1/maps/jquery.vmap.germany.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;https://cdnjs.cloudflare.com/ajax/libs/jqvmap/1.5.1/jqvmap.min.css&#34; rel=&#34;stylesheet&#34; type=&#34;text/css&#34; /&gt;&lt;style&gt;.one { //margin-top: -20px; width: 50%;  height: 380px;  float: left;  }&lt;/style&gt;&lt;script src=&#34;https://cdn.jsdelivr.net/npm/chart.js&#34;&gt;&lt;/script&gt;&lt;div style=&#34;margin-top:4%; width: 100%;&#34;&gt;&lt;div id=&#34;map1&#34; class=&#34;one&#34; &gt;&lt;/div&gt;&lt;div style=&#34;float: left; width: 50%; height:430px;&#34;&gt;&lt;canvas id=&#34;bev_chart&#34; &gt;&lt;/canvas&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;SCRIPT&gt;
+//bula all
+ var map1 = {
+    ni:  406.7,
+    sh:  411.7,
+    be:  440.3,
+    mv:  206.6,
+    hb:  363.5,
+    sl:  312.9,
+    by:  325.2,
+    th:  205.6,
+    st:  183.7,
+    sn:  217.5,
+    bb:  278.0,
+    nw:  409.4,
+    bw:  320.9,
+    he:  397.4,
+    hh:  499.3,
+    rp:  351.1
+}
+jQuery(&#39;#map1&#39;).vectorMap({
+	map: &#39;germany_en&#39;,
+	backgroundColor: &#39;rgba(76, 175, 80, 0.0)&#39;,
+    borderColor: &#39;white&#39;,
+    borderOpacity: 0.25,
+    borderWidth: 2,
+    // colors: colors,
+    enableZoom: false,
+    hoverColor: false,
+    hoverOpacity: 0.7,
+    normalizeFunction: &#39;linear&#39;,
+    scaleColors: [&#39;#ddeaf5&#39;, &#39;#0275d8&#39;],
+    selectedColor: false,
+    selectedRegions: null,
+    showTooltip: true,
+        legend: {
+          horizontal: true,
+          cssClass: &#39;jvectormap-legend-icons&#39;,
+          title: &#39;Business type&#39;
+        },
+    values: map1,
+	onLabelShow: function (event, label, code) {
+        label.append(&#39;  &lt;br&gt; &#39;+map1[code] + &#39; Datenspender:innen/100k&#39;); 
+	}
+});
+label=[&#39;Niedersachsen&#39;,&#39;Schleswig-Holstein&#39;,&#39;Berlin&#39;,&#39;Mecklenburg-Vorpommern&#39;,&#39;Bremen&#39;,&#39;Saarland&#39;,&#39;Bayern&#39;,&#39;Thüringen&#39;,&#39;Sachsen-Anhalt&#39;,&#39;Sachsen&#39;,&#39;Brandenburg&#39;,&#39;Nordrhein-Westfalen&#39;,&#39;Baden-Württemberg&#39;,&#39;Hessen&#39;,&#39;Hamburg&#39;,&#39;Rheinland-Pfalz&#39;];
+data=[  0.15,   0.17,   0.25,  -0.42,   0.03,  -0.12,  -0.08,  -0.42, -0.48, -0.39, -0.21,  0.16, -0.09,  0.12,  0.41, -0.01];
+const labels_ = label;
+const data1_ = data;
+// Construct and array of objects that have &#39;label&#39; and &#39;data&#39;
+// We expect that labels and data1 are the same length but if there is
+// a chance that they are not, you should check for that.
+const allData_ = [];
+for (let i = 0; i &lt; labels_.length; ++i) {
+    allData_.push({
+        label: labels_[i],
+        data: data1_[i]
+    });
+}
+// Sort them by the data value
+allData_.sort((a, b) =&gt; b.data - a.data);
+// And split them again
+const sortedLabels_ = allData_.map(e =&gt; e.label);
+const sortedData_ = allData_.map(e =&gt; e.data);
+  const bev_chart = document.getElementById(&#39;bev_chart&#39;).getContext(&#39;2d&#39;);
+const bev_chart_ = new Chart(bev_chart, {
+    type: &#39;bar&#39;,
+    data: {
+      labels: sortedLabels_,
+      datasets: [
+{
+          data: sortedData_,          
+          label: &#39;Vergleich zur Bevölkerung&#39;,
+ backgroundColor: [
+                &#39;rgba(2, 117, 216, 0.2)&#39;,
+            ],
+            borderColor: [
+                &#39;rgba(2, 117, 216, 1)&#39;,
+            ],borderWidth: 1
+        },
+]
+    },
+    options: {
+	       scales: {
+            y: {
+			  grid: {
+          drawBorder: false,
+		  display: false
+		  },
+            },
+			x: {
+			  grid: {
+          drawBorder: false,
+		  display: true
+		  }
+			}
+        },indexAxis: &#39;y&#39;,
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+title: {
+            display: false,
+            text: &#39;&#39;,
+			font: {
+                        size: 16
+                    }
+        },         
+        tooltip: {
+          enabled: true,
+        },
+        legend: {
+          reverse: false,
+          display: false,
+          position: &#39;bottom&#39;
+        },
+      },
+    }
+  });
+&lt;/SCRIPT&gt;
+
+ 	&lt;figcaption&gt;
+ 		&lt;div class=&#34;pa4 tl f4 lh-copy&#34;&gt;&lt;em&gt;Abbildung 1: Verteilung der gesamten Datenspende-Stichprobe berechnet auf 100.000 Einwohner in den Bundesländern (Karte) und Vergleich der Bundeslandverteilung der Datenspender-Stichprobe zur Bevölkerungsfortschreibung Stand: 31.12.2019 (Balkendiagramm)&lt;/em&gt;&lt;/div&gt;	
+ 	&lt;/figcaption&gt;
+ &lt;/figure&gt;
+&lt;/section&gt;
+
+&lt;p&gt;Ähnliche Ergebnisse sehen wir auch bei dem Vergleich der Teilnehmenden der Teil-Studie „Tests, Symptome und Lebenssituation“ mit der Verteilung in der Bevölkerung (Abbildung 2, Balkendiagramm).
+&lt;strong&gt;Die Verteilung der Teil-Studie entspricht fast der Verteilung aller an der Datenspende teilnehmenden Personen innerhalb der Bundesländer im Bezug zur Bevölkerung&lt;/strong&gt;.
+Hier ist die relative Verteilung der Teil-Studien-Teilnehmenden in den Bundesländern Hamburg und Berlin ebenfalls deutlich höher, als die Verteilung in der Bevölkerung.
+Am stärksten unterrepräsentiert sind auch hier die Bundesländer Sachsen-Anhalt, Mecklenburg-Vorpommern und Thüringen, dicht gefolgt von Sachsen.
+Diese Verteilung spiegelt sich auch dann wieder, wenn wir uns alle Spender:innen berechnet auf jeweils 100.000 Einwohner pro Bundesland anschauen (Abbildung 2, Karte).&lt;/p&gt;
+&lt;section class=&#34;center mw10 mw8-ns&#34;&gt;
+ &lt;figure&gt;
+ 	&lt;script type=&#34;text/javascript&#34; src=&#34;https://cdnjs.cloudflare.com/ajax/libs/jqvmap/1.5.1/jquery.vmap.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text/javascript&#34; src=&#34;https://cdnjs.cloudflare.com/ajax/libs/jqvmap/1.5.1/maps/jquery.vmap.germany.js&#34;&gt;&lt;/script&gt;&lt;link href=&#34;https://cdnjs.cloudflare.com/ajax/libs/jqvmap/1.5.1/jqvmap.min.css&#34; rel=&#34;stylesheet&#34; type=&#34;text/css&#34; /&gt;&lt;style&gt;.one { //margin-top: -20px; width: 50%;  height: 380px;  float: left;  }&lt;/style&gt;&lt;script src=&#34;https://cdn.jsdelivr.net/npm/chart.js&#34;&gt;&lt;/script&gt;&lt;div style=&#34;margin-top:4%; width: 100%;&#34;&gt;&lt;div id=&#34;map2&#34; class=&#34;one&#34; &gt;&lt;/div&gt;&lt;div style=&#34;float: left; width: 50%; height:430px;&#34;&gt;&lt;canvas id=&#34;bev_chart2&#34; &gt;&lt;/canvas&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;script&gt;
+//bula all
+ var map2 = {
+    ni:   28.8,
+    sh:   27.0,
+    be:   34.6,
+    mv:   15.2,
+    hb:   31.6,
+    sl:   21.3,
+    by:   25.1,
+    th:   16.1,
+    st:   15.2,
+    sn:   19.1,
+    bb:   21.7,
+    nw:   27.8,
+    bw:   23.6,
+    he:   29.2,
+    hh:   36.8,
+    rp:   23.7
+}
+jQuery(&#39;#map2&#39;).vectorMap({
+	map: &#39;germany_en&#39;,
+	backgroundColor: &#39;rgba(76, 175, 80, 0.0)&#39;,
+    borderColor: &#39;white&#39;,
+    borderOpacity: 0.25,
+    borderWidth: 2,
+    // colors: colors,
+    enableZoom: false,
+    hoverColor: false,
+    hoverOpacity: 0.7,
+    normalizeFunction: &#39;linear&#39;,
+    scaleColors: [&#39;#ddeaf5&#39;, &#39;#0275d8&#39;],
+    selectedColor: false,
+    selectedRegions: null,
+    showTooltip: true,
+        legend: {
+          horizontal: true,
+          cssClass: &#39;jvectormap-legend-icons&#39;,
+          title: &#39;Business type&#39;
+        },
+    values: map2,
+	onLabelShow: function (event, label, code) {
+        label.append(&#39;  &lt;br&gt; &#39;+map2[code] + &#39; Teil-Studie/100k&#39;); 
+	}
+});
+label2=[&#39;Niedersachsen&#39;,&#39;Schleswig-Holstein&#39;,&#39;Berlin&#39;,&#39;Mecklenburg-Vorpommern&#39;,&#39;Bremen&#39;,&#39;Saarland&#39;,&#39;Bayern&#39;,&#39;Thüringen&#39;,&#39;Sachsen-Anhalt&#39;,&#39;Sachsen&#39;,&#39;Brandenburg&#39;,&#39;Nordrhein-Westfalen&#39;,&#39;Baden-Württemberg&#39;,&#39;Hessen&#39;,&#39;Hamburg&#39;,&#39;Rheinland-Pfalz&#39;];
+data2=[  0.12,   0.05,   0.34,  -0.41,   0.23,  -0.17,  -0.03,  -0.37, -0.41, -0.26, -0.16,  0.08, -0.08,  0.13,  0.43, -0.08];
+const labels_2 = label2;
+const data1_2 = data2;
+// Construct and array of objects that have &#39;label&#39; and &#39;data&#39;
+// We expect that labels and data1 are the same length but if there is
+// a chance that they are not, you should check for that.
+const allData_2 = [];
+for (let i = 0; i &lt; labels_2.length; ++i) {
+    allData_2.push({
+        label: labels_2[i],
+        data: data1_2[i]
+    });
+}
+// Sort them by the data value
+allData_2.sort((a, b) =&gt; b.data - a.data);
+// And split them again
+const sortedLabels_2 = allData_2.map(e =&gt; e.label);
+const sortedData_2 = allData_2.map(e =&gt; e.data);
+  const bev_chart2 = document.getElementById(&#39;bev_chart2&#39;).getContext(&#39;2d&#39;);
+const bev_chart2_ = new Chart(bev_chart2, {
+    type: &#39;bar&#39;,
+    data: {
+      labels: sortedLabels_2,
+      datasets: [
+{
+          data: sortedData_2,          
+          label: &#39;Vergleich zur Bevölkerung&#39;,
+ backgroundColor: [
+                &#39;rgba(2, 117, 216, 0.2)&#39;,
+            ],
+            borderColor: [
+                &#39;rgba(2, 117, 216, 1)&#39;,
+            ],borderWidth: 1
+        },
+]
+    },
+    options: {
+	       scales: {
+            y: {
+			  grid: {
+          drawBorder: false,
+		  display: false
+		  },
+            },
+			x: {
+			  grid: {
+          drawBorder: false,
+		  display: true
+		  }
+			}
+        },indexAxis: &#39;y&#39;,
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+title: {
+            display: false,
+            text: &#39;&#39;,
+			font: {
+                        size: 16
+                    }
+        },         
+        tooltip: {
+          enabled: true,
+        },
+        legend: {
+          reverse: false,
+          display: false,
+          position: &#39;bottom&#39;
+        },
+      },
+    }
+  });
+&lt;/SCRIPT&gt;
+
+ 	&lt;figcaption&gt;
+ 		&lt;div class=&#34;pa4 tl f4 lh-copy&#34;&gt;&lt;em&gt;Abbildung 2: Verteilung der Teil-Studie berechnet auf 100.000 Einwohner in den Bundesländern (Karte) und Vergleich der Bundeslandverteilung der Teil-Studie-Stichprobe zur Bevölkerungsfortschreibung Stand: 31.12.2019 (Balkendiagramm)&lt;/em&gt;&lt;/div&gt;	
+ 	&lt;/figcaption&gt;
+ &lt;/figure&gt;
+&lt;/section&gt;
+
+&lt;h3 id=&#34;geschlechtsverteilung&#34;&gt;Geschlechtsverteilung&lt;/h3&gt;
+&lt;p&gt;Im nächsten Schritt betrachten wir die Geschlechterverteilung unter allen Datenspender:innen und unter den Spender:innen der Teil-Studie. Auf den ersten Blick fällt auf, dass im Vergleich zur Gesamtbevölkerung &lt;strong&gt;Datenspender überrepräsentiert und Datenspenderinnen unterrepräsentiert sind&lt;/strong&gt;.
+Dasselbe Ergebnis sehen wir auch für die Teilnehmenden der Teil-Studie. &lt;strong&gt;Hier sehen wir außerdem, dass sich der Geschlechterunterschied in der Teil-Studie verstärkt&lt;/strong&gt;.
+In unserem alten Blogpost zur &lt;a href=&#34;https://corona-datenspende.de/reports/demographie/&#34;&gt;Soziodemographie&lt;/a&gt; der Spender:innen mussten wir bei der Geschlechtsverteilung eine Korrektur vornehmen.
+Bereits seit Start der Datenspende nehmen mehr Männer als Frauen an der Datenspende teil.
+&lt;section class=&#34;center mw10 mw8-ns&#34;&gt;
+ &lt;figure&gt;
+ 	&lt;script src=&#34;https://cdn.jsdelivr.net/npm/chart.js&#34;&gt;&lt;/script&gt;&lt;div style=&#34;display: block; margin-left: auto;  margin-right: auto; width: 90%; height:400px;&#34;&gt;&lt;canvas id=&#34;sex&#34; &gt;&lt;/canvas&gt;&lt;/div&gt;
+&lt;SCRIPT&gt;
+//options
+Chart.defaults.font.size = 15;
+ var labels_sex = [&#39;Männer&#39;, &#39;Frauen&#39;];
+  var all_sex = [62.4, 37.6];
+  var fb_sex = [68.0, 32.0];
+  var bev_sex = [48.9, 51.1];
+  const sex = document.getElementById(&#39;sex&#39;).getContext(&#39;2d&#39;);
+  const sex_ = new Chart(sex, {
+    type: &#39;bar&#39;,
+    data: {
+      labels: labels_sex,
+      datasets: [
+{
+          data: all_sex,          
+          label: &#39;Alle Datenspender:innen&#39;,
+ backgroundColor: [
+                &#39;rgba(2, 117, 216, 0.2)&#39;,
+            ],
+            borderColor: [
+                &#39;rgba(2, 117, 216, 1)&#39;,
+            ],borderWidth: 1
+        },
+{
+          data: fb_sex,          
+          label: &#39;Teilnehmende der Teil-Studie&#39;,
+ backgroundColor: [
+                &#39;rgba(92, 184, 92, 0.2)&#39;,
+            ],
+            borderColor: [
+                &#39;rgba(92, 184, 92, 1)&#39;,
+            ],borderWidth: 1
+        },
+{
+          data: bev_sex,          
+          label: &#39;Verteil. i. d. Bevölkerung&#39;,
+ backgroundColor: [
+                &#39;rgba(240, 173, 78, 0.2)&#39;,
+            ],
+            borderColor: [
+                &#39;rgba(240, 173, 78, 1)&#39;,
+            ],borderWidth: 1
+        }
+]
+    },
+    options: {
+	       scales: {
+            y: {max:80,
+			  grid: {
+          drawBorder: false,
+		  display: true
+		  },
+                ticks: {
+                    // Include a dollar sign in the ticks
+                    callback: function(value, index, values) {
+                        return value+&#39;%&#39;;
+                    }
+                }
+            },
+			x: {
+			  grid: {
+          drawBorder: false,
+		  display: false
+		  }
+			}
+        },
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+		title: {
+            display: true,
+            text: &#39;       Geschlecht&#39;,
+			font: {
+                        size: 16
+                    }
+        },         
+        tooltip: {
+          enabled: true, mode:&#39;index&#39;},
+        legend: {
+          reverse: false,
+          display: true,
+          position: &#39;bottom&#39;
+        },
+      },
+    }
+  });
+&lt;/SCRIPT&gt;
+
+ 	&lt;figcaption&gt;
+ 		&lt;div class=&#34;pa4 tl f4 lh-copy&#34;&gt;&lt;em&gt;Abbildung 3: Geschlechts-Verteilung der Datenspender-Stichprobe (Bevölkerungsfortschreibung Stand: 31.12.2019)&lt;/em&gt;&lt;/div&gt;	
+ 	&lt;/figcaption&gt;
+ &lt;/figure&gt;
+&lt;/section&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;altersverteilung&#34;&gt;Altersverteilung&lt;/h3&gt;
+&lt;p&gt;Im Wesentlichen sehen wir eine unterschiedliche Altersverteilung in unseren Daten im Vergleich zur Altersverteilung der Gesamtbevölkerung.
+&lt;strong&gt;Wir sehen, dass sowohl die Teilnehmenden an der Datenspende, als auch die Teilnehmenden der Teil-Studie in der jüngsten leicht und in älteren Altersgruppen stark unterrepräsentiert sind&lt;/strong&gt;.
+Deutlich überrepräsentiert im Vergleich zur Gesamtbevölkerung sind die Altersgruppen von 30 bis 59 Jahren.
+Der Vergleich zwischen den Teilnehmenden an der Datenspende und den Teilnehmenden an der Substudie, zeigt nur geringfügige Selektionseffekte hinsichtlich des Alters.
+Betrachten wir die Altersverteilung differenziert nach Geschlecht, so sehen wir bei den Frauen größere Unterschiede in der Teilnahmebereitschaft zwischen der Datenspende sowie der Teil-Studie, insbesondere bei den Altersgruppen 40 bis 59 Jahren.&lt;/p&gt;
+&lt;section class=&#34;center mw10 mw8-ns&#34;&gt;
+ &lt;figure&gt;
+ 	 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/chart.js&#34;&gt;&lt;/script&gt; &lt;button id=&#34;gesamt&#34; &gt;Gesamt&lt;/button&gt; &lt;button id=&#34;men&#34; &gt;Männer&lt;/button&gt; &lt;button id=&#34;women&#34; &gt;Frauen&lt;/button&gt;&lt;div style=&#34;display: block; margin-left: auto;  margin-right: auto; width: 100%; height:400px;&#34;&gt;&lt;canvas id=&#34;age&#34; &gt;&lt;/canvas&gt;    &lt;/div&gt;
+&lt;SCRIPT&gt;
+//options
+Chart.defaults.font.size = 15;
+ var labels_age = [&#39;16-29 J.&#39;,&#39;30-39 J.&#39;,&#39;40-49 J.&#39;,&#39;50-59 J.&#39;,&#39;60-69 J.&#39;,&#39;70-79 J.&#39;,&#39;80+ J.&#39;];
+  var all_age = [14.1,21.4,24.2,23.9,12.2,3.7,0.5];
+  var all_men = [13.6,20.9,23.6,23.6,13.2,4.4,0.6];
+  var all_women = [14.8,22.4,25.1,24.5,10.6,2.4,0.3];
+  var fb_age = [11.0,22.5,28.0,25.2,11.1,2.0,0.2];
+  var fb_men = [11.9,22.9,27.2,23.5,11.8,2.4,0.3];
+  var fb_women = [9.0,21.5,29.8,28.8,9.5,1.2,0.1];
+  var bev_age = [18.1,15.2,14.3,18.9,14.8,10.6,8.0];
+  var bev_men = [19.3,15.8,14.7,19.4,14.6,9.9,6.2];
+  var bev_women = [17.0,14.6,14.0,18.5,14.9,11.3,9.7];
+  const age = document.getElementById(&#39;age&#39;).getContext(&#39;2d&#39;);
+const age_ = new Chart(age, {
+    type: &#39;bar&#39;,
+    data: {
+      labels: labels_age,
+      datasets: [
+{
+          data: all_age,          
+          label: &#39;Alle Datenspender:innen&#39;,
+ backgroundColor: [
+                &#39;rgba(2, 117, 216, 0.2)&#39;,
+            ],
+            borderColor: [
+                &#39;rgba(2, 117, 216, 1)&#39;,
+            ],borderWidth: 1
+        },
+{
+          data: fb_age,          
+          label: &#39;Teilnehmende der Teil-Studie&#39;,
+ backgroundColor: [
+                &#39;rgba(92, 184, 92, 0.2)&#39;,
+            ],
+            borderColor: [
+                &#39;rgba(92, 184, 92, 1)&#39;,
+            ],borderWidth: 1
+        },
+{
+          data: bev_age,          
+          label: &#39;Verteil. i. d. Bevölkerung&#39;,
+ backgroundColor: [
+                &#39;rgba(240, 173, 78, 0.2)&#39;,
+            ],
+            borderColor: [
+                &#39;rgba(240, 173, 78, 1)&#39;,
+            ],borderWidth: 1
+        }
+]
+    },
+    options: {
+	       scales: {
+            y: { max:35,
+			  grid: {
+          drawBorder: false,
+		  display: true
+		  },
+                ticks: {
+                    // Include a dollar sign in the ticks
+                    callback: function(value, index, values) {
+                        return value+&#39;%&#39;;
+                    }
+                }
+            },
+			x: {
+			  grid: {
+          drawBorder: false,
+		  display: false
+		  }
+			}
+        },
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+title: {
+            display: true,
+            text: &#39;Alter - Gesamt&#39;,
+			font: {
+                        size: 16
+                    }
+        },         
+        tooltip: {
+          enabled: true,mode:&#39;index&#39;
+        },
+        legend: {
+          reverse: false,
+          display: true,
+          position: &#39;bottom&#39;
+        },
+      },
+    }
+  });
+  $( document ).ready(function() {
+    $(&#39;#gesamt&#39;).click(function () {
+		age_.options.plugins.title.text = &#39;Alter - Gesamt&#39;;	
+	    age_.data.datasets[0].data = all_age;
+		age_.data.datasets[1].data = fb_age;
+		age_.data.datasets[2].data = bev_age;
+		age_.update(); 
+		});
+    $(&#39;#men&#39;).click(function () {
+		age_.options.plugins.title.text = &#39;Alter - Männer&#39;;	
+	    age_.data.datasets[0].data = all_men;
+		age_.data.datasets[1].data = fb_men;
+		age_.data.datasets[2].data = bev_men;
+		age_.update(); 
+		});
+    $(&#39;#women&#39;).click(function () {
+		age_.options.plugins.title.text = &#39;Alter - Frauen&#39;;	
+	    age_.data.datasets[0].data = all_women;
+		age_.data.datasets[1].data = fb_women;
+		age_.data.datasets[2].data = bev_women;
+		age_.update(); 
+		});
+});
+&lt;/SCRIPT&gt;
+
+ 	&lt;figcaption&gt;
+ 		&lt;div class=&#34;pa4 tl f4 lh-copy&#34;&gt;&lt;em&gt;Abbildung 4: Verteilung des Alters für die Datenspende (Bevölkerungsfortschreibung Stand: 31.12.2019)&lt;/em&gt;&lt;/div&gt;	
+ 	&lt;/figcaption&gt;
+ &lt;/figure&gt;
+&lt;/section&gt;
+
+&lt;h3 id=&#34;ausblick-oder-was-erwartet-euch-im-nächsten-post&#34;&gt;Ausblick oder was erwartet euch im nächsten Post?&lt;/h3&gt;
+&lt;p&gt;Im nächsten Post werden wir euch einen weiteren Einblick zur soziodemographischen und zur gesundheitlichen Lage der Datenspender:innen in der Studie „Tests, Symptome und Lebenssituation“ geben. Wir werden weitere Vergleiche bspw. zur subjektiv eingeschätzten Gesundheit mit Referenzdaten (auch Benchmark genannt) aus repräsentativen Gesundheitsstudien des RKI darstellen. So nähern wir uns immer weiter einem der Ziele der Teil-Studie, die Stichprobenzusammensetzung genauer zu beschreiben.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

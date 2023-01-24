@@ -1,0 +1,1433 @@
+<!DOCTYPE html>
+<!-- This site was created with Wowchemy. https://www.wowchemy.com -->
+<!-- Last Published: 24. Januar 2023 --><html lang="de" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.5.0 for Hugo" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Dirk Brockmann" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Liebe Datenspender:innen,
+Im Lauf der letzten Monate hat unser Fiebermonitor stets zwei verschiedene Signale verglichen: Die positiven Fieberdetektionen auf Basis der gespendeten Daten und die wöchentliche Inzidenz von COVID-19. Beide Signale haben ihre eigenen Vor- und Nachteile, wenn es darum geht, aktuelle Trends der Pandemie zu überwachen:" />
+
+  
+    <link rel="alternate" hreflang="en" href="https://corona-datenspende.de/en/reports/nowcast/" />
+  
+  <link rel="alternate" hreflang="de" href="https://corona-datenspende.de/reports/nowcast/" />
+
+  
+  
+  
+    <meta name="theme-color" content="#39a9dc" />
+  
+
+  
+  
+    
+    <script src="/js/mathjax-config.js"></script>
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.c7b8d9abd591ba2253ea42747e3ac3f5.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha512-W0xM4mr6dEP9nREo7Z9z+9X70wytKvMGeDsj7ps2+xg5QPrEBXC8tAW1IFnzjR6eoJ90JmCnFzerQJTLzIEHjA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
+        
+      
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.5317eeec2f2727219290b866b21b284a.css" />
+
+  
+
+
+
+  
+
+
+  
+
+
+  
+
+
+
+
+  
+  
+  
+
+  
+
+  
+    <link rel="manifest" href="/manifest.webmanifest" />
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_hu8889594b02524d35114c47287bb2ec0e_6788_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu8889594b02524d35114c47287bb2ec0e_6788_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="https://corona-datenspende.de/reports/nowcast/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary_large_image" />
+  
+    <meta property="twitter:site" content="@dirkbrockmann" />
+    <meta property="twitter:creator" content="@dirkbrockmann" />
+  
+  <meta property="og:site_name" content="Corona-Datenspende | News &amp; Analysen" />
+  <meta property="og:url" content="https://corona-datenspende.de/reports/nowcast/" />
+  <meta property="og:title" content="Ergänzende Nowcasts auf Basis der Fieberkurve | Corona-Datenspende | News &amp; Analysen" />
+  <meta property="og:description" content="Liebe Datenspender:innen,
+Im Lauf der letzten Monate hat unser Fiebermonitor stets zwei verschiedene Signale verglichen: Die positiven Fieberdetektionen auf Basis der gespendeten Daten und die wöchentliche Inzidenz von COVID-19. Beide Signale haben ihre eigenen Vor- und Nachteile, wenn es darum geht, aktuelle Trends der Pandemie zu überwachen:" /><meta property="og:image" content="https://corona-datenspende.de/reports/nowcast/featured.jpg" />
+    <meta property="twitter:image" content="https://corona-datenspende.de/reports/nowcast/featured.jpg" /><meta property="og:locale" content="de" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2021-08-11T00:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2021-08-11T00:00:00&#43;00:00">
+  
+
+  
+
+
+
+  
+
+  
+
+  
+
+
+
+
+
+  <title>Ergänzende Nowcasts auf Basis der Fieberkurve | Corona-Datenspende | News &amp; Analysen</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="463e8331954e7e3072fe015b697f237a" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.d19d76a4c69132eb854f898fcfe6d6a5.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Suche</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Suche..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Suche...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  
+
+  <div class="page-header header--fixed">
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<header class="header--fixed">
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/"><img src="/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_0x70_resize_lanczos_3.png" alt="Corona-Datenspende | News &amp; Analysen"
+            
+            ></a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Navigation einblenden">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/"><img src="/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_0x70_resize_lanczos_3.png" alt="Corona-Datenspende | News &amp; Analysen"
+          
+          ></a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#home"><span>Home</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#projects"><span>Unsere Reports</span></a>
+          </li>
+
+          
+          
+
+          
+          <li class="nav-item dropdown">
+            <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>Tools</span><span class="caret"></span>
+            </a>
+            <div class="dropdown-menu">
+              
+                <a class="dropdown-item" href="/monitor"><span>Fieberkurve</span></a>
+              
+                <a class="dropdown-item" href="/vitaldata-tool"><span>Vitaldaten-Explorer</span></a>
+              
+            </div>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#people"><span>Team</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#about"><span>Über das Projekt</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/faq"><span>FAQ</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/contact"><span>Kontakt</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/"><span>|</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/publication"><span>Publikationen</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+          
+        
+
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="Suche"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+        <li class="nav-item dropdown theme-dropdown">
+          <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Einstellungen anzeigen">
+            <i class="fas fa-moon" aria-hidden="true"></i>
+          </a>
+          <div class="dropdown-menu">
+            <a href="#" class="dropdown-item js-set-theme-light">
+              <span>Hell</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-dark">
+              <span>Dunkel</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-auto">
+              <span>Automatisch</span>
+            </a>
+          </div>
+        </li>
+        
+
+        
+        
+        <li class="nav-item dropdown i18n-dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown"
+             aria-haspopup="true" aria-label="语言">
+            <i class="fas fa-globe mr-1" aria-hidden="true"></i><span class="d-none d-lg-inline">Deutsch</span></a>
+          <div class="dropdown-menu">
+            <div class="dropdown-item dropdown-item-active">
+              <span>Deutsch</span>
+            </div>
+            
+            <a class="dropdown-item" href="https://corona-datenspende.de/en/reports/nowcast/">
+              <span>English</span>
+            </a>
+            
+          </div>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+     
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Ergänzende Nowcasts auf Basis der Fieberkurve</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/authors/marc-wiedermann/">Marc Wiedermann</a></span>, <span >
+      <a href="/authors/dirk-brockmann/">Dirk Brockmann</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    11. August 2021
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/category/fiebermonitor/">Fiebermonitor</a>, <a href="/category/nowcast/">Nowcast</a>, <a href="/category/ruhepuls/">Ruhepuls</a>, <a href="/category/aktivitat/">Aktivität</a></span>
+  
+
+</div>
+
+    
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <p>Liebe Datenspender:innen,</p>
+<p>Im Lauf der letzten Monate hat unser Fiebermonitor stets zwei verschiedene Signale verglichen: Die positiven Fieberdetektionen auf Basis der gespendeten Daten und die wöchentliche Inzidenz von COVID-19. Beide Signale haben ihre eigenen Vor- und Nachteile, wenn es darum geht, aktuelle Trends der Pandemie zu überwachen:</p>
+<ol>
+<li>Die Inzidenzkurve ist eine Standardgröße in der Beschreibung der Pandemie. Sie ist <strong>aber</strong> aufgrund von Verzögerungen bei der Meldung von Fallzahlen erst ab einigen Tagen in der Vergangenheit wirklich zuverlässig.</li>
+<li>Unsere Fieberkurve kann stattdessen eine Echtzeitüberwachung (ohne Meldeverzögerungen) der aktuellen physiologischen und physischen Belastungen unserer Spender:innen bieten. Sie erfasst dafür <strong>aber</strong> auch andere Signale, die nicht unbedingt mit COVID-19 zusammenhängen, wie etwa akute Atemwegsinfekte, einschließlich grippeähnlicher Erkrankungen, oder sogar Veränderungen der Wetterbedingungen.</li>
+</ol>
+<h2 id="ein-nowcast-auf-basis-der-fieberkurve">Ein Nowcast auf Basis der Fieberkurve</h2>
+<p>Heute untersuchen wir, wie die Vorteile beider Informationsquellen für eine Überwachung des aktuellen Stands der Pandemie genutzt werden können. Konkret erfassen wir den Verlauf der Pandemie anhand der Fieberdetektionen und der (bereits verlässlichen) Inzidenzen jeweils aus der Vorwoche. Die Kombination dieser historischen Information mit der aktuellen Erkennungsrate von Fieber kann es uns ermöglichen einen sogenannten Nowcast der COVID-19 Inzidenzen zu erstellen.</p>
+<p>Unten seht Ihr einen ersten Vergleich unseres vorgeschlagenen Überwachungssystems mit später bestätigten Inzidenzen. Zu Testzwecken haben wir uns hierbei zunächst auf alle bis Ende Juli verfügbaren Daten beschränkt. Der graue Punkt zeigt unseren Nowcast für die letzte Juliwoche, für die zum Zeitpunkt des Tests unseres Systems noch keine verlässlichen Inzidenzzahlen vorlagen.</p>
+<section class="center mw10 mw10-ns">
+ <figure>
+ 	<div>                        <script type="text/javascript">window.PlotlyConfig = {MathJaxConfig: 'local'};</script>
+        <script src="https://cdn.plot.ly/plotly-2.2.0.min.js"></script>                <div id="e0af288c-6294-4d3e-a41f-a3b08ef92286" class="plotly-graph-div" style="height:500px; width:100%;"></div>            <script type="text/javascript">                                    window.PLOTLYENV=window.PLOTLYENV || {};                                    if (document.getElementById("e0af288c-6294-4d3e-a41f-a3b08ef92286")) {                    Plotly.newPlot(                        "e0af288c-6294-4d3e-a41f-a3b08ef92286",                        [{"line":{"color":"#41ACDD","width":2.5},"mode":"lines","name":"Datenspende-basierter Nowcast","type":"scatter","x":["2020-05-17T00:00:00","2020-05-24T00:00:00","2020-05-31T00:00:00","2020-06-07T00:00:00","2020-06-14T00:00:00","2020-06-21T00:00:00","2020-06-28T00:00:00","2020-07-05T00:00:00","2020-07-12T00:00:00","2020-07-19T00:00:00","2020-07-26T00:00:00","2020-08-02T00:00:00","2020-08-09T00:00:00","2020-08-16T00:00:00","2020-08-23T00:00:00","2020-08-30T00:00:00","2020-09-06T00:00:00","2020-09-13T00:00:00","2020-09-20T00:00:00","2020-09-27T00:00:00","2020-10-04T00:00:00","2020-10-11T00:00:00","2020-10-18T00:00:00","2020-10-25T00:00:00","2020-11-01T00:00:00","2020-11-08T00:00:00","2020-11-15T00:00:00","2020-11-22T00:00:00","2020-11-29T00:00:00","2020-12-06T00:00:00","2020-12-13T00:00:00","2020-12-20T00:00:00","2020-12-27T00:00:00","2021-01-03T00:00:00","2021-01-10T00:00:00","2021-01-17T00:00:00","2021-01-24T00:00:00","2021-01-31T00:00:00","2021-02-07T00:00:00","2021-02-14T00:00:00","2021-02-21T00:00:00","2021-02-28T00:00:00","2021-03-07T00:00:00","2021-03-14T00:00:00","2021-03-21T00:00:00","2021-03-28T00:00:00","2021-04-04T00:00:00","2021-04-11T00:00:00","2021-04-18T00:00:00","2021-04-25T00:00:00","2021-05-02T00:00:00","2021-05-09T00:00:00","2021-05-16T00:00:00","2021-05-23T00:00:00","2021-05-30T00:00:00","2021-06-06T00:00:00","2021-06-13T00:00:00","2021-06-20T00:00:00","2021-06-27T00:00:00","2021-07-04T00:00:00","2021-07-11T00:00:00","2021-07-18T00:00:00","2021-07-25T00:00:00","2021-08-01T00:00:00"],"y":[6.862653015317788,2.835479226784234,2.590078061248505,5.763639379625638,10.449119737958641,6.669062710897212,6.585403986942628,4.062488569461577,3.403527936203922,2.884969673649468,4.261894928234587,5.881193852537492,5.267150131904865,6.630055021544699,9.774452552386862,14.109591041793433,10.39371692528218,9.77326327355392,15.673372745845171,21.41627811010826,20.266932643686587,20.0051298597426,32.45886784654595,47.6527856549526,85.63154270989179,185.28243777833706,176.2890559962259,155.83074725793847,169.595882734988,144.85056865167383,180.26105760629295,233.60782001508704,208.54962827604047,135.02803437834422,112.62276690120733,134.93822475920888,104.60740864241588,97.86928769470606,114.67143241083834,90.79003519508996,60.027787976915214,56.34156639979427,53.41245573099088,89.95118618804781,141.29352680930623,130.50965296821352,114.32669926587334,108.73265766075647,182.78607093843905,170.6772350389788,133.07341469020517,174.220229393312,134.78842517281564,72.21289090782976,42.521012256082706,30.470966200125137,36.86458946937902,22.606120347033336,8.597119263085606,4.994326824299274,6.858229225535973,6.523012306289969,7.836034550545747,17.9093050858714]},{"line":{"color":"#455266","dash":"dot","width":3},"mode":"lines","name":"Best\u00e4tigte Inzidenz","type":"scatter","x":["2020-05-10T00:00:00","2020-05-17T00:00:00","2020-05-24T00:00:00","2020-05-31T00:00:00","2020-06-07T00:00:00","2020-06-14T00:00:00","2020-06-21T00:00:00","2020-06-28T00:00:00","2020-07-05T00:00:00","2020-07-12T00:00:00","2020-07-19T00:00:00","2020-07-26T00:00:00","2020-08-02T00:00:00","2020-08-09T00:00:00","2020-08-16T00:00:00","2020-08-23T00:00:00","2020-08-30T00:00:00","2020-09-06T00:00:00","2020-09-13T00:00:00","2020-09-20T00:00:00","2020-09-27T00:00:00","2020-10-04T00:00:00","2020-10-11T00:00:00","2020-10-18T00:00:00","2020-10-25T00:00:00","2020-11-01T00:00:00","2020-11-08T00:00:00","2020-11-15T00:00:00","2020-11-22T00:00:00","2020-11-29T00:00:00","2020-12-06T00:00:00","2020-12-13T00:00:00","2020-12-20T00:00:00","2020-12-27T00:00:00","2021-01-03T00:00:00","2021-01-10T00:00:00","2021-01-17T00:00:00","2021-01-24T00:00:00","2021-01-31T00:00:00","2021-02-07T00:00:00","2021-02-14T00:00:00","2021-02-21T00:00:00","2021-02-28T00:00:00","2021-03-07T00:00:00","2021-03-14T00:00:00","2021-03-21T00:00:00","2021-03-28T00:00:00","2021-04-04T00:00:00","2021-04-11T00:00:00","2021-04-18T00:00:00","2021-04-25T00:00:00","2021-05-02T00:00:00","2021-05-09T00:00:00","2021-05-16T00:00:00","2021-05-23T00:00:00","2021-05-30T00:00:00","2021-06-06T00:00:00","2021-06-13T00:00:00","2021-06-20T00:00:00","2021-06-27T00:00:00","2021-07-04T00:00:00","2021-07-11T00:00:00","2021-07-18T00:00:00","2021-07-25T00:00:00"],"y":[7.5138520838352205,5.738376294868707,4.33389544688027,3.8593110093953262,2.8318477475307153,2.8198024572392195,5.046976632136834,3.797880028908697,3.237774030354131,2.9233919537460857,3.640086726090099,4.7289809684413395,5.8190797398217295,7.297036858588292,9.57721031076849,11.563478679836184,10.623946037099495,10.380631173211274,11.759816911587569,14.803661768248615,15.733558178752109,19.18212478920742,31.44904842206697,50.661286437003135,90.18067935437246,133.73885810648036,151.49120693808723,153.91351481570706,154.63743676222597,148.41845338472658,154.66152734280894,188.27511443025773,210.4878342568056,167.4259214647073,148.25825102384968,175.21801975427607,143.25343290773307,115.07227174174899,94.09298964105035,77.77643941218983,61.191279209828956,63.125752830643215,67.8848470248133,70.30956396049145,85.89255601059986,111.53095639604915,140.04818116116599,132.61382799325466,142.43435316791135,171.07564442303058,174.364008672609,150.38544928932788,121.6658636473139,85.35654059262829,63.537701758612386,36.01421344254397,24.95061430980487,16.900746807998072,8.736449048422067,5.792580101180438,5.224042399421826,6.69356781498434,10.921464707299446,15.166225006022646]},{"hoverinfo":"skip","line":{"color":"#61566F","width":2.5},"marker":{"size":10},"mode":"markers","name":"Aktueller Nowcast","showlegend":true,"type":"scatter","x":["2021-08-01T00:00:00"],"y":[17.9093050858714]}],                        {"autosize":true,"font":{"size":12},"height":500,"hoverlabel":{"font":{"color":"white"},"namelength":-1},"hovermode":"x","legend":{"font":{"size":11},"itemclick":"toggleothers","itemdoubleclick":"toggle","tracegroupgap":2,"yanchor":"auto"},"margin":{"b":75,"l":85,"pad":0,"r":60,"t":85},"showlegend":true,"template":{"data":{"bar":[{"error_x":{"color":"#2a3f5f"},"error_y":{"color":"#2a3f5f"},"marker":{"line":{"color":"white","width":0.5},"pattern":{"fillmode":"overlay","size":10,"solidity":0.2}},"type":"bar"}],"barpolar":[{"marker":{"line":{"color":"white","width":0.5},"pattern":{"fillmode":"overlay","size":10,"solidity":0.2}},"type":"barpolar"}],"carpet":[{"aaxis":{"endlinecolor":"#2a3f5f","gridcolor":"#C8D4E3","linecolor":"#C8D4E3","minorgridcolor":"#C8D4E3","startlinecolor":"#2a3f5f"},"baxis":{"endlinecolor":"#2a3f5f","gridcolor":"#C8D4E3","linecolor":"#C8D4E3","minorgridcolor":"#C8D4E3","startlinecolor":"#2a3f5f"},"type":"carpet"}],"choropleth":[{"colorbar":{"outlinewidth":0,"ticks":""},"type":"choropleth"}],"contour":[{"colorbar":{"outlinewidth":0,"ticks":""},"colorscale":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]],"type":"contour"}],"contourcarpet":[{"colorbar":{"outlinewidth":0,"ticks":""},"type":"contourcarpet"}],"heatmap":[{"colorbar":{"outlinewidth":0,"ticks":""},"colorscale":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]],"type":"heatmap"}],"heatmapgl":[{"colorbar":{"outlinewidth":0,"ticks":""},"colorscale":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]],"type":"heatmapgl"}],"histogram":[{"marker":{"pattern":{"fillmode":"overlay","size":10,"solidity":0.2}},"type":"histogram"}],"histogram2d":[{"colorbar":{"outlinewidth":0,"ticks":""},"colorscale":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]],"type":"histogram2d"}],"histogram2dcontour":[{"colorbar":{"outlinewidth":0,"ticks":""},"colorscale":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]],"type":"histogram2dcontour"}],"mesh3d":[{"colorbar":{"outlinewidth":0,"ticks":""},"type":"mesh3d"}],"parcoords":[{"line":{"colorbar":{"outlinewidth":0,"ticks":""}},"type":"parcoords"}],"pie":[{"automargin":true,"type":"pie"}],"scatter":[{"marker":{"colorbar":{"outlinewidth":0,"ticks":""}},"type":"scatter"}],"scatter3d":[{"line":{"colorbar":{"outlinewidth":0,"ticks":""}},"marker":{"colorbar":{"outlinewidth":0,"ticks":""}},"type":"scatter3d"}],"scattercarpet":[{"marker":{"colorbar":{"outlinewidth":0,"ticks":""}},"type":"scattercarpet"}],"scattergeo":[{"marker":{"colorbar":{"outlinewidth":0,"ticks":""}},"type":"scattergeo"}],"scattergl":[{"marker":{"colorbar":{"outlinewidth":0,"ticks":""}},"type":"scattergl"}],"scattermapbox":[{"marker":{"colorbar":{"outlinewidth":0,"ticks":""}},"type":"scattermapbox"}],"scatterpolar":[{"marker":{"colorbar":{"outlinewidth":0,"ticks":""}},"type":"scatterpolar"}],"scatterpolargl":[{"marker":{"colorbar":{"outlinewidth":0,"ticks":""}},"type":"scatterpolargl"}],"scatterternary":[{"marker":{"colorbar":{"outlinewidth":0,"ticks":""}},"type":"scatterternary"}],"surface":[{"colorbar":{"outlinewidth":0,"ticks":""},"colorscale":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]],"type":"surface"}],"table":[{"cells":{"fill":{"color":"#EBF0F8"},"line":{"color":"white"}},"header":{"fill":{"color":"#C8D4E3"},"line":{"color":"white"}},"type":"table"}]},"layout":{"annotationdefaults":{"arrowcolor":"#2a3f5f","arrowhead":0,"arrowwidth":1},"autotypenumbers":"strict","coloraxis":{"colorbar":{"outlinewidth":0,"ticks":""}},"colorscale":{"diverging":[[0,"#8e0152"],[0.1,"#c51b7d"],[0.2,"#de77ae"],[0.3,"#f1b6da"],[0.4,"#fde0ef"],[0.5,"#f7f7f7"],[0.6,"#e6f5d0"],[0.7,"#b8e186"],[0.8,"#7fbc41"],[0.9,"#4d9221"],[1,"#276419"]],"sequential":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]],"sequentialminus":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]]},"colorway":["#636efa","#EF553B","#00cc96","#ab63fa","#FFA15A","#19d3f3","#FF6692","#B6E880","#FF97FF","#FECB52"],"font":{"color":"#2a3f5f"},"geo":{"bgcolor":"white","lakecolor":"white","landcolor":"white","showlakes":true,"showland":true,"subunitcolor":"#C8D4E3"},"hoverlabel":{"align":"left"},"hovermode":"closest","mapbox":{"style":"light"},"paper_bgcolor":"white","plot_bgcolor":"white","polar":{"angularaxis":{"gridcolor":"#EBF0F8","linecolor":"#EBF0F8","ticks":""},"bgcolor":"white","radialaxis":{"gridcolor":"#EBF0F8","linecolor":"#EBF0F8","ticks":""}},"scene":{"xaxis":{"backgroundcolor":"white","gridcolor":"#DFE8F3","gridwidth":2,"linecolor":"#EBF0F8","showbackground":true,"ticks":"","zerolinecolor":"#EBF0F8"},"yaxis":{"backgroundcolor":"white","gridcolor":"#DFE8F3","gridwidth":2,"linecolor":"#EBF0F8","showbackground":true,"ticks":"","zerolinecolor":"#EBF0F8"},"zaxis":{"backgroundcolor":"white","gridcolor":"#DFE8F3","gridwidth":2,"linecolor":"#EBF0F8","showbackground":true,"ticks":"","zerolinecolor":"#EBF0F8"}},"shapedefaults":{"line":{"color":"#2a3f5f"}},"ternary":{"aaxis":{"gridcolor":"#DFE8F3","linecolor":"#A2B1C6","ticks":""},"baxis":{"gridcolor":"#DFE8F3","linecolor":"#A2B1C6","ticks":""},"bgcolor":"white","caxis":{"gridcolor":"#DFE8F3","linecolor":"#A2B1C6","ticks":""}},"title":{"x":0.05},"xaxis":{"automargin":true,"gridcolor":"#EBF0F8","linecolor":"#EBF0F8","ticks":"","title":{"standoff":15},"zerolinecolor":"#EBF0F8","zerolinewidth":2},"yaxis":{"automargin":true,"gridcolor":"#EBF0F8","linecolor":"#EBF0F8","ticks":"","title":{"standoff":15},"zerolinecolor":"#EBF0F8","zerolinewidth":2}}},"title":{"text":"Nowcast und beobachtete mittlere w\u00f6chentliche Inzidenz","x":0.5,"xanchor":"center","y":0.92,"yanchor":"top"},"xaxis":{"linecolor":"#455266","linewidth":1.5,"rangemode":"nonnegative","showline":true,"ticks":"outside","tickwidth":1.5},"yaxis":{"linecolor":"#455266","linewidth":1.5,"rangemode":"nonnegative","showline":true,"ticks":"outside","tickwidth":1.5,"title":{"text":"Inzidenz (Neue F\u00e4lle pro 100.000 Einwohner)"}}},                        {"responsive": "true", "displayModeBar": false}                    )                };                            </script>        </div>
+ 	<figcaption>
+ 		<div class="pa4 tl f4 lh-copy" style= "text-align:justify"><strong>Wöchentlicher Nowcast auf Grundlage der Fieberkurve</strong> und Vergleich mit den offiziell gemeldeten durchschnittlichen COVID-19 Inzidenzen pro Woche.</div>	
+ 	</figcaption>
+ </figure>
+</section>
+
+<p>Ihr seht, dass unser (noch) vergleichsweise einfaches Überwachungssystem im Rückblick recht gut mit den gemeldeten Fallzahlen übereinstimmt. Es erkennt sogar Beginn und Wendepunkte der zweiten und dritten Welle ziemlich genau!</p>
+<h2 id="einzigartige-vorteile">Einzigartige Vorteile</h2>
+<p>Auch wenn die Zahlen nicht exakt übereinstimmen, hat unser neuer Ansatz einige Vorteile, die ihn zu einer vielversprechenden Ergänzung der bestehenden Nowcasting-Methoden machen:</p>
+<ol>
+<li>Dank der Aussagekraft der gespendete Vitaldaten benötigen wir nur drei einzelne Kennzahlen (Fieberdetektionen und Inzidenzen der Vorwoche, sowie die aktuellen Fieberdetektionen), um eine Schätzung der aktuellen Inzidenzen vorzunehmen. Daher könnte unsere Methodik in Zukunft bereits zu Beginn einer Pandemie eingesetzt werden.</li>
+<li>Das System ist automatisiert und kann zukünftig in Echtzeit arbeiten. Es liefert dann fortlaufend Aktualisierungen sobald neue Informationen durch unsere Spender:innen verfügbar werden. Daher kommt es also zu keinen Verzögerungen bei der Berichterstattung.</li>
+<li>Es passt sich an den aktuellen Stand der Pandemie an und schätzt, wie viele COVID-19 Fälle wir mit jeder Fieberdetektion erwarten wenn wir uns in einer Phase mit geringer oder hoher Inzidenz befinden.</li>
+</ol>
+<h2 id="ausblick">Ausblick</h2>
+<p>Wir werden unser auf Fieberdetektionen basiertes Nowcasting-System weiter auswerten und verbessern, so dass es dank eurer Hilfe eine weitere datengestützte Methodik zur Bewertung der aktuellen Trends in der Pandemie bieten kann. Zu diesem Zweck werden wir als nächstes unsere Systeme aktualisieren, damit eure gespendeten Daten schnellstmöglich verarbeitet werden können sobald sie uns zur Verfügung stehen. Wir haben die Ergebnisse der neuen Nowcastmethode bereits in unseren Fiebermonitor aufgenommen, um euch einen besseren Eindruck davon zu vermitteln, wie eure Daten verwendet werden, um das Verständnis der aktuellen Pandemie kontinuierlich zu verbessern.</p>
+
+    </div>
+
+    
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/fiebermonitor/">Fiebermonitor</a>
+  
+  <a class="badge badge-light" href="/tag/nowcast/">Nowcast</a>
+  
+  <a class="badge badge-light" href="/tag/ruhepuls/">Ruhepuls</a>
+  
+  <a class="badge badge-light" href="/tag/aktivitat/">Aktivität</a>
+  
+</div>
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://corona-datenspende.de/reports/nowcast/&amp;text=Erg%c3%a4nzende%20Nowcasts%20auf%20Basis%20der%20Fieberkurve" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://corona-datenspende.de/reports/nowcast/&amp;t=Erg%c3%a4nzende%20Nowcasts%20auf%20Basis%20der%20Fieberkurve" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Erg%c3%a4nzende%20Nowcasts%20auf%20Basis%20der%20Fieberkurve&amp;body=https://corona-datenspende.de/reports/nowcast/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://corona-datenspende.de/reports/nowcast/&amp;title=Erg%c3%a4nzende%20Nowcasts%20auf%20Basis%20der%20Fieberkurve" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=Erg%c3%a4nzende%20Nowcasts%20auf%20Basis%20der%20Fieberkurve%20https://corona-datenspende.de/reports/nowcast/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://corona-datenspende.de/reports/nowcast/&amp;title=Erg%c3%a4nzende%20Nowcasts%20auf%20Basis%20der%20Fieberkurve" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/authors/marc-wiedermann/"><img class="avatar mr-3 avatar-circle" src="/authors/marc-wiedermann/avatar_hua2ba85bd6a9e5a6ef45f6ee8487744ca_524131_270x270_fill_lanczos_center_3.png" alt="Marc Wiedermann"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/authors/marc-wiedermann/">Marc Wiedermann</a></h5>
+      <h6 class="card-subtitle">PostDoc / Data Scientist</h6>
+      <p class="card-text">Researcher and Data Scientist with strong interests in time series and network analysis, predictive models and low-dimensional dynamical systems for the spread of human behavior.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:marcw@physik.hu-berlin.de" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/m_wiedermann" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://de.linkedin.com/in/marc-wiedermann-995958210" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/marcwie" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+    
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/authors/dirk-brockmann/"><img class="avatar mr-3 avatar-circle" src="/authors/dirk-brockmann/avatar_hu62a76def9c5c606f5f4043af574c0c95_1490926_270x270_fill_lanczos_center_3.png" alt="Dirk Brockmann"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/authors/dirk-brockmann/">Dirk Brockmann</a></h5>
+      <h6 class="card-subtitle">Professor</h6>
+      <p class="card-text">Head of Research on Complex Systems Group</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/#contact" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/DirkBrockmann" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.de/citations?user=jiQAjmEAAAAJ" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+  
+
+  
+
+  
+
+  
+  
+
+
+
+
+
+
+  
+  <p class="powered-by copyright-license-text">
+    © 2020 - 2023 Robert Koch Institute &amp; <a href="https://rocs.hu-berlin.de" target="_blank" rel="noopener">Research on Complex Systems</a> of Humboldt University of Berlin <br> <a href="/science/datenschutz">Website-Datenschutz</a> | <a href="/science/datenschutz-cda">App-Datenschutz</a>
+  </p>
+  
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+      
+
+    
+    <script src="/js/vendor-bundle.min.53d67dc2cb1ebceb89d5e2aba2f86112.js"></script>
+
+    
+    
+    
+      
+
+      
+      
+
+      
+
+      
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/highlight.min.js" integrity="sha512-Ypjm0o7jOxAd4hpdoppSEN0TQOC19UtPAqD+4s5AlXmUvbmmS/YMxYqAqarQYyxTnB6/rqip9qcxlNB/3U9Wdg==" crossorigin="anonymous"></script>
+        
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/r.min.js" crossorigin="anonymous"></script>
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/latex.min.js" crossorigin="anonymous"></script>
+        
+      
+
+    
+
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+      
+      <script id="search-hit-fuse-template" type="text/x-template">
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script>
+      
+        <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
+    
+
+    
+
+    
+    
+    
+    <script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+    
+    
+      <script src="/js/wowchemy-headroom.c251366b4128fd5e6b046d4c97a62a51.js" type="module"></script>
+    
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    <script src="/de/js/wowchemy.min.c61341ac70b3e387381eb0f75df0718e.js"></script>
+
+    
+    
+    
+    
+    
+    
+      
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Zitieren</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Kopie
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      <script src="/js/wowchemy-publication.68f8d7090562ca65fc6d3cb3f8f2d2cb.js" type="module"></script>
+
+
+
+
+
+
+  
+
+
+
+
+<script src="/js/d3.v4.min.js" ></script>
+<script src="/js/insertdonorstats.js" ></script>
+
+</body>
+</html>

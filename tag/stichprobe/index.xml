@@ -1,0 +1,1018 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stichprobe | Corona-Datenspende | News &amp; Analysen</title>
+    <link>https://corona-datenspende.de/tag/stichprobe/</link>
+      <atom:link href="https://corona-datenspende.de/tag/stichprobe/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stichprobe</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de</language><lastBuildDate>Tue, 21 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://corona-datenspende.de/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
+      <title>Stichprobe</title>
+      <link>https://corona-datenspende.de/tag/stichprobe/</link>
+    </image>
+    
+    <item>
+      <title>Vergleich der Spender:innen in der Teilstudie „Tests, Symptome und Lebenssituation“ mit anderen Referenz-Studien</title>
+      <link>https://corona-datenspende.de/reports/benchmark/</link>
+      <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://corona-datenspende.de/reports/benchmark/</guid>
+      <description>&lt;h3 id=&#34;einleitung&#34;&gt;Einleitung&lt;/h3&gt;
+&lt;p&gt;In diesem Beitrag werden wir euch einen weiteren Einblick zu soziodemographischen Merkmalen und zur gesundheitlichen Lage der Datenspender:innen in der Teilstudie „Tests, Symptome und Lebenssituation“ (im Folgenden „Teilstudie“ genannt) geben.
+Wir vergleichen diesmal den Bildungsstand, die subjektiv eingeschätzte Gesundheit und die Inanspruchnahme von allgemeinärztlichen Leistungen der Teilnehmenden an der Teilstudie mit Referenzdaten.
+Dadurch kommen wir dem Ziel, die Stichprobenzusammensetzung der Datenspender:innen genauer zu beschreiben einen weiteren Schritt näher.
+Die Zusammensetzung der Stichprobe der Datenspender:innen in der Teilstudie basiert nicht auf einer zufälligen Auswahl, die Nutzenden haben sich selbst bei der Datenspende App registriert, ohne zuvor per Zufallsstichprobe dafür ausgewählt worden zu sein.
+Dadurch sind Unterschiede zwischen den Datenspender:innen und der Allgemeinbevölkerung zu erwarten, weshalb wir in diesem Beitrag weiter untersuchen möchten wie stark diese Unterschiede hinsichtlich der genannten Indikatoren sind.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Warum vergleichen wir die Datenspender:innen in der Teilstudie mit Referenzdaten? Was hat das mit Covid-19 zu tun?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Der Vergleich gibt uns Auskunft darüber, ob sich die Ergebnisse des Fragenbogens oder des Fieber-Monitorings auf die Bevölkerung verallgemeinern lassen.
+Oder anders formuliert, ob sich ggf. die Effekte die wir im Fiebermonitor erfassen weniger stark oder stärker in der Allgemeinbevölkerung zeigen würden.&lt;/p&gt;
+&lt;h3 id=&#34;bildungsstand&#34;&gt;Bildungsstand&lt;/h3&gt;
+&lt;p&gt;Um den Bildungsstand der Teilnehmenden an der Teilstudie zu bewerten, wählen wir als Referenz den Mikrozensus 2017 (Quelle: FDZ der Statistischen Ämter des Bundes und der Länder, DOI: 10.21242/12211.2017.00.00.1.1.1, eigene Berechnungen).
+Dazu klassifizieren wir den Bildungs- und den Berufsabschluss zunächst nach den Standards von &lt;a href=&#34;https://www.bfs.admin.ch/asset/de/do-d-15.01-isced-01&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISCED11&lt;/a&gt; in drei Kategorien (niedrige, mittlere, hohe Bildung).
+Beim Bildungsvergleich zwischen der Stichprobe der Teilstudie und dem Mikrozensus sind allgemein große Unterschiede in allen drei Bildungsgruppen zu erkennen.
+Wie aus anderen Surveys (d.h. Befragungsstudie der Allgemeinbevölkerung) bekannt, sehen wir auch hier, dass Teilnehmende mit niedriger Bildung im Vergleich zum Mikrozensus stark unterrepräsentiert sind.
+Das bedeutet, dass weniger Menschen mit niedriger Bildung an der Teilstudie teilgenommen haben, als es in der Allgemeinbevölkerung gibt.
+Auch aus der Gruppe derjenigen mit einer mittleren Bildung haben weniger Menschen an der Teilstudie teilgenommen, als gemäß Mikrozensus zu erwarten gewesen wären.
+Demgegenüber haben deutlich mehr Menschen mit einer hohen Bildung an der Teilstudie teilgenommen als es anteilig in der Allgemeinbevölkerung gibt.&lt;/p&gt;
+&lt;p&gt;Betrachten wir die Bildungsverteilung differenziert nach Geschlecht und Altersgruppen sehen wir ähnliche Ergebnisse.
+Bei den Frauen zeigen sich stärkere Unterschiede als bei den Männern. Außerdem nimmt der Unterschied mit zunehmendem Alter zu.&lt;/p&gt;
+&lt;p&gt;Limitation: Die Verteilung vom Mikrozensus 2017 bezieht sich auf die Bevölkerung ab 18 Jahren. Die Datenspender:innen können dagegen ab 16 Jahren teilnehmen.
+In der Altersgruppe der 16 bis 18 Jährigen ist die Schulausbildung bei einem großen Anteil noch nicht abgeschlossen.
+Dieser Anteil wurde der niedrigen Bildungskategorie zugeordnet. Der Anteil der niedrigen Bildungskategorie wäre somit eigentlich noch größer, wenn die Verteilung ab 16 Jahre in der Bevölkerung betrachtet werden würde.
+Leider liegt uns diese Verteilung nicht vor. 16 (0.08 %) Datenspender:innen haben keine Angaben zum Schul- und Berufsabschluss  gemacht von insgesamt 20.924 Teilnehmenden an dem Fragenbogen „Lebenssituation“ (Datenstand: 20.12.2021).&lt;/p&gt;
+&lt;section class=&#34;center mw10 mw8-ns&#34;&gt;
+ &lt;figure&gt;
+ 	&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.js&#34; integrity=&#34;sha512-n/4gHW3atM3QqRcbCn6ewmpxcLAHGaDjpEBu4xZd47N0W2oQ+6q7oc3PXstrJYXcbNU1OHdQ1T7pAP+gi5Yu8g==&#34; crossorigin=&#34;anonymous&#34; referrerpolicy=&#34;no-referrer&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/chart.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://unpkg.com/chartjs-chart-error-bars@3&#34;&gt;&lt;/script&gt;
+&lt;div style=&#34;margin: 0 auto; height:60vh; width:100%;  padding-bottom:2%; &#34;&gt;
+ &lt;button id=&#39;all_Blog2_isced11&#39; style=&#39;font-size: 13pt;&#39;&gt;Gesamt&lt;/button&gt;
+ &lt;button id=&#39;sex_Blog2_isced11&#39; style=&#39;font-size: 13pt;&#39;&gt;nach Geschlecht&lt;/button&gt;
+ &lt;button id=&#39;age_Blog2_isced11&#39; style=&#39;font-size: 13pt;&#39;&gt;nach Alter&lt;/button&gt;
+&lt;canvas id=&#39;chart_Blog2_isced11&#39; &gt;&lt;/canvas&gt;
+&lt;/div&gt;
+&lt;script&gt;
+//options
+Chart.defaults.font.size = 15;
+	var labels_chart = [
+&#39;Niedrig&#39;,
+&#39;Mittel&#39;,
+&#39;Hoch&#39;,
+];
+	var ds = [
+{y:1.8,yMin:1.6,yMax:2.0},
+{y:34.9,yMin:34.3,yMax:35.6},
+{y:63.3,yMin:62.7,yMax:64.0},
+];
+	var ds_men = [
+{y:1.7,yMin:1.4,yMax:2.0},
+{y:41.6,yMin:40.5,yMax:42.8},
+{y:56.7,yMin:55.6,yMax:57.9},
+];
+	var ds_women = [
+{y:1.8,yMin:1.6,yMax:2.1},
+{y:31.6,yMin:30.8,yMax:32.4},
+{y:66.6,yMin:65.8,yMax:67.4},
+];
+    var ds_1 = [
+{y:5.0,yMin:4.2,yMax:6.0},
+{y:40.5,yMin:38.5,yMax:42.6},
+{y:54.5,yMin:52.4,yMax:56.6},
+];
+    var ds_2 = [
+{y:1.1,yMin:1.0,yMax:1.3},
+{y:34.7,yMin:34.0,yMax:35.5},
+{y:64.1,yMin:63.4,yMax:64.9},
+];
+    var ds_3 = [
+{y:1.4,yMin:1.1,yMax:2.0},
+{y:31.5,yMin:29.8,yMax:33.2},
+{y:67.1,yMin:65.3,yMax:68.8},
+];
+	var geda19 = [
+{y:17.5},  {y:57.3},  {y:25.2},  ];
+	var geda19_men = [
+{y:14.0},  {y:56.3},  {y:29.6},  ];
+	var geda19_women = [
+{y:20.9},  {y:58.3},  {y:20.8},  ];
+    var geda19_1 = [
+{y:21.0},  {y:61.6},  {y:17.4},  ];
+    var geda19_2 = [
+{y:13.4},  {y:57.4},  {y:29.2},  ];
+    var geda19_3 = [
+{y:22.2},  {y:55.1},  {y:22.7},  ];
+let legend_Blog2_isced11 = 1;
+const chart_Blog2_isced11 = document.getElementById(&#39;chart_Blog2_isced11&#39;).getContext(&#39;2d&#39;);
+const chart__Blog2_isced11 = new Chart(chart_Blog2_isced11, {
+    type: &#34;barWithErrorBars&#34;,
+    data: {
+      labels: labels_chart,
+      datasets: [
+	  
+//####DS
+	  
+	  //ds 0
+		{
+        data: ds,          
+        label: &#39;Teil-Studie&#39;,
+		backgroundColor: &#34;rgba(102,205,170, 0.2)&#34;,
+		borderColor: &#34;rgba(102,205,170, 1)&#34;,
+		 borderWidth: 1
+        },
+		
+		//ds men 1
+		{
+        data: ds_men,          
+        label: &#39;Teil-Studie Männer&#39;,
+		backgroundColor: &#34;rgba(164,211,238, 0.2)&#34;,
+		borderColor: &#34;rgba(164,211,238, 1)&#34;,
+		hidden:true,
+		 borderWidth: 1
+        },
+		
+		//ds women 2
+		{
+        data: ds_women,          
+        label: &#39;Teil-Studie Frauen&#39;,
+		backgroundColor: &#34;rgba(205,155,155, 0.2)&#34;,
+		borderColor: &#34;rgba(205,155,155, 1)&#34;,
+		hidden:true,
+		 borderWidth: 1
+        },
+		
+		//ds_20_29 3
+		{
+        data: ds_1,          
+        label: &#39;Teil-Studie 16-29 Jahre&#39;,
+		backgroundColor: &#39;rgba(60,60, 255, 0.2)&#39;,
+		borderColor:&#39;rgba(60,60,255, 1)&#39;,
+		hidden:true,
+		 borderWidth: 1
+        },
+		{
+        data: ds_2,          
+        label: &#39;Teil-Studie 30-59 Jahre&#39;,
+		backgroundColor: &#39;rgba(120,120, 255, 0.2)&#39;,
+		borderColor:&#39;rgba(120,120,255, 1)&#39;,
+		hidden:true,
+		 borderWidth: 1
+        },
+		{
+        data: ds_3,          
+        label: &#39;Teil-Studie 60+ Jahre&#39;,
+		backgroundColor: &#39;rgba(180,180, 255, 0.2)&#39;,
+		borderColor:&#39;rgba(180,180,255, 1)&#39;,
+		hidden:true,
+		 borderWidth: 1
+        },
+//####geda19
+		
+		//geda19 5
+		{
+        data: geda19,          
+        label: &#39;Mikrozensus 2017&#39;,
+		backgroundColor: &#34;rgba(100,149,237, 0.2)&#34;,
+		borderColor: &#34;rgba(100,149,237, 1)&#34;,
+		 borderWidth: 1
+        },
+		
+		//geda19 men 6
+		{
+        data: geda19_men,          
+        label: &#39;Mikrozensus 2017 Männer&#39;,
+		backgroundColor: &#34;rgba(	72,61,139, 0.2)&#34;,
+		borderColor: &#34;rgba(	72,61,139, 1)&#34;,
+		hidden:true,
+		 borderWidth: 1
+        },
+		
+		//geda19 women 7
+		{
+        data: geda19_women,          
+        label: &#39;Mikrozensus 2017 Frauen&#39;,
+		backgroundColor: &#34;rgba(255,127,36, 0.2)&#34;,
+		borderColor: &#34;rgba(255,127,36, 1)&#34;,
+		hidden:true,
+		 borderWidth: 1
+        },
+		
+		{
+        data: geda19_1,          
+        label: &#39;Mikrozensus 2017 16-29 Jahre&#39;,
+		backgroundColor: &#39;rgba(110,110,100, 0.2)&#39;,
+		borderColor:&#39;rgba(110,110,100, 1)&#39;,
+		hidden:true,
+		 borderWidth: 1
+        },
+		{
+        data: geda19_2,          
+        label: &#39;Mikrozensus 2017 30-59 Jahre&#39;,
+		backgroundColor: &#39;rgba(170,170,100, 0.2)&#39;,
+		borderColor:&#39;rgba(170,170,100, 1)&#39;,
+		hidden:true,
+		 borderWidth: 1
+        },
+		{
+        data: geda19_3,          
+        label: &#39;Mikrozensus 2017 60+ Jahre&#39;,
+		backgroundColor: &#39;rgba(230,230,100, 0.2)&#39;,
+		borderColor:&#39;rgba(230,230,100, 1)&#39;,
+		hidden:true,
+		 borderWidth: 1
+        },
+]
+    },
+    options: {
+	       scales: {
+            y: { 
+			 
+			  grid: {
+          drawBorder: false,
+		  display: true
+		  },
+                ticks: {
+                    // Include a dollar sign in the ticks
+                    callback: function(value, index, values) {
+                        return value+&#34;%&#34;;
+                    }
+                }
+            },
+			x: {
+  			ticks: {autoSkip:false},
+			  grid: {
+          drawBorder: false,
+		  display: false
+		  }
+			}
+        },
+      responsive: true,
+      maintainAspectRatio: false,
+	  	animation: {
+        duration: 350,
+		easing: &#34;linear&#34;
+    },
+      plugins: {
+		title: {
+            display: true,
+            text: &#39;ISCED11 Gesamt&#39;,
+			font: {
+                        size: 16
+                    }
+        },         
+        tooltip: {
+          enabled: true,mode:&#34;index&#34;
+        },
+	
+        legend:{
+          reverse: false,
+          display: true,
+          position: &#34;bottom&#34;,
+		   labels: {
+                filter: function(item, chart_Blog2_isced11) {
+                    if (legend_Blog2_isced11 === 1) {
+                    return item.text === &#39;Teil-Studie&#39; || item.text === &#39;Mikrozensus 2017&#39;;
+					}
+					if (legend_Blog2_isced11 === 2) {
+                    return item.text.includes(&#39;Männer&#39;) || item.text.includes(&#39;Frauen&#39;);
+					}
+					if (legend_Blog2_isced11 === 3) {
+                    return item.text.includes(&#39;Jahre&#39;);
+					}					
+                }
+            }
+        },
+      },
+    }
+  });
+$( document ).ready(function() {
+    $(&#39;#all_Blog2_isced11&#39;).click(function () {
+		legend_Blog2_isced11=1;
+		chart__Blog2_isced11.options.plugins.title.text = &#39;ISCED11 Gesamt&#39;;		
+		chart__Blog2_isced11.hide(1);
+		chart__Blog2_isced11.hide(2);
+		chart__Blog2_isced11.hide(3);
+		chart__Blog2_isced11.hide(4);
+		chart__Blog2_isced11.hide(5);
+		chart__Blog2_isced11.hide(7);
+		chart__Blog2_isced11.hide(8);
+		chart__Blog2_isced11.hide(9);
+		chart__Blog2_isced11.hide(10);
+		chart__Blog2_isced11.hide(11);
+		
+		chart__Blog2_isced11.show(0);
+		chart__Blog2_isced11.show(6);
+		chart__Blog2_isced11.update(); 
+		});
+    $(&#39;#sex_Blog2_isced11&#39;).click(function () {
+		legend_Blog2_isced11 = 2;
+		chart__Blog2_isced11.options.plugins.title.text = &#39;ISCED11 nach Geschlecht&#39;;			
+		chart__Blog2_isced11.hide(0);
+		chart__Blog2_isced11.hide(3);
+		chart__Blog2_isced11.hide(4);
+		chart__Blog2_isced11.hide(5);
+		chart__Blog2_isced11.hide(6);
+		chart__Blog2_isced11.hide(9);
+		chart__Blog2_isced11.hide(10);
+		chart__Blog2_isced11.hide(11);
+		
+		chart__Blog2_isced11.show(1);
+		chart__Blog2_isced11.show(2);
+		chart__Blog2_isced11.show(7);
+		chart__Blog2_isced11.show(8);
+		
+		chart__Blog2_isced11.update(); 
+		});
+    $(&#39;#age_Blog2_isced11&#39;).click(function () {
+		legend_Blog2_isced11 = 3;
+		chart__Blog2_isced11.options.plugins.title.text = &#39;ISCED11 nach Alter&#39;;			
+		chart__Blog2_isced11.hide(0);
+		chart__Blog2_isced11.hide(1);
+		chart__Blog2_isced11.hide(2);
+		chart__Blog2_isced11.hide(6);
+		chart__Blog2_isced11.hide(7);
+		chart__Blog2_isced11.hide(8);
+		
+		chart__Blog2_isced11.show(3);
+		chart__Blog2_isced11.show(4);
+		chart__Blog2_isced11.show(5);
+		chart__Blog2_isced11.show(9);
+		chart__Blog2_isced11.show(10);
+		chart__Blog2_isced11.show(11);
+		
+		chart__Blog2_isced11.update(); 
+		});
+});
+&lt;/script&gt;
+
+ 	&lt;figcaption&gt;
+ 		&lt;div class=&#34;pa4 tl f4 lh-copy&#34;&gt;&lt;em&gt;Abbildung 1: Bildungsverteilung der Datenspender:innen der Teilstudie mit dem Mikrozensus 2017&lt;/em&gt;&lt;/div&gt;	
+ 	&lt;/figcaption&gt;
+ &lt;/figure&gt;
+&lt;/section&gt;
+
+&lt;h3 id=&#34;subjektiver-gesundheitszustandallgemeiner-gesundheitszustand&#34;&gt;Subjektiver Gesundheitszustand/Allgemeiner Gesundheitszustand&lt;/h3&gt;
+&lt;p&gt;Für die Bewertung des subjektiv eingeschätzten Gesundheitszustands der Teilnehmenden an der Teilstudie verwenden wir zum Vergleich die aktuelle bevölkerungsrepräsentative Gesundheitsbefragung &lt;a href=&#34;https://www.rki.de/DE/Content/Gesundheitsmonitoring/Gesundheitsberichterstattung/GBEDownloadsJ/ConceptsMethods/JoHM_03_2021_GEDA_Methodik.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GEDA 2019/2020-EHIS&lt;/a&gt; des Robert Koch-Instituts als Referenz .
+Im Vergleich zu den Teilnehmenden an GEDA 2019/2020-EHIS bewerten die Teilnehmenden der Teilstudie ihren subjektiven Gesundheitszustand häufiger als sehr gut oder gut und seltener als mittelmäßig, schlecht oder sehr schlecht.
+Diese Beobachtung zeigt sich auch bei der differenzierten Betrachtung nach Geschlecht, wobei hier der Unterschied bei den Frauen stärker ausgeprägt ist als bei den Männern.&lt;/p&gt;
+&lt;p&gt;Betrachten wir den subjektiv eingeschätzten Gesundheitszustand nach Altersgruppen getrennt, so zeigt sich ein etwas anderes Bild.
+Teilnehmende an der Teilstudie im Alter von 16 bis 29 Jahren geben seltener als Teilnehmende an GEDA 2019/2020-EHIS einen sehr guten selbst eingeschätzten Gesundheitszustand an.
+Demgegenüber geben sie häufiger einen mittelmäßig eingeschätzten Gesundheitszustand an als diejenigen Teilnehmenden an GEDA 2019/2020-EHIS.&lt;/p&gt;
+&lt;p&gt;Anteilig geben Teilnehmende der Teilstudie im Alter von 16 bis 29 Jahre auch etwas häufiger einen als sehr schlecht bewerteten subjektiven Gesundheitszustand an als Teilnehmende an GEDA 2019/2020-EHIS, wobei diese Anteile in beiden Studien jedoch sehr gering sind.
+In der Altersgruppe der über 60-Jährigen wird die Nennung eines mittelmäßigen, schlechten oder sehr schlechten subjektiven Gesundheitszustandes unter den Teilnehmenden der Teilstudie wesentlich seltener angegeben als in GEDA 2019/2020-EHIS.
+171 (0.82 %) Datenspender:innen haben keine Angaben zum  subjektiven Gesundheitszustandes gemacht von insgesamt 20.924 Teilnehmenden an dem Fragenbogen „Lebenssituation“ (Datenstand: 20.12.2021).&lt;/p&gt;
+&lt;section class=&#34;center mw10 mw8-ns&#34;&gt;
+ &lt;figure&gt;
+ 	&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.js&#34; integrity=&#34;sha512-n/4gHW3atM3QqRcbCn6ewmpxcLAHGaDjpEBu4xZd47N0W2oQ+6q7oc3PXstrJYXcbNU1OHdQ1T7pAP+gi5Yu8g==&#34; crossorigin=&#34;anonymous&#34; referrerpolicy=&#34;no-referrer&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/chart.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://unpkg.com/chartjs-chart-error-bars@3&#34;&gt;&lt;/script&gt;
+&lt;div style=&#34;margin: 0 auto; height:60vh; width:100%;  padding-bottom:2%; &#34;&gt;
+ &lt;button id=&#39;all_Blog2_gzmehm1&#39; style=&#39;font-size: 13pt;&#39;&gt;Gesamt&lt;/button&gt;
+ &lt;button id=&#39;sex_Blog2_gzmehm1&#39; style=&#39;font-size: 13pt;&#39;&gt;nach Geschlecht&lt;/button&gt;
+ &lt;button id=&#39;age_Blog2_gzmehm1&#39; style=&#39;font-size: 13pt;&#39;&gt;nach Alter&lt;/button&gt;
+&lt;canvas id=&#39;chart_Blog2_gzmehm1&#39; &gt;&lt;/canvas&gt;
+&lt;/div&gt;
+&lt;script&gt;
+//options
+Chart.defaults.font.size = 15;
+	var labels_chart = [
+&#39;Sehr gut&#39;,
+&#39;Gut&#39;,
+&#39;Mittelmäßig&#39;,
+&#39;Schlecht&#39;,
+&#39;Sehr schlecht&#39;,
+];
+	var ds = [
+{y:29.7,yMin:29.0,yMax:30.3},
+{y:54.6,yMin:53.9,yMax:55.3},
+{y:13.5,yMin:13.1,yMax:14.0},
+{y:1.9,yMin:1.8,yMax:2.1},
+{y:0.2,yMin:0.2,yMax:0.3},
+];
+	var ds_men = [
+{y:27.0,yMin:26.0,yMax:28.1},
+{y:53.5,yMin:52.3,yMax:54.7},
+{y:16.8,yMin:16.0,yMax:17.7},
+{y:2.4,yMin:2.1,yMax:2.8},
+{y:0.2,yMin:0.1,yMax:0.3},
+];
+	var ds_women = [
+{y:31.0,yMin:30.2,yMax:31.8},
+{y:55.2,yMin:54.4,yMax:56.0},
+{y:11.9,yMin:11.3,yMax:12.4},
+{y:1.7,yMin:1.5,yMax:1.9},
+{y:0.2,yMin:0.2,yMax:0.3},
+];
+    var ds_1 = [
+{y:35.2,yMin:33.2,yMax:37.2},
+{y:49.7,yMin:47.6,yMax:51.8},
+{y:13.1,yMin:11.7,yMax:14.5},
+{y:1.8,yMin:1.3,yMax:2.5},
+{y:0.3,yMin:0.1,yMax:0.6},
+];
+    var ds_2 = [
+{y:30.2,yMin:29.5,yMax:30.9},
+{y:54.4,yMin:53.6,yMax:55.2},
+{y:13.2,yMin:12.7,yMax:13.7},
+{y:2.0,yMin:1.8,yMax:2.2},
+{y:0.2,yMin:0.2,yMax:0.3},
+];
+    var ds_3 = [
+{y:22.3,yMin:20.8,yMax:23.9},
+{y:60.0,yMin:58.1,yMax:61.8},
+{y:15.8,yMin:14.5,yMax:17.2},
+{y:1.8,yMin:1.3,yMax:2.3},
+{y:0.2,yMin:0.1,yMax:0.4},
+];
+	var geda19 = [
+{y:24.5,yMin:23.6,yMax:25.3},  {y:46.0,yMin:45.0,yMax:47.0},  {y:21.8,yMin:21.0,yMax:22.7},  {y:6.3,yMin:5.8,yMax:6.8},  {y:1.4,yMin:1.2,yMax:1.7},  ];
+	var geda19_men = [
+{y:25.5,yMin:24.3,yMax:26.8},  {y:46.6,yMin:45.1,yMax:48.0},  {y:20.0,yMin:18.9,yMax:21.2},  {y:6.6,yMin:5.8,yMax:7.4},  {y:1.3,yMin:1.0,yMax:1.7},  ];
+	var geda19_women = [
+{y:23.5,yMin:22.4,yMax:24.6},  {y:45.5,yMin:44.2,yMax:46.8},  {y:23.5,yMin:22.4,yMax:24.7},  {y:6.0,yMin:5.4,yMax:6.7},  {y:1.5,yMin:1.2,yMax:1.9},  ];
+    var geda19_1 = [
+{y:42.6,yMin:40.0,yMax:45.1},  {y:45.7,yMin:43.1,yMax:48.3},  {y:10.2,yMin:8.5,yMax:12.1},  {y:1.6,yMin:1.0,yMax:2.6},  {y:0.0},  ];
+    var geda19_2 = [
+{y:25.9,yMin:24.7,yMax:27.1},  {y:48.8,yMin:47.4,yMax:50.2},  {y:18.2,yMin:17.1,yMax:19.4},  {y:5.8,yMin:5.0,yMax:6.6},  {y:1.3,yMin:0.9,yMax:1.7},  ];
+    var geda19_3 = [
+{y:12.6,yMin:11.7,yMax:13.6},  {y:42.3,yMin:40.8,yMax:43.8},  {y:33.2,yMin:31.7,yMax:34.7},  {y:9.6,yMin:8.7,yMax:10.6},  {y:2.4,yMin:1.9,yMax:3.0},  ];
+let legend_Blog2_gzmehm1 = 1;
+const chart_Blog2_gzmehm1 = document.getElementById(&#39;chart_Blog2_gzmehm1&#39;).getContext(&#39;2d&#39;);
+const chart__Blog2_gzmehm1 = new Chart(chart_Blog2_gzmehm1, {
+    type: &#34;barWithErrorBars&#34;,
+    data: {
+      labels: labels_chart,
+      datasets: [
+	  
+//####DS
+	  
+	  //ds 0
+		{
+        data: ds,          
+        label: &#39;Teil-Studie&#39;,
+		backgroundColor: &#34;rgba(102,205,170, 0.2)&#34;,
+		borderColor: &#34;rgba(102,205,170, 1)&#34;,
+		 borderWidth: 1
+        },
+		
+		//ds men 1
+		{
+        data: ds_men,          
+        label: &#39;Teil-Studie Männer&#39;,
+		backgroundColor: &#34;rgba(164,211,238, 0.2)&#34;,
+		borderColor: &#34;rgba(164,211,238, 1)&#34;,
+		hidden:true,
+		 borderWidth: 1
+        },
+		
+		//ds women 2
+		{
+        data: ds_women,          
+        label: &#39;Teil-Studie Frauen&#39;,
+		backgroundColor: &#34;rgba(205,155,155, 0.2)&#34;,
+		borderColor: &#34;rgba(205,155,155, 1)&#34;,
+		hidden:true,
+		 borderWidth: 1
+        },
+		
+		//ds_20_29 3
+		{
+        data: ds_1,          
+        label: &#39;Teil-Studie 16-29 Jahre&#39;,
+		backgroundColor: &#39;rgba(60,60, 255, 0.2)&#39;,
+		borderColor:&#39;rgba(60,60,255, 1)&#39;,
+		hidden:true,
+		 borderWidth: 1
+        },
+		{
+        data: ds_2,          
+        label: &#39;Teil-Studie 30-59 Jahre&#39;,
+		backgroundColor: &#39;rgba(120,120, 255, 0.2)&#39;,
+		borderColor:&#39;rgba(120,120,255, 1)&#39;,
+		hidden:true,
+		 borderWidth: 1
+        },
+		{
+        data: ds_3,          
+        label: &#39;Teil-Studie 60+ Jahre&#39;,
+		backgroundColor: &#39;rgba(180,180, 255, 0.2)&#39;,
+		borderColor:&#39;rgba(180,180,255, 1)&#39;,
+		hidden:true,
+		 borderWidth: 1
+        },
+//####geda19
+		
+		//geda19 5
+		{
+        data: geda19,          
+        label: &#39;GEDA19/20(EHIS)&#39;,
+		backgroundColor: &#34;rgba(100,149,237, 0.2)&#34;,
+		borderColor: &#34;rgba(100,149,237, 1)&#34;,
+		 borderWidth: 1
+        },
+		
+		//geda19 men 6
+		{
+        data: geda19_men,          
+        label: &#39;GEDA19/20(EHIS) Männer&#39;,
+		backgroundColor: &#34;rgba(	72,61,139, 0.2)&#34;,
+		borderColor: &#34;rgba(	72,61,139, 1)&#34;,
+		hidden:true,
+		 borderWidth: 1
+        },
+		
+		//geda19 women 7
+		{
+        data: geda19_women,          
+        label: &#39;GEDA19/20(EHIS) Frauen&#39;,
+		backgroundColor: &#34;rgba(255,127,36, 0.2)&#34;,
+		borderColor: &#34;rgba(255,127,36, 1)&#34;,
+		hidden:true,
+		 borderWidth: 1
+        },
+		
+		{
+        data: geda19_1,          
+        label: &#39;GEDA19/20(EHIS) 16-29 Jahre&#39;,
+		backgroundColor: &#39;rgba(110,110,100, 0.2)&#39;,
+		borderColor:&#39;rgba(110,110,100, 1)&#39;,
+		hidden:true,
+		 borderWidth: 1
+        },
+		{
+        data: geda19_2,          
+        label: &#39;GEDA19/20(EHIS) 30-59 Jahre&#39;,
+		backgroundColor: &#39;rgba(170,170,100, 0.2)&#39;,
+		borderColor:&#39;rgba(170,170,100, 1)&#39;,
+		hidden:true,
+		 borderWidth: 1
+        },
+		{
+        data: geda19_3,          
+        label: &#39;GEDA19/20(EHIS) 60+ Jahre&#39;,
+		backgroundColor: &#39;rgba(230,230,100, 0.2)&#39;,
+		borderColor:&#39;rgba(230,230,100, 1)&#39;,
+		hidden:true,
+		 borderWidth: 1
+        },
+]
+    },
+    options: {
+	       scales: {
+            y: { 
+			 
+			  grid: {
+          drawBorder: false,
+		  display: true
+		  },
+                ticks: {
+                    // Include a dollar sign in the ticks
+                    callback: function(value, index, values) {
+                        return value+&#34;%&#34;;
+                    }
+                }
+            },
+			x: {
+  			ticks: {autoSkip:false},
+			  grid: {
+          drawBorder: false,
+		  display: false
+		  }
+			}
+        },
+      responsive: true,
+      maintainAspectRatio: false,
+	  	animation: {
+        duration: 350,
+		easing: &#34;linear&#34;
+    },
+      plugins: {
+		title: {
+            display: true,
+            text: &#39;Allg. Gesundheitszustand Gesamt&#39;,
+			font: {
+                        size: 16
+                    }
+        },         
+        tooltip: {
+          enabled: true,mode:&#34;index&#34;
+        },
+	
+        legend:{
+          reverse: false,
+          display: true,
+          position: &#34;bottom&#34;,
+		   labels: {
+                filter: function(item, chart_Blog2_gzmehm1) {
+                    if (legend_Blog2_gzmehm1 === 1) {
+                    return item.text === &#39;Teil-Studie&#39; || item.text === &#39;GEDA19/20(EHIS)&#39;;
+					}
+					if (legend_Blog2_gzmehm1 === 2) {
+                    return item.text.includes(&#39;Männer&#39;) || item.text.includes(&#39;Frauen&#39;);
+					}
+					if (legend_Blog2_gzmehm1 === 3) {
+                    return item.text.includes(&#39;Jahre&#39;);
+					}					
+                }
+            }
+        },
+      },
+    }
+  });
+$( document ).ready(function() {
+    $(&#39;#all_Blog2_gzmehm1&#39;).click(function () {
+		legend_Blog2_gzmehm1=1;
+		chart__Blog2_gzmehm1.options.plugins.title.text = &#39;Allg. Gesundheitszustand Gesamt&#39;;		
+		chart__Blog2_gzmehm1.hide(1);
+		chart__Blog2_gzmehm1.hide(2);
+		chart__Blog2_gzmehm1.hide(3);
+		chart__Blog2_gzmehm1.hide(4);
+		chart__Blog2_gzmehm1.hide(5);
+		chart__Blog2_gzmehm1.hide(7);
+		chart__Blog2_gzmehm1.hide(8);
+		chart__Blog2_gzmehm1.hide(9);
+		chart__Blog2_gzmehm1.hide(10);
+		chart__Blog2_gzmehm1.hide(11);
+		
+		chart__Blog2_gzmehm1.show(0);
+		chart__Blog2_gzmehm1.show(6);
+		chart__Blog2_gzmehm1.update(); 
+		});
+    $(&#39;#sex_Blog2_gzmehm1&#39;).click(function () {
+		legend_Blog2_gzmehm1 = 2;
+		chart__Blog2_gzmehm1.options.plugins.title.text = &#39;Allg. Gesundheitszustand nach Geschlecht&#39;;			
+		chart__Blog2_gzmehm1.hide(0);
+		chart__Blog2_gzmehm1.hide(3);
+		chart__Blog2_gzmehm1.hide(4);
+		chart__Blog2_gzmehm1.hide(5);
+		chart__Blog2_gzmehm1.hide(6);
+		chart__Blog2_gzmehm1.hide(9);
+		chart__Blog2_gzmehm1.hide(10);
+		chart__Blog2_gzmehm1.hide(11);
+		
+		chart__Blog2_gzmehm1.show(1);
+		chart__Blog2_gzmehm1.show(2);
+		chart__Blog2_gzmehm1.show(7);
+		chart__Blog2_gzmehm1.show(8);
+		
+		chart__Blog2_gzmehm1.update(); 
+		});
+    $(&#39;#age_Blog2_gzmehm1&#39;).click(function () {
+		legend_Blog2_gzmehm1 = 3;
+		chart__Blog2_gzmehm1.options.plugins.title.text = &#39;Allg. Gesundheitszustand nach Alter&#39;;			
+		chart__Blog2_gzmehm1.hide(0);
+		chart__Blog2_gzmehm1.hide(1);
+		chart__Blog2_gzmehm1.hide(2);
+		chart__Blog2_gzmehm1.hide(6);
+		chart__Blog2_gzmehm1.hide(7);
+		chart__Blog2_gzmehm1.hide(8);
+		
+		chart__Blog2_gzmehm1.show(3);
+		chart__Blog2_gzmehm1.show(4);
+		chart__Blog2_gzmehm1.show(5);
+		chart__Blog2_gzmehm1.show(9);
+		chart__Blog2_gzmehm1.show(10);
+		chart__Blog2_gzmehm1.show(11);
+		
+		chart__Blog2_gzmehm1.update(); 
+		});
+});
+&lt;/script&gt;
+
+ 	&lt;figcaption&gt;
+ 		&lt;div class=&#34;pa4 tl f4 lh-copy&#34;&gt;&lt;em&gt;Abbildung 2: Verteilung des subjektiv eingeschätzten Gesundheitszustands der Datenspender:innen der Teilstudie mit GEDA 2019/2020-EHIS&lt;/em&gt;&lt;/div&gt;	
+ 	&lt;/figcaption&gt;
+ &lt;/figure&gt;
+&lt;/section&gt;
+
+&lt;h3 id=&#34;inanspruchnahme-allgemeinärztlicher-leistung&#34;&gt;Inanspruchnahme allgemeinärztlicher Leistung&lt;/h3&gt;
+&lt;p&gt;Hinsichtlich der Inanspruchnahme von Allgemein- oder Hausarzt:ärztinnen wird deutlich, dass Teilnehmende an der Teilstudie diese:n seltener innerhalb der letzten 12 Monate, dafür aber häufiger vor 12 Monaten oder länger aufgesucht haben als Teilnehmende an GEDA 2019/2020-EHIS.
+Auch der Anteil derjenigen ohne eine allgemein- oder hausärztliche Inanspruchnahme ist in der Stichprobe der Teilstudie etwas höher.&lt;/p&gt;
+&lt;p&gt;Differenziert nach Geschlecht lässt sich der Unterschied unter denjenigen, die eine:n Allgemein- oder Hausarzt:ärztin innerhalb der letzten 12 Monate aufgesucht haben, vor allem bei den Frauen beobachten: Teilnehmerinnen an der Teilstudie haben diese:n seltener innerhalb der letzten 12 Monate in Anspruch genommen als Teilnehmerinnen an GEDA 2019/2020-EHIS.
+Dagegen hat ein größerer Anteil der Teilnehmerinnen der Teilstudie im Vergleich zu GEDA 2019/2020-EHIS vor 12 Monaten oder mehr zuletzt eine:n Allgemein- oder Hausarzt:ärztin besucht oder hat diese:n noch nie in Anspruch genommen.
+Bei Männern ließ sich kein deutlicher Unterschied zwischen der Teilstudie und GEDA 2019/2020-EHIS erkennen.&lt;/p&gt;
+&lt;p&gt;Differenziert nach Altersgruppen waren vor allem Teilnehmende der Altersgruppe 16 bis 29 Jahre der Teilstudie seltener in den vergangenen 12 Monaten bei Allgemein- oder Hausärzt:innen als die Teilnehmenden an GEDA 2019/2020-EHIS derselben Altersgruppe.
+Auch berichten vor allem Teilstudien-Teilnehmende dieser Altersgruppe, noch nie eine allgemein- oder hausärztliche Praxis aufgesucht zu haben.
+Demgegenüber haben Teilnehmende ab 60 Jahren in beiden Studien eine:n Allgemein- oder Hausarzt:ärztin anteilig etwa gleich häufig in den vergangenen 12 Monaten aufgesucht.
+Auch die Anteile der ab 60-Jährigen, die eine:n Allgemein- oder Hausarzt:ärztin vor 12 Monaten oder mehr in Anspruch genommen haben, sind in beiden Studien etwa gleich hoch.
+208 (0.99 %) Datenspender:innen haben keine Angaben zum letzten Besuch beim Allgemein- oder Hausarzt gemacht von insgesamt 20.924 Teilnehmenden an dem Fragenbogen „Lebenssituation“ (Datenstand: 20.12.2021).&lt;/p&gt;
+&lt;section class=&#34;center mw10 mw8-ns&#34;&gt;
+ &lt;figure&gt;
+ 	&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.js&#34; integrity=&#34;sha512-n/4gHW3atM3QqRcbCn6ewmpxcLAHGaDjpEBu4xZd47N0W2oQ+6q7oc3PXstrJYXcbNU1OHdQ1T7pAP+gi5Yu8g==&#34; crossorigin=&#34;anonymous&#34; referrerpolicy=&#34;no-referrer&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/chart.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://unpkg.com/chartjs-chart-error-bars@3&#34;&gt;&lt;/script&gt;
+&lt;div style=&#34;margin: 0 auto; height:60vh; width:100%;  padding-bottom:2%; &#34;&gt;
+ &lt;button id=&#39;all_Blog2_IAarzt1B&#39; style=&#39;font-size: 13pt;&#39;&gt;Gesamt&lt;/button&gt;
+ &lt;button id=&#39;sex_Blog2_IAarzt1B&#39; style=&#39;font-size: 13pt;&#39;&gt;nach Geschlecht&lt;/button&gt;
+ &lt;button id=&#39;age_Blog2_IAarzt1B&#39; style=&#39;font-size: 13pt;&#39;&gt;nach Alter&lt;/button&gt;
+&lt;canvas id=&#39;chart_Blog2_IAarzt1B&#39; &gt;&lt;/canvas&gt;
+&lt;/div&gt;
+&lt;script&gt;
+//options
+Chart.defaults.font.size = 15;
+	var labels_chart = [
+&#39;Vor weniger als 12 Monaten&#39;,
+&#39;Vor 12 Monaten oder länger&#39;,
+&#39;Nie&#39;,
+];
+	var ds = [
+{y:74.6,yMin:74.0,yMax:75.2},
+{y:23.5,yMin:22.9,yMax:24.1},
+{y:1.9,yMin:1.7,yMax:2.0},
+];
+	var ds_men = [
+{y:77.8,yMin:76.8,yMax:78.7},
+{y:21.2,yMin:20.2,yMax:22.1},
+{y:1.1,yMin:0.9,yMax:1.4},
+];
+	var ds_women = [
+{y:73.1,yMin:72.4,yMax:73.8},
+{y:24.7,yMin:24.0,yMax:25.4},
+{y:2.2,yMin:2.0,yMax:2.5},
+];
+    var ds_1 = [
+{y:67.4,yMin:65.4,yMax:69.3},
+{y:28.5,yMin:26.6,yMax:30.4},
+{y:4.2,yMin:3.4,yMax:5.1},
+];
+    var ds_2 = [
+{y:73.5,yMin:72.8,yMax:74.2},
+{y:24.8,yMin:24.2,yMax:25.5},
+{y:1.7,yMin:1.5,yMax:1.9},
+];
+    var ds_3 = [
+{y:87.0,yMin:85.7,yMax:88.2},
+{y:12.1,yMin:10.9,yMax:13.3},
+{y:0.9,yMin:0.6,yMax:1.3},
+];
+	var geda19 = [
+{y:81.7,yMin:80.9,yMax:82.5},  {y:17.3,yMin:16.6,yMax:18.1},  {y:0.9,yMin:0.7,yMax:1.2},  ];
+	var geda19_men = [
+{y:79.3,yMin:78.1,yMax:80.5},  {y:19.4,yMin:18.3,yMax:20.6},  {y:1.3,yMin:1.0,yMax:1.7},  ];
+	var geda19_women = [
+{y:84.1,yMin:83.1,yMax:85.1},  {y:15.3,yMin:14.3,yMax:16.3},  {y:0.6,yMin:0.4,yMax:0.9},  ];
+    var geda19_1 = [
+{y:77.6,yMin:75.4,yMax:79.7},  {y:20.9,yMin:18.8,yMax:23.1},  {y:1.5,yMin:1.0,yMax:2.2},  ];
+    var geda19_2 = [
+{y:79.0,yMin:77.8,yMax:80.2},  {y:20.2,yMin:19.1,yMax:21.4},  {y:0.7,yMin:0.5,yMax:1.1},  ];
+    var geda19_3 = [
+{y:87.8,yMin:86.7,yMax:88.8},  {y:11.3,yMin:10.3,yMax:12.3},  {y:0.9,yMin:0.6,yMax:1.4},  ];
+let legend_Blog2_IAarzt1B = 1;
+const chart_Blog2_IAarzt1B = document.getElementById(&#39;chart_Blog2_IAarzt1B&#39;).getContext(&#39;2d&#39;);
+const chart__Blog2_IAarzt1B = new Chart(chart_Blog2_IAarzt1B, {
+    type: &#34;barWithErrorBars&#34;,
+    data: {
+      labels: labels_chart,
+      datasets: [
+	  
+//####DS
+	  
+	  //ds 0
+		{
+        data: ds,          
+        label: &#39;Teil-Studie&#39;,
+		backgroundColor: &#34;rgba(102,205,170, 0.2)&#34;,
+		borderColor: &#34;rgba(102,205,170, 1)&#34;,
+		 borderWidth: 1
+        },
+		
+		//ds men 1
+		{
+        data: ds_men,          
+        label: &#39;Teil-Studie Männer&#39;,
+		backgroundColor: &#34;rgba(164,211,238, 0.2)&#34;,
+		borderColor: &#34;rgba(164,211,238, 1)&#34;,
+		hidden:true,
+		 borderWidth: 1
+        },
+		
+		//ds women 2
+		{
+        data: ds_women,          
+        label: &#39;Teil-Studie Frauen&#39;,
+		backgroundColor: &#34;rgba(205,155,155, 0.2)&#34;,
+		borderColor: &#34;rgba(205,155,155, 1)&#34;,
+		hidden:true,
+		 borderWidth: 1
+        },
+		
+		//ds_20_29 3
+		{
+        data: ds_1,          
+        label: &#39;Teil-Studie 16-29 Jahre&#39;,
+		backgroundColor: &#39;rgba(60,60, 255, 0.2)&#39;,
+		borderColor:&#39;rgba(60,60,255, 1)&#39;,
+		hidden:true,
+		 borderWidth: 1
+        },
+		{
+        data: ds_2,          
+        label: &#39;Teil-Studie 30-59 Jahre&#39;,
+		backgroundColor: &#39;rgba(120,120, 255, 0.2)&#39;,
+		borderColor:&#39;rgba(120,120,255, 1)&#39;,
+		hidden:true,
+		 borderWidth: 1
+        },
+		{
+        data: ds_3,          
+        label: &#39;Teil-Studie 60+ Jahre&#39;,
+		backgroundColor: &#39;rgba(180,180, 255, 0.2)&#39;,
+		borderColor:&#39;rgba(180,180,255, 1)&#39;,
+		hidden:true,
+		 borderWidth: 1
+        },
+//####geda19
+		
+		//geda19 5
+		{
+        data: geda19,          
+        label: &#39;GEDA19/20(EHIS)&#39;,
+		backgroundColor: &#34;rgba(100,149,237, 0.2)&#34;,
+		borderColor: &#34;rgba(100,149,237, 1)&#34;,
+		 borderWidth: 1
+        },
+		
+		//geda19 men 6
+		{
+        data: geda19_men,          
+        label: &#39;GEDA19/20(EHIS) Männer&#39;,
+		backgroundColor: &#34;rgba(	72,61,139, 0.2)&#34;,
+		borderColor: &#34;rgba(	72,61,139, 1)&#34;,
+		hidden:true,
+		 borderWidth: 1
+        },
+		
+		//geda19 women 7
+		{
+        data: geda19_women,          
+        label: &#39;GEDA19/20(EHIS) Frauen&#39;,
+		backgroundColor: &#34;rgba(255,127,36, 0.2)&#34;,
+		borderColor: &#34;rgba(255,127,36, 1)&#34;,
+		hidden:true,
+		 borderWidth: 1
+        },
+		
+		{
+        data: geda19_1,          
+        label: &#39;GEDA19/20(EHIS) 16-29 Jahre&#39;,
+		backgroundColor: &#39;rgba(110,110,100, 0.2)&#39;,
+		borderColor:&#39;rgba(110,110,100, 1)&#39;,
+		hidden:true,
+		 borderWidth: 1
+        },
+		{
+        data: geda19_2,          
+        label: &#39;GEDA19/20(EHIS) 30-59 Jahre&#39;,
+		backgroundColor: &#39;rgba(170,170,100, 0.2)&#39;,
+		borderColor:&#39;rgba(170,170,100, 1)&#39;,
+		hidden:true,
+		 borderWidth: 1
+        },
+		{
+        data: geda19_3,          
+        label: &#39;GEDA19/20(EHIS) 60+ Jahre&#39;,
+		backgroundColor: &#39;rgba(230,230,100, 0.2)&#39;,
+		borderColor:&#39;rgba(230,230,100, 1)&#39;,
+		hidden:true,
+		 borderWidth: 1
+        },
+]
+    },
+    options: {
+	       scales: {
+            y: { 
+			 
+			  grid: {
+          drawBorder: false,
+		  display: true
+		  },
+                ticks: {
+                    // Include a dollar sign in the ticks
+                    callback: function(value, index, values) {
+                        return value+&#34;%&#34;;
+                    }
+                }
+            },
+			x: {
+  			ticks: {autoSkip:false},
+			  grid: {
+          drawBorder: false,
+		  display: false
+		  }
+			}
+        },
+      responsive: true,
+      maintainAspectRatio: false,
+	  	animation: {
+        duration: 350,
+		easing: &#34;linear&#34;
+    },
+      plugins: {
+		title: {
+            display: true,
+            text: &#39;Besuch Allgemeinarzt oder Hausarzt Gesamt&#39;,
+			font: {
+                        size: 16
+                    }
+        },         
+        tooltip: {
+          enabled: true,mode:&#34;index&#34;
+        },
+	
+        legend:{
+          reverse: false,
+          display: true,
+          position: &#34;bottom&#34;,
+		   labels: {
+                filter: function(item, chart_Blog2_IAarzt1B) {
+                    if (legend_Blog2_IAarzt1B === 1) {
+                    return item.text === &#39;Teil-Studie&#39; || item.text === &#39;GEDA19/20(EHIS)&#39;;
+					}
+					if (legend_Blog2_IAarzt1B === 2) {
+                    return item.text.includes(&#39;Männer&#39;) || item.text.includes(&#39;Frauen&#39;);
+					}
+					if (legend_Blog2_IAarzt1B === 3) {
+                    return item.text.includes(&#39;Jahre&#39;);
+					}					
+                }
+            }
+        },
+      },
+    }
+  });
+$( document ).ready(function() {
+    $(&#39;#all_Blog2_IAarzt1B&#39;).click(function () {
+		legend_Blog2_IAarzt1B=1;
+		chart__Blog2_IAarzt1B.options.plugins.title.text = &#39;Besuch Allgemeinarzt oder Hausarzt Gesamt&#39;;		
+		chart__Blog2_IAarzt1B.hide(1);
+		chart__Blog2_IAarzt1B.hide(2);
+		chart__Blog2_IAarzt1B.hide(3);
+		chart__Blog2_IAarzt1B.hide(4);
+		chart__Blog2_IAarzt1B.hide(5);
+		chart__Blog2_IAarzt1B.hide(7);
+		chart__Blog2_IAarzt1B.hide(8);
+		chart__Blog2_IAarzt1B.hide(9);
+		chart__Blog2_IAarzt1B.hide(10);
+		chart__Blog2_IAarzt1B.hide(11);
+		
+		chart__Blog2_IAarzt1B.show(0);
+		chart__Blog2_IAarzt1B.show(6);
+		chart__Blog2_IAarzt1B.update(); 
+		});
+    $(&#39;#sex_Blog2_IAarzt1B&#39;).click(function () {
+		legend_Blog2_IAarzt1B = 2;
+		chart__Blog2_IAarzt1B.options.plugins.title.text = &#39;Besuch Allgemeinarzt oder Hausarzt nach Geschlecht&#39;;			
+		chart__Blog2_IAarzt1B.hide(0);
+		chart__Blog2_IAarzt1B.hide(3);
+		chart__Blog2_IAarzt1B.hide(4);
+		chart__Blog2_IAarzt1B.hide(5);
+		chart__Blog2_IAarzt1B.hide(6);
+		chart__Blog2_IAarzt1B.hide(9);
+		chart__Blog2_IAarzt1B.hide(10);
+		chart__Blog2_IAarzt1B.hide(11);
+		
+		chart__Blog2_IAarzt1B.show(1);
+		chart__Blog2_IAarzt1B.show(2);
+		chart__Blog2_IAarzt1B.show(7);
+		chart__Blog2_IAarzt1B.show(8);
+		
+		chart__Blog2_IAarzt1B.update(); 
+		});
+    $(&#39;#age_Blog2_IAarzt1B&#39;).click(function () {
+		legend_Blog2_IAarzt1B = 3;
+		chart__Blog2_IAarzt1B.options.plugins.title.text = &#39;Besuch Allgemeinarzt oder Hausarzt nach Alter&#39;;			
+		chart__Blog2_IAarzt1B.hide(0);
+		chart__Blog2_IAarzt1B.hide(1);
+		chart__Blog2_IAarzt1B.hide(2);
+		chart__Blog2_IAarzt1B.hide(6);
+		chart__Blog2_IAarzt1B.hide(7);
+		chart__Blog2_IAarzt1B.hide(8);
+		
+		chart__Blog2_IAarzt1B.show(3);
+		chart__Blog2_IAarzt1B.show(4);
+		chart__Blog2_IAarzt1B.show(5);
+		chart__Blog2_IAarzt1B.show(9);
+		chart__Blog2_IAarzt1B.show(10);
+		chart__Blog2_IAarzt1B.show(11);
+		
+		chart__Blog2_IAarzt1B.update(); 
+		});
+});
+&lt;/script&gt;
+
+ 	&lt;figcaption&gt;
+ 		&lt;div class=&#34;pa4 tl f4 lh-copy&#34;&gt;&lt;em&gt;Abbildung 3: Verteilung der Inanspruchnahme allgemeinärztlicher Leistungen der Datenspender:innen der Teilstudie mit GEDA 2019/2020-EHIS&lt;/em&gt;&lt;/div&gt;	
+ 	&lt;/figcaption&gt;
+ &lt;/figure&gt;
+&lt;/section&gt;
+
+&lt;h3 id=&#34;fazit&#34;&gt;Fazit&lt;/h3&gt;
+&lt;p&gt;Die Bereitschaft Daten für die Wissenschaft zu spenden, hängt von verschiedenen Faktoren ab. Wir haben die drei Merkmale, die Bildung, den subjektiven Gesundheitszustand und die Inanspruchnahme medizinischer Grundversorgung untersucht.
+Wir sehen, dass die Stichprobenstruktur der Datenspender:innen von der Bevölkerung abweicht, insbesondere bei der Bildung.
+Wie sich die Selektion der Stichprobe auf die Interpretation der Ergebnisse des Fieber-Monitorings auswirkt, wird weiterhin untersucht.&lt;/p&gt;
+&lt;h3 id=&#34;ausblick-oder-was-erwartet-euch-im-nächsten-post&#34;&gt;Ausblick oder was erwartet euch im nächsten Post?&lt;/h3&gt;
+&lt;p&gt;Im nächsten Blogbeitrag geht es um die Bewertung weiterer Indikatoren des Gesundheitszustands und Gesundheitsverhaltens.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

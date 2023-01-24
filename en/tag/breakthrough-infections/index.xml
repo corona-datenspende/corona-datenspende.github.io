@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Breakthrough Infections | Corona Data Donation Project | News &amp; Analyses</title>
+    <link>https://corona-datenspende.de/en/tag/breakthrough-infections/</link>
+      <atom:link href="https://corona-datenspende.de/en/tag/breakthrough-infections/index.xml" rel="self" type="application/rss+xml" />
+    <description>Breakthrough Infections</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://corona-datenspende.de/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
+      <title>Breakthrough Infections</title>
+      <link>https://corona-datenspende.de/en/tag/breakthrough-infections/</link>
+    </image>
+    
+    <item>
+      <title>Are breakthrough infections milder on average?</title>
+      <link>https://corona-datenspende.de/en/reports/breakthroughinfections/</link>
+      <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://corona-datenspende.de/en/reports/breakthroughinfections/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; Updated on April 11, 2022. See end of this text for details.&lt;/p&gt;
+&lt;p&gt;Datenspende 2.0 is finally here. Since mid-October you can answer short questionnaires in the app to help us to substantially improve our understanding of the donated vital data in relation to COVID-19. More than 12,000 people have already taken part and entrusted us with this information. For this we would like to express a heartfelt thank you right away.&lt;/p&gt;
+&lt;p&gt;For instance, in the &amp;lsquo;Tests, Symptoms &amp;amp; Life Situation&amp;rsquo; questionnaire, we ask donors about the approximate time and result of their first PCR test. A total of &lt;strong&gt;521&lt;/strong&gt; donors reported having a positive test in the past, &lt;strong&gt;5353&lt;/strong&gt; donors submitted a negative result.&lt;/p&gt;
+&lt;p&gt;  &lt;!-- insert blank line before figure --&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /media/figures/prolonged_changes/number_of_tests_en_huef96b4caa7687a1913e16cbbce7834a9_173170_ab905c6ddd69a746bef7302cf9dbbd8a.webp 400w,
+               /media/figures/prolonged_changes/number_of_tests_en_huef96b4caa7687a1913e16cbbce7834a9_173170_08502cda9dc32c52a4ccacf9f1849bc4.webp 760w,
+               /media/figures/prolonged_changes/number_of_tests_en_huef96b4caa7687a1913e16cbbce7834a9_173170_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://corona-datenspende.de/media/figures/prolonged_changes/number_of_tests_en_huef96b4caa7687a1913e16cbbce7834a9_173170_ab905c6ddd69a746bef7302cf9dbbd8a.webp&#34;
+               width=&#34;60%&#34;
+               height=&#34;456&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;If we look at how often self-reported positive results occurred over time, you can see that this distribution fits very well with the course of the pandemic. We see the first wave in March 2020, the second and third wave in winter 2020/2021 and the fourth wave starting now. Conversely, we observe few positive test results in the summer months.&lt;/p&gt;
+&lt;h3 id=&#34;prolonged-changes-in-vital-signs-for-covid-19-positive-individuals&#34;&gt;Prolonged changes in vital signs for COVID-19 positive individuals&lt;/h3&gt;
+&lt;p&gt;If we look at the physiological and activity data before and after a PCR test, we obtain interesting insights into the possible effects of COVID-19 infections. In particular, we calculate the mean change in &lt;strong&gt;resting heart rate&lt;/strong&gt;, &lt;strong&gt;step count&lt;/strong&gt; and &lt;strong&gt;sleep duration&lt;/strong&gt; relative to the baseline period before the test, for both positively and negatively tested donors.&lt;/p&gt;
+&lt;p&gt;  &lt;!-- insert blank line before figure --&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /media/figures/prolonged_changes/vitals_65_en_hu8dc088bcc61666e02b89fbe06c1f7477_191228_ca2544cd0fe5887a09e62d4c0c040484.webp 400w,
+               /media/figures/prolonged_changes/vitals_65_en_hu8dc088bcc61666e02b89fbe06c1f7477_191228_dadd2c827d8ec594a2be248c507bed23.webp 760w,
+               /media/figures/prolonged_changes/vitals_65_en_hu8dc088bcc61666e02b89fbe06c1f7477_191228_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://corona-datenspende.de/media/figures/prolonged_changes/vitals_65_en_hu8dc088bcc61666e02b89fbe06c1f7477_191228_ca2544cd0fe5887a09e62d4c0c040484.webp&#34;
+               width=&#34;60%&#34;
+               height=&#34;596&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;Let’s first look at the resting heart rate. For donors with a confirmed COVID-19 infection, this value &lt;strong&gt;increases by an average of 2 beats per minute prior&lt;/strong&gt; to getting tested. This is followed by a brief normalization period, which has been observed in &lt;a href=&#34;https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2781687&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a previous study&lt;/a&gt;, before spiking again and then slowly returning to baseline levels over an extended period of &lt;strong&gt;two to three months&lt;/strong&gt;. In contrast, donors who tested negative show no significant changes over time. The shaded regions represent the so-called confidence intervals that indicate the uncertainty of the mean.&lt;/p&gt;
+&lt;p&gt;  &lt;!-- insert blank line before figure --&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /media/figures/prolonged_changes/vitals_9_en_hu5b1e620858925a7bd47b963a62cda7f7_160470_a81da7380f4d082d0bf76c76d8cd6699.webp 400w,
+               /media/figures/prolonged_changes/vitals_9_en_hu5b1e620858925a7bd47b963a62cda7f7_160470_112c030f9f2680521b48ee4cc6cbb488.webp 760w,
+               /media/figures/prolonged_changes/vitals_9_en_hu5b1e620858925a7bd47b963a62cda7f7_160470_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://corona-datenspende.de/media/figures/prolonged_changes/vitals_9_en_hu5b1e620858925a7bd47b963a62cda7f7_160470_a81da7380f4d082d0bf76c76d8cd6699.webp&#34;
+               width=&#34;60%&#34;
+               height=&#34;596&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;When we look at activity patterns (measured by daily step counts), the influence of COVID-19 is even more pronounced. In the days preceding a positive test result, step counts begin to drop sharply, &lt;strong&gt;reducing activity by around 3500 steps&lt;/strong&gt; per day on average. That’s equivalent to a decline of more than &lt;strong&gt;50% of usual activity&lt;/strong&gt;! This change lasts for up to a month.&lt;/p&gt;
+&lt;p&gt;  &lt;!-- insert blank line before figure --&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /media/figures/prolonged_changes/vitals_43_en_hu66717a404008907f0c36588951759468_181819_4ff4ff082a9ee6be1436819caa3a8391.webp 400w,
+               /media/figures/prolonged_changes/vitals_43_en_hu66717a404008907f0c36588951759468_181819_ec6c5a5b7e3aa0f491fee02d9fd5eb76.webp 760w,
+               /media/figures/prolonged_changes/vitals_43_en_hu66717a404008907f0c36588951759468_181819_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://corona-datenspende.de/media/figures/prolonged_changes/vitals_43_en_hu66717a404008907f0c36588951759468_181819_4ff4ff082a9ee6be1436819caa3a8391.webp&#34;
+               width=&#34;60%&#34;
+               height=&#34;596&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;Sleep duration is also affected by COVID-19. Around the time of diagnosis, our COVID-19 positive donors sleep an average of &lt;strong&gt;around 40 minutes more&lt;/strong&gt;, which also takes about three weeks to return to normal.&lt;/p&gt;
+&lt;p&gt;For all three variables, similar findings have been reported in a comparable &lt;a href=&#34;https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2781687&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;study&lt;/a&gt; of donated vital data in the United States. This shows that our results are by no means an exception, but are instead consistent with the current state of research.&lt;/p&gt;
+&lt;h3 id=&#34;improving-the-fever-algorithm&#34;&gt;Improving the fever algorithm&lt;/h3&gt;
+&lt;p&gt;The donated data suggests that COVID-19 can produce &lt;strong&gt;prolonged changes in physiological and behavioral signals, particularly in the case of resting heart rate&lt;/strong&gt;. Next, we will investigate this phenomenon in more detail and use these new findings to improve and validate our fever detection algorithm. In doing so, we will also take into account effects such as sociodemographics and life circumstances.&lt;/p&gt;
+&lt;p&gt;In one of our &lt;a href=&#34;https://corona-datenspende.de/reports/demographie&#34;&gt;first blogposts&lt;/a&gt; we already discussed that the demographics of our donors are not fully representative of Germany’s general population and particularly senior citizens, one of the major risk groups for COVID-19, may be underrepresented in the data donation project. Thus, our observed effects may be even more pronounced than what we currently obtain from the donated vitaldata. Additional demographic information that we collect in the second questionnaire of the study &amp;lsquo;Tests, Symptoms &amp;amp; Living Situation&amp;rsquo; should therefore help us to extrapolate the effects observed in the vital data more accurately to the whole population in the future .
+We would like to thank all donors for their continued support in our efforts to better understand COVID-19 through providing us with wearables data as well as entrusting us with vital personal information obtained via the questionnaires. We will continue to keep you informed of further progress here and report new insights made possible by the surveyological data as they become available.&lt;/p&gt;
+&lt;h4 id=&#34;correction&#34;&gt;Correction&lt;/h4&gt;
+&lt;p&gt;In an earlier version of the blog post we discussed a maximum change in resting heart rate of up to 3 beats per minute and a return period of up to three months. Likewise, a prolonged sleep duration of 60 minutes was reported. After writing this arcticle, we have improved our calculation to specifically account for seasonal influences, such as altered resting heart rate in winter, and increased activity as well as reduced sleep in summer. To make the results comparable to those in our later &lt;a href=&#34;https://corona-datenspende.de/reports/breakthroughinfections&#34;&gt;blogpost on breakthroughs infections&lt;/a&gt;, we adjusted the figures in this blogpost on April 11, 2022 by using our improved algorithm. More detailed information on these calculations can also be found in one of our &lt;a href=&#34;https://arxiv.org/abs/2204.02846&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pre-prints&lt;/a&gt;. Furthermore, it should be noted that the graphs presented here only take into account data up until October 2021 so that more recent data may cause the shown curves to become different again.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

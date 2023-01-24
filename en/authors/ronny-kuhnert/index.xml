@@ -1,0 +1,1561 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ronny Kuhnert | Corona Data Donation Project | News &amp; Analyses</title>
+    <link>https://corona-datenspende.de/en/authors/ronny-kuhnert/</link>
+      <atom:link href="https://corona-datenspende.de/en/authors/ronny-kuhnert/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ronny Kuhnert</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 21 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://corona-datenspende.de/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
+      <title>Ronny Kuhnert</title>
+      <link>https://corona-datenspende.de/en/authors/ronny-kuhnert/</link>
+    </image>
+    
+    <item>
+      <title>Comparison of data donors in the substudy on &#39;Tests, symptoms and living situation&#39; with other reference studies</title>
+      <link>https://corona-datenspende.de/en/reports/benchmark/</link>
+      <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://corona-datenspende.de/en/reports/benchmark/</guid>
+      <description>&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
+&lt;p&gt;In this blog post, we will give you further insight into the socio-demographic characteristics and the health situation of the data donors in the sub-study &amp;ldquo;Tests, Symptoms and Living Situation&amp;rdquo; (hereafter referred to as &amp;ldquo;sub-study&amp;rdquo;).
+This time we compare the educational level, the subjectively assessed health status and the utilization of general medical services of the participants in the sub-study with reference data.
+This brings us another step closer to the goal of describing data donors more precisely.
+Data donors in the sub-study are not representative of the general population, they registered themselves with the data donation app without having been randomly selected. This means that differences between the data donors and the general population are to be expected.
+We would like to further investigate in this blog post how strong these differences are with regard to the indicators mentioned.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Why do we compare the data donors in the sub-study with reference data? What does this have to do with Covid-19?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The comparison tells us whether the results of the questionnaire or the fever monitoring can be generalized to the overall population.
+Or, to put it another way, whether the effects that we record in the fever monitor would be expected to be less pronounced or more pronounced compared with the general population.&lt;/p&gt;
+&lt;h3 id=&#34;educational-status&#34;&gt;Educational status&lt;/h3&gt;
+&lt;p&gt;To assess the educational background of the participants in the sub-study, we choose the Microcensus 2017 as a reference (source: FDZ der Statistischen Ämter des Bundes und der Länder, DOI: 10.21242/12211.2017.00.00.1.1.1, own calculations).
+For this purpose, we classify the educational and vocational training into three categories (low, medium, high education) according to the standards of &lt;a href=&#34;https://www.bfs.admin.ch/asset/de/do-d-15.01-isced-01&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISCED11&lt;/a&gt;.
+When comparing educational status between participants of the sub-study and the Microcensus 2017, large differences can be seen in all three educational groups.
+As known from other surveys (i.e. survey study of the general population), we also see here that participants of the sub-study with low education are strongly underrepresented compared to the Microcensus 2017.
+This means that fewer people with low education participated in the sub-study than you would find in the general population. Also, from the group of those with a medium education, fewer people participated in the sub-study than would have been expected according to the Microcensus 2017. In contrast, significantly more people with a high level of education took part in the sub-study than would be expected in the general population.
+If we look at the distribution of education according to gender and age groups, we see similar results.
+There are stronger differences among women than among men. Moreover, the difference increases with age.&lt;/p&gt;
+&lt;p&gt;Limitation: The distribution from the Microcensus 2017 refers to the population aged 18 and over. The data donors, on the other hand, can participate from the age of 16. In the 16-18 age group, a large proportion has not yet completed their school education. This proportion was assigned to the low education category. The proportion in the low education category would therefore actually be even larger if the distribution of the population aged 16 and over were considered. Unfortunately, we do not have this distribution. 16 (0.08 %) data donors did not provide any information on school-leaving qualifications and vocational training out of a total of 20,924 participants in the questionnaire “Living situation” (Last updated: 20.12.2021).&lt;/p&gt;
+&lt;section class=&#34;center mw10 mw8-ns&#34;&gt;
+ &lt;figure&gt;
+ 	&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.js&#34; integrity=&#34;sha512-n/4gHW3atM3QqRcbCn6ewmpxcLAHGaDjpEBu4xZd47N0W2oQ+6q7oc3PXstrJYXcbNU1OHdQ1T7pAP+gi5Yu8g==&#34; crossorigin=&#34;anonymous&#34; referrerpolicy=&#34;no-referrer&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/chart.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://unpkg.com/chartjs-chart-error-bars@3&#34;&gt;&lt;/script&gt;
+&lt;div style=&#34;margin: 0 auto; height:60vh; width:100%;  padding-bottom:2%; &#34;&gt;
+ &lt;button id=&#39;all_Blog2_isced11en&#39; style=&#39;font-size: 13pt;&#39;&gt;Total&lt;/button&gt;
+ &lt;button id=&#39;sex_Blog2_isced11en&#39; style=&#39;font-size: 13pt;&#39;&gt;by Gender&lt;/button&gt;
+ &lt;button id=&#39;age_Blog2_isced11en&#39; style=&#39;font-size: 13pt;&#39;&gt;by Age&lt;/button&gt;
+&lt;canvas id=&#39;chart_Blog2_isced11en&#39; &gt;&lt;/canvas&gt;
+&lt;/div&gt;
+&lt;script&gt;
+//options
+Chart.defaults.font.size = 15;
+	var labels_chart = [
+&#39;low&#39;,
+&#39;middle&#39;,
+&#39;high&#39;,
+];
+	var ds = [
+{y:1.8,yMin:1.6,yMax:2.0},
+{y:34.9,yMin:34.3,yMax:35.6},
+{y:63.3,yMin:62.7,yMax:64.0},
+];
+	var ds_men = [
+{y:1.7,yMin:1.4,yMax:2.0},
+{y:41.6,yMin:40.5,yMax:42.8},
+{y:56.7,yMin:55.6,yMax:57.9},
+];
+	var ds_women = [
+{y:1.8,yMin:1.6,yMax:2.1},
+{y:31.6,yMin:30.8,yMax:32.4},
+{y:66.6,yMin:65.8,yMax:67.4},
+];
+    var ds_1 = [
+{y:5.0,yMin:4.2,yMax:6.0},
+{y:40.5,yMin:38.5,yMax:42.6},
+{y:54.5,yMin:52.4,yMax:56.6},
+];
+    var ds_2 = [
+{y:1.1,yMin:1.0,yMax:1.3},
+{y:34.7,yMin:34.0,yMax:35.5},
+{y:64.1,yMin:63.4,yMax:64.9},
+];
+    var ds_3 = [
+{y:1.4,yMin:1.1,yMax:2.0},
+{y:31.5,yMin:29.8,yMax:33.2},
+{y:67.1,yMin:65.3,yMax:68.8},
+];
+	var geda19 = [
+{y:17.5},  {y:57.3},  {y:25.2},  ];
+	var geda19_men = [
+{y:14.0},  {y:56.3},  {y:29.6},  ];
+	var geda19_women = [
+{y:20.9},  {y:58.3},  {y:20.8},  ];
+    var geda19_1 = [
+{y:21.0},  {y:61.6},  {y:17.4},  ];
+    var geda19_2 = [
+{y:13.4},  {y:57.4},  {y:29.2},  ];
+    var geda19_3 = [
+{y:22.2},  {y:55.1},  {y:22.7},  ];
+let legend_Blog2_isced11en = 1;
+const chart_Blog2_isced11en = document.getElementById(&#39;chart_Blog2_isced11en&#39;).getContext(&#39;2d&#39;);
+const chart__Blog2_isced11en = new Chart(chart_Blog2_isced11en, {
+    type: &#34;barWithErrorBars&#34;,
+    data: {
+      labels: labels_chart,
+      datasets: [
+	  
+//####DS
+	  
+	  //ds 0
+		{
+        data: ds,          
+        label: &#39;Sub-study&#39;,
+		backgroundColor: &#34;rgba(102,205,170, 0.2)&#34;,
+		borderColor: &#34;rgba(102,205,170, 1)&#34;,
+		 borderWidth: 1
+        },
+		
+		//ds men 1
+		{
+        data: ds_men,          
+        label: &#39;Sub-study Men&#39;,
+		backgroundColor: &#34;rgba(164,211,238, 0.2)&#34;,
+		borderColor: &#34;rgba(164,211,238, 1)&#34;,
+		hidden:true,
+		 borderWidth: 1
+        },
+		
+		//ds women 2
+		{
+        data: ds_women,          
+        label: &#39;Sub-study Women&#39;,
+		backgroundColor: &#34;rgba(205,155,155, 0.2)&#34;,
+		borderColor: &#34;rgba(205,155,155, 1)&#34;,
+		hidden:true,
+		 borderWidth: 1
+        },
+		
+		//ds_20_29 3
+		{
+        data: ds_1,          
+        label: &#39;Sub-study 16-29 years&#39;,
+		backgroundColor: &#39;rgba(60,60, 255, 0.2)&#39;,
+		borderColor:&#39;rgba(60,60,255, 1)&#39;,
+		hidden:true,
+		 borderWidth: 1
+        },
+		{
+        data: ds_2,          
+        label: &#39;Sub-study 30-59 years&#39;,
+		backgroundColor: &#39;rgba(120,120, 255, 0.2)&#39;,
+		borderColor:&#39;rgba(120,120,255, 1)&#39;,
+		hidden:true,
+		 borderWidth: 1
+        },
+		{
+        data: ds_3,          
+        label: &#39;Sub-study 60+ years&#39;,
+		backgroundColor: &#39;rgba(180,180, 255, 0.2)&#39;,
+		borderColor:&#39;rgba(180,180,255, 1)&#39;,
+		hidden:true,
+		 borderWidth: 1
+        },
+//####geda19
+		
+		//geda19 5
+		{
+        data: geda19,          
+        label: &#39;Microcensus 2017&#39;,
+		backgroundColor: &#34;rgba(100,149,237, 0.2)&#34;,
+		borderColor: &#34;rgba(100,149,237, 1)&#34;,
+		 borderWidth: 1
+        },
+		
+		//geda19 men 6
+		{
+        data: geda19_men,          
+        label: &#39;Microcensus 2017 Men&#39;,
+		backgroundColor: &#34;rgba(	72,61,139, 0.2)&#34;,
+		borderColor: &#34;rgba(	72,61,139, 1)&#34;,
+		hidden:true,
+		 borderWidth: 1
+        },
+		
+		//geda19 women 7
+		{
+        data: geda19_women,          
+        label: &#39;Microcensus 2017 Women&#39;,
+		backgroundColor: &#34;rgba(255,127,36, 0.2)&#34;,
+		borderColor: &#34;rgba(255,127,36, 1)&#34;,
+		hidden:true,
+		 borderWidth: 1
+        },
+		
+		{
+        data: geda19_1,          
+        label: &#39;Microcensus 2017 16-29 years&#39;,
+		backgroundColor: &#39;rgba(110,110,100, 0.2)&#39;,
+		borderColor:&#39;rgba(110,110,100, 1)&#39;,
+		hidden:true,
+		 borderWidth: 1
+        },
+		{
+        data: geda19_2,          
+        label: &#39;Microcensus 2017 30-59 years&#39;,
+		backgroundColor: &#39;rgba(170,170,100, 0.2)&#39;,
+		borderColor:&#39;rgba(170,170,100, 1)&#39;,
+		hidden:true,
+		 borderWidth: 1
+        },
+		{
+        data: geda19_3,          
+        label: &#39;Microcensus 2017 60+ years&#39;,
+		backgroundColor: &#39;rgba(230,230,100, 0.2)&#39;,
+		borderColor:&#39;rgba(230,230,100, 1)&#39;,
+		hidden:true,
+		 borderWidth: 1
+        },
+]
+    },
+    options: {
+	       scales: {
+            y: { 
+			 
+			  grid: {
+          drawBorder: false,
+		  display: true
+		  },
+                ticks: {
+                    // Include a dollar sign in the ticks
+                    callback: function(value, index, values) {
+                        return value+&#34;%&#34;;
+                    }
+                }
+            },
+			x: {
+  			ticks: {autoSkip:false},
+			  grid: {
+          drawBorder: false,
+		  display: false
+		  }
+			}
+        },
+      responsive: true,
+      maintainAspectRatio: false,
+	  	animation: {
+        duration: 350,
+		easing: &#34;linear&#34;
+    },
+      plugins: {
+		title: {
+            display: true,
+            text: &#39;ISCED11 Total&#39;,
+			font: {
+                        size: 16
+                    }
+        },         
+        tooltip: {
+          enabled: true,mode:&#34;index&#34;
+        },
+	
+        legend:{
+          reverse: false,
+          display: true,
+          position: &#34;bottom&#34;,
+		   labels: {
+                filter: function(item, chart_Blog2_isced11en) {
+                    if (legend_Blog2_isced11en === 1) {
+                    return item.text === &#39;Sub-study&#39; || item.text === &#39;Microcensus 2017&#39;;
+					}
+					if (legend_Blog2_isced11en === 2) {
+                    return item.text.includes(&#39;Men&#39;) || item.text.includes(&#39;Women&#39;);
+					}
+					if (legend_Blog2_isced11en === 3) {
+                    return item.text.includes(&#39;years&#39;);
+					}					
+                }
+            }
+        },
+      },
+    }
+  });
+$( document ).ready(function() {
+    $(&#39;#all_Blog2_isced11en&#39;).click(function () {
+		legend_Blog2_isced11en=1;
+		chart__Blog2_isced11en.options.plugins.title.text = &#39;ISCED11 Total&#39;;		
+		chart__Blog2_isced11en.hide(1);
+		chart__Blog2_isced11en.hide(2);
+		chart__Blog2_isced11en.hide(3);
+		chart__Blog2_isced11en.hide(4);
+		chart__Blog2_isced11en.hide(5);
+		chart__Blog2_isced11en.hide(7);
+		chart__Blog2_isced11en.hide(8);
+		chart__Blog2_isced11en.hide(9);
+		chart__Blog2_isced11en.hide(10);
+		chart__Blog2_isced11en.hide(11);
+		
+		chart__Blog2_isced11en.show(0);
+		chart__Blog2_isced11en.show(6);
+		chart__Blog2_isced11en.update(); 
+		});
+    $(&#39;#sex_Blog2_isced11en&#39;).click(function () {
+		legend_Blog2_isced11en = 2;
+		chart__Blog2_isced11en.options.plugins.title.text = &#39;ISCED11 by Gender&#39;;			
+		chart__Blog2_isced11en.hide(0);
+		chart__Blog2_isced11en.hide(3);
+		chart__Blog2_isced11en.hide(4);
+		chart__Blog2_isced11en.hide(5);
+		chart__Blog2_isced11en.hide(6);
+		chart__Blog2_isced11en.hide(9);
+		chart__Blog2_isced11en.hide(10);
+		chart__Blog2_isced11en.hide(11);
+		
+		chart__Blog2_isced11en.show(1);
+		chart__Blog2_isced11en.show(2);
+		chart__Blog2_isced11en.show(7);
+		chart__Blog2_isced11en.show(8);
+		
+		chart__Blog2_isced11en.update(); 
+		});
+    $(&#39;#age_Blog2_isced11en&#39;).click(function () {
+		legend_Blog2_isced11en = 3;
+		chart__Blog2_isced11en.options.plugins.title.text = &#39;ISCED11 by Age&#39;;			
+		chart__Blog2_isced11en.hide(0);
+		chart__Blog2_isced11en.hide(1);
+		chart__Blog2_isced11en.hide(2);
+		chart__Blog2_isced11en.hide(6);
+		chart__Blog2_isced11en.hide(7);
+		chart__Blog2_isced11en.hide(8);
+		
+		chart__Blog2_isced11en.show(3);
+		chart__Blog2_isced11en.show(4);
+		chart__Blog2_isced11en.show(5);
+		chart__Blog2_isced11en.show(9);
+		chart__Blog2_isced11en.show(10);
+		chart__Blog2_isced11en.show(11);
+		
+		chart__Blog2_isced11en.update(); 
+		});
+});
+&lt;/script&gt;
+
+ 	&lt;figcaption&gt;
+ 		&lt;div class=&#34;pa4 tl f4 lh-copy&#34;&gt;&lt;em&gt;Figure 1: Educational distribution of the data donors of the sub-study with Microcensus 2017&lt;/em&gt;&lt;/div&gt;	
+ 	&lt;/figcaption&gt;
+ &lt;/figure&gt;
+&lt;/section&gt;
+
+&lt;h3 id=&#34;subjective-health-statusgeneral-health-status&#34;&gt;Subjective health status/general health status&lt;/h3&gt;
+&lt;p&gt;For the evaluation of the subjectively assessed health status of the participants in the sub-study, we use the current population-representative health survey &lt;a href=&#34;https://www.rki.de/DE/Content/Gesundheitsmonitoring/Gesundheitsberichterstattung/GBEDownloadsJ/ConceptsMethods/JoHM_03_2021_GEDA_Methodik.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GEDA 2019/2020-EHIS&lt;/a&gt; of the Robert Koch Institute as a reference for comparison. Compared to the participants in GEDA 2019/2020-EHIS, the participants in the sub-study rate their subjective health status more frequently as very good or good and less frequently as moderate, poor or very poor.
+This observation is also reflected in the analysis according to gender, whereby the difference is more pronounced among women than among men.&lt;/p&gt;
+&lt;p&gt;If we look at the subjectively assessed state of health according to age groups, a somewhat different picture emerges. Participants in the sub-study aged 16 to 29 are less likely than participants in GEDA 2019/2020-EHIS to report a very good self-assessed health state. In contrast, they are more likely to report a moderately good self-rated health status than those taking part in GEDA 2019/2020-EHIS. Proportionally, participants in the sub-study aged 16 to 29 also report a subjective state of health rated as very poor slightly more often than participants in GEDA 2019/2020-EHIS, although these proportions are very low in both studies.&lt;/p&gt;
+&lt;p&gt;In the 60+ age group, a moderate, poor or very poor subjective health status is much less frequently reported among participants in the sub-study than in GEDA 2019/2020-EHIS. 171 (0.82 %) data donors did not provide any information on subjective health status out of a total of 20,924 participants in the questionnaire &amp;ldquo;Living situation&amp;rdquo; (Last updated: 20.12.2021).&lt;/p&gt;
+&lt;section class=&#34;center mw10 mw8-ns&#34;&gt;
+ &lt;figure&gt;
+ 	&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.js&#34; integrity=&#34;sha512-n/4gHW3atM3QqRcbCn6ewmpxcLAHGaDjpEBu4xZd47N0W2oQ+6q7oc3PXstrJYXcbNU1OHdQ1T7pAP+gi5Yu8g==&#34; crossorigin=&#34;anonymous&#34; referrerpolicy=&#34;no-referrer&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/chart.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://unpkg.com/chartjs-chart-error-bars@3&#34;&gt;&lt;/script&gt;
+&lt;div style=&#34;margin: 0 auto; height:60vh; width:100%;  padding-bottom:2%; &#34;&gt;
+ &lt;button id=&#39;all_Blog2_gzmehm1en&#39; style=&#39;font-size: 13pt;&#39;&gt;Total&lt;/button&gt;
+ &lt;button id=&#39;sex_Blog2_gzmehm1en&#39; style=&#39;font-size: 13pt;&#39;&gt;by Gender&lt;/button&gt;
+ &lt;button id=&#39;age_Blog2_gzmehm1en&#39; style=&#39;font-size: 13pt;&#39;&gt;by Age&lt;/button&gt;
+&lt;canvas id=&#39;chart_Blog2_gzmehm1en&#39; &gt;&lt;/canvas&gt;
+&lt;/div&gt;
+&lt;script&gt;
+//options
+Chart.defaults.font.size = 15;
+	var labels_chart = [
+&#39;very good&#39;,
+&#39;good&#39;,
+&#39;middle&#39;,
+&#39;bad&#39;,
+&#39;very bad&#39;,
+];
+	var ds = [
+{y:29.7,yMin:29.0,yMax:30.3},
+{y:54.6,yMin:53.9,yMax:55.3},
+{y:13.5,yMin:13.1,yMax:14.0},
+{y:1.9,yMin:1.8,yMax:2.1},
+{y:0.2,yMin:0.2,yMax:0.3},
+];
+	var ds_men = [
+{y:27.0,yMin:26.0,yMax:28.1},
+{y:53.5,yMin:52.3,yMax:54.7},
+{y:16.8,yMin:16.0,yMax:17.7},
+{y:2.4,yMin:2.1,yMax:2.8},
+{y:0.2,yMin:0.1,yMax:0.3},
+];
+	var ds_women = [
+{y:31.0,yMin:30.2,yMax:31.8},
+{y:55.2,yMin:54.4,yMax:56.0},
+{y:11.9,yMin:11.3,yMax:12.4},
+{y:1.7,yMin:1.5,yMax:1.9},
+{y:0.2,yMin:0.2,yMax:0.3},
+];
+    var ds_1 = [
+{y:35.2,yMin:33.2,yMax:37.2},
+{y:49.7,yMin:47.6,yMax:51.8},
+{y:13.1,yMin:11.7,yMax:14.5},
+{y:1.8,yMin:1.3,yMax:2.5},
+{y:0.3,yMin:0.1,yMax:0.6},
+];
+    var ds_2 = [
+{y:30.2,yMin:29.5,yMax:30.9},
+{y:54.4,yMin:53.6,yMax:55.2},
+{y:13.2,yMin:12.7,yMax:13.7},
+{y:2.0,yMin:1.8,yMax:2.2},
+{y:0.2,yMin:0.2,yMax:0.3},
+];
+    var ds_3 = [
+{y:22.3,yMin:20.8,yMax:23.9},
+{y:60.0,yMin:58.1,yMax:61.8},
+{y:15.8,yMin:14.5,yMax:17.2},
+{y:1.8,yMin:1.3,yMax:2.3},
+{y:0.2,yMin:0.1,yMax:0.4},
+];
+	var geda19 = [
+{y:24.5,yMin:23.6,yMax:25.3},  {y:46.0,yMin:45.0,yMax:47.0},  {y:21.8,yMin:21.0,yMax:22.7},  {y:6.3,yMin:5.8,yMax:6.8},  {y:1.4,yMin:1.2,yMax:1.7},  ];
+	var geda19_men = [
+{y:25.5,yMin:24.3,yMax:26.8},  {y:46.6,yMin:45.1,yMax:48.0},  {y:20.0,yMin:18.9,yMax:21.2},  {y:6.6,yMin:5.8,yMax:7.4},  {y:1.3,yMin:1.0,yMax:1.7},  ];
+	var geda19_women = [
+{y:23.5,yMin:22.4,yMax:24.6},  {y:45.5,yMin:44.2,yMax:46.8},  {y:23.5,yMin:22.4,yMax:24.7},  {y:6.0,yMin:5.4,yMax:6.7},  {y:1.5,yMin:1.2,yMax:1.9},  ];
+    var geda19_1 = [
+{y:42.6,yMin:40.0,yMax:45.1},  {y:45.7,yMin:43.1,yMax:48.3},  {y:10.2,yMin:8.5,yMax:12.1},  {y:1.6,yMin:1.0,yMax:2.6},  {y:0.0},  ];
+    var geda19_2 = [
+{y:25.9,yMin:24.7,yMax:27.1},  {y:48.8,yMin:47.4,yMax:50.2},  {y:18.2,yMin:17.1,yMax:19.4},  {y:5.8,yMin:5.0,yMax:6.6},  {y:1.3,yMin:0.9,yMax:1.7},  ];
+    var geda19_3 = [
+{y:12.6,yMin:11.7,yMax:13.6},  {y:42.3,yMin:40.8,yMax:43.8},  {y:33.2,yMin:31.7,yMax:34.7},  {y:9.6,yMin:8.7,yMax:10.6},  {y:2.4,yMin:1.9,yMax:3.0},  ];
+let legend_Blog2_gzmehm1en = 1;
+const chart_Blog2_gzmehm1en = document.getElementById(&#39;chart_Blog2_gzmehm1en&#39;).getContext(&#39;2d&#39;);
+const chart__Blog2_gzmehm1en = new Chart(chart_Blog2_gzmehm1en, {
+    type: &#34;barWithErrorBars&#34;,
+    data: {
+      labels: labels_chart,
+      datasets: [
+	  
+//####DS
+	  
+	  //ds 0
+		{
+        data: ds,          
+        label: &#39;Sub-study&#39;,
+		backgroundColor: &#34;rgba(102,205,170, 0.2)&#34;,
+		borderColor: &#34;rgba(102,205,170, 1)&#34;,
+		 borderWidth: 1
+        },
+		
+		//ds men 1
+		{
+        data: ds_men,          
+        label: &#39;Sub-study Men&#39;,
+		backgroundColor: &#34;rgba(164,211,238, 0.2)&#34;,
+		borderColor: &#34;rgba(164,211,238, 1)&#34;,
+		hidden:true,
+		 borderWidth: 1
+        },
+		
+		//ds women 2
+		{
+        data: ds_women,          
+        label: &#39;Sub-study Women&#39;,
+		backgroundColor: &#34;rgba(205,155,155, 0.2)&#34;,
+		borderColor: &#34;rgba(205,155,155, 1)&#34;,
+		hidden:true,
+		 borderWidth: 1
+        },
+		
+		//ds_20_29 3
+		{
+        data: ds_1,          
+        label: &#39;Sub-study 16-29 years&#39;,
+		backgroundColor: &#39;rgba(60,60, 255, 0.2)&#39;,
+		borderColor:&#39;rgba(60,60,255, 1)&#39;,
+		hidden:true,
+		 borderWidth: 1
+        },
+		{
+        data: ds_2,          
+        label: &#39;Sub-study 30-59 years&#39;,
+		backgroundColor: &#39;rgba(120,120, 255, 0.2)&#39;,
+		borderColor:&#39;rgba(120,120,255, 1)&#39;,
+		hidden:true,
+		 borderWidth: 1
+        },
+		{
+        data: ds_3,          
+        label: &#39;Sub-study 60+ years&#39;,
+		backgroundColor: &#39;rgba(180,180, 255, 0.2)&#39;,
+		borderColor:&#39;rgba(180,180,255, 1)&#39;,
+		hidden:true,
+		 borderWidth: 1
+        },
+//####geda19
+		
+		//geda19 5
+		{
+        data: geda19,          
+        label: &#39;GEDA19/20(EHIS)&#39;,
+		backgroundColor: &#34;rgba(100,149,237, 0.2)&#34;,
+		borderColor: &#34;rgba(100,149,237, 1)&#34;,
+		 borderWidth: 1
+        },
+		
+		//geda19 men 6
+		{
+        data: geda19_men,          
+        label: &#39;GEDA19/20(EHIS) Men&#39;,
+		backgroundColor: &#34;rgba(	72,61,139, 0.2)&#34;,
+		borderColor: &#34;rgba(	72,61,139, 1)&#34;,
+		hidden:true,
+		 borderWidth: 1
+        },
+		
+		//geda19 women 7
+		{
+        data: geda19_women,          
+        label: &#39;GEDA19/20(EHIS) Women&#39;,
+		backgroundColor: &#34;rgba(255,127,36, 0.2)&#34;,
+		borderColor: &#34;rgba(255,127,36, 1)&#34;,
+		hidden:true,
+		 borderWidth: 1
+        },
+		
+		{
+        data: geda19_1,          
+        label: &#39;GEDA19/20(EHIS) 16-29 years&#39;,
+		backgroundColor: &#39;rgba(110,110,100, 0.2)&#39;,
+		borderColor:&#39;rgba(110,110,100, 1)&#39;,
+		hidden:true,
+		 borderWidth: 1
+        },
+		{
+        data: geda19_2,          
+        label: &#39;GEDA19/20(EHIS) 30-59 years&#39;,
+		backgroundColor: &#39;rgba(170,170,100, 0.2)&#39;,
+		borderColor:&#39;rgba(170,170,100, 1)&#39;,
+		hidden:true,
+		 borderWidth: 1
+        },
+		{
+        data: geda19_3,          
+        label: &#39;GEDA19/20(EHIS) 60+ years&#39;,
+		backgroundColor: &#39;rgba(230,230,100, 0.2)&#39;,
+		borderColor:&#39;rgba(230,230,100, 1)&#39;,
+		hidden:true,
+		 borderWidth: 1
+        },
+]
+    },
+    options: {
+	       scales: {
+            y: { 
+			 
+			  grid: {
+          drawBorder: false,
+		  display: true
+		  },
+                ticks: {
+                    // Include a dollar sign in the ticks
+                    callback: function(value, index, values) {
+                        return value+&#34;%&#34;;
+                    }
+                }
+            },
+			x: {
+  			ticks: {autoSkip:false},
+			  grid: {
+          drawBorder: false,
+		  display: false
+		  }
+			}
+        },
+      responsive: true,
+      maintainAspectRatio: false,
+	  	animation: {
+        duration: 350,
+		easing: &#34;linear&#34;
+    },
+      plugins: {
+		title: {
+            display: true,
+            text: &#39;State of health Total&#39;,
+			font: {
+                        size: 16
+                    }
+        },         
+        tooltip: {
+          enabled: true,mode:&#34;index&#34;
+        },
+	
+        legend:{
+          reverse: false,
+          display: true,
+          position: &#34;bottom&#34;,
+		   labels: {
+                filter: function(item, chart_Blog2_gzmehm1en) {
+                    if (legend_Blog2_gzmehm1en === 1) {
+                    return item.text === &#39;Sub-study&#39; || item.text === &#39;GEDA19/20(EHIS)&#39;;
+					}
+					if (legend_Blog2_gzmehm1en === 2) {
+                    return item.text.includes(&#39;Men&#39;) || item.text.includes(&#39;Women&#39;);
+					}
+					if (legend_Blog2_gzmehm1en === 3) {
+                    return item.text.includes(&#39;years&#39;);
+					}					
+                }
+            }
+        },
+      },
+    }
+  });
+$( document ).ready(function() {
+    $(&#39;#all_Blog2_gzmehm1en&#39;).click(function () {
+		legend_Blog2_gzmehm1en=1;
+		chart__Blog2_gzmehm1en.options.plugins.title.text = &#39;State of health Total&#39;;		
+		chart__Blog2_gzmehm1en.hide(1);
+		chart__Blog2_gzmehm1en.hide(2);
+		chart__Blog2_gzmehm1en.hide(3);
+		chart__Blog2_gzmehm1en.hide(4);
+		chart__Blog2_gzmehm1en.hide(5);
+		chart__Blog2_gzmehm1en.hide(7);
+		chart__Blog2_gzmehm1en.hide(8);
+		chart__Blog2_gzmehm1en.hide(9);
+		chart__Blog2_gzmehm1en.hide(10);
+		chart__Blog2_gzmehm1en.hide(11);
+		
+		chart__Blog2_gzmehm1en.show(0);
+		chart__Blog2_gzmehm1en.show(6);
+		chart__Blog2_gzmehm1en.update(); 
+		});
+    $(&#39;#sex_Blog2_gzmehm1en&#39;).click(function () {
+		legend_Blog2_gzmehm1en = 2;
+		chart__Blog2_gzmehm1en.options.plugins.title.text = &#39;State of health by Gender&#39;;			
+		chart__Blog2_gzmehm1en.hide(0);
+		chart__Blog2_gzmehm1en.hide(3);
+		chart__Blog2_gzmehm1en.hide(4);
+		chart__Blog2_gzmehm1en.hide(5);
+		chart__Blog2_gzmehm1en.hide(6);
+		chart__Blog2_gzmehm1en.hide(9);
+		chart__Blog2_gzmehm1en.hide(10);
+		chart__Blog2_gzmehm1en.hide(11);
+		
+		chart__Blog2_gzmehm1en.show(1);
+		chart__Blog2_gzmehm1en.show(2);
+		chart__Blog2_gzmehm1en.show(7);
+		chart__Blog2_gzmehm1en.show(8);
+		
+		chart__Blog2_gzmehm1en.update(); 
+		});
+    $(&#39;#age_Blog2_gzmehm1en&#39;).click(function () {
+		legend_Blog2_gzmehm1en = 3;
+		chart__Blog2_gzmehm1en.options.plugins.title.text = &#39;State of health by Age&#39;;			
+		chart__Blog2_gzmehm1en.hide(0);
+		chart__Blog2_gzmehm1en.hide(1);
+		chart__Blog2_gzmehm1en.hide(2);
+		chart__Blog2_gzmehm1en.hide(6);
+		chart__Blog2_gzmehm1en.hide(7);
+		chart__Blog2_gzmehm1en.hide(8);
+		
+		chart__Blog2_gzmehm1en.show(3);
+		chart__Blog2_gzmehm1en.show(4);
+		chart__Blog2_gzmehm1en.show(5);
+		chart__Blog2_gzmehm1en.show(9);
+		chart__Blog2_gzmehm1en.show(10);
+		chart__Blog2_gzmehm1en.show(11);
+		
+		chart__Blog2_gzmehm1en.update(); 
+		});
+});
+&lt;/script&gt;
+
+ 	&lt;figcaption&gt;
+ 		&lt;div class=&#34;pa4 tl f4 lh-copy&#34;&gt;&lt;em&gt;Figure 2: Distribution of the subjectively assessed health status of the data donors of the sub-study with GEDA 2019/2020-EHIS&lt;/em&gt;&lt;/div&gt;	
+ 	&lt;/figcaption&gt;
+ &lt;/figure&gt;
+&lt;/section&gt;
+
+&lt;h3 id=&#34;utilization-of-outpatient-medical-services&#34;&gt;Utilization of outpatient medical services&lt;/h3&gt;
+&lt;p&gt;With regard to the utilization of general practitioner services, participants in the sub-study have consulted general practitioners less frequently within the last 12 months, but more frequently 12 months or longer ago than participants in GEDA 2019/2020-EHIS. The proportion of those without general practitioner consultation is also somewhat higher in the sample of the sub-study.&lt;/p&gt;
+&lt;p&gt;According to gender, the difference among those who have seen a general practitioner within the last 12 months can be observed mainly among women: Participants in the sub-study were less likely to have used these medical services within the past 12 months than participants in GEDA 2019/2020-EHIS. In contrast, a larger proportion of female participants in the sub-study compared to GEDA 2019/2020-EHIS had visited a general practitioner in the past 12 months or more or had never used them. For men, there was no clear difference between the sub-study and GEDA 2019/2020-EHIS.&lt;/p&gt;
+&lt;p&gt;According to age group, participants in the 16-29 age group of the sub-study had visited a general practitioner less often in the past 12 months than participants in GEDA 2019/2020-EHIS in the same age group. Sub-study participants in this age group also report that they have never visited a general practitioner. In contrast, participants aged 60 and over in both studies have visited a general practitioner  about equally often in the past 12 months. The proportions of participants aged 60 and over who had consulted a general practitioner past 12 months or more are also about the same in both studies. 208 (0.99 %) data donors did not provide any information on the last visit to a general practitioner or family doctor out of a total of 20,924 participants in the questionnaire “Living situation” (Last updated: 20.12.2021).&lt;/p&gt;
+&lt;section class=&#34;center mw10 mw8-ns&#34;&gt;
+ &lt;figure&gt;
+ 	&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.js&#34; integrity=&#34;sha512-n/4gHW3atM3QqRcbCn6ewmpxcLAHGaDjpEBu4xZd47N0W2oQ+6q7oc3PXstrJYXcbNU1OHdQ1T7pAP+gi5Yu8g==&#34; crossorigin=&#34;anonymous&#34; referrerpolicy=&#34;no-referrer&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/chart.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://unpkg.com/chartjs-chart-error-bars@3&#34;&gt;&lt;/script&gt;
+&lt;div style=&#34;margin: 0 auto; height:60vh; width:100%;  padding-bottom:2%; &#34;&gt;
+ &lt;button id=&#39;all_Blog2_IAarzt1Ben&#39; style=&#39;font-size: 13pt;&#39;&gt;Total&lt;/button&gt;
+ &lt;button id=&#39;sex_Blog2_IAarzt1Ben&#39; style=&#39;font-size: 13pt;&#39;&gt;by Gender&lt;/button&gt;
+ &lt;button id=&#39;age_Blog2_IAarzt1Ben&#39; style=&#39;font-size: 13pt;&#39;&gt;by Age&lt;/button&gt;
+&lt;canvas id=&#39;chart_Blog2_IAarzt1Ben&#39; &gt;&lt;/canvas&gt;
+&lt;/div&gt;
+&lt;script&gt;
+//options
+Chart.defaults.font.size = 15;
+	var labels_chart = [
+&#39;less than 12 months ago&#39;,
+&#39;more than 12 months ago&#39;,
+&#39;never&#39;,
+];
+	var ds = [
+{y:74.6,yMin:74.0,yMax:75.2},
+{y:23.5,yMin:22.9,yMax:24.1},
+{y:1.9,yMin:1.7,yMax:2.0},
+];
+	var ds_men = [
+{y:77.8,yMin:76.8,yMax:78.7},
+{y:21.2,yMin:20.2,yMax:22.1},
+{y:1.1,yMin:0.9,yMax:1.4},
+];
+	var ds_women = [
+{y:73.1,yMin:72.4,yMax:73.8},
+{y:24.7,yMin:24.0,yMax:25.4},
+{y:2.2,yMin:2.0,yMax:2.5},
+];
+    var ds_1 = [
+{y:67.4,yMin:65.4,yMax:69.3},
+{y:28.5,yMin:26.6,yMax:30.4},
+{y:4.2,yMin:3.4,yMax:5.1},
+];
+    var ds_2 = [
+{y:73.5,yMin:72.8,yMax:74.2},
+{y:24.8,yMin:24.2,yMax:25.5},
+{y:1.7,yMin:1.5,yMax:1.9},
+];
+    var ds_3 = [
+{y:87.0,yMin:85.7,yMax:88.2},
+{y:12.1,yMin:10.9,yMax:13.3},
+{y:0.9,yMin:0.6,yMax:1.3},
+];
+	var geda19 = [
+{y:81.7,yMin:80.9,yMax:82.5},  {y:17.3,yMin:16.6,yMax:18.1},  {y:0.9,yMin:0.7,yMax:1.2},  ];
+	var geda19_men = [
+{y:79.3,yMin:78.1,yMax:80.5},  {y:19.4,yMin:18.3,yMax:20.6},  {y:1.3,yMin:1.0,yMax:1.7},  ];
+	var geda19_women = [
+{y:84.1,yMin:83.1,yMax:85.1},  {y:15.3,yMin:14.3,yMax:16.3},  {y:0.6,yMin:0.4,yMax:0.9},  ];
+    var geda19_1 = [
+{y:77.6,yMin:75.4,yMax:79.7},  {y:20.9,yMin:18.8,yMax:23.1},  {y:1.5,yMin:1.0,yMax:2.2},  ];
+    var geda19_2 = [
+{y:79.0,yMin:77.8,yMax:80.2},  {y:20.2,yMin:19.1,yMax:21.4},  {y:0.7,yMin:0.5,yMax:1.1},  ];
+    var geda19_3 = [
+{y:87.8,yMin:86.7,yMax:88.8},  {y:11.3,yMin:10.3,yMax:12.3},  {y:0.9,yMin:0.6,yMax:1.4},  ];
+let legend_Blog2_IAarzt1Ben = 1;
+const chart_Blog2_IAarzt1Ben = document.getElementById(&#39;chart_Blog2_IAarzt1Ben&#39;).getContext(&#39;2d&#39;);
+const chart__Blog2_IAarzt1Ben = new Chart(chart_Blog2_IAarzt1Ben, {
+    type: &#34;barWithErrorBars&#34;,
+    data: {
+      labels: labels_chart,
+      datasets: [
+	  
+//####DS
+	  
+	  //ds 0
+		{
+        data: ds,          
+        label: &#39;Sub-study&#39;,
+		backgroundColor: &#34;rgba(102,205,170, 0.2)&#34;,
+		borderColor: &#34;rgba(102,205,170, 1)&#34;,
+		 borderWidth: 1
+        },
+		
+		//ds men 1
+		{
+        data: ds_men,          
+        label: &#39;Sub-study Men&#39;,
+		backgroundColor: &#34;rgba(164,211,238, 0.2)&#34;,
+		borderColor: &#34;rgba(164,211,238, 1)&#34;,
+		hidden:true,
+		 borderWidth: 1
+        },
+		
+		//ds women 2
+		{
+        data: ds_women,          
+        label: &#39;Sub-study Women&#39;,
+		backgroundColor: &#34;rgba(205,155,155, 0.2)&#34;,
+		borderColor: &#34;rgba(205,155,155, 1)&#34;,
+		hidden:true,
+		 borderWidth: 1
+        },
+		
+		//ds_20_29 3
+		{
+        data: ds_1,          
+        label: &#39;Sub-study 16-29 years&#39;,
+		backgroundColor: &#39;rgba(60,60, 255, 0.2)&#39;,
+		borderColor:&#39;rgba(60,60,255, 1)&#39;,
+		hidden:true,
+		 borderWidth: 1
+        },
+		{
+        data: ds_2,          
+        label: &#39;Sub-study 30-59 years&#39;,
+		backgroundColor: &#39;rgba(120,120, 255, 0.2)&#39;,
+		borderColor:&#39;rgba(120,120,255, 1)&#39;,
+		hidden:true,
+		 borderWidth: 1
+        },
+		{
+        data: ds_3,          
+        label: &#39;Sub-study 60+ years&#39;,
+		backgroundColor: &#39;rgba(180,180, 255, 0.2)&#39;,
+		borderColor:&#39;rgba(180,180,255, 1)&#39;,
+		hidden:true,
+		 borderWidth: 1
+        },
+//####geda19
+		
+		//geda19 5
+		{
+        data: geda19,          
+        label: &#39;GEDA19/20(EHIS)&#39;,
+		backgroundColor: &#34;rgba(100,149,237, 0.2)&#34;,
+		borderColor: &#34;rgba(100,149,237, 1)&#34;,
+		 borderWidth: 1
+        },
+		
+		//geda19 men 6
+		{
+        data: geda19_men,          
+        label: &#39;GEDA19/20(EHIS) Men&#39;,
+		backgroundColor: &#34;rgba(	72,61,139, 0.2)&#34;,
+		borderColor: &#34;rgba(	72,61,139, 1)&#34;,
+		hidden:true,
+		 borderWidth: 1
+        },
+		
+		//geda19 women 7
+		{
+        data: geda19_women,          
+        label: &#39;GEDA19/20(EHIS) Women&#39;,
+		backgroundColor: &#34;rgba(255,127,36, 0.2)&#34;,
+		borderColor: &#34;rgba(255,127,36, 1)&#34;,
+		hidden:true,
+		 borderWidth: 1
+        },
+		
+		{
+        data: geda19_1,          
+        label: &#39;GEDA19/20(EHIS) 16-29 years&#39;,
+		backgroundColor: &#39;rgba(110,110,100, 0.2)&#39;,
+		borderColor:&#39;rgba(110,110,100, 1)&#39;,
+		hidden:true,
+		 borderWidth: 1
+        },
+		{
+        data: geda19_2,          
+        label: &#39;GEDA19/20(EHIS) 30-59 years&#39;,
+		backgroundColor: &#39;rgba(170,170,100, 0.2)&#39;,
+		borderColor:&#39;rgba(170,170,100, 1)&#39;,
+		hidden:true,
+		 borderWidth: 1
+        },
+		{
+        data: geda19_3,          
+        label: &#39;GEDA19/20(EHIS) 60+ years&#39;,
+		backgroundColor: &#39;rgba(230,230,100, 0.2)&#39;,
+		borderColor:&#39;rgba(230,230,100, 1)&#39;,
+		hidden:true,
+		 borderWidth: 1
+        },
+]
+    },
+    options: {
+	       scales: {
+            y: { 
+			 
+			  grid: {
+          drawBorder: false,
+		  display: true
+		  },
+                ticks: {
+                    // Include a dollar sign in the ticks
+                    callback: function(value, index, values) {
+                        return value+&#34;%&#34;;
+                    }
+                }
+            },
+			x: {
+  			ticks: {autoSkip:false},
+			  grid: {
+          drawBorder: false,
+		  display: false
+		  }
+			}
+        },
+      responsive: true,
+      maintainAspectRatio: false,
+	  	animation: {
+        duration: 350,
+		easing: &#34;linear&#34;
+    },
+      plugins: {
+		title: {
+            display: true,
+            text: &#39;General practitioner Total&#39;,
+			font: {
+                        size: 16
+                    }
+        },         
+        tooltip: {
+          enabled: true,mode:&#34;index&#34;
+        },
+	
+        legend:{
+          reverse: false,
+          display: true,
+          position: &#34;bottom&#34;,
+		   labels: {
+                filter: function(item, chart_Blog2_IAarzt1Ben) {
+                    if (legend_Blog2_IAarzt1Ben === 1) {
+                    return item.text === &#39;Sub-study&#39; || item.text === &#39;GEDA19/20(EHIS)&#39;;
+					}
+					if (legend_Blog2_IAarzt1Ben === 2) {
+                    return item.text.includes(&#39;Men&#39;) || item.text.includes(&#39;Women&#39;);
+					}
+					if (legend_Blog2_IAarzt1Ben === 3) {
+                    return item.text.includes(&#39;years&#39;);
+					}					
+                }
+            }
+        },
+      },
+    }
+  });
+$( document ).ready(function() {
+    $(&#39;#all_Blog2_IAarzt1Ben&#39;).click(function () {
+		legend_Blog2_IAarzt1Ben=1;
+		chart__Blog2_IAarzt1Ben.options.plugins.title.text = &#39;General practitioner Total&#39;;		
+		chart__Blog2_IAarzt1Ben.hide(1);
+		chart__Blog2_IAarzt1Ben.hide(2);
+		chart__Blog2_IAarzt1Ben.hide(3);
+		chart__Blog2_IAarzt1Ben.hide(4);
+		chart__Blog2_IAarzt1Ben.hide(5);
+		chart__Blog2_IAarzt1Ben.hide(7);
+		chart__Blog2_IAarzt1Ben.hide(8);
+		chart__Blog2_IAarzt1Ben.hide(9);
+		chart__Blog2_IAarzt1Ben.hide(10);
+		chart__Blog2_IAarzt1Ben.hide(11);
+		
+		chart__Blog2_IAarzt1Ben.show(0);
+		chart__Blog2_IAarzt1Ben.show(6);
+		chart__Blog2_IAarzt1Ben.update(); 
+		});
+    $(&#39;#sex_Blog2_IAarzt1Ben&#39;).click(function () {
+		legend_Blog2_IAarzt1Ben = 2;
+		chart__Blog2_IAarzt1Ben.options.plugins.title.text = &#39;General practitioner by Gender&#39;;			
+		chart__Blog2_IAarzt1Ben.hide(0);
+		chart__Blog2_IAarzt1Ben.hide(3);
+		chart__Blog2_IAarzt1Ben.hide(4);
+		chart__Blog2_IAarzt1Ben.hide(5);
+		chart__Blog2_IAarzt1Ben.hide(6);
+		chart__Blog2_IAarzt1Ben.hide(9);
+		chart__Blog2_IAarzt1Ben.hide(10);
+		chart__Blog2_IAarzt1Ben.hide(11);
+		
+		chart__Blog2_IAarzt1Ben.show(1);
+		chart__Blog2_IAarzt1Ben.show(2);
+		chart__Blog2_IAarzt1Ben.show(7);
+		chart__Blog2_IAarzt1Ben.show(8);
+		
+		chart__Blog2_IAarzt1Ben.update(); 
+		});
+    $(&#39;#age_Blog2_IAarzt1Ben&#39;).click(function () {
+		legend_Blog2_IAarzt1Ben = 3;
+		chart__Blog2_IAarzt1Ben.options.plugins.title.text = &#39;General practitioner by Age&#39;;			
+		chart__Blog2_IAarzt1Ben.hide(0);
+		chart__Blog2_IAarzt1Ben.hide(1);
+		chart__Blog2_IAarzt1Ben.hide(2);
+		chart__Blog2_IAarzt1Ben.hide(6);
+		chart__Blog2_IAarzt1Ben.hide(7);
+		chart__Blog2_IAarzt1Ben.hide(8);
+		
+		chart__Blog2_IAarzt1Ben.show(3);
+		chart__Blog2_IAarzt1Ben.show(4);
+		chart__Blog2_IAarzt1Ben.show(5);
+		chart__Blog2_IAarzt1Ben.show(9);
+		chart__Blog2_IAarzt1Ben.show(10);
+		chart__Blog2_IAarzt1Ben.show(11);
+		
+		chart__Blog2_IAarzt1Ben.update(); 
+		});
+});
+&lt;/script&gt;
+
+ 	&lt;figcaption&gt;
+ 		&lt;div class=&#34;pa4 tl f4 lh-copy&#34;&gt;&lt;em&gt;Figure 3: Distribution of the use of general practitioner services of the data donors of the sub-study with GEDA 2019/2020-EHIS&lt;/em&gt;&lt;/div&gt;	
+ 	&lt;/figcaption&gt;
+ &lt;/figure&gt;
+&lt;/section&gt;
+
+&lt;h3 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h3&gt;
+&lt;p&gt;The willingness to donate data to science depends on various factors. We have examined the three characteristics, education, subjective health status and utilization of primary health care services.
+We see that the sample structure of data donors differs from the overall population, especially with regard to education.
+How the selection of the sample affects the interpretation of the results of the fever monitoring is still being investigated.&lt;/p&gt;
+&lt;h3 id=&#34;outlook&#34;&gt;Outlook&lt;/h3&gt;
+&lt;p&gt;The next blog post is about the assessment of further indicators of health status and health behaviour.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Demographics of the donors in the &#39;Tests, symptoms and living situation&#39; study</title>
+      <link>https://corona-datenspende.de/en/reports/fragebogenteilnehmer/</link>
+      <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://corona-datenspende.de/en/reports/fragebogenteilnehmer/</guid>
+      <description>&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
+&lt;p&gt;In previous blogposts, we have already discussed the &lt;a href=&#34;https://corona-datenspende.de/en/reports/demographie/&#34;&gt;sociodemographics&lt;/a&gt; and &lt;a href=&#34;https://corona-datenspende.de/en/reports/users/&#34;&gt;spatial distribution&lt;/a&gt; of donors.&lt;/p&gt;
+&lt;p&gt;In this blogpost, we will again look at the sociodemographic composition and spatial distribution of donors. For the analysis, we will look at two selection levels each and compare them with the actual population composition (Census update, as of 12/31/2019). To do this, we look at sociodemographic and spatial distribution using three variables: spatial distribution at the state level (classified using the first three digits of the given zip code), gender, and age (recorded in categories of 10). In the first group, the data of the self-report at new registration of all data donors are analyzed, in the second group the data of the sub-study &amp;ldquo;tests, symptoms and living situation&amp;rdquo;. We would like to investigate two questions:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;How much does the current sample of all individuals participating in the Data- Donation-App deviate from the true distribution in the population?&lt;/li&gt;
+&lt;li&gt;How much do donors who participated in the &amp;ldquo;tests, symptoms, and living situation&amp;rdquo; sub-study differ from the overall donor sample?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;regional-distribution&#34;&gt;Regional Distribution&lt;/h3&gt;
+&lt;p&gt;In order to map the regional distribution of donors, we first look at the postal code of the donors.
+We assign these to the corresponding federal state.
+For reasons of data protection, we only collect the first three digits of the donor&amp;rsquo;s postal code (and thus no longer give a distribution at the county level).
+If we compare the spatial distribution within the federal states with the true distribution in the population (Figure 1, bar chart), &lt;strong&gt;we see different participation rates in the federal states&lt;/strong&gt;.
+In the states of Hamburg and Berlin, we see that donors are disproportionately represented relative to the population distribution.
+For example, the value 0.41 of Hamburg indicates that, compared to the distribution in the population, about 40 percent more people from Hamburg are represented in the data donation sample than would be expected according to the population distribution in Hamburg. On the other hand, the states of Saxony-Anhalt, Thuringia, Mecklenburg-Western Pomerania and Saxony are clearly underrepresented.
+This distribution is also reflected when we look at all donors per 100,000 inhabitants per federal state (Figure 1, Map of Germany).&lt;/p&gt;
+&lt;section class=&#34;center mw10 mw8-ns&#34;&gt;
+ &lt;figure&gt;
+ 	&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.js&#34; integrity=&#34;sha512-n/4gHW3atM3QqRcbCn6ewmpxcLAHGaDjpEBu4xZd47N0W2oQ+6q7oc3PXstrJYXcbNU1OHdQ1T7pAP+gi5Yu8g==&#34; crossorigin=&#34;anonymous&#34; referrerpolicy=&#34;no-referrer&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;https://cdnjs.cloudflare.com/ajax/libs/jqvmap/1.5.1/jquery.vmap.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;https://cdnjs.cloudflare.com/ajax/libs/jqvmap/1.5.1/maps/jquery.vmap.germany.js&#34;&gt;&lt;/script&gt;&lt;link href=&#34;https://cdnjs.cloudflare.com/ajax/libs/jqvmap/1.5.1/jqvmap.min.css&#34; rel=&#34;stylesheet&#34; type=&#34;text/css&#34; /&gt;&lt;style&gt;.one { //margin-top: -20px; width: 50%;  height: 380px;  float: left;  }&lt;/style&gt;&lt;script src=&#34;https://cdn.jsdelivr.net/npm/chart.js&#34;&gt;&lt;/script&gt;&lt;div style=&#34;margin-top:4%; width: 100%;&#34;&gt;&lt;div id=&#34;map1&#34; class=&#34;one&#34; &gt;&lt;/div&gt;&lt;div style=&#34;float: left; width: 50%; height:430px;&#34;&gt;&lt;canvas id=&#34;bev_chart&#34; &gt;&lt;/canvas&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;SCRIPT&gt;
+//bula all
+ var map1 = {
+    ni:  406.7,
+    sh:  411.7,
+    be:  440.3,
+    mv:  206.6,
+    hb:  363.5,
+    sl:  312.9,
+    by:  325.2,
+    th:  205.6,
+    st:  183.7,
+    sn:  217.5,
+    bb:  278.0,
+    nw:  409.4,
+    bw:  320.9,
+    he:  397.4,
+    hh:  499.3,
+    rp:  351.1
+}
+jQuery(&#39;#map1&#39;).vectorMap({
+	map: &#39;germany_en&#39;,
+	backgroundColor: &#39;rgba(76, 175, 80, 0.0)&#39;,
+    borderColor: &#39;white&#39;,
+    borderOpacity: 0.25,
+    borderWidth: 2,
+    // colors: colors,
+    enableZoom: false,
+    hoverColor: false,
+    hoverOpacity: 0.7,
+    normalizeFunction: &#39;linear&#39;,
+    scaleColors: [&#39;#ddeaf5&#39;, &#39;#0275d8&#39;],
+    selectedColor: false,
+    selectedRegions: null,
+    showTooltip: true,
+        legend: {
+          horizontal: true,
+          cssClass: &#39;jvectormap-legend-icons&#39;,
+          title: &#39;Business type&#39;
+        },
+    values: map1,
+	onLabelShow: function (event, label, code) {
+if(label[0].innerHTML ==&#39;Niedersachsen&#39;) {label[0].innerHTML =&#39;Lower Saxony&#39;;}
+if(label[0].innerHTML ==&#39;Schleswig-Holstein&#39;) {label[0].innerHTML =&#39;Schleswig-Holstein&#39;;}
+if(label[0].innerHTML ==&#39;Berlin&#39;) {label[0].innerHTML =&#39;Berlin&#39;;}
+if(label[0].innerHTML ==&#39;Mecklenburg-Vorpommern&#39;) {label[0].innerHTML =&#39;Mecklenburg Western Pomerania&#39;;}
+if(label[0].innerHTML ==&#39;Bremen&#39;) {label[0].innerHTML =&#39;Bremen&#39;;}
+if(label[0].innerHTML ==&#39;Saarland&#39;) {label[0].innerHTML =&#39;Saarland&#39;;}
+if(label[0].innerHTML ==&#39;Bayern&#39;) {label[0].innerHTML =&#39;Bavaria&#39;;}
+if(label[0].innerHTML ==&#39;Thüringen&#39;) {label[0].innerHTML =&#39;Thuringia&#39;;}
+if(label[0].innerHTML ==&#39;Sachsen-Anhalt&#39;) {label[0].innerHTML =&#39;Saxony-Anhalt&#39;;}
+if(label[0].innerHTML ==&#39;Sachsen&#39;) {label[0].innerHTML =&#39;Saxony&#39;;}
+if(label[0].innerHTML ==&#39;Brandenburg&#39;) {label[0].innerHTML =&#39;Brandenburg&#39;;}
+if(label[0].innerHTML ==&#39;Nordrhein-Westfalen&#39;) {label[0].innerHTML =&#39;Northrhine-Westphalia&#39;;}
+if(label[0].innerHTML ==&#39;Baden-Württemberg&#39;) {label[0].innerHTML =&#39;Baden-Württemberg&#39;;}
+if(label[0].innerHTML ==&#39;Hessen&#39;) {label[0].innerHTML =&#39;Hesse&#39;;}
+if(label[0].innerHTML ==&#39;Hamburg&#39;) {label[0].innerHTML =&#39;Hamburg&#39;;}
+if(label[0].innerHTML ==&#39;Rheinland-Pfalz&#39;) {label[0].innerHTML =&#39;Rhineland Palatinate&#39;;}
+        label.append(&#39;  &lt;br&gt; &#39;+map1[code] + &#39; data donors/100k&#39;); 
+	}
+});
+label=[&#39;Lower Saxony&#39;,&#39;Schleswig-Holstein&#39;,&#39;Berlin&#39;,&#39;Mecklenburg Western Pomerania&#39;,&#39;Bremen&#39;,&#39;Saarland&#39;,&#39;Bavaria&#39;,&#39;Thuringia&#39;,&#39;Saxony-Anhalt&#39;,&#39;Saxony&#39;,&#39;Brandenburg&#39;,&#39;Northrhine-Westphalia&#39;,&#39;Baden-Württemberg&#39;,&#39;Hesse&#39;,&#39;Hamburg&#39;,&#39;Rhineland Palatinate&#39;];
+data=[  0.15,   0.17,   0.25,  -0.42,   0.03,  -0.12,  -0.08,  -0.42, -0.48, -0.39, -0.21,  0.16, -0.09,  0.12,  0.41, -0.01];
+const labels_ = label;
+const data1_ = data;
+// Construct and array of objects that have &#39;label&#39; and &#39;data&#39;
+// We expect that labels and data1 are the same length but if there is
+// a chance that they are not, you should check for that.
+const allData_ = [];
+for (let i = 0; i &lt; labels_.length; ++i) {
+    allData_.push({
+        label: labels_[i],
+        data: data1_[i]
+    });
+}
+// Sort them by the data value
+allData_.sort((a, b) =&gt; b.data - a.data);
+// And split them again
+const sortedLabels_ = allData_.map(e =&gt; e.label);
+const sortedData_ = allData_.map(e =&gt; e.data);
+  const bev_chart = document.getElementById(&#39;bev_chart&#39;).getContext(&#39;2d&#39;);
+const bev_chart_ = new Chart(bev_chart, {
+    type: &#39;bar&#39;,
+    data: {
+      labels: sortedLabels_,
+      datasets: [
+{
+          data: sortedData_,          
+          label: &#39;Comparison to the population&#39;,
+ backgroundColor: [
+                &#39;rgba(2, 117, 216, 0.2)&#39;,
+            ],
+            borderColor: [
+                &#39;rgba(2, 117, 216, 1)&#39;,
+            ],borderWidth: 1
+        },
+]
+    },
+    options: {
+	       scales: {
+            y: {
+			  grid: {
+          drawBorder: false,
+		  display: false
+		  },
+            },
+			x: {
+			  grid: {
+          drawBorder: false,
+		  display: true
+		  }
+			}
+        },indexAxis: &#39;y&#39;,
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+title: {
+            display: true,
+            text: &#39;&#39;,
+			font: {
+                        size: 16
+                    }
+        },         
+        tooltip: {
+          enabled: true,
+        },
+        legend: {
+          reverse: false,
+          display: false,
+          position: &#39;bottom&#39;
+        },
+      },
+    }
+  });
+&lt;/SCRIPT&gt;
+
+ 	&lt;figcaption&gt;
+ 		&lt;div class=&#34;pa4 tl f4 lh-copy&#34;&gt;&lt;em&gt;Figure 1: Distribution of the total data donor sample calculated per 100,000 inhabitants in the federal states (map) and comparison of the federal state distribution of the data donor sample to the census as of 12/31/2019 (bar chart).&lt;/em&gt;&lt;/div&gt;	
+ 	&lt;/figcaption&gt;
+ &lt;/figure&gt;
+&lt;/section&gt;
+
+&lt;p&gt;We see similar results when comparing the participants in the sub-study with the distribution in the population (Figure 2, bar chart).
+&lt;strong&gt;The distribution of the partial study almost matches the distribution of all data donation participants within the states relative to the population&lt;/strong&gt;.
+Here, the relative distribution of partial study participants in the states of Hamburg and Berlin is also significantly higher than the distribution in the population.
+Here, too, the states of Saxony-Anhalt, Mecklenburg-Western Pomerania and Thuringia are most underrepresented, closely followed by Saxony.
+This distribution is also reflected when we look at all donors per 100,000 inhabitants per state (Figure 2, map).&lt;/p&gt;
+&lt;section class=&#34;center mw10 mw8-ns&#34;&gt;
+ &lt;figure&gt;
+ 	&lt;script type=&#34;text/javascript&#34; src=&#34;https://cdnjs.cloudflare.com/ajax/libs/jqvmap/1.5.1/jquery.vmap.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text/javascript&#34; src=&#34;https://cdnjs.cloudflare.com/ajax/libs/jqvmap/1.5.1/maps/jquery.vmap.germany.js&#34;&gt;&lt;/script&gt;&lt;link href=&#34;https://cdnjs.cloudflare.com/ajax/libs/jqvmap/1.5.1/jqvmap.min.css&#34; rel=&#34;stylesheet&#34; type=&#34;text/css&#34; /&gt;&lt;style&gt;.one { //margin-top: -20px; width: 50%;  height: 380px;  float: left;  }&lt;/style&gt;&lt;script src=&#34;https://cdn.jsdelivr.net/npm/chart.js&#34;&gt;&lt;/script&gt;&lt;div style=&#34;margin-top:4%; width: 100%;&#34;&gt;&lt;div id=&#34;map2&#34; class=&#34;one&#34; &gt;&lt;/div&gt;&lt;div style=&#34;float: left; width: 50%; height:430px;&#34;&gt;&lt;canvas id=&#34;bev_chart2&#34; &gt;&lt;/canvas&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;script&gt;
+//bula all
+ var map2 = {
+    ni:   28.8,
+    sh:   27.0,
+    be:   34.6,
+    mv:   15.2,
+    hb:   31.6,
+    sl:   21.3,
+    by:   25.1,
+    th:   16.1,
+    st:   15.2,
+    sn:   19.1,
+    bb:   21.7,
+    nw:   27.8,
+    bw:   23.6,
+    he:   29.2,
+    hh:   36.8,
+    rp:   23.7
+}
+jQuery(&#39;#map2&#39;).vectorMap({
+	map: &#39;germany_en&#39;,
+	backgroundColor: &#39;rgba(76, 175, 80, 0.0)&#39;,
+    borderColor: &#39;white&#39;,
+    borderOpacity: 0.25,
+    borderWidth: 2,
+    // colors: colors,
+    enableZoom: false,
+    hoverColor: false,
+    hoverOpacity: 0.7,
+    normalizeFunction: &#39;linear&#39;,
+    scaleColors: [&#39;#ddeaf5&#39;, &#39;#0275d8&#39;],
+    selectedColor: false,
+    selectedRegions: null,
+    showTooltip: true,
+        legend: {
+          horizontal: true,
+          cssClass: &#39;jvectormap-legend-icons&#39;,
+          title: &#39;Business type&#39;
+        },
+    values: map2,
+	onLabelShow: function (event, label, code) {
+if(label[0].innerHTML ==&#39;Niedersachsen&#39;) {label[0].innerHTML =&#39;Lower Saxony&#39;;}
+if(label[0].innerHTML ==&#39;Schleswig-Holstein&#39;) {label[0].innerHTML =&#39;Schleswig-Holstein&#39;;}
+if(label[0].innerHTML ==&#39;Berlin&#39;) {label[0].innerHTML =&#39;Berlin&#39;;}
+if(label[0].innerHTML ==&#39;Mecklenburg-Vorpommern&#39;) {label[0].innerHTML =&#39;Mecklenburg Western Pomerania&#39;;}
+if(label[0].innerHTML ==&#39;Bremen&#39;) {label[0].innerHTML =&#39;Bremen&#39;;}
+if(label[0].innerHTML ==&#39;Saarland&#39;) {label[0].innerHTML =&#39;Saarland&#39;;}
+if(label[0].innerHTML ==&#39;Bayern&#39;) {label[0].innerHTML =&#39;Bavaria&#39;;}
+if(label[0].innerHTML ==&#39;Thüringen&#39;) {label[0].innerHTML =&#39;Thuringia&#39;;}
+if(label[0].innerHTML ==&#39;Sachsen-Anhalt&#39;) {label[0].innerHTML =&#39;Saxony-Anhalt&#39;;}
+if(label[0].innerHTML ==&#39;Sachsen&#39;) {label[0].innerHTML =&#39;Saxony&#39;;}
+if(label[0].innerHTML ==&#39;Brandenburg&#39;) {label[0].innerHTML =&#39;Brandenburg&#39;;}
+if(label[0].innerHTML ==&#39;Nordrhein-Westfalen&#39;) {label[0].innerHTML =&#39;Northrhine-Westphalia&#39;;}
+if(label[0].innerHTML ==&#39;Baden-Württemberg&#39;) {label[0].innerHTML =&#39;Baden-Württemberg&#39;;}
+if(label[0].innerHTML ==&#39;Hessen&#39;) {label[0].innerHTML =&#39;Hesse&#39;;}
+if(label[0].innerHTML ==&#39;Hamburg&#39;) {label[0].innerHTML =&#39;Hamburg&#39;;}
+if(label[0].innerHTML ==&#39;Rheinland-Pfalz&#39;) {label[0].innerHTML =&#39;Rhineland Palatinate&#39;;}
+        label.append(&#39;  &lt;br&gt; &#39;+map2[code] + &#39; Participants of the sub-study/100k&#39;); 
+	}
+});
+label2=[&#39;Lower Saxony&#39;,&#39;Schleswig-Holstein&#39;,&#39;Berlin&#39;,&#39;Mecklenburg Western Pomerania&#39;,&#39;Bremen&#39;,&#39;Saarland&#39;,&#39;Bavaria&#39;,&#39;Thuringia&#39;,&#39;Saxony-Anhalt&#39;,&#39;Saxony&#39;,&#39;Brandenburg&#39;,&#39;Northrhine-Westphalia&#39;,&#39;Baden-Württemberg&#39;,&#39;Hesse&#39;,&#39;Hamburg&#39;,&#39;Rhineland Palatinate&#39;];
+data2=[  0.12,   0.05,   0.34,  -0.41,   0.23,  -0.17,  -0.03,  -0.37, -0.41, -0.26, -0.16,  0.08, -0.08,  0.13,  0.43, -0.08];
+const labels_2 = label2;
+const data1_2 = data2;
+// Construct and array of objects that have &#39;label&#39; and &#39;data&#39;
+// We expect that labels and data1 are the same length but if there is
+// a chance that they are not, you should check for that.
+const allData_2 = [];
+for (let i = 0; i &lt; labels_2.length; ++i) {
+    allData_2.push({
+        label: labels_2[i],
+        data: data1_2[i]
+    });
+}
+// Sort them by the data value
+allData_2.sort((a, b) =&gt; b.data - a.data);
+// And split them again
+const sortedLabels_2 = allData_2.map(e =&gt; e.label);
+const sortedData_2 = allData_2.map(e =&gt; e.data);
+  const bev_chart2 = document.getElementById(&#39;bev_chart2&#39;).getContext(&#39;2d&#39;);
+const bev_chart2_ = new Chart(bev_chart2, {
+    type: &#39;bar&#39;,
+    data: {
+      labels: sortedLabels_2,
+      datasets: [
+{
+          data: sortedData_2,          
+          label: &#39;Comparison to the population&#39;,
+ backgroundColor: [
+                &#39;rgba(2, 117, 216, 0.2)&#39;,
+            ],
+            borderColor: [
+                &#39;rgba(2, 117, 216, 1)&#39;,
+            ],borderWidth: 1
+        },
+]
+    },
+    options: {
+	       scales: {
+            y: {
+			  grid: {
+          drawBorder: false,
+		  display: false
+		  },
+            },
+			x: {
+			  grid: {
+          drawBorder: false,
+		  display: true
+		  }
+			}
+        },indexAxis: &#39;y&#39;,
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+title: {
+            display: false,
+            text: &#39;&#39;,
+			font: {
+                        size: 16
+                    }
+        },         
+        tooltip: {
+          enabled: true,
+        },
+        legend: {
+          reverse: false,
+          display: false,
+          position: &#39;bottom&#39;
+        },
+      },
+    }
+  });
+&lt;/SCRIPT&gt;
+
+ 	&lt;figcaption&gt;
+ 		&lt;div class=&#34;pa4 tl f4 lh-copy&#34;&gt;&lt;em&gt;Figure 2: Distribution of the sub-study sample calculated per 100,000 inhabitants in the federal states (map) and comparison of the federal state distribution of the sub-study sample to the census as of 12/31/2019 (bar chart).&lt;/em&gt;&lt;/div&gt;	
+ 	&lt;/figcaption&gt;
+ &lt;/figure&gt;
+&lt;/section&gt;
+
+&lt;h3 id=&#34;gender-distribution&#34;&gt;Gender Distribution&lt;/h3&gt;
+&lt;p&gt;In the next step, we look at the gender distribution among all data donors and among the donors in the sub-study.
+At first glance, it is noticeable that &lt;strong&gt;male data donors are overrepresented and female data donors underrepresented&lt;/strong&gt; compared to the total population.
+We see the same result for the participants of the partial study. &lt;strong&gt;Here we also see that the gender difference in the sub-study increases&lt;/strong&gt;.
+In our old blog post on the &lt;a href=&#34;https://corona-datenspende.de/en/reports/demographie/&#34;&gt;sociodemographics&lt;/a&gt; of donors, we had to make a correction to the gender distribution. Already since the launch of the data donation app, more men than women participate in the data donation.
+&lt;section class=&#34;center mw10 mw8-ns&#34;&gt;
+ &lt;figure&gt;
+ 	&lt;script src=&#34;https://cdn.jsdelivr.net/npm/chart.js&#34;&gt;&lt;/script&gt;&lt;div style=&#34;display: block; margin-left: auto;  margin-right: auto; width: 90%; height:400px;&#34;&gt;&lt;canvas id=&#34;sex&#34; &gt;&lt;/canvas&gt;&lt;/div&gt;
+&lt;SCRIPT&gt;
+//options
+Chart.defaults.font.size = 15;
+ var labels_sex = [&#39;Men&#39;, &#39;Women&#39;];
+  var all_sex = [62.4, 37.6];
+  var fb_sex = [68.0, 32.0];
+  var bev_sex = [48.9, 51.1];
+  const sex = document.getElementById(&#39;sex&#39;).getContext(&#39;2d&#39;);
+  const sex_ = new Chart(sex, {
+    type: &#39;bar&#39;,
+    data: {
+      labels: labels_sex,
+      datasets: [
+{
+          data: all_sex,          
+          label: &#39;All data donors&#39;,
+ backgroundColor: [
+                &#39;rgba(2, 117, 216, 0.2)&#39;,
+            ],
+            borderColor: [
+                &#39;rgba(2, 117, 216, 1)&#39;,
+            ],borderWidth: 1
+        },
+{
+          data: fb_sex,          
+          label: &#39;Participants of the sub-study&#39;,
+ backgroundColor: [
+                &#39;rgba(92, 184, 92, 0.2)&#39;,
+            ],
+            borderColor: [
+                &#39;rgba(92, 184, 92, 1)&#39;,
+            ],borderWidth: 1
+        },
+{
+          data: bev_sex,          
+          label: &#39;Population distribution&#39;,
+ backgroundColor: [
+                &#39;rgba(240, 173, 78, 0.2)&#39;,
+            ],
+            borderColor: [
+                &#39;rgba(240, 173, 78, 1)&#39;,
+            ],borderWidth: 1
+        }
+]
+    },
+    options: {
+	       scales: {
+            y: {max:80,
+			  grid: {
+          drawBorder: false,
+		  display: true
+		  },
+                ticks: {
+                    // Include a dollar sign in the ticks
+                    callback: function(value, index, values) {
+                        return value+&#39;%&#39;;
+                    }
+                }
+            },
+			x: {
+			  grid: {
+          drawBorder: false,
+		  display: false
+		  }
+			}
+        },
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+		title: {
+            display: true,
+            text: &#39;       Gender&#39;,
+			font: {
+                        size: 16
+                    }
+        },         
+        tooltip: {
+          enabled: true, mode:&#39;index&#39;},
+        legend: {
+          reverse: false,
+          display: true,
+          position: &#39;bottom&#39;
+        },
+      },
+    }
+  });
+&lt;/SCRIPT&gt;
+
+ 	&lt;figcaption&gt;
+ 		&lt;div class=&#34;pa4 tl f4 lh-copy&#34;&gt;&lt;em&gt;Figure 3: Gender distribution of the data donor sample (census 12/31/2019)&lt;/em&gt;&lt;/div&gt;	
+ 	&lt;/figcaption&gt;
+ &lt;/figure&gt;
+&lt;/section&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;age-distribution&#34;&gt;Age Distribution&lt;/h3&gt;
+&lt;p&gt;Essentially, we see a different age distribution in our data and the age distribution of the overall population.
+We see that both the participants in the data donation and the participants in the partial study &lt;strong&gt;are slightly underrepresented in the youngest age groups and strongly underrepresented in older age groups&lt;/strong&gt;.
+Significantly overrepresented compared to the total population are the age groups from 30 to 59.
+The comparison between participants in the data donation and participants in the sub-study, shows minor selection effects.
+With regard to age, however, the participants in the sub-study are similarly distributed compared to all donors in general.
+If we look at the age distribution differentiated by gender, we see greater differences between the participants of the data donation and the participants of the sub-study among women, especially in both age groups from 40 to 59 years.
+&lt;section class=&#34;center mw10 mw8-ns&#34;&gt;
+ &lt;figure&gt;
+ 	 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/chart.js&#34;&gt;&lt;/script&gt; &lt;button id=&#34;gesamt&#34; &gt;Total&lt;/button&gt; &lt;button id=&#34;men&#34; &gt;Men&lt;/button&gt; &lt;button id=&#34;women&#34; &gt;Women&lt;/button&gt;&lt;div style=&#34;display: block; margin-left: auto;  margin-right: auto; width: 100%; height:400px;&#34;&gt;&lt;canvas id=&#34;age&#34; &gt;&lt;/canvas&gt;    &lt;/div&gt;
+&lt;SCRIPT&gt;
+//options
+Chart.defaults.font.size = 15;
+ var labels_age = [&#39;16-29 J.&#39;,&#39;30-39 J.&#39;,&#39;40-49 J.&#39;,&#39;50-59 J.&#39;,&#39;60-69 J.&#39;,&#39;70-79 J.&#39;,&#39;80+ J.&#39;];
+  var all_age = [14.1,21.4,24.2,23.9,12.2,3.7,0.5];
+  var all_men = [13.6,20.9,23.6,23.6,13.2,4.4,0.6];
+  var all_women = [14.8,22.4,25.1,24.5,10.6,2.4,0.3];
+  var fb_age = [11.0,22.5,28.0,25.2,11.1,2.0,0.2];
+  var fb_men = [11.9,22.9,27.2,23.5,11.8,2.4,0.3];
+  var fb_women = [9.0,21.5,29.8,28.8,9.5,1.2,0.1];
+  var bev_age = [18.1,15.2,14.3,18.9,14.8,10.6,8.0];
+  var bev_men = [19.3,15.8,14.7,19.4,14.6,9.9,6.2];
+  var bev_women = [17.0,14.6,14.0,18.5,14.9,11.3,9.7];
+  const age = document.getElementById(&#39;age&#39;).getContext(&#39;2d&#39;);
+const age_ = new Chart(age, {
+    type: &#39;bar&#39;,
+    data: {
+      labels: labels_age,
+      datasets: [
+{
+          data: all_age,          
+          label: &#39;All data donors&#39;,
+ backgroundColor: [
+                &#39;rgba(2, 117, 216, 0.2)&#39;,
+            ],
+            borderColor: [
+                &#39;rgba(2, 117, 216, 1)&#39;,
+            ],borderWidth: 1
+        },
+{
+          data: fb_age,          
+          label: &#39;Participants of the sub-study&#39;,
+ backgroundColor: [
+                &#39;rgba(92, 184, 92, 0.2)&#39;,
+            ],
+            borderColor: [
+                &#39;rgba(92, 184, 92, 1)&#39;,
+            ],borderWidth: 1
+        },
+{
+          data: bev_age,          
+          label: &#39;Population distribution&#39;,
+ backgroundColor: [
+                &#39;rgba(240, 173, 78, 0.2)&#39;,
+            ],
+            borderColor: [
+                &#39;rgba(240, 173, 78, 1)&#39;,
+            ],borderWidth: 1
+        }
+]
+    },
+    options: {
+	       scales: {
+            y: { max:35,
+			  grid: {
+          drawBorder: false,
+		  display: true
+		  },
+                ticks: {
+                    // Include a dollar sign in the ticks
+                    callback: function(value, index, values) {
+                        return value+&#39;%&#39;;
+                    }
+                }
+            },
+			x: {
+			  grid: {
+          drawBorder: false,
+		  display: false
+		  }
+			}
+        },
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+title: {
+            display: true,
+            text: &#39;Age - Total&#39;,
+			font: {
+                        size: 16
+                    }
+        },         
+        tooltip: {
+          enabled: true,mode:&#39;index&#39;
+        },
+        legend: {
+          reverse: false,
+          display: true,
+          position: &#39;bottom&#39;
+        },
+      },
+    }
+  });
+  $( document ).ready(function() {
+    $(&#39;#gesamt&#39;).click(function () {
+		age_.options.plugins.title.text = &#39;Age - Total&#39;;	
+	    age_.data.datasets[0].data = all_age;
+		age_.data.datasets[1].data = fb_age;
+		age_.data.datasets[2].data = bev_age;
+		age_.update(); 
+		});
+    $(&#39;#men&#39;).click(function () {
+		age_.options.plugins.title.text = &#39;Age - Men&#39;;	
+	    age_.data.datasets[0].data = all_men;
+		age_.data.datasets[1].data = fb_men;
+		age_.data.datasets[2].data = bev_men;
+		age_.update(); 
+		});
+    $(&#39;#women&#39;).click(function () {
+		age_.options.plugins.title.text = &#39;Age - Women&#39;;	
+	    age_.data.datasets[0].data = all_women;
+		age_.data.datasets[1].data = fb_women;
+		age_.data.datasets[2].data = bev_women;
+		age_.update(); 
+		});
+});
+&lt;/SCRIPT&gt;
+
+ 	&lt;figcaption&gt;
+ 		&lt;div class=&#34;pa4 tl f4 lh-copy&#34;&gt;&lt;em&gt;Figure 4: Age distribution of the data donor samp (census 12/31/2019)&lt;/em&gt;&lt;/div&gt;	
+ 	&lt;/figcaption&gt;
+ &lt;/figure&gt;
+&lt;/section&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;outlook&#34;&gt;Outlook&lt;/h3&gt;
+&lt;p&gt;In the next post, we will give you further insight into the socio-demographic and health situation of the data donors in the study &amp;ldquo;Tests, Symptoms and Living Situation&amp;rdquo;.
+We will present further comparisons, e.g. on the subjectively assessed health with reference data (also called benchmark) from representative health studies of the RKI.
+In this way, we are getting closer and closer to one of the goals of the sub-study, namely to describe the sample composition more precisely.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

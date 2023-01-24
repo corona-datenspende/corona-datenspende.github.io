@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hannes Schenk | Corona Data Donation Project | News &amp; Analyses</title>
+    <link>https://corona-datenspende.de/en/authors/hannes-schenk/</link>
+      <atom:link href="https://corona-datenspende.de/en/authors/hannes-schenk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hannes Schenk</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 22 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://corona-datenspende.de/en/authors/hannes-schenk/avatar_hu3e545f454951a82783925a563a4a3d76_85193_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Hannes Schenk</title>
+      <link>https://corona-datenspende.de/en/authors/hannes-schenk/</link>
+    </image>
+    
+    <item>
+      <title>Two years of data donation: The Vital Data Explorer</title>
+      <link>https://corona-datenspende.de/en/reports/vital-data-explorer/</link>
+      <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://corona-datenspende.de/en/reports/vital-data-explorer/</guid>
+      <description>&lt;p&gt;Dear Donors,&lt;/p&gt;
+&lt;p&gt;About a year ago, we were able to &lt;a href=&#34;https://corona-datenspende.de/science/en/reports/oneyearofdata/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;take stock of the first year of Datenspende&lt;/a&gt;. Today, around 470 million donated data points on heart rate, step count and sleep provide us with a unique insight into the development of vital signs under pandemic conditions.&lt;/p&gt;
+&lt;p&gt;To give you a glimpse into our data analysis process and the amount of work that has gone into this project, in this article we touch upon some of the challenges we’ve faced over the course of two years of data donation. We further introduce you to a new tool for exploring these  vital signals for yourself.&lt;/p&gt;
+&lt;h3 id=&#34;what-we-were-able-to-show-last-time&#34;&gt;What we were able to show last time&lt;/h3&gt;
+&lt;p&gt;In May 2021, measurement data from 2020 and 2021 were available for the same month for the first time. This marked a major milestone for our analyses: we were able to explore what insights can be gathered from this year-to-year comparison. &lt;a href=&#34;https://corona-datenspende.de/science/en/reports/oneyearofdata/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;In this blog post&lt;/a&gt;, we demonstrated some of the interpretations we were able to draw. For example, the &lt;a href=&#34;https://www.tum.de/en/about-tum/news/covid-19/short/36715&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;weight gain of many people&lt;/a&gt; during the COVID-19 pandemic could be an explanation for the observed increase in resting heart rate during the year. Weather may also have a considerable influence on heart rate and activity patterns. However, one thing has become clear from many of our analyses to date: your donated data cannot just be analyzed independently, but must always be evaluated in the context of external, possibly interconnected circumstances.&lt;/p&gt;
+&lt;h3 id=&#34;what-is-possible-now&#34;&gt;What is possible now?&lt;/h3&gt;
+&lt;p&gt;A year ago our scope was relatively limited. At that time, we were only able to compare the month of May across two years - a month that already tended to be associated with declining case numbers following the end of the winter waves since the beginning of the COVID-19 pandemic. For periods with more prevalent infectious activity, we lacked year-to-year comparative values. &lt;strong&gt;Thanks to your donations, comparing for example seasonal influences (e.g. low temperatures and longer nights in winter) is now becoming viable&lt;/strong&gt;. But: there are many more possible influences and signals that can be found in our data - and we want to give you the opportunity to take a look for yourself.&lt;/p&gt;
+&lt;h3 id=&#34;two-years-at-a-glance&#34;&gt;Two years at a glance&lt;/h3&gt;
+&lt;p&gt;The data donation project spans an enormous range of widely diverse events, such as New Year&amp;rsquo;s celebrations, school holidays, major sporting events such as the European Football Championship and the Olympic Games, but also COVID-related mobility restrictions or the latest summer heatwave. All these events are reflected in our records, with for example heat waves affecting heart rate, New Year’s celebrations altering sleep patterns, and winter months decreasing the step count of our data donors, &lt;strong&gt;even when roughly summarized regionally and temporally&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Our analytics team studies new aspects of the dataset every day, and we want to actively share this process with you. Over the past few weeks, we have developed a tool to interactively visualize the vital data geographically over time: The Datenspende Vital Data Explorer. The data is averaged over a seven-day period and aggregated at least on a district level, ensuring that conclusions about the specific patterns of individual data donors are not possible. Today, we are excited to share with you a prototype of this data explorer tool. &lt;em&gt;The tool is currently not optimized for mobile devices and will be constantly developed further.&lt;/em&gt;
+In case the visualization does not load right away, simply select select a data set or hit ‘Play’ to get started.&lt;/p&gt;
+&lt;iframe src=&#34;https://rocs.hu-berlin.de/viz/data-explorer/dist/?lang=en&#34; width=&#34;100%&#34; height=&#34;850px&#34; frameborder=&#34;0&#34; max-height=&#34;100%&#34; allowfullscreen=&#34;allowfullscreen&#34; allow=&#34;geolocation *; microphone *; camera *; midi *; encrypted-media *&#34;&gt;&lt;/iframe&gt;
+&lt;h3 id=&#34;how-does-it-work&#34;&gt;How does it work?&lt;/h3&gt;
+&lt;p&gt;The Datenspende Vital Data Explorer maps the aggregated and averaged vital data across time and space. We summarized the key features for you below:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;On the left side, you can see &lt;strong&gt;two input fields&lt;/strong&gt; above the timeline. The first box lets you choose the data set of interest - either &lt;strong&gt;heart rate, step count or sleep duration&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;The row below lets you enter the &lt;strong&gt;district-level regions&lt;/strong&gt; you want to investigate (or simply click on them on the map). For example, you can compare your local area with the national average.&lt;/li&gt;
+&lt;li&gt;Click on the play button to the left of the timeline to activate &lt;strong&gt;automated time progression&lt;/strong&gt;. This allows you to see how the values develop over time.&lt;/li&gt;
+&lt;li&gt;Below the timeline, you will find a miniature view of the entire timeline. Draggable bars at the ends enable you to zoom in on a specific period of interest.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The map is interactive&lt;/strong&gt;. Hovering the cursor over a region or state will show you the local 7-day average. You can zoom in on a location by scrolling the mouse wheel, or by pinch-to-zoom.&lt;/li&gt;
+&lt;li&gt;Last but not least: Beneath the map you’ll find a &lt;strong&gt;legend&lt;/strong&gt; attached, explaining the distribution of colors on the map. Here an additional switch enables you to choose between displaying federal state level or certain counties.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;what-can-be-explored&#34;&gt;What can be explored?&lt;/h3&gt;
+&lt;p&gt;Basically everything. Using the example of Christmas 2021, we will show you what can be found in our data. In the period from 12/24/2021 to 12/31/2021, the average heart rate increased by almost a whole beat per minute. That may not sound like much, but at the population level, it is a very clear signal. The increase can be explained, for example, by holiday stress, or by a possible increase in alcohol consumption, which &lt;a href=&#34;https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012787.pub2/full&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;systematically increases the resting heart rate&lt;/a&gt;. During the same period, we also sleep less on average and take fewer steps per day than usual. Only after the holidays do these observed values normalize again.&lt;/p&gt;
+&lt;h3 id=&#34;whats-next&#34;&gt;What&amp;rsquo;s next?&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://corona-datenspende.de/science/en/reports/longcovidlaunch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Three months ago, we broadened the focus of our research&lt;/a&gt;. Together with various research groups working on the topic of long-COVID, we are investigating the question: What are the long-term effects of COVID-19 once the acute phase of the viral infection is over? With your data, we can approach this question from various angles, including heart rate, physical activity, sleep, mental health and quality of life. In one of the next blog posts, we’ll share insights on how we do that - and explore how the daily lives of people with chronic health conditions changed in the aftermath of an acute COVID-19 infection.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
