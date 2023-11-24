@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Donors | Corona Data Donation Project | News &amp; Analyses</title>
-    <link>https://corona-datenspende.de/en/tag/donors/</link>
-      <atom:link href="https://corona-datenspende.de/en/tag/donors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://corona-datenspende.github.io/en/tag/donors/</link>
+      <atom:link href="https://corona-datenspende.github.io/en/tag/donors/index.xml" rel="self" type="application/rss+xml" />
     <description>Donors</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://corona-datenspende.de/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
+      <url>https://corona-datenspende.github.io/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
       <title>Donors</title>
-      <link>https://corona-datenspende.de/en/tag/donors/</link>
+      <link>https://corona-datenspende.github.io/en/tag/donors/</link>
     </image>
     
     <item>
       <title>Donor Demographics</title>
-      <link>https://corona-datenspende.de/en/reports/demographie/</link>
+      <link>https://corona-datenspende.github.io/en/reports/demographie/</link>
       <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/en/reports/demographie/</guid>
+      <guid>https://corona-datenspende.github.io/en/reports/demographie/</guid>
       <description>&lt;h3 id=&#34;demographics&#34;&gt;Demographics&lt;/h3&gt;
 &lt;p&gt;In previous blog posts, we examined the regional distribution of the donors and some properties of the data itself (steps, resting heart rate). This time we are reporting on the demographics of the donors, including age, gender, height and weight, which can be specified in the app.&lt;/p&gt;
 &lt;p&gt;A subset of donors (about 10%) provide voluntary information on age, gender, body size and weight in addition to their daily heart rate and step count. This data is not required for our work on COVID-19 but yields important information about how significantly the donor community deviates from a representative sample.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;08.12.2021&lt;/strong&gt;
-In an earlier version of this blogpost we said that more men participate in the data donation than men. This was a mistake, in fact the ration is about 60% men and 40% women. You can find more information on donor demographics in our new &lt;a href=&#34;https://corona-datenspende.de/en/reports/fragebogenteilnehmer/&#34;&gt;report&lt;/a&gt;.&lt;/p&gt;
+In an earlier version of this blogpost we said that more men participate in the data donation than men. This was a mistake, in fact the ration is about 60% men and 40% women. You can find more information on donor demographics in our new &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/fragebogenteilnehmer/&#34;&gt;report&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;age-distribution&#34;&gt;Age distribution&lt;/h3&gt;
 &lt;p&gt;&lt;section class=&#34;center mw10 mw10-ns&#34;&gt;
  &lt;figure&gt;
@@ -112,7 +112,7 @@ If we look at regional age distribution, we see that, not only is our overall do
 
 A combined analysis of gender and age shows that women in our donor population are slightly younger than the national average, while male donors are slightly older. The average age among men is 50.2 years, which is about 4 years older than the average age for women (46.4 years).&lt;/p&gt;
 &lt;h3 id=&#34;whats-next&#34;&gt;What&amp;rsquo;s next?&lt;/h3&gt;
-&lt;p&gt;As previously mentioned in the post &lt;a href=&#34;https://corona-datenspende.de/en/reports/schritte/&#34;&gt;Step by Step&lt;/a&gt;, we also examined the relationship between the number of steps and resting heart rate, which we then extended to different demographic groups. The results of this analysis await you in the next post.&lt;/p&gt;
+&lt;p&gt;As previously mentioned in the post &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/schritte/&#34;&gt;Step by Step&lt;/a&gt;, we also examined the relationship between the number of steps and resting heart rate, which we then extended to different demographic groups. The results of this analysis await you in the next post.&lt;/p&gt;
 </description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Soziodemografie | Corona-Datenspende | News &amp; Analysen</title>
-    <link>https://corona-datenspende.de/category/soziodemografie/</link>
-      <atom:link href="https://corona-datenspende.de/category/soziodemografie/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://corona-datenspende.github.io/category/soziodemografie/</link>
+      <atom:link href="https://corona-datenspende.github.io/category/soziodemografie/index.xml" rel="self" type="application/rss+xml" />
     <description>Soziodemografie</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>de</language><lastBuildDate>Tue, 21 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://corona-datenspende.de/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
+      <url>https://corona-datenspende.github.io/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
       <title>Soziodemografie</title>
-      <link>https://corona-datenspende.de/category/soziodemografie/</link>
+      <link>https://corona-datenspende.github.io/category/soziodemografie/</link>
     </image>
     
     <item>
       <title>Vergleich der Spender:innen in der Teilstudie „Tests, Symptome und Lebenssituation“ mit anderen Referenz-Studien</title>
-      <link>https://corona-datenspende.de/reports/benchmark/</link>
+      <link>https://corona-datenspende.github.io/reports/benchmark/</link>
       <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/reports/benchmark/</guid>
+      <guid>https://corona-datenspende.github.io/reports/benchmark/</guid>
       <description>&lt;h3 id=&#34;einleitung&#34;&gt;Einleitung&lt;/h3&gt;
 &lt;p&gt;In diesem Beitrag werden wir euch einen weiteren Einblick zu soziodemographischen Merkmalen und zur gesundheitlichen Lage der Datenspender:innen in der Teilstudie „Tests, Symptome und Lebenssituation“ (im Folgenden „Teilstudie“ genannt) geben.
 Wir vergleichen diesmal den Bildungsstand, die subjektiv eingeschätzte Gesundheit und die Inanspruchnahme von allgemeinärztlichen Leistungen der Teilnehmenden an der Teilstudie mit Referenzdaten.
@@ -1016,11 +1016,11 @@ Wie sich die Selektion der Stichprobe auf die Interpretation der Ergebnisse des 
     
     <item>
       <title>Demographie der Spender:innen in der Studie „Tests, Symptome und Lebenssituation“</title>
-      <link>https://corona-datenspende.de/reports/fragebogenteilnehmer/</link>
+      <link>https://corona-datenspende.github.io/reports/fragebogenteilnehmer/</link>
       <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/reports/fragebogenteilnehmer/</guid>
+      <guid>https://corona-datenspende.github.io/reports/fragebogenteilnehmer/</guid>
       <description>&lt;h3 id=&#34;einleitung&#34;&gt;Einleitung&lt;/h3&gt;
-&lt;p&gt;In den bisherigen Blogposts sind wir schon einmal auf die &lt;a href=&#34;https://corona-datenspende.de/reports/demographie/&#34;&gt;Soziodemographie&lt;/a&gt;  und räumliche &lt;a href=&#34;https://corona-datenspende.de/reports/users/&#34;&gt;Verteilung&lt;/a&gt; der Spender:innen eingegangen.&lt;/p&gt;
+&lt;p&gt;In den bisherigen Blogposts sind wir schon einmal auf die &lt;a href=&#34;https://corona-datenspende.github.io/reports/demographie/&#34;&gt;Soziodemographie&lt;/a&gt;  und räumliche &lt;a href=&#34;https://corona-datenspende.github.io/reports/users/&#34;&gt;Verteilung&lt;/a&gt; der Spender:innen eingegangen.&lt;/p&gt;
 &lt;p&gt;In diesem Blogpost wollen wir uns erneut mit der soziodemographischen Zusammensetzung und der räumlichen Verteilung der Spender:innen beschäftigen. Wir werden für die Analyse jeweils zwei Auswahlebenen bzw. Selektionsstufen betrachten und diese mit der tatsächlichen Bevölkerungszusammensetzung (Fortschreibung des Zensus, Stand: 31.12.2019) vergleichen. Dazu schauen wir uns die Soziodemographie und die räumliche Verteilung anhand von drei Variablen an: räumliche Verteilung auf Bundeslandebene (anhand der ersten drei Stellen der angegebenen Postleitzahl klassifiziert), Geschlecht und Alter (erfasst in 10er Kategorien). In der ersten Gruppe werden die Daten der Selbstangabe bei Neuregistrierung aller Datenspender:innen ausgewertet, in der zweiten Gruppe die Daten der Teil-Studie „Tests, Symptome und Lebenssituation“. Wir möchten damit zwei Fragen nachgehen:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Wie sehr weicht die aktuelle Stichprobe aller an der Datenspende teilnehmenden Personen von der wahren Verteilung in der Bevölkerung (Bevölkerungsfortschreibung Stand: 31.12.2019) ab?&lt;/li&gt;
@@ -1301,7 +1301,7 @@ title: {
 &lt;h3 id=&#34;geschlechtsverteilung&#34;&gt;Geschlechtsverteilung&lt;/h3&gt;
 &lt;p&gt;Im nächsten Schritt betrachten wir die Geschlechterverteilung unter allen Datenspender:innen und unter den Spender:innen der Teil-Studie. Auf den ersten Blick fällt auf, dass im Vergleich zur Gesamtbevölkerung &lt;strong&gt;Datenspender überrepräsentiert und Datenspenderinnen unterrepräsentiert sind&lt;/strong&gt;.
 Dasselbe Ergebnis sehen wir auch für die Teilnehmenden der Teil-Studie. &lt;strong&gt;Hier sehen wir außerdem, dass sich der Geschlechterunterschied in der Teil-Studie verstärkt&lt;/strong&gt;.
-In unserem alten Blogpost zur &lt;a href=&#34;https://corona-datenspende.de/reports/demographie/&#34;&gt;Soziodemographie&lt;/a&gt; der Spender:innen mussten wir bei der Geschlechtsverteilung eine Korrektur vornehmen.
+In unserem alten Blogpost zur &lt;a href=&#34;https://corona-datenspende.github.io/reports/demographie/&#34;&gt;Soziodemographie&lt;/a&gt; der Spender:innen mussten wir bei der Geschlechtsverteilung eine Korrektur vornehmen.
 Bereits seit Start der Datenspende nehmen mehr Männer als Frauen an der Datenspende teil.
 &lt;section class=&#34;center mw10 mw8-ns&#34;&gt;
  &lt;figure&gt;
@@ -1540,9 +1540,9 @@ title: {
     
     <item>
       <title>Die Spender:innen-Karte - regionale Verteilung</title>
-      <link>https://corona-datenspende.de/reports/users/</link>
+      <link>https://corona-datenspende.github.io/reports/users/</link>
       <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/reports/users/</guid>
+      <guid>https://corona-datenspende.github.io/reports/users/</guid>
       <description>&lt;p&gt;Hier ist nun unsere erste Teilauswertung - &lt;strong&gt;Die Spender:innen-Karte&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Bevor wir aus den aggregierten Pulsdaten eine Fieberkarte ableiten können, müssen wir uns ein Bild davon machen, wie die Spender:innen geographisch verteilt sind. Das ist aus verschiedenen Gründen wichtig. Zum einen müssen wir untersuchen, ob z.B. regionale Abweichungen in den Daten sind. Diese müssten für die Auswertungen berücksichtigt werden.
 Zweitens müssen wir gewährleisten, dass in jedem Landkreis genügend Spender:innen registriert sind, damit statistische Auswertungen valide sind und die durch die regionale Zusammenführung gewonnene Anonymisierung gewährleistet ist.&lt;/p&gt;

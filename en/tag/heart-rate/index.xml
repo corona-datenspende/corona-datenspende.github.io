@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Heart rate | Corona Data Donation Project | News &amp; Analyses</title>
-    <link>https://corona-datenspende.de/en/tag/heart-rate/</link>
-      <atom:link href="https://corona-datenspende.de/en/tag/heart-rate/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://corona-datenspende.github.io/en/tag/heart-rate/</link>
+      <atom:link href="https://corona-datenspende.github.io/en/tag/heart-rate/index.xml" rel="self" type="application/rss+xml" />
     <description>Heart rate</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 22 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://corona-datenspende.de/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
+      <url>https://corona-datenspende.github.io/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
       <title>Heart rate</title>
-      <link>https://corona-datenspende.de/en/tag/heart-rate/</link>
+      <link>https://corona-datenspende.github.io/en/tag/heart-rate/</link>
     </image>
     
     <item>
       <title>Two years of data donation: The Vital Data Explorer</title>
-      <link>https://corona-datenspende.de/en/reports/vital-data-explorer/</link>
+      <link>https://corona-datenspende.github.io/en/reports/vital-data-explorer/</link>
       <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/en/reports/vital-data-explorer/</guid>
+      <guid>https://corona-datenspende.github.io/en/reports/vital-data-explorer/</guid>
       <description>&lt;p&gt;Dear Donors,&lt;/p&gt;
-&lt;p&gt;About a year ago, we were able to &lt;a href=&#34;https://corona-datenspende.de/science/en/reports/oneyearofdata/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;take stock of the first year of Datenspende&lt;/a&gt;. Today, around 470 million donated data points on heart rate, step count and sleep provide us with a unique insight into the development of vital signs under pandemic conditions.&lt;/p&gt;
+&lt;p&gt;About a year ago, we were able to &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/oneyearofdata/&#34;&gt;take stock of the first year of Datenspende&lt;/a&gt;. Today, around 470 million donated data points on heart rate, step count and sleep provide us with a unique insight into the development of vital signs under pandemic conditions.&lt;/p&gt;
 &lt;p&gt;To give you a glimpse into our data analysis process and the amount of work that has gone into this project, in this article we touch upon some of the challenges we’ve faced over the course of two years of data donation. We further introduce you to a new tool for exploring these  vital signals for yourself.&lt;/p&gt;
 &lt;h3 id=&#34;what-we-were-able-to-show-last-time&#34;&gt;What we were able to show last time&lt;/h3&gt;
-&lt;p&gt;In May 2021, measurement data from 2020 and 2021 were available for the same month for the first time. This marked a major milestone for our analyses: we were able to explore what insights can be gathered from this year-to-year comparison. &lt;a href=&#34;https://corona-datenspende.de/science/en/reports/oneyearofdata/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;In this blog post&lt;/a&gt;, we demonstrated some of the interpretations we were able to draw. For example, the &lt;a href=&#34;https://www.tum.de/en/about-tum/news/covid-19/short/36715&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;weight gain of many people&lt;/a&gt; during the COVID-19 pandemic could be an explanation for the observed increase in resting heart rate during the year. Weather may also have a considerable influence on heart rate and activity patterns. However, one thing has become clear from many of our analyses to date: your donated data cannot just be analyzed independently, but must always be evaluated in the context of external, possibly interconnected circumstances.&lt;/p&gt;
+&lt;p&gt;In May 2021, measurement data from 2020 and 2021 were available for the same month for the first time. This marked a major milestone for our analyses: we were able to explore what insights can be gathered from this year-to-year comparison. &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/oneyearofdata/&#34;&gt;In this blog post&lt;/a&gt;, we demonstrated some of the interpretations we were able to draw. For example, the &lt;a href=&#34;https://www.tum.de/en/about-tum/news/covid-19/short/36715&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;weight gain of many people&lt;/a&gt; during the COVID-19 pandemic could be an explanation for the observed increase in resting heart rate during the year. Weather may also have a considerable influence on heart rate and activity patterns. However, one thing has become clear from many of our analyses to date: your donated data cannot just be analyzed independently, but must always be evaluated in the context of external, possibly interconnected circumstances.&lt;/p&gt;
 &lt;h3 id=&#34;what-is-possible-now&#34;&gt;What is possible now?&lt;/h3&gt;
 &lt;p&gt;A year ago our scope was relatively limited. At that time, we were only able to compare the month of May across two years - a month that already tended to be associated with declining case numbers following the end of the winter waves since the beginning of the COVID-19 pandemic. For periods with more prevalent infectious activity, we lacked year-to-year comparative values. &lt;strong&gt;Thanks to your donations, comparing for example seasonal influences (e.g. low temperatures and longer nights in winter) is now becoming viable&lt;/strong&gt;. But: there are many more possible influences and signals that can be found in our data - and we want to give you the opportunity to take a look for yourself.&lt;/p&gt;
 &lt;h3 id=&#34;two-years-at-a-glance&#34;&gt;Two years at a glance&lt;/h3&gt;
@@ -42,23 +42,23 @@ In case the visualization does not load right away, simply select select a data 
 &lt;h3 id=&#34;what-can-be-explored&#34;&gt;What can be explored?&lt;/h3&gt;
 &lt;p&gt;Basically everything. Using the example of Christmas 2021, we will show you what can be found in our data. In the period from 12/24/2021 to 12/31/2021, the average heart rate increased by almost a whole beat per minute. That may not sound like much, but at the population level, it is a very clear signal. The increase can be explained, for example, by holiday stress, or by a possible increase in alcohol consumption, which &lt;a href=&#34;https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012787.pub2/full&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;systematically increases the resting heart rate&lt;/a&gt;. During the same period, we also sleep less on average and take fewer steps per day than usual. Only after the holidays do these observed values normalize again.&lt;/p&gt;
 &lt;h3 id=&#34;whats-next&#34;&gt;What&amp;rsquo;s next?&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://corona-datenspende.de/science/en/reports/longcovidlaunch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Three months ago, we broadened the focus of our research&lt;/a&gt;. Together with various research groups working on the topic of long-COVID, we are investigating the question: What are the long-term effects of COVID-19 once the acute phase of the viral infection is over? With your data, we can approach this question from various angles, including heart rate, physical activity, sleep, mental health and quality of life. In one of the next blog posts, we’ll share insights on how we do that - and explore how the daily lives of people with chronic health conditions changed in the aftermath of an acute COVID-19 infection.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://corona-datenspende.github.io/en/reports/longcovidlaunch/&#34;&gt;Three months ago, we broadened the focus of our research&lt;/a&gt;. Together with various research groups working on the topic of long-COVID, we are investigating the question: What are the long-term effects of COVID-19 once the acute phase of the viral infection is over? With your data, we can approach this question from various angles, including heart rate, physical activity, sleep, mental health and quality of life. In one of the next blog posts, we’ll share insights on how we do that - and explore how the daily lives of people with chronic health conditions changed in the aftermath of an acute COVID-19 infection.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The data donation project launches Long COVID study</title>
-      <link>https://corona-datenspende.de/en/reports/longcovidlaunch/</link>
+      <link>https://corona-datenspende.github.io/en/reports/longcovidlaunch/</link>
       <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/en/reports/longcovidlaunch/</guid>
+      <guid>https://corona-datenspende.github.io/en/reports/longcovidlaunch/</guid>
       <description>&lt;p&gt;Dear Donors,&lt;/p&gt;
 &lt;p&gt;For almost two years now, your data has helped us to better understand the course of the COVID-19 pandemic. For this, we would like to thank you once again.&lt;/p&gt;
-&lt;p&gt;During this time, we have learned that there is a great willingness to support science and research with health data from fitness trackers and smartwatches. Over 500,000 people have donated their vital data for at least a certain period of time and more than 38,000 people already regularly participate in our in-app surveys. Using your data, we were able to capture anomalies in vital data that is potentially related to COVID-19 symptoms and the frequency of those detections in the &lt;a href=&#34;https://corona-datenspende.de/en/monitor/&#34;&gt;fever monitor&lt;/a&gt; maps well to the pandemic&amp;rsquo;s waves of infection.&lt;/p&gt;
+&lt;p&gt;During this time, we have learned that there is a great willingness to support science and research with health data from fitness trackers and smartwatches. Over 500,000 people have donated their vital data for at least a certain period of time and more than 38,000 people already regularly participate in our in-app surveys. Using your data, we were able to capture anomalies in vital data that is potentially related to COVID-19 symptoms and the frequency of those detections in the &lt;a href=&#34;https://corona-datenspende.github.io/en/monitor/&#34;&gt;fever monitor&lt;/a&gt; maps well to the pandemic&amp;rsquo;s waves of infection.&lt;/p&gt;
 &lt;h3 id=&#34;keeping-an-eye-on-the-long-term-consequences-of-the-pandemic&#34;&gt;Keeping an eye on the long-term consequences of the pandemic&lt;/h3&gt;
 &lt;p&gt;In 2022, we are expanding the focus of our research and examine the long-term health consequences of COVID-19. In the coming months, we would like to investigate, among other things, how physical activity, sleep, fitness and mental health develop in individuals after the disease.&lt;/p&gt;
 &lt;p&gt;For this reason, &lt;strong&gt;we will launch a new study on Long COVID in the data donation app&lt;/strong&gt; which is developed in close collaboration with the Long COVID group at the Robert Koch Institute. By answering monthly questionnaires, you will help us to understand potential long-term changes in vital signs after a SARS-CoV-2 infection, to determine the frequency of long-lasting or emerging symptoms, and also study the interaction between the two.&lt;/p&gt;
 &lt;h3 id=&#34;new-research-questions-thanks-to-comprehensive-vital-data&#34;&gt;New research questions thanks to comprehensive vital data&lt;/h3&gt;
-&lt;p&gt;From your donated data we have already gained important insights into the potential changes of vital signs following the acute phase of COVID-19. In one of our &lt;a href=&#34;https://corona-datenspende.de/en/reports/prolongedchanges/&#34;&gt;recent blogposts&lt;/a&gt;, we were able to show that the average daily resting heart rate in COVID-19 positive individuals is elevated for months following an infection and normalizations may only happen slowly (Fig. 1).&lt;/p&gt;
+&lt;p&gt;From your donated data we have already gained important insights into the potential changes of vital signs following the acute phase of COVID-19. In one of our &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/prolongedchanges/&#34;&gt;recent blogposts&lt;/a&gt;, we were able to show that the average daily resting heart rate in COVID-19 positive individuals is elevated for months following an infection and normalizations may only happen slowly (Fig. 1).&lt;/p&gt;
 &lt;p&gt;  &lt;!-- insert blank line before figure --&gt;
 
 
@@ -82,15 +82,15 @@ In case the visualization does not load right away, simply select select a data 
                /media/figures/prolonged_changes/vitals_65_en_hu8dc088bcc61666e02b89fbe06c1f7477_191228_ca2544cd0fe5887a09e62d4c0c040484.webp 400w,
                /media/figures/prolonged_changes/vitals_65_en_hu8dc088bcc61666e02b89fbe06c1f7477_191228_dadd2c827d8ec594a2be248c507bed23.webp 760w,
                /media/figures/prolonged_changes/vitals_65_en_hu8dc088bcc61666e02b89fbe06c1f7477_191228_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://corona-datenspende.de/media/figures/prolonged_changes/vitals_65_en_hu8dc088bcc61666e02b89fbe06c1f7477_191228_ca2544cd0fe5887a09e62d4c0c040484.webp&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/prolonged_changes/vitals_65_en_hu8dc088bcc61666e02b89fbe06c1f7477_191228_ca2544cd0fe5887a09e62d4c0c040484.webp&#34;
                width=&#34;60%&#34;
                height=&#34;596&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
-      &lt;strong&gt;Figure 1:&lt;/strong&gt; Average change in daily resting heart rate for COVID-19 positive individuals regardless of vaccination status using data until October 2021. Details on the calculation and results can be found &lt;a href=&#34;https://corona-datenspende.de/en/reports/prolongedchanges/&#34;&gt;here&lt;/a&gt;.
+      &lt;strong&gt;Figure 1:&lt;/strong&gt; Average change in daily resting heart rate for COVID-19 positive individuals regardless of vaccination status using data until October 2021. Details on the calculation and results can be found &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/prolongedchanges/&#34;&gt;here&lt;/a&gt;.
     &lt;/figcaption&gt;&lt;/figure&gt;
   &lt;!-- insert blank line before figure --&gt;&lt;/p&gt;
-&lt;p&gt;Similarly, in preliminary analyses, we found that vaccinations can have a strong positive effect on the normalization of vital signs after contracting COVID-19 (Fig. 2). You can also find these results in one of our recent &lt;a href=&#34;https://corona-datenspende.de/en/reports/breakthroughinfections/&#34;&gt;blogposts&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Similarly, in preliminary analyses, we found that vaccinations can have a strong positive effect on the normalization of vital signs after contracting COVID-19 (Fig. 2). You can also find these results in one of our recent &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/breakthroughinfections/&#34;&gt;blogposts&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;  &lt;!-- insert blank line before figure --&gt;
 
 
@@ -114,12 +114,12 @@ In case the visualization does not load right away, simply select select a data 
                /media/figures/vaccinations/vaccines_long_covid_65_hu06435cb7b43c9780d26f4326971c5fb1_147860_3b7f6223d192ce69bafdddd18988ce7d.webp 400w,
                /media/figures/vaccinations/vaccines_long_covid_65_hu06435cb7b43c9780d26f4326971c5fb1_147860_2e97e6246b3e73e03659bb311da37efd.webp 760w,
                /media/figures/vaccinations/vaccines_long_covid_65_hu06435cb7b43c9780d26f4326971c5fb1_147860_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://corona-datenspende.de/media/figures/vaccinations/vaccines_long_covid_65_hu06435cb7b43c9780d26f4326971c5fb1_147860_3b7f6223d192ce69bafdddd18988ce7d.webp&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/vaccinations/vaccines_long_covid_65_hu06435cb7b43c9780d26f4326971c5fb1_147860_3b7f6223d192ce69bafdddd18988ce7d.webp&#34;
                width=&#34;60%&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
-      &lt;strong&gt;Figure 2:&lt;/strong&gt; Average change in resting heart rate (weekly aggregates) for COVID-19 positive individuals who bt the time of infection were either unvaccinated (red) or at least fully vaccinated (purple). Results are based on data collected until January 2022. Full details about this analysis are found &lt;a href=&#34;https://corona-datenspende.de/en/reports/breakthroughinfections/&#34;&gt;here&lt;/a&gt;.
+      &lt;strong&gt;Figure 2:&lt;/strong&gt; Average change in resting heart rate (weekly aggregates) for COVID-19 positive individuals who bt the time of infection were either unvaccinated (red) or at least fully vaccinated (purple). Results are based on data collected until January 2022. Full details about this analysis are found &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/breakthroughinfections/&#34;&gt;here&lt;/a&gt;.
     &lt;/figcaption&gt;&lt;/figure&gt;
   &lt;!-- insert blank line before figure --&gt;&lt;/p&gt;
 &lt;p&gt;From here, there are many other questions that we want to look at in the following months and that you can help us understand better. This includes, among others:&lt;/p&gt;
@@ -137,13 +137,16 @@ In case the visualization does not load right away, simply select select a data 
     
     <item>
       <title>Are breakthrough infections milder on average?</title>
-      <link>https://corona-datenspende.de/en/reports/breakthroughinfections/</link>
+      <link>https://corona-datenspende.github.io/en/reports/breakthroughinfections/</link>
       <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/en/reports/breakthroughinfections/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; Updated on April 11, 2022. See end of this text for details.&lt;/p&gt;
-&lt;p&gt;Datenspende 2.0 is finally here. Since mid-October you can answer short questionnaires in the app to help us to substantially improve our understanding of the donated vital data in relation to COVID-19. More than 12,000 people have already taken part and entrusted us with this information. For this we would like to express a heartfelt thank you right away.&lt;/p&gt;
-&lt;p&gt;For instance, in the &amp;lsquo;Tests, Symptoms &amp;amp; Life Situation&amp;rsquo; questionnaire, we ask donors about the approximate time and result of their first PCR test. A total of &lt;strong&gt;521&lt;/strong&gt; donors reported having a positive test in the past, &lt;strong&gt;5353&lt;/strong&gt; donors submitted a negative result.&lt;/p&gt;
-&lt;p&gt;  &lt;!-- insert blank line before figure --&gt;
+      <guid>https://corona-datenspende.github.io/en/reports/breakthroughinfections/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Update August 10, 2023:&lt;/strong&gt; The findings reported here were &lt;a href=&#34;https://doi.org/10.1093/pnasnexus/pgad223&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;published&lt;/a&gt; as part of a more extensive analysis in the scientific journal PNAS Nexus.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Dear Donors,&lt;/p&gt;
+&lt;p&gt;in a previous &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/prolongedchanges/&#34;&gt;blog post&lt;/a&gt; we showed how our vitals are expected to change over the course of a Sars-CoV-2 infection. We saw &lt;strong&gt;elevated resting heart rate&lt;/strong&gt;, a &lt;strong&gt;large reduction in daily activity&lt;/strong&gt; and &lt;strong&gt;prolonged sleep duration&lt;/strong&gt; in the weeks following a positive PCR–test, all of which can be interpreted as signs of illness and an increased need for rest.&lt;/p&gt;
+&lt;p&gt;Thanks to your active participation in the data donation project and the corresponding surveys we now know the vaccination status of 25255 donors and the results of 16489 PCR tests (2149 of which were positive). Combining these data points allows us to discriminate between infections that took place before and after donors were at least fully vaccinated. For both groups (vaccinated &amp;amp; unvaccinated) we investigated expected changes in donated vital data compared to a two month period prior to an infection, i.e., typical values of sleep duration, activity and resting heart rate when users have, most likely, been healthy. This way, we hope to see what effects vaccination may potentially have on the long-term effects of COVID-19 that we observed in our earlier report.&lt;/p&gt;
+&lt;p&gt;A word of caution before we dive into the analysis: By today almost all donors that provide vaccination status are either fully vaccinated or boostered. Whenever we talk about unvaccinated cases in the following we refer to users that caught COVID-19 prior to their vaccination. This is most likely because vaccines were not yet readily available by the time of infection of those donors. Almost all unvaccinated cases have been recorded in late 2020 and early 2021 (the second and third wave) while most breakthrough infections are recorded from fall 2021 onwards (the fourth and fifth wave). In this sense it is possible that the results below might also partially arise from distinct physiological responses to the different variants of Sars-CoV-2.&lt;/p&gt;
+&lt;h3 id=&#34;resting-heart-rate-changes-are-less-severe-for-vaccinated-donors&#34;&gt;Resting heart rate changes are less severe for vaccinated donors&lt;/h3&gt;
 
 
 
@@ -160,21 +163,22 @@ In case the visualization does not load right away, simply select select a data 
 
 
 
-&lt;figure  &gt;
+&lt;figure  id=&#34;figure-figure-1-mean-resting-heart-rate-rhr-change-in-covid-19-positive-individuals-we-distinguish-people-that-were-unvaccinated-when-contracting-the-diseases-red-and-those-that-were-at-least-fully-vaccinated-by-the-time-of-infection-purple-for-comparison-we-also-show-rhr-changes-of-covid-19-negatively-tested-donors-since-test-data-is-only-available-with-an-accuracy-of-one-week-the-gray-shading-indicates-the-approximate-time-period-during-which-tests-were-taken-the-error-bars-indicate-the-variation-the-so-called-standard-errorhttpsenwikipediaorgwikistandard_error-around-the-mean&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /media/figures/prolonged_changes/number_of_tests_en_huef96b4caa7687a1913e16cbbce7834a9_173170_ab905c6ddd69a746bef7302cf9dbbd8a.webp 400w,
-               /media/figures/prolonged_changes/number_of_tests_en_huef96b4caa7687a1913e16cbbce7834a9_173170_08502cda9dc32c52a4ccacf9f1849bc4.webp 760w,
-               /media/figures/prolonged_changes/number_of_tests_en_huef96b4caa7687a1913e16cbbce7834a9_173170_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://corona-datenspende.de/media/figures/prolonged_changes/number_of_tests_en_huef96b4caa7687a1913e16cbbce7834a9_173170_ab905c6ddd69a746bef7302cf9dbbd8a.webp&#34;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;**Figure 1:** Mean resting heart rate (RHR) change in Covid-19 positive individuals. We distinguish people that were unvaccinated when contracting the diseases (red) and those that were at least fully vaccinated by the time of infection (purple). For comparison we also show RHR changes of COVID-19 negatively tested donors. Since test data is only available with an accuracy of one week, the gray shading indicates the approximate time period during which tests were taken. The error bars indicate the variation (the so-called [standard error](https://en.wikipedia.org/wiki/Standard_error)) around the mean.&#34; srcset=&#34;
+               /media/figures/vaccinations/vaccines_long_covid_65_hu06435cb7b43c9780d26f4326971c5fb1_147860_3b7f6223d192ce69bafdddd18988ce7d.webp 400w,
+               /media/figures/vaccinations/vaccines_long_covid_65_hu06435cb7b43c9780d26f4326971c5fb1_147860_2e97e6246b3e73e03659bb311da37efd.webp 760w,
+               /media/figures/vaccinations/vaccines_long_covid_65_hu06435cb7b43c9780d26f4326971c5fb1_147860_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/vaccinations/vaccines_long_covid_65_hu06435cb7b43c9780d26f4326971c5fb1_147860_3b7f6223d192ce69bafdddd18988ce7d.webp&#34;
                width=&#34;60%&#34;
-               height=&#34;456&#34;
+               height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;If we look at how often self-reported positive results occurred over time, you can see that this distribution fits very well with the course of the pandemic. We see the first wave in March 2020, the second and third wave in winter 2020/2021 and the fourth wave starting now. Conversely, we observe few positive test results in the summer months.&lt;/p&gt;
-&lt;h3 id=&#34;prolonged-changes-in-vital-signs-for-covid-19-positive-individuals&#34;&gt;Prolonged changes in vital signs for COVID-19 positive individuals&lt;/h3&gt;
-&lt;p&gt;If we look at the physiological and activity data before and after a PCR test, we obtain interesting insights into the possible effects of COVID-19 infections. In particular, we calculate the mean change in &lt;strong&gt;resting heart rate&lt;/strong&gt;, &lt;strong&gt;step count&lt;/strong&gt; and &lt;strong&gt;sleep duration&lt;/strong&gt; relative to the baseline period before the test, for both positively and negatively tested donors.&lt;/p&gt;
-&lt;p&gt;  &lt;!-- insert blank line before figure --&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;strong&gt;Figure 1:&lt;/strong&gt; Mean resting heart rate (RHR) change in Covid-19 positive individuals. We distinguish people that were unvaccinated when contracting the diseases (red) and those that were at least fully vaccinated by the time of infection (purple). For comparison we also show RHR changes of COVID-19 negatively tested donors. Since test data is only available with an accuracy of one week, the gray shading indicates the approximate time period during which tests were taken. The error bars indicate the variation (the so-called &lt;a href=&#34;https://en.wikipedia.org/wiki/Standard_error&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;standard error&lt;/a&gt;) around the mean.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;Let’s start by investigating expected changes in resting heart rate (RHR) around the time of a positive COVID-19 test. For unvaccinated COVID-19 positive donors (red curve in Fig. 1) RHR starts to increase in the week prior to taking the test, which might be a precursor to an upcoming disease. The largest change is observed in the week of taking the PCR-test with an expected value of around 2 beats per minute above typical values. The normalization (indicated by a change of around zero) in week one has been observed in &lt;a href=&#34;https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2781687&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;other studies&lt;/a&gt; as well and might be linked to what is called &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32550090/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bradycardia&lt;/a&gt; – a potential symptom of COVID-19. After this short period RHR increases again and then slowly returns to its normal value over a long course of 13 weeks.&lt;/p&gt;
+&lt;p&gt;In contrast, RHR-changes of vaccinated donors (shown in purple in Fig. 1) are comparatively smaller, with an increase of only around 1 beat per minute in the week of taking the test and a much faster return to normal values after at most 7-8 weeks. This implies that both, the severity of an infection in the acute phase reduces and the recovery process improves for vaccinated donors. Note that we can only display vital changes for vaccinated donors up until 9 weeks after an infection, since most cases have been reported from November 2021 onwards.&lt;/p&gt;
+&lt;h3 id=&#34;activity-of-vaccinated-donors-likely-only-decreases-during-quarantine&#34;&gt;Activity of vaccinated donors likely only decreases during quarantine&lt;/h3&gt;
 
 
 
@@ -191,19 +195,23 @@ In case the visualization does not load right away, simply select select a data 
 
 
 
-&lt;figure  &gt;
+&lt;figure  id=&#34;figure-figure-2-mean-change-in-activity-of-unvaccinated-red-and-vaccinated-purple-covid-19-positive-donors-as-well-as-covid-19-negative-individuals-blue-for-comparison&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /media/figures/prolonged_changes/vitals_65_en_hu8dc088bcc61666e02b89fbe06c1f7477_191228_ca2544cd0fe5887a09e62d4c0c040484.webp 400w,
-               /media/figures/prolonged_changes/vitals_65_en_hu8dc088bcc61666e02b89fbe06c1f7477_191228_dadd2c827d8ec594a2be248c507bed23.webp 760w,
-               /media/figures/prolonged_changes/vitals_65_en_hu8dc088bcc61666e02b89fbe06c1f7477_191228_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://corona-datenspende.de/media/figures/prolonged_changes/vitals_65_en_hu8dc088bcc61666e02b89fbe06c1f7477_191228_ca2544cd0fe5887a09e62d4c0c040484.webp&#34;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;**Figure 2:** Mean change in activity of unvaccinated (red) and vaccinated (purple) COVID-19 positive donors as well as COVID-19 negative individuals (blue) for comparison.&#34; srcset=&#34;
+               /media/figures/vaccinations/vaccines_long_covid_9_hue251c11df7111afdacb5ee30c8b7b35f_130963_165e43a2bcd3b3d8987481b87ddb8a41.webp 400w,
+               /media/figures/vaccinations/vaccines_long_covid_9_hue251c11df7111afdacb5ee30c8b7b35f_130963_709374fc7965e77c01b582919ca600f8.webp 760w,
+               /media/figures/vaccinations/vaccines_long_covid_9_hue251c11df7111afdacb5ee30c8b7b35f_130963_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/vaccinations/vaccines_long_covid_9_hue251c11df7111afdacb5ee30c8b7b35f_130963_165e43a2bcd3b3d8987481b87ddb8a41.webp&#34;
                width=&#34;60%&#34;
-               height=&#34;596&#34;
+               height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;Let’s first look at the resting heart rate. For donors with a confirmed COVID-19 infection, this value &lt;strong&gt;increases by an average of 2 beats per minute prior&lt;/strong&gt; to getting tested. This is followed by a brief normalization period, which has been observed in &lt;a href=&#34;https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2781687&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a previous study&lt;/a&gt;, before spiking again and then slowly returning to baseline levels over an extended period of &lt;strong&gt;two to three months&lt;/strong&gt;. In contrast, donors who tested negative show no significant changes over time. The shaded regions represent the so-called confidence intervals that indicate the uncertainty of the mean.&lt;/p&gt;
-&lt;p&gt;  &lt;!-- insert blank line before figure --&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;strong&gt;Figure 2:&lt;/strong&gt; Mean change in activity of unvaccinated (red) and vaccinated (purple) COVID-19 positive donors as well as COVID-19 negative individuals (blue) for comparison.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;A second metric that we &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/schritte/&#34;&gt;often&lt;/a&gt; analyze in the data donation project is daily activity measured in terms of step count. For both,vaccinated and unvaccinated donors, this value decreases strongest in the week following a positive PCR-test, most likely due to staying at home as people isolate themselves. However, we note two subtle, yet important, differences between vaccinated and unvaccinated cases:&lt;/p&gt;
+&lt;p&gt;(i) The activity reduction is almost twice as strong for unvaccinated donors in the week of taking the PCR-test. Hence decreases in activity likely happen much earlier than for vaccinated donors, probably already in the days prior to taking a test. It is reasonable to assume that such a reduction is already indicative of an upcoming illness and not only a response to quarantine orders which might not be related to a person’s actual health status.&lt;/p&gt;
+&lt;p&gt;(ii) While the activity of vaccinated donors mostly returns to typical values after three to (at most) six weeks we find small deviations from such typical values for unvaccinated donors that only vanish after 13 weeks. This implies that the risk of prolonged reductions in the ability to go about usual activities beyond isolation periods is larger for unvaccinated people, albeit not vanishing entirely for vaccinated people either.&lt;/p&gt;
+&lt;h3 id=&#34;sleep-duration-increases-during-quarantine&#34;&gt;Sleep duration increases during quarantine&lt;/h3&gt;
 
 
 
@@ -220,62 +228,31 @@ In case the visualization does not load right away, simply select select a data 
 
 
 
-&lt;figure  &gt;
+&lt;figure  id=&#34;figure-figure-3-mean-change-in-sleep-duration-of-unvaccinated-red-and-vaccinated-purple-covid-19-positive-donors-as-well-as-covid-19-negative-individuals-blue-for-comparison&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /media/figures/prolonged_changes/vitals_9_en_hu5b1e620858925a7bd47b963a62cda7f7_160470_a81da7380f4d082d0bf76c76d8cd6699.webp 400w,
-               /media/figures/prolonged_changes/vitals_9_en_hu5b1e620858925a7bd47b963a62cda7f7_160470_112c030f9f2680521b48ee4cc6cbb488.webp 760w,
-               /media/figures/prolonged_changes/vitals_9_en_hu5b1e620858925a7bd47b963a62cda7f7_160470_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://corona-datenspende.de/media/figures/prolonged_changes/vitals_9_en_hu5b1e620858925a7bd47b963a62cda7f7_160470_a81da7380f4d082d0bf76c76d8cd6699.webp&#34;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;**Figure 3:** Mean change in sleep duration of unvaccinated (red) and vaccinated (purple) COVID-19 positive donors as well as COVID-19 negative individuals (blue) for comparison.&#34; srcset=&#34;
+               /media/figures/vaccinations/vaccines_long_covid_43_hue0850bd3df0096a5934f9ab7f810d97a_142952_83e74989347b46d5dbbb9fb5bc7e8306.webp 400w,
+               /media/figures/vaccinations/vaccines_long_covid_43_hue0850bd3df0096a5934f9ab7f810d97a_142952_035a708d06be8c291bc7479b0387197f.webp 760w,
+               /media/figures/vaccinations/vaccines_long_covid_43_hue0850bd3df0096a5934f9ab7f810d97a_142952_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/vaccinations/vaccines_long_covid_43_hue0850bd3df0096a5934f9ab7f810d97a_142952_83e74989347b46d5dbbb9fb5bc7e8306.webp&#34;
                width=&#34;60%&#34;
-               height=&#34;596&#34;
+               height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;When we look at activity patterns (measured by daily step counts), the influence of COVID-19 is even more pronounced. In the days preceding a positive test result, step counts begin to drop sharply, &lt;strong&gt;reducing activity by around 3500 steps&lt;/strong&gt; per day on average. That’s equivalent to a decline of more than &lt;strong&gt;50% of usual activity&lt;/strong&gt;! This change lasts for up to a month.&lt;/p&gt;
-&lt;p&gt;  &lt;!-- insert blank line before figure --&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /media/figures/prolonged_changes/vitals_43_en_hu66717a404008907f0c36588951759468_181819_4ff4ff082a9ee6be1436819caa3a8391.webp 400w,
-               /media/figures/prolonged_changes/vitals_43_en_hu66717a404008907f0c36588951759468_181819_ec6c5a5b7e3aa0f491fee02d9fd5eb76.webp 760w,
-               /media/figures/prolonged_changes/vitals_43_en_hu66717a404008907f0c36588951759468_181819_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://corona-datenspende.de/media/figures/prolonged_changes/vitals_43_en_hu66717a404008907f0c36588951759468_181819_4ff4ff082a9ee6be1436819caa3a8391.webp&#34;
-               width=&#34;60%&#34;
-               height=&#34;596&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;Sleep duration is also affected by COVID-19. Around the time of diagnosis, our COVID-19 positive donors sleep an average of &lt;strong&gt;around 40 minutes more&lt;/strong&gt;, which also takes about three weeks to return to normal.&lt;/p&gt;
-&lt;p&gt;For all three variables, similar findings have been reported in a comparable &lt;a href=&#34;https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2781687&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;study&lt;/a&gt; of donated vital data in the United States. This shows that our results are by no means an exception, but are instead consistent with the current state of research.&lt;/p&gt;
-&lt;h3 id=&#34;improving-the-fever-algorithm&#34;&gt;Improving the fever algorithm&lt;/h3&gt;
-&lt;p&gt;The donated data suggests that COVID-19 can produce &lt;strong&gt;prolonged changes in physiological and behavioral signals, particularly in the case of resting heart rate&lt;/strong&gt;. Next, we will investigate this phenomenon in more detail and use these new findings to improve and validate our fever detection algorithm. In doing so, we will also take into account effects such as sociodemographics and life circumstances.&lt;/p&gt;
-&lt;p&gt;In one of our &lt;a href=&#34;https://corona-datenspende.de/reports/demographie&#34;&gt;first blogposts&lt;/a&gt; we already discussed that the demographics of our donors are not fully representative of Germany’s general population and particularly senior citizens, one of the major risk groups for COVID-19, may be underrepresented in the data donation project. Thus, our observed effects may be even more pronounced than what we currently obtain from the donated vitaldata. Additional demographic information that we collect in the second questionnaire of the study &amp;lsquo;Tests, Symptoms &amp;amp; Living Situation&amp;rsquo; should therefore help us to extrapolate the effects observed in the vital data more accurately to the whole population in the future .
-We would like to thank all donors for their continued support in our efforts to better understand COVID-19 through providing us with wearables data as well as entrusting us with vital personal information obtained via the questionnaires. We will continue to keep you informed of further progress here and report new insights made possible by the surveyological data as they become available.&lt;/p&gt;
-&lt;h4 id=&#34;correction&#34;&gt;Correction&lt;/h4&gt;
-&lt;p&gt;In an earlier version of the blog post we discussed a maximum change in resting heart rate of up to 3 beats per minute and a return period of up to three months. Likewise, a prolonged sleep duration of 60 minutes was reported. After writing this arcticle, we have improved our calculation to specifically account for seasonal influences, such as altered resting heart rate in winter, and increased activity as well as reduced sleep in summer. To make the results comparable to those in our later &lt;a href=&#34;https://corona-datenspende.de/reports/breakthroughinfections&#34;&gt;blogpost on breakthroughs infections&lt;/a&gt;, we adjusted the figures in this blogpost on April 11, 2022 by using our improved algorithm. More detailed information on these calculations can also be found in one of our &lt;a href=&#34;https://arxiv.org/abs/2204.02846&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pre-prints&lt;/a&gt;. Furthermore, it should be noted that the graphs presented here only take into account data up until October 2021 so that more recent data may cause the shown curves to become different again.&lt;/p&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;strong&gt;Figure 3:&lt;/strong&gt; Mean change in sleep duration of unvaccinated (red) and vaccinated (purple) COVID-19 positive donors as well as COVID-19 negative individuals (blue) for comparison.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;Finally, we investigate a third marker for a person’s health status given by the typical sleep duration. For unvaccinated cases we find an increase in sleep duration of about 40-50 minutes per day in the week of taking a PCR-test and the week thereafter. Again, this increase is visible for vaccinated donors as well, even though the magnitude of this effect is more than halved. Interestingly, the sleep duration in vaccinated cases mostly increases in the week after taking a COVID-19 test, thus could again be a result of people isolating and thereby spending more time at home. In contrast, the sleep duration of unvaccinated donors already largely increases in the same week of taking the test, which might again be indicative of a larger need for rest due to health problems caused by the Sars-CoV-2 infection.&lt;/p&gt;
+&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;
+&lt;p&gt;In sum, we find that &lt;strong&gt;short- and long-term changes in the vital data of COVID-19 positive donors are less pronounced for vaccinated cases&lt;/strong&gt;. This ties in with commonly observed results that indicate a milder course of breakthrough infections compared to those recorded in people that have not yet achieved some form of immunity. At the same time we find that vital signs return back to normal values faster, thus hinting that vaccinations might also mitigate prolonged health problems such as Long-Covid.&lt;/p&gt;
+&lt;p&gt;As always, we express our greatest gratitude to you, our donors, for making such analyses possible. Thanks to your active participation we understand more and more about the effects of COVID-19 on our physiological conditions and how likely and severe long-term effects potentially manifest. We are currently planning to launch a new survey in the App with a specific focus on these topics and we already invite you to stay tuned about its launch.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Changes in vital data after a COVID-19 infection</title>
-      <link>https://corona-datenspende.de/en/reports/prolongedchanges/</link>
+      <link>https://corona-datenspende.github.io/en/reports/prolongedchanges/</link>
       <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/en/reports/prolongedchanges/</guid>
+      <guid>https://corona-datenspende.github.io/en/reports/prolongedchanges/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; Updated on April 11, 2022. See end of this text for details.&lt;/p&gt;
 &lt;p&gt;Datenspende 2.0 is finally here. Since mid-October you can answer short questionnaires in the app to help us to substantially improve our understanding of the donated vital data in relation to COVID-19. More than 12,000 people have already taken part and entrusted us with this information. For this we would like to express a heartfelt thank you right away.&lt;/p&gt;
 &lt;p&gt;For instance, in the &amp;lsquo;Tests, Symptoms &amp;amp; Life Situation&amp;rsquo; questionnaire, we ask donors about the approximate time and result of their first PCR test. A total of &lt;strong&gt;521&lt;/strong&gt; donors reported having a positive test in the past, &lt;strong&gt;5353&lt;/strong&gt; donors submitted a negative result.&lt;/p&gt;
@@ -302,7 +279,7 @@ We would like to thank all donors for their continued support in our efforts to 
                /media/figures/prolonged_changes/number_of_tests_en_huef96b4caa7687a1913e16cbbce7834a9_173170_ab905c6ddd69a746bef7302cf9dbbd8a.webp 400w,
                /media/figures/prolonged_changes/number_of_tests_en_huef96b4caa7687a1913e16cbbce7834a9_173170_08502cda9dc32c52a4ccacf9f1849bc4.webp 760w,
                /media/figures/prolonged_changes/number_of_tests_en_huef96b4caa7687a1913e16cbbce7834a9_173170_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://corona-datenspende.de/media/figures/prolonged_changes/number_of_tests_en_huef96b4caa7687a1913e16cbbce7834a9_173170_ab905c6ddd69a746bef7302cf9dbbd8a.webp&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/prolonged_changes/number_of_tests_en_huef96b4caa7687a1913e16cbbce7834a9_173170_ab905c6ddd69a746bef7302cf9dbbd8a.webp&#34;
                width=&#34;60%&#34;
                height=&#34;456&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -333,7 +310,7 @@ We would like to thank all donors for their continued support in our efforts to 
                /media/figures/prolonged_changes/vitals_65_en_hu8dc088bcc61666e02b89fbe06c1f7477_191228_ca2544cd0fe5887a09e62d4c0c040484.webp 400w,
                /media/figures/prolonged_changes/vitals_65_en_hu8dc088bcc61666e02b89fbe06c1f7477_191228_dadd2c827d8ec594a2be248c507bed23.webp 760w,
                /media/figures/prolonged_changes/vitals_65_en_hu8dc088bcc61666e02b89fbe06c1f7477_191228_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://corona-datenspende.de/media/figures/prolonged_changes/vitals_65_en_hu8dc088bcc61666e02b89fbe06c1f7477_191228_ca2544cd0fe5887a09e62d4c0c040484.webp&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/prolonged_changes/vitals_65_en_hu8dc088bcc61666e02b89fbe06c1f7477_191228_ca2544cd0fe5887a09e62d4c0c040484.webp&#34;
                width=&#34;60%&#34;
                height=&#34;596&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -362,7 +339,7 @@ We would like to thank all donors for their continued support in our efforts to 
                /media/figures/prolonged_changes/vitals_9_en_hu5b1e620858925a7bd47b963a62cda7f7_160470_a81da7380f4d082d0bf76c76d8cd6699.webp 400w,
                /media/figures/prolonged_changes/vitals_9_en_hu5b1e620858925a7bd47b963a62cda7f7_160470_112c030f9f2680521b48ee4cc6cbb488.webp 760w,
                /media/figures/prolonged_changes/vitals_9_en_hu5b1e620858925a7bd47b963a62cda7f7_160470_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://corona-datenspende.de/media/figures/prolonged_changes/vitals_9_en_hu5b1e620858925a7bd47b963a62cda7f7_160470_a81da7380f4d082d0bf76c76d8cd6699.webp&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/prolonged_changes/vitals_9_en_hu5b1e620858925a7bd47b963a62cda7f7_160470_a81da7380f4d082d0bf76c76d8cd6699.webp&#34;
                width=&#34;60%&#34;
                height=&#34;596&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -391,7 +368,7 @@ We would like to thank all donors for their continued support in our efforts to 
                /media/figures/prolonged_changes/vitals_43_en_hu66717a404008907f0c36588951759468_181819_4ff4ff082a9ee6be1436819caa3a8391.webp 400w,
                /media/figures/prolonged_changes/vitals_43_en_hu66717a404008907f0c36588951759468_181819_ec6c5a5b7e3aa0f491fee02d9fd5eb76.webp 760w,
                /media/figures/prolonged_changes/vitals_43_en_hu66717a404008907f0c36588951759468_181819_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://corona-datenspende.de/media/figures/prolonged_changes/vitals_43_en_hu66717a404008907f0c36588951759468_181819_4ff4ff082a9ee6be1436819caa3a8391.webp&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/prolonged_changes/vitals_43_en_hu66717a404008907f0c36588951759468_181819_4ff4ff082a9ee6be1436819caa3a8391.webp&#34;
                width=&#34;60%&#34;
                height=&#34;596&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -400,18 +377,18 @@ We would like to thank all donors for their continued support in our efforts to 
 &lt;p&gt;For all three variables, similar findings have been reported in a comparable &lt;a href=&#34;https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2781687&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;study&lt;/a&gt; of donated vital data in the United States. This shows that our results are by no means an exception, but are instead consistent with the current state of research.&lt;/p&gt;
 &lt;h3 id=&#34;improving-the-fever-algorithm&#34;&gt;Improving the fever algorithm&lt;/h3&gt;
 &lt;p&gt;The donated data suggests that COVID-19 can produce &lt;strong&gt;prolonged changes in physiological and behavioral signals, particularly in the case of resting heart rate&lt;/strong&gt;. Next, we will investigate this phenomenon in more detail and use these new findings to improve and validate our fever detection algorithm. In doing so, we will also take into account effects such as sociodemographics and life circumstances.&lt;/p&gt;
-&lt;p&gt;In one of our &lt;a href=&#34;https://corona-datenspende.de/en/reports/demographie/&#34;&gt;first blogposts&lt;/a&gt; we already discussed that the demographics of our donors are not fully representative of Germany’s general population and particularly senior citizens, one of the major risk groups for COVID-19, may be underrepresented in the data donation project. Thus, our observed effects may be even more pronounced than what we currently obtain from the donated vitaldata. Additional demographic information that we collect in the second questionnaire of the study &amp;lsquo;Tests, Symptoms &amp;amp; Living Situation&amp;rsquo; should therefore help us to extrapolate the effects observed in the vital data more accurately to the whole population in the future .
+&lt;p&gt;In one of our &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/demographie/&#34;&gt;first blogposts&lt;/a&gt; we already discussed that the demographics of our donors are not fully representative of Germany’s general population and particularly senior citizens, one of the major risk groups for COVID-19, may be underrepresented in the data donation project. Thus, our observed effects may be even more pronounced than what we currently obtain from the donated vitaldata. Additional demographic information that we collect in the second questionnaire of the study &amp;lsquo;Tests, Symptoms &amp;amp; Living Situation&amp;rsquo; should therefore help us to extrapolate the effects observed in the vital data more accurately to the whole population in the future .
 We would like to thank all donors for their continued support in our efforts to better understand COVID-19 through providing us with wearables data as well as entrusting us with vital personal information obtained via the questionnaires. We will continue to keep you informed of further progress here and report new insights made possible by the surveyological data as they become available.&lt;/p&gt;
 &lt;h4 id=&#34;correction&#34;&gt;Correction&lt;/h4&gt;
-&lt;p&gt;In an earlier version of the blog post we discussed a maximum change in resting heart rate of up to 3 beats per minute and a return period of up to three months. Likewise, a prolonged sleep duration of 60 minutes was reported. After writing this arcticle, we have improved our calculation to specifically account for seasonal influences, such as altered resting heart rate in winter, and increased activity as well as reduced sleep in summer. To make the results comparable to those in our later &lt;a href=&#34;https://corona-datenspende.de/en/reports/breakthroughinfections/&#34;&gt;blogpost on breakthroughs infections&lt;/a&gt; , we adjusted the figures in this blogpost on April 11, 2022 by using our improved algorithm. More detailed information on these calculations can also be found in one of our &lt;a href=&#34;https://arxiv.org/abs/2204.02846&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pre-prints&lt;/a&gt;. Furthermore, it should be noted that the graphs presented here only take into account data up until October 2021 so that more recent data may cause the shown curves to become different again.&lt;/p&gt;
+&lt;p&gt;In an earlier version of the blog post we discussed a maximum change in resting heart rate of up to 3 beats per minute and a return period of up to three months. Likewise, a prolonged sleep duration of 60 minutes was reported. After writing this arcticle, we have improved our calculation to specifically account for seasonal influences, such as altered resting heart rate in winter, and increased activity as well as reduced sleep in summer. To make the results comparable to those in our later &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/breakthroughinfections/&#34;&gt;blogpost on breakthroughs infections&lt;/a&gt; , we adjusted the figures in this blogpost on April 11, 2022 by using our improved algorithm. More detailed information on these calculations can also be found in one of our &lt;a href=&#34;https://arxiv.org/abs/2204.02846&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pre-prints&lt;/a&gt;. Furthermore, it should be noted that the graphs presented here only take into account data up until October 2021 so that more recent data may cause the shown curves to become different again.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Complementary nowcasts based on our fever curve</title>
-      <link>https://corona-datenspende.de/en/reports/nowcast/</link>
+      <link>https://corona-datenspende.github.io/en/reports/nowcast/</link>
       <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/en/reports/nowcast/</guid>
+      <guid>https://corona-datenspende.github.io/en/reports/nowcast/</guid>
       <description>&lt;p&gt;Dear Donors,&lt;/p&gt;
 &lt;p&gt;For the past year, our fever monitor has compared two distinct signals: The detections of anomalous vital signs and weekly incidences of COVID-19. Both signals have unique advantages and disadvantages when it comes to monitoring current trends of the pandemic:&lt;/p&gt;
 &lt;ol&gt;
@@ -446,9 +423,9 @@ We would like to thank all donors for their continued support in our efforts to 
     
     <item>
       <title>One year of Datenspende data</title>
-      <link>https://corona-datenspende.de/en/reports/oneyearofdata/</link>
+      <link>https://corona-datenspende.github.io/en/reports/oneyearofdata/</link>
       <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/en/reports/oneyearofdata/</guid>
+      <guid>https://corona-datenspende.github.io/en/reports/oneyearofdata/</guid>
       <description>&lt;p&gt;Dear donors,
 When this project started in April 2020, we did not expect hundreds of thousands of people to donate their health data for more than a year - your participation and continued willingness to support this project has exceeded our boldest dreams. To live up to the trust you’ve placed in us, we continue to adapt the project to best serve public health needs throughout the ongoing pandemic by exploring new use cases as they become relevant depending on the current situation. Right now, most of the team is busily working on a new version of the Datenspende app that will allow more direct interaction between the team and you.&lt;/p&gt;
 &lt;p&gt;At the same time, we also want to continue to present our project results in more detail to you. So in this report, we will pay special attention to the fact that we now have over one year of data collected. This is a significant milestone, because it allows us to draw longitudinal conclusions from the data and share those with you. So, today we will compare the data from May 2021 to data from May 2020 and see what insights one can generate from this. Take a look at the figures below.&lt;/p&gt;
@@ -541,9 +518,9 @@ When this project started in April 2020, we did not expect hundreds of thousands
     
     <item>
       <title>Detections compared</title>
-      <link>https://corona-datenspende.de/en/reports/detectionscompared/</link>
+      <link>https://corona-datenspende.github.io/en/reports/detectionscompared/</link>
       <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/en/reports/detectionscompared/</guid>
+      <guid>https://corona-datenspende.github.io/en/reports/detectionscompared/</guid>
       <description>&lt;h3 id=&#34;dear-donors&#34;&gt;Dear donors,&lt;/h3&gt;
 &lt;p&gt;In this report, we will take a closer look at the detections we have observed over the course
 of the last year and compare the fever curve to other existing COVID-19-related public health data.&lt;/p&gt;
@@ -597,7 +574,7 @@ donors are found in western Germany compared to 82% of the actual German populat
 
 &lt;p&gt;For more details on donor demographics, including a comparison of the age and gender distribution
 of the donors to the German population, please see our earlier post here:
-&lt;a href=&#34;https://corona-datenspende.de/en/reports/demographie/&#34;&gt;Donor demographics&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;https://corona-datenspende.github.io/en/reports/demographie/&#34;&gt;Donor demographics&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;comparison-with-other-data-sources&#34;&gt;Comparison with other data sources&lt;/h2&gt;
 &lt;p&gt;Next, we compare the overall weekly detection curve to three data sources:&lt;/p&gt;
 
@@ -633,11 +610,11 @@ estimates from current surveillance measures, which can be delayed by 1 to 3 wee
     
     <item>
       <title>Fighting the weather</title>
-      <link>https://corona-datenspende.de/en/reports/improved-method-2/</link>
+      <link>https://corona-datenspende.github.io/en/reports/improved-method-2/</link>
       <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/en/reports/improved-method-2/</guid>
+      <guid>https://corona-datenspende.github.io/en/reports/improved-method-2/</guid>
       <description>&lt;p&gt;Dear donors,
-since the middle of December, we have seen a significant decrease in the number of confirmed &lt;a href=&#34;https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;COVID-19 cases in Germany&lt;/a&gt; until the end of February. However, until now the &lt;a href=&#34;https://corona-datenspende.de/en/monitor/&#34;&gt;Fever Monitor&lt;/a&gt; has continued to deviate from the case counts starting around the beginning of the new year. In this post, we will try to explain why we think this happened and introduce to you our updated algorithm.&lt;/p&gt;
+since the middle of December, we have seen a significant decrease in the number of confirmed &lt;a href=&#34;https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;COVID-19 cases in Germany&lt;/a&gt; until the end of February. However, until now the &lt;a href=&#34;https://corona-datenspende.github.io/en/monitor/&#34;&gt;Fever Monitor&lt;/a&gt; has continued to deviate from the case counts starting around the beginning of the new year. In this post, we will try to explain why we think this happened and introduce to you our updated algorithm.&lt;/p&gt;
 &lt;h3 id=&#34;what-happened&#34;&gt;What happened?&lt;/h3&gt;
 &lt;p&gt;To recap: The Datenspende fever detection algorithm uses resting heart rate and daily step count data from fitness-tracking devices to identify patterns that are characteristic of fever symptoms. We know that increased resting heart rate in addition to decreased physical activity can be indicative of fever, so our algorithm is designed to establish baseline levels of these metrics for every individual and detect deviations from them. When a person’s resting heart rate is significantly elevated at the same time that their daily step count is significantly decreased relative to a threshold defined by how much their measurements tend to vary, a detection is triggered. The fever monitor represents the overall rate of detections across all users over time.&lt;/p&gt;
 &lt;p&gt;Because fever is one of the core symptoms of COVID-19, the official case counts have been the primary point of reference for our fever detection curves.  However, the goal of the data-donation project algorithm is to provide an estimate of the current fever incidence in the population, not to replicate the COVID-19 case counts. Fever can be caused by other illnesses, such as the flu and respiratory infections. However, the strong, observed deviation can not be explained by other sources of fever alone.&lt;/p&gt;
@@ -665,7 +642,7 @@ since the middle of December, we have seen a significant decrease in the number 
                /media/figures/mean_rhr_en_Mar21_hu721e77093c8f75f81b95e7f34c796b7e_113944_c47cc0a945cd14990013b0ac53bbbb77.webp 400w,
                /media/figures/mean_rhr_en_Mar21_hu721e77093c8f75f81b95e7f34c796b7e_113944_954aca779ab3c2bebe1eaff8e6c307a3.webp 760w,
                /media/figures/mean_rhr_en_Mar21_hu721e77093c8f75f81b95e7f34c796b7e_113944_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://corona-datenspende.de/media/figures/mean_rhr_en_Mar21_hu721e77093c8f75f81b95e7f34c796b7e_113944_c47cc0a945cd14990013b0ac53bbbb77.webp&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/mean_rhr_en_Mar21_hu721e77093c8f75f81b95e7f34c796b7e_113944_c47cc0a945cd14990013b0ac53bbbb77.webp&#34;
                width=&#34;760&#34;
                height=&#34;484&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -694,7 +671,7 @@ since the middle of December, we have seen a significant decrease in the number 
                /media/figures/mean_steps_en_Mar21_huf59cd79b6fda4adf47c057413803138a_119049_5b3e9c8aa584bf0228345f8bcee9b62b.webp 400w,
                /media/figures/mean_steps_en_Mar21_huf59cd79b6fda4adf47c057413803138a_119049_f1f9bf98ad823431eb1a638a18074f84.webp 760w,
                /media/figures/mean_steps_en_Mar21_huf59cd79b6fda4adf47c057413803138a_119049_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://corona-datenspende.de/media/figures/mean_steps_en_Mar21_huf59cd79b6fda4adf47c057413803138a_119049_5b3e9c8aa584bf0228345f8bcee9b62b.webp&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/mean_steps_en_Mar21_huf59cd79b6fda4adf47c057413803138a_119049_5b3e9c8aa584bf0228345f8bcee9b62b.webp&#34;
                width=&#34;760&#34;
                height=&#34;484&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -728,7 +705,7 @@ since the middle of December, we have seen a significant decrease in the number 
                /media/figures/cases_vs_det_old_en_Mar21_hu9c669f7494bd17a90d573a877677ef3d_116325_2777105221dd9fbae65ab3c4ec6bcb64.webp 400w,
                /media/figures/cases_vs_det_old_en_Mar21_hu9c669f7494bd17a90d573a877677ef3d_116325_308560744bd076c06734f2615edf9d12.webp 760w,
                /media/figures/cases_vs_det_old_en_Mar21_hu9c669f7494bd17a90d573a877677ef3d_116325_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://corona-datenspende.de/media/figures/cases_vs_det_old_en_Mar21_hu9c669f7494bd17a90d573a877677ef3d_116325_2777105221dd9fbae65ab3c4ec6bcb64.webp&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/cases_vs_det_old_en_Mar21_hu9c669f7494bd17a90d573a877677ef3d_116325_2777105221dd9fbae65ab3c4ec6bcb64.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -755,7 +732,7 @@ since the middle of December, we have seen a significant decrease in the number 
                /media/figures/cases_vs_det_en_Mar21_hud5cd83b349f0c6debdc91cf6b56acb9d_121520_154a0a8d75570befb186536e321e7bbf.webp 400w,
                /media/figures/cases_vs_det_en_Mar21_hud5cd83b349f0c6debdc91cf6b56acb9d_121520_0693f409070044dd2f105a3a71b798c8.webp 760w,
                /media/figures/cases_vs_det_en_Mar21_hud5cd83b349f0c6debdc91cf6b56acb9d_121520_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://corona-datenspende.de/media/figures/cases_vs_det_en_Mar21_hud5cd83b349f0c6debdc91cf6b56acb9d_121520_154a0a8d75570befb186536e321e7bbf.webp&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/cases_vs_det_en_Mar21_hud5cd83b349f0c6debdc91cf6b56acb9d_121520_154a0a8d75570befb186536e321e7bbf.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -768,13 +745,13 @@ Some of you have noticed we removed the individual curves for the federal states
     
     <item>
       <title>Covid-19 &amp; Fever Detections</title>
-      <link>https://corona-datenspende.de/en/reports/c19detect/</link>
+      <link>https://corona-datenspende.github.io/en/reports/c19detect/</link>
       <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/en/reports/c19detect/</guid>
-      <description>&lt;p&gt;The &lt;strong&gt;Corona Data Donation Project&lt;/strong&gt; is designed to detect &lt;em&gt;&lt;strong&gt;fever symptoms&lt;/strong&gt;&lt;/em&gt; in the time-series of the donors&amp;rsquo; daily resting heart rate and daily step count signals. See blog post &lt;a href=&#34;https://corona-datenspende.de/en/reports/how/&#34;&gt;&amp;ldquo;How does it work?&amp;rdquo;&lt;/a&gt; for the mechanics of how the whole thing works and the basic idea behind it, or check out some of &lt;a href=&#34;https://corona-datenspende.de/en/reports/fevercurve/&#34;&gt;the preliminary results&lt;/a&gt; we obtained in the past.&lt;/p&gt;
+      <guid>https://corona-datenspende.github.io/en/reports/c19detect/</guid>
+      <description>&lt;p&gt;The &lt;strong&gt;Corona Data Donation Project&lt;/strong&gt; is designed to detect &lt;em&gt;&lt;strong&gt;fever symptoms&lt;/strong&gt;&lt;/em&gt; in the time-series of the donors&amp;rsquo; daily resting heart rate and daily step count signals. See blog post &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/how/&#34;&gt;&amp;ldquo;How does it work?&amp;rdquo;&lt;/a&gt; for the mechanics of how the whole thing works and the basic idea behind it, or check out some of &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/fevercurve/&#34;&gt;the preliminary results&lt;/a&gt; we obtained in the past.&lt;/p&gt;
 &lt;p&gt;In the context of the current &lt;strong&gt;covid-19-pandemic&lt;/strong&gt; this is important because fever can be one of the symptoms of covid-19. So, if we detect an increase in the proportion of donors with potential fever symptoms this might be an indicator that covid-19 infections are on the rise as well.&lt;/p&gt;
 &lt;h2 id=&#34;but-does-it-work&#34;&gt;But does it work?&lt;/h2&gt;
-&lt;p&gt;One way to check this is comparing the time course of the new &lt;a href=&#34;https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;daily confirmed covid-19 cases in Germany&lt;/a&gt; with the &lt;a href=&#34;https://corona-datenspende.de/en/monitor/&#34;&gt;estimated cases of fever in the community of donors&lt;/a&gt; that we detect and compute with our algorithms. If both curves have similar shapes as a function of time, if they follow similar &amp;ldquo;ups&amp;rdquo; and &amp;ldquo;downs&amp;rdquo;, it is an indication that it works. The figure below illustrates the comparison:&lt;/p&gt;
+&lt;p&gt;One way to check this is comparing the time course of the new &lt;a href=&#34;https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;daily confirmed covid-19 cases in Germany&lt;/a&gt; with the &lt;a href=&#34;https://corona-datenspende.github.io/en/monitor/&#34;&gt;estimated cases of fever in the community of donors&lt;/a&gt; that we detect and compute with our algorithms. If both curves have similar shapes as a function of time, if they follow similar &amp;ldquo;ups&amp;rdquo; and &amp;ldquo;downs&amp;rdquo;, it is an indication that it works. The figure below illustrates the comparison:&lt;/p&gt;
 &lt;section class=&#34;center mw10 mw10-ns&#34;&gt;
  &lt;figure&gt;
  	&lt;div&gt;
@@ -874,12 +851,12 @@ Some of you have noticed we removed the individual curves for the federal states
     
     <item>
       <title>The Fever Monitor</title>
-      <link>https://corona-datenspende.de/en/reports/monitor/</link>
+      <link>https://corona-datenspende.github.io/en/reports/monitor/</link>
       <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/en/reports/monitor/</guid>
+      <guid>https://corona-datenspende.github.io/en/reports/monitor/</guid>
       <description>&lt;h2 id=&#34;what-is-the-fever-monitor&#34;&gt;What is the fever monitor?&lt;/h2&gt;
-&lt;p&gt;As of today, the &lt;strong&gt;Corona Data Donation Project&lt;/strong&gt; features the &lt;a href=&#34;https://corona-datenspende.de/en/monitor/&#34;&gt;Fever Monitor&lt;/a&gt; (&lt;strong&gt;see menu &amp;lsquo;Tools&amp;rsquo; in the top navigation bar&lt;/strong&gt;).&lt;/p&gt;
-&lt;p&gt;The monitor depicts the time course of the fever detections that we obtain from the raw resting heart rate and step count data the donors provide. Similar results were already discussed in the posts &lt;a href=&#34;https://corona-datenspende.de/en/reports/fevercurve/&#34;&gt;Feverish&lt;/a&gt; and &lt;a href=&#34;https://corona-datenspende.de/en/reports/fevercurvestates/&#34;&gt;Fever curves by federal state&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;As of today, the &lt;strong&gt;Corona Data Donation Project&lt;/strong&gt; features the &lt;a href=&#34;https://corona-datenspende.github.io/en/monitor/&#34;&gt;Fever Monitor&lt;/a&gt; (&lt;strong&gt;see menu &amp;lsquo;Tools&amp;rsquo; in the top navigation bar&lt;/strong&gt;).&lt;/p&gt;
+&lt;p&gt;The monitor depicts the time course of the fever detections that we obtain from the raw resting heart rate and step count data the donors provide. Similar results were already discussed in the posts &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/fevercurve/&#34;&gt;Feverish&lt;/a&gt; and &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/fevercurvestates/&#34;&gt;Fever curves by federal state&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;so-whats-new---automation&#34;&gt;So what&amp;rsquo;s new? - Automation!&lt;/h2&gt;
 &lt;p&gt;The Monitor represents the last piece in an automation sequence. Hidden behind the monitor are a number of complex steps in a process chain that begins with the raw data the donors provide and ends with the visualization of the detection curves. Steps of this analysis are the aggregation of data, filtering of time-series with too many gaps or faulty data, identification and processing of viable time-series which are then piped into the analysis algorithms that finally produce the results which are then sorted and manicured for the visualization you see.&lt;/p&gt;
 &lt;p&gt;This entire process is now done automatically and repeated every day, such that the &lt;strong&gt;Monitor&lt;/strong&gt; will always display the latest results.&lt;/p&gt;
@@ -888,10 +865,10 @@ Some of you have noticed we removed the individual curves for the federal states
     
     <item>
       <title>Fever curves by federal state</title>
-      <link>https://corona-datenspende.de/en/reports/fevercurvestates/</link>
+      <link>https://corona-datenspende.github.io/en/reports/fevercurvestates/</link>
       <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/en/reports/fevercurvestates/</guid>
-      <description>&lt;p&gt;In the last post &lt;a href=&#34;https://corona-datenspende.de/en/reports/fevercurve/&#34;&gt;Feverish&lt;/a&gt; we presented the first national &amp;ldquo;fever curve&amp;rdquo; based on and computed from the donors&amp;rsquo; data. In this post, we not only want to give you an &lt;strong&gt;update on the national fever curve&lt;/strong&gt;, but also want to show the results we obtained for the &lt;strong&gt;individual federal states in Germany&lt;/strong&gt;.&lt;/p&gt;
+      <guid>https://corona-datenspende.github.io/en/reports/fevercurvestates/</guid>
+      <description>&lt;p&gt;In the last post &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/fevercurve/&#34;&gt;Feverish&lt;/a&gt; we presented the first national &amp;ldquo;fever curve&amp;rdquo; based on and computed from the donors&amp;rsquo; data. In this post, we not only want to give you an &lt;strong&gt;update on the national fever curve&lt;/strong&gt;, but also want to show the results we obtained for the &lt;strong&gt;individual federal states in Germany&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Recall:&lt;/strong&gt; In this project, we evaluate the time series of daily averages of resting heart rate and daily step counts of individual donors. When, if compared to individual baseline values in both quantities, the resting heartrate increases and remains elevated for a few days while simultaneously the step count drops and remains low for the same number of days, that anomaly is an indication that a person is sick and has developed a fever. Here&amp;rsquo;s a figure from the last post that illustrates a typical candidate for a positive detection:&lt;/p&gt;
 &lt;section class=&#34;center mw10 mw10-ns&#34;&gt;
  &lt;figure&gt;
@@ -923,7 +900,7 @@ Some of you have noticed we removed the individual curves for the federal states
 
 &lt;p&gt;The deviations from individual baselines are computed for all donors with sufficiently long data streams and are automatically identified with the detection algorithms we developed.&lt;/p&gt;
 &lt;h3 id=&#34;update-fever-curve-for-germany&#34;&gt;Update: Fever curve for Germany&lt;/h3&gt;
-&lt;p&gt;The following figure depicts the fever curve for Germany as measured by our detection algorithms. The way detection works is explained in detail in the post &lt;a href=&#34;https://corona-datenspende.de/en/reports/fevercurve/&#34;&gt;Feverish&lt;/a&gt;. Currently we are using two different detection algorithms (labeled A and B) that are based on two different measures of statistical deviations from the baseline central tendancy. Both algorithms produce functionally similar curves.&lt;/p&gt;
+&lt;p&gt;The following figure depicts the fever curve for Germany as measured by our detection algorithms. The way detection works is explained in detail in the post &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/fevercurve/&#34;&gt;Feverish&lt;/a&gt;. Currently we are using two different detection algorithms (labeled A and B) that are based on two different measures of statistical deviations from the baseline central tendancy. Both algorithms produce functionally similar curves.&lt;/p&gt;
 &lt;section class=&#34;center mw10 mw10-ns&#34;&gt;
  &lt;figure&gt;
  	&lt;div&gt;
@@ -953,7 +930,7 @@ Some of you have noticed we removed the individual curves for the federal states
 &lt;/section&gt;
 
 &lt;p&gt;In the time period from May 26th - Aug. 3rd, 2020 we measured the detection rate, so the fraction of detections with respect to the analyzed donor cohort. The detection rate is typically in the range of 0.01-0.06 so between 1% - 6% are &amp;ldquo;diagnosed&amp;rdquo; with fever. We see two different important qualitative features in the curves. First, we see clear temporal modulations in the curves with a typical period of around 2 weeks. We were able to find out that these modulations correlate with variations in outside temperature that exhibit approximately the same periodicity. We will discuss this topic in one of the next blog posts.&lt;/p&gt;
-&lt;p&gt;More important, however, are the trend lines. In the trends that ignore the short time variations, we see a systematic increase in fever detections in July. Or course, we cannot conclude from this that this increase is caused by COVID-19 cases. Because we &amp;ldquo;only&amp;rdquo; measure fever symptoms and not COVID-19 symptoms directly, the observed trend can also be caused by other infections of diseases that yield fever symptoms. This is why it is important to compare the measured curves to results obtained by other surveillance systems. This is explained in detail in the previous blog post &lt;a href=&#34;https://corona-datenspende.de/en/reports/fevercurve/&#34;&gt;Feverish&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More important, however, are the trend lines. In the trends that ignore the short time variations, we see a systematic increase in fever detections in July. Or course, we cannot conclude from this that this increase is caused by COVID-19 cases. Because we &amp;ldquo;only&amp;rdquo; measure fever symptoms and not COVID-19 symptoms directly, the observed trend can also be caused by other infections of diseases that yield fever symptoms. This is why it is important to compare the measured curves to results obtained by other surveillance systems. This is explained in detail in the previous blog post &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/fevercurve/&#34;&gt;Feverish&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;fever-curves-of-federal-states-in-germany&#34;&gt;Fever curves of federal states in Germany&lt;/h3&gt;
 &lt;p&gt;By now we can compute the fever curves for the 16 federal states in Germany individually. Our goal is to fine-tune the geographic resolution and compute fever curves on a county and city level. At the moment, however, we do not see a sufficiently large number of detections on a county level.&lt;/p&gt;
 &lt;p&gt;The next figure depicts the fever curves for individual federal states.&lt;/p&gt;
@@ -1023,9 +1000,9 @@ This figure depicts the fever curve of individual states by color. The national 
     
     <item>
       <title>Great weather quickens the heart</title>
-      <link>https://corona-datenspende.de/en/reports/weather/</link>
+      <link>https://corona-datenspende.github.io/en/reports/weather/</link>
       <pubDate>Tue, 07 Jul 2020 08:40:00 +0200</pubDate>
-      <guid>https://corona-datenspende.de/en/reports/weather/</guid>
+      <guid>https://corona-datenspende.github.io/en/reports/weather/</guid>
       <description>&lt;p&gt;Many things have changed in the last few months; the number of active Covid-19 cases and local Corona-regulation, but also everyday things like the weather. Many of these things can influence the vital data of our donors; for example, lifted lockdowns, bank holidays and good weather &lt;em&gt;may&lt;/em&gt; lead to more sport activity and could &lt;em&gt;potentially&lt;/em&gt; lead to a high resting heart rate.&lt;/p&gt;
 &lt;p&gt;One of the big challanges of this project is the identification and correct handling of those numerous other factors.&lt;/p&gt;
 &lt;p&gt;A good example of a factor that might influence vital data is weather.&lt;/p&gt;
@@ -1129,10 +1106,10 @@ Also heating and wRM clothes might compensate most of the effect of low temperat
     
     <item>
       <title>The Pulse of the Nation</title>
-      <link>https://corona-datenspende.de/en/reports/pulse/</link>
+      <link>https://corona-datenspende.github.io/en/reports/pulse/</link>
       <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/en/reports/pulse/</guid>
-      <description>&lt;p&gt;The most important vital signal in our analysis is the &lt;strong&gt;resting heart rate&lt;/strong&gt;. Since an increased heart rate could be a possible indicator for fever, which alone is a core symptom of COVID-19, the resting heart rate marks the basis for this study. More on this topic can be found &lt;a href=&#34;https://corona-datenspende.de/en/reports/how/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+      <guid>https://corona-datenspende.github.io/en/reports/pulse/</guid>
+      <description>&lt;p&gt;The most important vital signal in our analysis is the &lt;strong&gt;resting heart rate&lt;/strong&gt;. Since an increased heart rate could be a possible indicator for fever, which alone is a core symptom of COVID-19, the resting heart rate marks the basis for this study. More on this topic can be found &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/how/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Each day, every connected device delivers information about a donor&amp;rsquo;s resting heart rate. By collecting this information for a number of days, we can establish a baseline resting heart rate for each donor. Because these values vary under normal conditions, we calculate this reference baseline on an individual-basis. This way, as we receive more and more data, we will be able to detect sytematic deviations from a normal resting heart rate that is unique to each person.&lt;/p&gt;
 &lt;h3 id=&#34;the-distribution-of-the-average-resting-heart-rate&#34;&gt;The distribution of the average resting heart rate&lt;/h3&gt;
 &lt;p&gt;Because resting heart rate is our reference point, we need to better understand how this value varies amongst our donors. In short, what is &amp;ldquo;normal&amp;rdquo;?&lt;/p&gt;

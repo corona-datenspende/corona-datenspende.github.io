@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Benjamin F. Maier | Corona Data Donation Project | News &amp; Analyses</title>
-    <link>https://corona-datenspende.de/en/authors/benjamin-maier/</link>
-      <atom:link href="https://corona-datenspende.de/en/authors/benjamin-maier/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://corona-datenspende.github.io/en/authors/benjamin-maier/</link>
+      <atom:link href="https://corona-datenspende.github.io/en/authors/benjamin-maier/index.xml" rel="self" type="application/rss+xml" />
     <description>Benjamin F. Maier</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 06 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://corona-datenspende.de/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
+      <url>https://corona-datenspende.github.io/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
       <title>Benjamin F. Maier</title>
-      <link>https://corona-datenspende.de/en/authors/benjamin-maier/</link>
+      <link>https://corona-datenspende.github.io/en/authors/benjamin-maier/</link>
     </image>
     
     <item>
-      <title>Evidence for positive long- and short-term effects of vaccinations against COVID-19 in wearable sensor metrics: Insights from the German Corona Data Donation Project</title>
-      <link>https://corona-datenspende.de/en/publication/wiedermann_etal_2022/</link>
-      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/en/publication/wiedermann_etal_2022/</guid>
+      <title>Evidence for positive long- and short-term effects of vaccinations against COVID-19 in wearable sensor metrics</title>
+      <link>https://corona-datenspende.github.io/en/publication/wiedermann_etal_2023/</link>
+      <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://corona-datenspende.github.io/en/publication/wiedermann_etal_2023/</guid>
       <description></description>
     </item>
     

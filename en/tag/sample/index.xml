@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sample | Corona Data Donation Project | News &amp; Analyses</title>
-    <link>https://corona-datenspende.de/en/tag/sample/</link>
-      <atom:link href="https://corona-datenspende.de/en/tag/sample/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://corona-datenspende.github.io/en/tag/sample/</link>
+      <atom:link href="https://corona-datenspende.github.io/en/tag/sample/index.xml" rel="self" type="application/rss+xml" />
     <description>Sample</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 21 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://corona-datenspende.de/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
+      <url>https://corona-datenspende.github.io/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
       <title>Sample</title>
-      <link>https://corona-datenspende.de/en/tag/sample/</link>
+      <link>https://corona-datenspende.github.io/en/tag/sample/</link>
     </image>
     
     <item>
       <title>Comparison of data donors in the substudy on &#39;Tests, symptoms and living situation&#39; with other reference studies</title>
-      <link>https://corona-datenspende.de/en/reports/benchmark/</link>
+      <link>https://corona-datenspende.github.io/en/reports/benchmark/</link>
       <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/en/reports/benchmark/</guid>
+      <guid>https://corona-datenspende.github.io/en/reports/benchmark/</guid>
       <description>&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
 &lt;p&gt;In this blog post, we will give you further insight into the socio-demographic characteristics and the health situation of the data donors in the sub-study &amp;ldquo;Tests, Symptoms and Living Situation&amp;rdquo; (hereafter referred to as &amp;ldquo;sub-study&amp;rdquo;).
 This time we compare the educational level, the subjectively assessed health status and the utilization of general medical services of the participants in the sub-study with reference data.

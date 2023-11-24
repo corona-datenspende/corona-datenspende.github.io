@@ -2,21 +2,76 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fever Monitor | Corona Data Donation Project | News &amp; Analyses</title>
-    <link>https://corona-datenspende.de/en/category/fever-monitor/</link>
-      <atom:link href="https://corona-datenspende.de/en/category/fever-monitor/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://corona-datenspende.github.io/en/category/fever-monitor/</link>
+      <atom:link href="https://corona-datenspende.github.io/en/category/fever-monitor/index.xml" rel="self" type="application/rss+xml" />
     <description>Fever Monitor</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://corona-datenspende.de/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
+      <url>https://corona-datenspende.github.io/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
       <title>Fever Monitor</title>
-      <link>https://corona-datenspende.de/en/category/fever-monitor/</link>
+      <link>https://corona-datenspende.github.io/en/category/fever-monitor/</link>
     </image>
     
     <item>
+      <title>Our data donation roadmap for 2023</title>
+      <link>https://corona-datenspende.github.io/en/reports/kickoff-2023/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://corona-datenspende.github.io/en/reports/kickoff-2023/</guid>
+      <description>&lt;p&gt;Dear data donors,&lt;/p&gt;
+&lt;p&gt;You are part of what is one of the world&amp;rsquo;s largest citizen science projects in public health research. Over 540,000 people from across Germany have participated since April 2020, for more than 120,000 individuals we were able to gather comprehensive &lt;a href=&#34;https://corona-datenspende.github.io/en/vitaldata-tool/&#34;&gt;records of resting pulse, daily activity, and sleep duration&lt;/a&gt; over a span of 2.5 years. Using specialized algorithms, our &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/monitor/&#34;&gt;Fever Monitor and Nowcast&lt;/a&gt; have processed up to 120 million physiological and behavioral data points each day to detect anomalous movement and pulse patterns in the population and provide insights into real-time tracking the spread of possible infections with SARS-CoV-2. This data set, together with psychosocial data obtained from questionnaires, is well-suited to address a wide-variety of questions regarding the COVID-19 pandemic. For us to be able to make the most of this unique data set, we &lt;a href=&#34;https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Corona-Datenspende-allgemein.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;suspended&lt;/a&gt; active data collection as of December 31, 2022 in order to focus our efforts on diving deeper in our analyses. Your contributions have made this project a landmark milestone in bridging the gap between science and society, and we would like to thank you for that. As this stage of the project comes to a close, our team now shifts focus onto quantitatively evaluating the fever algorithm and comprehensively investigating the long-term consequences of the pandemic.&lt;/p&gt;
+&lt;h3 id=&#34;time-for-a-general-inspection&#34;&gt;Time for a general inspection&lt;/h3&gt;
+&lt;p&gt;Recent advancements in research technology, of which wearable-based monitoring your vital signs is one, usher a new age of digital health in biomedical research. These developments give rise to rapid changes, not only in the tools and approaches available to researchers, but also in the ways in which research is conducted. However, left unchecked, this rapid rate of scientific progress can lead to problems in reproducibility and validity. As such, after more than two years of active field operation, we are now subjecting our fever algorithm to a comprehensive evaluation assessing its validity as a real-time monitoring system for disease detection. To this end, we will be discussing methods and results of our work with the scientific community, taking into account the findings and frameworks of similar efforts such as &lt;a href=&#34;https://detect.scripps.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;findings from abroad&lt;/a&gt;. This enables us to evaluate the potential of our fever algorithm to be used as a sensor-based monitoring tool in future pandemics.&lt;/p&gt;
+&lt;figure id=fever_curve&gt;
+	&lt;div id=&#34;fever_curve-display&#34; class=&#34;panel-display&#34;&gt;
+	&lt;/div&gt;
+	
+ 	&lt;figcaption&gt;
+ 		&lt;div class=&#34;pa4 tl f3 lh-copy&#34;&gt;&lt;strong&gt;Fig. 1&lt;/strong&gt;: Up-to-date version of the fever algorithm. If a person&amp;rsquo;s resting heart rate and step count deviate significantly from their baseline measurements and run counter to each other (&lt;a href=&#34;%28https://corona-datenspende.github.io/en/reports/fevercurve/%29&#34;&gt;&amp;ldquo;fever bump&amp;rdquo;&lt;/a&gt;), the algorithm signals a potential infection.&lt;/div&gt;	
+ 	&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;keeping-an-eye-on-the-pandemics-long-term-consequences&#34;&gt;Keeping an eye on the pandemic’s long-term consequences&lt;/h3&gt;
+&lt;p&gt;The other major focus in the coming months is the analysis of the &amp;ldquo;Long COVID and Pandemic Consequences&amp;rdquo; study launched in April 2022. We seek to gain a better understanding of the dynamics of changes in vital signs following infection with SARS-CoV-2, including the nature and magnitude of observed changes, time it takes to return to pre-disease baseline levels, what factors or circumstances might delay in this normalization, and potential consequences thereof. Initial analyses have already been presented to you in one of our &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/breakthroughinfections/&#34;&gt;past blogposts&lt;/a&gt;. In addition,, we will investigate questionnaire data in relation to vital signs. For example, is it possible to identify physiological correlates of self-reported quality of life by analyzing patterns in resting heart rate, activity, and sleep.&lt;/p&gt;
+&lt;p&gt;  &lt;!-- insert blank line before figure --&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig-2-in-donors-with-confirmed-covid-19-infection-it-takes-about-2-3-months-for-the-resting-pulse-to-return-to-normal-in-2023-we-plan-to-investigate-this-finding-in-more-detail-especially-with-regard-to-the-reported-health-related-quality-of-life&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;a href=&#34;https://corona-datenspende.github.io/reports/prolongedchanges&#34; &gt;&lt;img alt=&#34;**Fig. 2**: In donors with confirmed COVID-19 infection, it takes about 2-3 months for the resting pulse to return to normal. In 2023, we plan to investigate this finding in more detail, especially with regard to the reported health-related quality of life.&#34; srcset=&#34;
+               /media/figures/prolonged_changes/vitals_65_de_hu8dc088bcc61666e02b89fbe06c1f7477_189544_a0fbaf479250ed2311e0dab904b25bf1.webp 400w,
+               /media/figures/prolonged_changes/vitals_65_de_hu8dc088bcc61666e02b89fbe06c1f7477_189544_e7699b40f580c462667c91a6ebd90c9c.webp 760w,
+               /media/figures/prolonged_changes/vitals_65_de_hu8dc088bcc61666e02b89fbe06c1f7477_189544_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/prolonged_changes/vitals_65_de_hu8dc088bcc61666e02b89fbe06c1f7477_189544_a0fbaf479250ed2311e0dab904b25bf1.webp&#34;
+               width=&#34;60%&#34;
+               height=&#34;596&#34;
+               loading=&#34;lazy&#34; /&gt;&lt;/a&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;strong&gt;Fig. 2&lt;/strong&gt;: In donors with confirmed COVID-19 infection, it takes about 2-3 months for the resting pulse to return to normal. In 2023, we plan to investigate this finding in more detail, especially with regard to the reported health-related quality of life.
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;h3 id=&#34;read-the-latest-news-on-the-blog&#34;&gt;Read the latest news on the blog&lt;/h3&gt;
+&lt;p&gt;In 2023, the scientific work will continue unchanged even without further data collection. On the one hand, we will strenghten collaborations with various research groups to further develop our methodology; on the other hand, we continue to engage in better understanding vital parameters and different long-term consequences of the pandemic. To that end, we will remain active on this blog and familiar channels. We are looking forward to share our research progress with you!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Complementary nowcasts based on our fever curve</title>
-      <link>https://corona-datenspende.de/en/reports/nowcast/</link>
+      <link>https://corona-datenspende.github.io/en/reports/nowcast/</link>
       <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/en/reports/nowcast/</guid>
+      <guid>https://corona-datenspende.github.io/en/reports/nowcast/</guid>
       <description>&lt;p&gt;Dear Donors,&lt;/p&gt;
 &lt;p&gt;For the past year, our fever monitor has compared two distinct signals: The detections of anomalous vital signs and weekly incidences of COVID-19. Both signals have unique advantages and disadvantages when it comes to monitoring current trends of the pandemic:&lt;/p&gt;
 &lt;ol&gt;
@@ -51,9 +106,9 @@
     
     <item>
       <title>Detections compared</title>
-      <link>https://corona-datenspende.de/en/reports/detectionscompared/</link>
+      <link>https://corona-datenspende.github.io/en/reports/detectionscompared/</link>
       <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/en/reports/detectionscompared/</guid>
+      <guid>https://corona-datenspende.github.io/en/reports/detectionscompared/</guid>
       <description>&lt;h3 id=&#34;dear-donors&#34;&gt;Dear donors,&lt;/h3&gt;
 &lt;p&gt;In this report, we will take a closer look at the detections we have observed over the course
 of the last year and compare the fever curve to other existing COVID-19-related public health data.&lt;/p&gt;
@@ -107,7 +162,7 @@ donors are found in western Germany compared to 82% of the actual German populat
 
 &lt;p&gt;For more details on donor demographics, including a comparison of the age and gender distribution
 of the donors to the German population, please see our earlier post here:
-&lt;a href=&#34;https://corona-datenspende.de/en/reports/demographie/&#34;&gt;Donor demographics&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;https://corona-datenspende.github.io/en/reports/demographie/&#34;&gt;Donor demographics&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;comparison-with-other-data-sources&#34;&gt;Comparison with other data sources&lt;/h2&gt;
 &lt;p&gt;Next, we compare the overall weekly detection curve to three data sources:&lt;/p&gt;
 
@@ -143,11 +198,11 @@ estimates from current surveillance measures, which can be delayed by 1 to 3 wee
     
     <item>
       <title>Fighting the weather</title>
-      <link>https://corona-datenspende.de/en/reports/improved-method-2/</link>
+      <link>https://corona-datenspende.github.io/en/reports/improved-method-2/</link>
       <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/en/reports/improved-method-2/</guid>
+      <guid>https://corona-datenspende.github.io/en/reports/improved-method-2/</guid>
       <description>&lt;p&gt;Dear donors,
-since the middle of December, we have seen a significant decrease in the number of confirmed &lt;a href=&#34;https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;COVID-19 cases in Germany&lt;/a&gt; until the end of February. However, until now the &lt;a href=&#34;https://corona-datenspende.de/en/monitor/&#34;&gt;Fever Monitor&lt;/a&gt; has continued to deviate from the case counts starting around the beginning of the new year. In this post, we will try to explain why we think this happened and introduce to you our updated algorithm.&lt;/p&gt;
+since the middle of December, we have seen a significant decrease in the number of confirmed &lt;a href=&#34;https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;COVID-19 cases in Germany&lt;/a&gt; until the end of February. However, until now the &lt;a href=&#34;https://corona-datenspende.github.io/en/monitor/&#34;&gt;Fever Monitor&lt;/a&gt; has continued to deviate from the case counts starting around the beginning of the new year. In this post, we will try to explain why we think this happened and introduce to you our updated algorithm.&lt;/p&gt;
 &lt;h3 id=&#34;what-happened&#34;&gt;What happened?&lt;/h3&gt;
 &lt;p&gt;To recap: The Datenspende fever detection algorithm uses resting heart rate and daily step count data from fitness-tracking devices to identify patterns that are characteristic of fever symptoms. We know that increased resting heart rate in addition to decreased physical activity can be indicative of fever, so our algorithm is designed to establish baseline levels of these metrics for every individual and detect deviations from them. When a person’s resting heart rate is significantly elevated at the same time that their daily step count is significantly decreased relative to a threshold defined by how much their measurements tend to vary, a detection is triggered. The fever monitor represents the overall rate of detections across all users over time.&lt;/p&gt;
 &lt;p&gt;Because fever is one of the core symptoms of COVID-19, the official case counts have been the primary point of reference for our fever detection curves.  However, the goal of the data-donation project algorithm is to provide an estimate of the current fever incidence in the population, not to replicate the COVID-19 case counts. Fever can be caused by other illnesses, such as the flu and respiratory infections. However, the strong, observed deviation can not be explained by other sources of fever alone.&lt;/p&gt;
@@ -175,7 +230,7 @@ since the middle of December, we have seen a significant decrease in the number 
                /media/figures/mean_rhr_en_Mar21_hu721e77093c8f75f81b95e7f34c796b7e_113944_c47cc0a945cd14990013b0ac53bbbb77.webp 400w,
                /media/figures/mean_rhr_en_Mar21_hu721e77093c8f75f81b95e7f34c796b7e_113944_954aca779ab3c2bebe1eaff8e6c307a3.webp 760w,
                /media/figures/mean_rhr_en_Mar21_hu721e77093c8f75f81b95e7f34c796b7e_113944_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://corona-datenspende.de/media/figures/mean_rhr_en_Mar21_hu721e77093c8f75f81b95e7f34c796b7e_113944_c47cc0a945cd14990013b0ac53bbbb77.webp&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/mean_rhr_en_Mar21_hu721e77093c8f75f81b95e7f34c796b7e_113944_c47cc0a945cd14990013b0ac53bbbb77.webp&#34;
                width=&#34;760&#34;
                height=&#34;484&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -204,7 +259,7 @@ since the middle of December, we have seen a significant decrease in the number 
                /media/figures/mean_steps_en_Mar21_huf59cd79b6fda4adf47c057413803138a_119049_5b3e9c8aa584bf0228345f8bcee9b62b.webp 400w,
                /media/figures/mean_steps_en_Mar21_huf59cd79b6fda4adf47c057413803138a_119049_f1f9bf98ad823431eb1a638a18074f84.webp 760w,
                /media/figures/mean_steps_en_Mar21_huf59cd79b6fda4adf47c057413803138a_119049_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://corona-datenspende.de/media/figures/mean_steps_en_Mar21_huf59cd79b6fda4adf47c057413803138a_119049_5b3e9c8aa584bf0228345f8bcee9b62b.webp&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/mean_steps_en_Mar21_huf59cd79b6fda4adf47c057413803138a_119049_5b3e9c8aa584bf0228345f8bcee9b62b.webp&#34;
                width=&#34;760&#34;
                height=&#34;484&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -238,7 +293,7 @@ since the middle of December, we have seen a significant decrease in the number 
                /media/figures/cases_vs_det_old_en_Mar21_hu9c669f7494bd17a90d573a877677ef3d_116325_2777105221dd9fbae65ab3c4ec6bcb64.webp 400w,
                /media/figures/cases_vs_det_old_en_Mar21_hu9c669f7494bd17a90d573a877677ef3d_116325_308560744bd076c06734f2615edf9d12.webp 760w,
                /media/figures/cases_vs_det_old_en_Mar21_hu9c669f7494bd17a90d573a877677ef3d_116325_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://corona-datenspende.de/media/figures/cases_vs_det_old_en_Mar21_hu9c669f7494bd17a90d573a877677ef3d_116325_2777105221dd9fbae65ab3c4ec6bcb64.webp&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/cases_vs_det_old_en_Mar21_hu9c669f7494bd17a90d573a877677ef3d_116325_2777105221dd9fbae65ab3c4ec6bcb64.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -265,7 +320,7 @@ since the middle of December, we have seen a significant decrease in the number 
                /media/figures/cases_vs_det_en_Mar21_hud5cd83b349f0c6debdc91cf6b56acb9d_121520_154a0a8d75570befb186536e321e7bbf.webp 400w,
                /media/figures/cases_vs_det_en_Mar21_hud5cd83b349f0c6debdc91cf6b56acb9d_121520_0693f409070044dd2f105a3a71b798c8.webp 760w,
                /media/figures/cases_vs_det_en_Mar21_hud5cd83b349f0c6debdc91cf6b56acb9d_121520_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://corona-datenspende.de/media/figures/cases_vs_det_en_Mar21_hud5cd83b349f0c6debdc91cf6b56acb9d_121520_154a0a8d75570befb186536e321e7bbf.webp&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/cases_vs_det_en_Mar21_hud5cd83b349f0c6debdc91cf6b56acb9d_121520_154a0a8d75570befb186536e321e7bbf.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -278,10 +333,10 @@ Some of you have noticed we removed the individual curves for the federal states
     
     <item>
       <title>Feverish reloaded</title>
-      <link>https://corona-datenspende.de/en/reports/improved-method/</link>
+      <link>https://corona-datenspende.github.io/en/reports/improved-method/</link>
       <pubDate>Sat, 17 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/en/reports/improved-method/</guid>
-      <description>&lt;p&gt;During the past few weeks we have been updating our &lt;a href=&#34;https://corona-datenspende.de/en/monitor/&#34;&gt;Fever Monitor&lt;/a&gt; on a daily basis, based on the heart rate and activity data measured by the wearable devices and smart watches of more than 520.000 donors.&lt;/p&gt;
+      <guid>https://corona-datenspende.github.io/en/reports/improved-method/</guid>
+      <description>&lt;p&gt;During the past few weeks we have been updating our &lt;a href=&#34;https://corona-datenspende.github.io/en/monitor/&#34;&gt;Fever Monitor&lt;/a&gt; on a daily basis, based on the heart rate and activity data measured by the wearable devices and smart watches of more than 520.000 donors.&lt;/p&gt;
 &lt;p&gt;Some of you may have noticed that the fever curve changed significantly a few days ago. Noteably, the curves now appear smoother, without the charactistic up-and-down modulations that were previously seen on a weekly or bi-weekly basis. The reason behind this change is that we are now using an improved version of our fever detection algorithm for the Monitor.&lt;/p&gt;
 &lt;p&gt;During the past weeks, we have been working hard to refine the detection algorithm. One of our key goals was to account for the impact that weather and temperature have on heart rate and activity, and subsequently the performance of the algorithm, by removing the influence of seasonal variations.&lt;/p&gt;
 &lt;p&gt;Because the COVID-19 case counts in Germany follow the improved fever detections substantially better, we would like to take the opportunity to
@@ -304,7 +359,7 @@ share in what ways we improved the algorithm.&lt;/p&gt;
 &lt;h3 id=&#34;what-did-we-change&#34;&gt;What did we change?&lt;/h3&gt;
 &lt;p&gt;During the past months, we have been working continuously on improving our methods. We always check the performance of these methods by comparing to different data sources and applying a variety of quality checks. For example, we use the RKI data on influenza like illnesses as a benchmark in addition to COVID-19 related data, such as the case counts, positive test rates and other measures.&lt;/p&gt;
 &lt;h4 id=&#34;seasonal-effects&#34;&gt;Seasonal effects&lt;/h4&gt;
-&lt;p&gt;We previously discussed the impact of weather on heart rate in the Blog Post &lt;a href=&#34;https://corona-datenspende.de/en/reports/weather/&#34;&gt;Great weather quickens the heart&lt;/a&gt;. The goal is to account for this impact and not have the results skewed by it.&lt;/p&gt;
+&lt;p&gt;We previously discussed the impact of weather on heart rate in the Blog Post &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/weather/&#34;&gt;Great weather quickens the heart&lt;/a&gt;. The goal is to account for this impact and not have the results skewed by it.&lt;/p&gt;
 &lt;p&gt;Our original method is derived from a number of publications that dealt with detecting fever during flu season. One of the fundamental differences between these studies is that we have a lot more data in terms of the total length of time of more than 5 months. Over this period, seasonal effect begin to play an increasingly large role. The magnitude of the effects were unavailable when we started in spring 2020.&lt;/p&gt;
 &lt;p&gt;In the improved algorithm, we investigate the vital data of each donor not as an absolute value, but rather relative to the data of &lt;em&gt;all&lt;/em&gt; donors on that day. We then compare these values with the average values of the donor, the donor&amp;rsquo;s so called &lt;em&gt;baseline&lt;/em&gt;. This way our algorithm automatically adapts to external factors like weather and climate and the impact of these on the detection curve is substantially reduced.&lt;/p&gt;
 &lt;h4 id=&#34;calculating-the-_baseline_&#34;&gt;Calculating the &lt;em&gt;Baseline&lt;/em&gt;&lt;/h4&gt;
@@ -315,13 +370,13 @@ Now, with the new method we use the data from the entire time window to compute 
     
     <item>
       <title>Covid-19 &amp; Fever Detections</title>
-      <link>https://corona-datenspende.de/en/reports/c19detect/</link>
+      <link>https://corona-datenspende.github.io/en/reports/c19detect/</link>
       <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/en/reports/c19detect/</guid>
-      <description>&lt;p&gt;The &lt;strong&gt;Corona Data Donation Project&lt;/strong&gt; is designed to detect &lt;em&gt;&lt;strong&gt;fever symptoms&lt;/strong&gt;&lt;/em&gt; in the time-series of the donors&amp;rsquo; daily resting heart rate and daily step count signals. See blog post &lt;a href=&#34;https://corona-datenspende.de/en/reports/how/&#34;&gt;&amp;ldquo;How does it work?&amp;rdquo;&lt;/a&gt; for the mechanics of how the whole thing works and the basic idea behind it, or check out some of &lt;a href=&#34;https://corona-datenspende.de/en/reports/fevercurve/&#34;&gt;the preliminary results&lt;/a&gt; we obtained in the past.&lt;/p&gt;
+      <guid>https://corona-datenspende.github.io/en/reports/c19detect/</guid>
+      <description>&lt;p&gt;The &lt;strong&gt;Corona Data Donation Project&lt;/strong&gt; is designed to detect &lt;em&gt;&lt;strong&gt;fever symptoms&lt;/strong&gt;&lt;/em&gt; in the time-series of the donors&amp;rsquo; daily resting heart rate and daily step count signals. See blog post &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/how/&#34;&gt;&amp;ldquo;How does it work?&amp;rdquo;&lt;/a&gt; for the mechanics of how the whole thing works and the basic idea behind it, or check out some of &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/fevercurve/&#34;&gt;the preliminary results&lt;/a&gt; we obtained in the past.&lt;/p&gt;
 &lt;p&gt;In the context of the current &lt;strong&gt;covid-19-pandemic&lt;/strong&gt; this is important because fever can be one of the symptoms of covid-19. So, if we detect an increase in the proportion of donors with potential fever symptoms this might be an indicator that covid-19 infections are on the rise as well.&lt;/p&gt;
 &lt;h2 id=&#34;but-does-it-work&#34;&gt;But does it work?&lt;/h2&gt;
-&lt;p&gt;One way to check this is comparing the time course of the new &lt;a href=&#34;https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;daily confirmed covid-19 cases in Germany&lt;/a&gt; with the &lt;a href=&#34;https://corona-datenspende.de/en/monitor/&#34;&gt;estimated cases of fever in the community of donors&lt;/a&gt; that we detect and compute with our algorithms. If both curves have similar shapes as a function of time, if they follow similar &amp;ldquo;ups&amp;rdquo; and &amp;ldquo;downs&amp;rdquo;, it is an indication that it works. The figure below illustrates the comparison:&lt;/p&gt;
+&lt;p&gt;One way to check this is comparing the time course of the new &lt;a href=&#34;https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;daily confirmed covid-19 cases in Germany&lt;/a&gt; with the &lt;a href=&#34;https://corona-datenspende.github.io/en/monitor/&#34;&gt;estimated cases of fever in the community of donors&lt;/a&gt; that we detect and compute with our algorithms. If both curves have similar shapes as a function of time, if they follow similar &amp;ldquo;ups&amp;rdquo; and &amp;ldquo;downs&amp;rdquo;, it is an indication that it works. The figure below illustrates the comparison:&lt;/p&gt;
 &lt;section class=&#34;center mw10 mw10-ns&#34;&gt;
  &lt;figure&gt;
  	&lt;div&gt;
@@ -421,12 +476,12 @@ Now, with the new method we use the data from the entire time window to compute 
     
     <item>
       <title>The Fever Monitor</title>
-      <link>https://corona-datenspende.de/en/reports/monitor/</link>
+      <link>https://corona-datenspende.github.io/en/reports/monitor/</link>
       <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/en/reports/monitor/</guid>
+      <guid>https://corona-datenspende.github.io/en/reports/monitor/</guid>
       <description>&lt;h2 id=&#34;what-is-the-fever-monitor&#34;&gt;What is the fever monitor?&lt;/h2&gt;
-&lt;p&gt;As of today, the &lt;strong&gt;Corona Data Donation Project&lt;/strong&gt; features the &lt;a href=&#34;https://corona-datenspende.de/en/monitor/&#34;&gt;Fever Monitor&lt;/a&gt; (&lt;strong&gt;see menu &amp;lsquo;Tools&amp;rsquo; in the top navigation bar&lt;/strong&gt;).&lt;/p&gt;
-&lt;p&gt;The monitor depicts the time course of the fever detections that we obtain from the raw resting heart rate and step count data the donors provide. Similar results were already discussed in the posts &lt;a href=&#34;https://corona-datenspende.de/en/reports/fevercurve/&#34;&gt;Feverish&lt;/a&gt; and &lt;a href=&#34;https://corona-datenspende.de/en/reports/fevercurvestates/&#34;&gt;Fever curves by federal state&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;As of today, the &lt;strong&gt;Corona Data Donation Project&lt;/strong&gt; features the &lt;a href=&#34;https://corona-datenspende.github.io/en/monitor/&#34;&gt;Fever Monitor&lt;/a&gt; (&lt;strong&gt;see menu &amp;lsquo;Tools&amp;rsquo; in the top navigation bar&lt;/strong&gt;).&lt;/p&gt;
+&lt;p&gt;The monitor depicts the time course of the fever detections that we obtain from the raw resting heart rate and step count data the donors provide. Similar results were already discussed in the posts &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/fevercurve/&#34;&gt;Feverish&lt;/a&gt; and &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/fevercurvestates/&#34;&gt;Fever curves by federal state&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;so-whats-new---automation&#34;&gt;So what&amp;rsquo;s new? - Automation!&lt;/h2&gt;
 &lt;p&gt;The Monitor represents the last piece in an automation sequence. Hidden behind the monitor are a number of complex steps in a process chain that begins with the raw data the donors provide and ends with the visualization of the detection curves. Steps of this analysis are the aggregation of data, filtering of time-series with too many gaps or faulty data, identification and processing of viable time-series which are then piped into the analysis algorithms that finally produce the results which are then sorted and manicured for the visualization you see.&lt;/p&gt;
 &lt;p&gt;This entire process is now done automatically and repeated every day, such that the &lt;strong&gt;Monitor&lt;/strong&gt; will always display the latest results.&lt;/p&gt;
@@ -435,10 +490,10 @@ Now, with the new method we use the data from the entire time window to compute 
     
     <item>
       <title>Fever curves by federal state</title>
-      <link>https://corona-datenspende.de/en/reports/fevercurvestates/</link>
+      <link>https://corona-datenspende.github.io/en/reports/fevercurvestates/</link>
       <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/en/reports/fevercurvestates/</guid>
-      <description>&lt;p&gt;In the last post &lt;a href=&#34;https://corona-datenspende.de/en/reports/fevercurve/&#34;&gt;Feverish&lt;/a&gt; we presented the first national &amp;ldquo;fever curve&amp;rdquo; based on and computed from the donors&amp;rsquo; data. In this post, we not only want to give you an &lt;strong&gt;update on the national fever curve&lt;/strong&gt;, but also want to show the results we obtained for the &lt;strong&gt;individual federal states in Germany&lt;/strong&gt;.&lt;/p&gt;
+      <guid>https://corona-datenspende.github.io/en/reports/fevercurvestates/</guid>
+      <description>&lt;p&gt;In the last post &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/fevercurve/&#34;&gt;Feverish&lt;/a&gt; we presented the first national &amp;ldquo;fever curve&amp;rdquo; based on and computed from the donors&amp;rsquo; data. In this post, we not only want to give you an &lt;strong&gt;update on the national fever curve&lt;/strong&gt;, but also want to show the results we obtained for the &lt;strong&gt;individual federal states in Germany&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Recall:&lt;/strong&gt; In this project, we evaluate the time series of daily averages of resting heart rate and daily step counts of individual donors. When, if compared to individual baseline values in both quantities, the resting heartrate increases and remains elevated for a few days while simultaneously the step count drops and remains low for the same number of days, that anomaly is an indication that a person is sick and has developed a fever. Here&amp;rsquo;s a figure from the last post that illustrates a typical candidate for a positive detection:&lt;/p&gt;
 &lt;section class=&#34;center mw10 mw10-ns&#34;&gt;
  &lt;figure&gt;
@@ -470,7 +525,7 @@ Now, with the new method we use the data from the entire time window to compute 
 
 &lt;p&gt;The deviations from individual baselines are computed for all donors with sufficiently long data streams and are automatically identified with the detection algorithms we developed.&lt;/p&gt;
 &lt;h3 id=&#34;update-fever-curve-for-germany&#34;&gt;Update: Fever curve for Germany&lt;/h3&gt;
-&lt;p&gt;The following figure depicts the fever curve for Germany as measured by our detection algorithms. The way detection works is explained in detail in the post &lt;a href=&#34;https://corona-datenspende.de/en/reports/fevercurve/&#34;&gt;Feverish&lt;/a&gt;. Currently we are using two different detection algorithms (labeled A and B) that are based on two different measures of statistical deviations from the baseline central tendancy. Both algorithms produce functionally similar curves.&lt;/p&gt;
+&lt;p&gt;The following figure depicts the fever curve for Germany as measured by our detection algorithms. The way detection works is explained in detail in the post &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/fevercurve/&#34;&gt;Feverish&lt;/a&gt;. Currently we are using two different detection algorithms (labeled A and B) that are based on two different measures of statistical deviations from the baseline central tendancy. Both algorithms produce functionally similar curves.&lt;/p&gt;
 &lt;section class=&#34;center mw10 mw10-ns&#34;&gt;
  &lt;figure&gt;
  	&lt;div&gt;
@@ -500,7 +555,7 @@ Now, with the new method we use the data from the entire time window to compute 
 &lt;/section&gt;
 
 &lt;p&gt;In the time period from May 26th - Aug. 3rd, 2020 we measured the detection rate, so the fraction of detections with respect to the analyzed donor cohort. The detection rate is typically in the range of 0.01-0.06 so between 1% - 6% are &amp;ldquo;diagnosed&amp;rdquo; with fever. We see two different important qualitative features in the curves. First, we see clear temporal modulations in the curves with a typical period of around 2 weeks. We were able to find out that these modulations correlate with variations in outside temperature that exhibit approximately the same periodicity. We will discuss this topic in one of the next blog posts.&lt;/p&gt;
-&lt;p&gt;More important, however, are the trend lines. In the trends that ignore the short time variations, we see a systematic increase in fever detections in July. Or course, we cannot conclude from this that this increase is caused by COVID-19 cases. Because we &amp;ldquo;only&amp;rdquo; measure fever symptoms and not COVID-19 symptoms directly, the observed trend can also be caused by other infections of diseases that yield fever symptoms. This is why it is important to compare the measured curves to results obtained by other surveillance systems. This is explained in detail in the previous blog post &lt;a href=&#34;https://corona-datenspende.de/en/reports/fevercurve/&#34;&gt;Feverish&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More important, however, are the trend lines. In the trends that ignore the short time variations, we see a systematic increase in fever detections in July. Or course, we cannot conclude from this that this increase is caused by COVID-19 cases. Because we &amp;ldquo;only&amp;rdquo; measure fever symptoms and not COVID-19 symptoms directly, the observed trend can also be caused by other infections of diseases that yield fever symptoms. This is why it is important to compare the measured curves to results obtained by other surveillance systems. This is explained in detail in the previous blog post &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/fevercurve/&#34;&gt;Feverish&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;fever-curves-of-federal-states-in-germany&#34;&gt;Fever curves of federal states in Germany&lt;/h3&gt;
 &lt;p&gt;By now we can compute the fever curves for the 16 federal states in Germany individually. Our goal is to fine-tune the geographic resolution and compute fever curves on a county and city level. At the moment, however, we do not see a sufficiently large number of detections on a county level.&lt;/p&gt;
 &lt;p&gt;The next figure depicts the fever curves for individual federal states.&lt;/p&gt;
@@ -570,11 +625,11 @@ This figure depicts the fever curve of individual states by color. The national 
     
     <item>
       <title>Feverish</title>
-      <link>https://corona-datenspende.de/en/reports/fevercurve/</link>
+      <link>https://corona-datenspende.github.io/en/reports/fevercurve/</link>
       <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/en/reports/fevercurve/</guid>
-      <description>&lt;p&gt;Remember the goal of the &lt;strong&gt;Data Donation Project&lt;/strong&gt;? When we conceived and launched the project about three months ago we thought that we could use the daily donations of resting heart rate and daily step count to detect the onset of fever in donors which in turn would help us quantify changes in the dynamics of the COVID-19 pandemic because fever is a symptom of the infection. Details of the underlying scientific idea were discussed in the blog post &lt;a href=&#34;https://corona-datenspende.de/en/reports/how/&#34;&gt;How does it work?&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Although the task is straightfoward conceptually, the devil is in the detail. We had to perform a whole series of performance tests, check the algorithms, optimize parameters of the detection, deal with gaps in the data, make sure confounding factors, like climate, weather, holidays, and weekly modulations of the donors&amp;rsquo; vital signals, geographic variation, etc. wouldn&amp;rsquo;t skew the results. Many of the necessary analyses were discussed in &lt;a href=&#34;https://corona-datenspende.de/en/reports/&#34;&gt;previous posts&lt;/a&gt; and lead to interesting scientific findings that were initially outside of the scope and intention of the project.&lt;/p&gt;
+      <guid>https://corona-datenspende.github.io/en/reports/fevercurve/</guid>
+      <description>&lt;p&gt;Remember the goal of the &lt;strong&gt;Data Donation Project&lt;/strong&gt;? When we conceived and launched the project about three months ago we thought that we could use the daily donations of resting heart rate and daily step count to detect the onset of fever in donors which in turn would help us quantify changes in the dynamics of the COVID-19 pandemic because fever is a symptom of the infection. Details of the underlying scientific idea were discussed in the blog post &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/how/&#34;&gt;How does it work?&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Although the task is straightfoward conceptually, the devil is in the detail. We had to perform a whole series of performance tests, check the algorithms, optimize parameters of the detection, deal with gaps in the data, make sure confounding factors, like climate, weather, holidays, and weekly modulations of the donors&amp;rsquo; vital signals, geographic variation, etc. wouldn&amp;rsquo;t skew the results. Many of the necessary analyses were discussed in &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/&#34;&gt;previous posts&lt;/a&gt; and lead to interesting scientific findings that were initially outside of the scope and intention of the project.&lt;/p&gt;
 &lt;p&gt;Well, today we share with you the first solid results concerning the detection of fever in Germany based on the &lt;strong&gt;Corona Data Donation Project&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;We computed &lt;em&gt;&lt;strong&gt;the first fever curve&lt;/strong&gt;&lt;/em&gt;. The results below are still preliminary and they may change in the future as we optimize the detection algorithm. But it&amp;rsquo;s safe to say now, we believe, that we are &lt;strong&gt;&lt;em&gt;&amp;ldquo;seeing a signal&amp;rdquo;&lt;/em&gt;&lt;/strong&gt;. This whole thing seems to be working.&lt;/p&gt;
 &lt;h3 id=&#34;what-signals-are-we-looking-for&#34;&gt;What signals are we looking for?&lt;/h3&gt;
@@ -608,7 +663,7 @@ This figure depicts the fever curve of individual states by color. The national 
  &lt;/figure&gt;
 &lt;/section&gt;
 
-&lt;p&gt;The plot above illustrate the time course of resting heart rate (RHR) and daily steps for a donor that does not exhibit any unusual deviations from the baseline values. Over the entire observation period, the curves are, apart from small, irregular fluctuations, flat. Note that the RHR fluctuates less. Step counts are modulated more strongly. This is why we had to look into these quantities and the expected variation in detail in the preliminary analysis, discussed in blog post: &lt;a href=&#34;https://corona-datenspende.de/en/reports/pulse/&#34;&gt;The Pulse of the Nation&lt;/a&gt; and &lt;a href=&#34;https://corona-datenspende.de/en/reports/schritte/&#34;&gt;Step by Step&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The plot above illustrate the time course of resting heart rate (RHR) and daily steps for a donor that does not exhibit any unusual deviations from the baseline values. Over the entire observation period, the curves are, apart from small, irregular fluctuations, flat. Note that the RHR fluctuates less. Step counts are modulated more strongly. This is why we had to look into these quantities and the expected variation in detail in the preliminary analysis, discussed in blog post: &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/pulse/&#34;&gt;The Pulse of the Nation&lt;/a&gt; and &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/schritte/&#34;&gt;Step by Step&lt;/a&gt;.&lt;/p&gt;
 &lt;h4 id=&#34;probably-not-the-right-signal&#34;&gt;Probably not the right signal&lt;/h4&gt;
 &lt;p&gt;Compare this now to a donor who does exhibit unusual deviations shown in the plot below.&lt;/p&gt;
 &lt;section class=&#34;center mw10 mw10-ns&#34;&gt;
@@ -811,9 +866,9 @@ Heart rate bump and step count dip coincide.&lt;/div&gt;
     
     <item>
       <title>Great weather quickens the heart</title>
-      <link>https://corona-datenspende.de/en/reports/weather/</link>
+      <link>https://corona-datenspende.github.io/en/reports/weather/</link>
       <pubDate>Tue, 07 Jul 2020 08:40:00 +0200</pubDate>
-      <guid>https://corona-datenspende.de/en/reports/weather/</guid>
+      <guid>https://corona-datenspende.github.io/en/reports/weather/</guid>
       <description>&lt;p&gt;Many things have changed in the last few months; the number of active Covid-19 cases and local Corona-regulation, but also everyday things like the weather. Many of these things can influence the vital data of our donors; for example, lifted lockdowns, bank holidays and good weather &lt;em&gt;may&lt;/em&gt; lead to more sport activity and could &lt;em&gt;potentially&lt;/em&gt; lead to a high resting heart rate.&lt;/p&gt;
 &lt;p&gt;One of the big challanges of this project is the identification and correct handling of those numerous other factors.&lt;/p&gt;
 &lt;p&gt;A good example of a factor that might influence vital data is weather.&lt;/p&gt;

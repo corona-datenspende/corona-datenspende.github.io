@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Paul Buttkus | Corona Data Donation Project | News &amp; Analyses</title>
-    <link>https://corona-datenspende.de/en/authors/paul-buttkus/</link>
-      <atom:link href="https://corona-datenspende.de/en/authors/paul-buttkus/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://corona-datenspende.github.io/en/authors/paul-buttkus/</link>
+      <atom:link href="https://corona-datenspende.github.io/en/authors/paul-buttkus/index.xml" rel="self" type="application/rss+xml" />
     <description>Paul Buttkus</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://corona-datenspende.de/en/authors/paul-buttkus/avatar_hu974b7c91691be02e587e956f017df2b6_311920_270x270_fill_q75_lanczos_center.jpeg</url>
+      <url>https://corona-datenspende.github.io/en/authors/paul-buttkus/avatar_hu974b7c91691be02e587e956f017df2b6_311920_270x270_fill_q75_lanczos_center.jpeg</url>
       <title>Paul Buttkus</title>
-      <link>https://corona-datenspende.de/en/authors/paul-buttkus/</link>
+      <link>https://corona-datenspende.github.io/en/authors/paul-buttkus/</link>
     </image>
     
   </channel>

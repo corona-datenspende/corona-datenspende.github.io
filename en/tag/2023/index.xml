@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2023 | Corona Data Donation Project | News &amp; Analyses</title>
+    <link>https://corona-datenspende.github.io/en/tag/2023/</link>
+      <atom:link href="https://corona-datenspende.github.io/en/tag/2023/index.xml" rel="self" type="application/rss+xml" />
+    <description>2023</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://corona-datenspende.github.io/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
+      <title>2023</title>
+      <link>https://corona-datenspende.github.io/en/tag/2023/</link>
+    </image>
+    
+    <item>
+      <title>Our data donation roadmap for 2023</title>
+      <link>https://corona-datenspende.github.io/en/reports/kickoff-2023/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://corona-datenspende.github.io/en/reports/kickoff-2023/</guid>
+      <description>&lt;p&gt;Dear data donors,&lt;/p&gt;
+&lt;p&gt;You are part of what is one of the world&amp;rsquo;s largest citizen science projects in public health research. Over 540,000 people from across Germany have participated since April 2020, for more than 120,000 individuals we were able to gather comprehensive &lt;a href=&#34;https://corona-datenspende.github.io/en/vitaldata-tool/&#34;&gt;records of resting pulse, daily activity, and sleep duration&lt;/a&gt; over a span of 2.5 years. Using specialized algorithms, our &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/monitor/&#34;&gt;Fever Monitor and Nowcast&lt;/a&gt; have processed up to 120 million physiological and behavioral data points each day to detect anomalous movement and pulse patterns in the population and provide insights into real-time tracking the spread of possible infections with SARS-CoV-2. This data set, together with psychosocial data obtained from questionnaires, is well-suited to address a wide-variety of questions regarding the COVID-19 pandemic. For us to be able to make the most of this unique data set, we &lt;a href=&#34;https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Corona-Datenspende-allgemein.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;suspended&lt;/a&gt; active data collection as of December 31, 2022 in order to focus our efforts on diving deeper in our analyses. Your contributions have made this project a landmark milestone in bridging the gap between science and society, and we would like to thank you for that. As this stage of the project comes to a close, our team now shifts focus onto quantitatively evaluating the fever algorithm and comprehensively investigating the long-term consequences of the pandemic.&lt;/p&gt;
+&lt;h3 id=&#34;time-for-a-general-inspection&#34;&gt;Time for a general inspection&lt;/h3&gt;
+&lt;p&gt;Recent advancements in research technology, of which wearable-based monitoring your vital signs is one, usher a new age of digital health in biomedical research. These developments give rise to rapid changes, not only in the tools and approaches available to researchers, but also in the ways in which research is conducted. However, left unchecked, this rapid rate of scientific progress can lead to problems in reproducibility and validity. As such, after more than two years of active field operation, we are now subjecting our fever algorithm to a comprehensive evaluation assessing its validity as a real-time monitoring system for disease detection. To this end, we will be discussing methods and results of our work with the scientific community, taking into account the findings and frameworks of similar efforts such as &lt;a href=&#34;https://detect.scripps.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;findings from abroad&lt;/a&gt;. This enables us to evaluate the potential of our fever algorithm to be used as a sensor-based monitoring tool in future pandemics.&lt;/p&gt;
+&lt;figure id=fever_curve&gt;
+	&lt;div id=&#34;fever_curve-display&#34; class=&#34;panel-display&#34;&gt;
+	&lt;/div&gt;
+	
+ 	&lt;figcaption&gt;
+ 		&lt;div class=&#34;pa4 tl f3 lh-copy&#34;&gt;&lt;strong&gt;Fig. 1&lt;/strong&gt;: Up-to-date version of the fever algorithm. If a person&amp;rsquo;s resting heart rate and step count deviate significantly from their baseline measurements and run counter to each other (&lt;a href=&#34;%28https://corona-datenspende.github.io/en/reports/fevercurve/%29&#34;&gt;&amp;ldquo;fever bump&amp;rdquo;&lt;/a&gt;), the algorithm signals a potential infection.&lt;/div&gt;	
+ 	&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;keeping-an-eye-on-the-pandemics-long-term-consequences&#34;&gt;Keeping an eye on the pandemic’s long-term consequences&lt;/h3&gt;
+&lt;p&gt;The other major focus in the coming months is the analysis of the &amp;ldquo;Long COVID and Pandemic Consequences&amp;rdquo; study launched in April 2022. We seek to gain a better understanding of the dynamics of changes in vital signs following infection with SARS-CoV-2, including the nature and magnitude of observed changes, time it takes to return to pre-disease baseline levels, what factors or circumstances might delay in this normalization, and potential consequences thereof. Initial analyses have already been presented to you in one of our &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/breakthroughinfections/&#34;&gt;past blogposts&lt;/a&gt;. In addition,, we will investigate questionnaire data in relation to vital signs. For example, is it possible to identify physiological correlates of self-reported quality of life by analyzing patterns in resting heart rate, activity, and sleep.&lt;/p&gt;
+&lt;p&gt;  &lt;!-- insert blank line before figure --&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig-2-in-donors-with-confirmed-covid-19-infection-it-takes-about-2-3-months-for-the-resting-pulse-to-return-to-normal-in-2023-we-plan-to-investigate-this-finding-in-more-detail-especially-with-regard-to-the-reported-health-related-quality-of-life&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;a href=&#34;https://corona-datenspende.github.io/reports/prolongedchanges&#34; &gt;&lt;img alt=&#34;**Fig. 2**: In donors with confirmed COVID-19 infection, it takes about 2-3 months for the resting pulse to return to normal. In 2023, we plan to investigate this finding in more detail, especially with regard to the reported health-related quality of life.&#34; srcset=&#34;
+               /media/figures/prolonged_changes/vitals_65_de_hu8dc088bcc61666e02b89fbe06c1f7477_189544_a0fbaf479250ed2311e0dab904b25bf1.webp 400w,
+               /media/figures/prolonged_changes/vitals_65_de_hu8dc088bcc61666e02b89fbe06c1f7477_189544_e7699b40f580c462667c91a6ebd90c9c.webp 760w,
+               /media/figures/prolonged_changes/vitals_65_de_hu8dc088bcc61666e02b89fbe06c1f7477_189544_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/prolonged_changes/vitals_65_de_hu8dc088bcc61666e02b89fbe06c1f7477_189544_a0fbaf479250ed2311e0dab904b25bf1.webp&#34;
+               width=&#34;60%&#34;
+               height=&#34;596&#34;
+               loading=&#34;lazy&#34; /&gt;&lt;/a&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;strong&gt;Fig. 2&lt;/strong&gt;: In donors with confirmed COVID-19 infection, it takes about 2-3 months for the resting pulse to return to normal. In 2023, we plan to investigate this finding in more detail, especially with regard to the reported health-related quality of life.
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;h3 id=&#34;read-the-latest-news-on-the-blog&#34;&gt;Read the latest news on the blog&lt;/h3&gt;
+&lt;p&gt;In 2023, the scientific work will continue unchanged even without further data collection. On the one hand, we will strenghten collaborations with various research groups to further develop our methodology; on the other hand, we continue to engage in better understanding vital parameters and different long-term consequences of the pandemic. To that end, we will remain active on this blog and familiar channels. We are looking forward to share our research progress with you!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

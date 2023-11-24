@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Adrian Zachariae | Corona-Datenspende | News &amp; Analysen</title>
-    <link>https://corona-datenspende.de/authors/adrian-zachariae/</link>
-      <atom:link href="https://corona-datenspende.de/authors/adrian-zachariae/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://corona-datenspende.github.io/authors/adrian-zachariae/</link>
+      <atom:link href="https://corona-datenspende.github.io/authors/adrian-zachariae/index.xml" rel="self" type="application/rss+xml" />
     <description>Adrian Zachariae</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>de</language><lastBuildDate>Tue, 07 Jul 2020 08:40:00 +0200</lastBuildDate>
     <image>
-      <url>https://corona-datenspende.de/authors/adrian-zachariae/avatar_hufd8c24025f6d08f3dff103ffcf5c28fb_303597_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://corona-datenspende.github.io/authors/adrian-zachariae/avatar_hufd8c24025f6d08f3dff103ffcf5c28fb_303597_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Adrian Zachariae</title>
-      <link>https://corona-datenspende.de/authors/adrian-zachariae/</link>
+      <link>https://corona-datenspende.github.io/authors/adrian-zachariae/</link>
     </image>
     
     <item>
       <title>Schönes Wetter lässt Herzen höher Schlagen</title>
-      <link>https://corona-datenspende.de/reports/weather/</link>
+      <link>https://corona-datenspende.github.io/reports/weather/</link>
       <pubDate>Tue, 07 Jul 2020 08:40:00 +0200</pubDate>
-      <guid>https://corona-datenspende.de/reports/weather/</guid>
+      <guid>https://corona-datenspende.github.io/reports/weather/</guid>
       <description>&lt;p&gt;In den letzten Monaten hat sich viel verändert: die Zahl der aktiven COVID-19-Fälle,
 die regional unterschiedlichen Corona-Verordnungen aber auch alltägliche Dinge wie das Wetter.
 Viele dieser Dinge können die Vitaldaten unserer Spender:innen verändern, z.B. &lt;em&gt;könnten&lt;/em&gt; gelockerte Ausgangsbeschränkungen, Feiertage und gutes Wetter zu mehr Sport und Aktivität und damit &lt;em&gt;vielleicht&lt;/em&gt; auch zu einem höheren Ruhepuls führen.&lt;/p&gt;

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Erleben und Verhalten | Corona Data Donation Project | News &amp; Analyses</title>
+    <link>https://corona-datenspende.github.io/en/tag/erleben-und-verhalten/</link>
+      <atom:link href="https://corona-datenspende.github.io/en/tag/erleben-und-verhalten/index.xml" rel="self" type="application/rss+xml" />
+    <description>Erleben und Verhalten</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 26 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://corona-datenspende.github.io/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
+      <title>Erleben und Verhalten</title>
+      <link>https://corona-datenspende.github.io/en/tag/erleben-und-verhalten/</link>
+    </image>
+    
+    <item>
+      <title>How social environments alter protection behaviour</title>
+      <link>https://corona-datenspende.github.io/en/reports/soziales-umfeld-schutzverhalten/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://corona-datenspende.github.io/en/reports/soziales-umfeld-schutzverhalten/</guid>
+      <description>&lt;p&gt;Pharmaceutical interventions, especially vaccinations, are considered a reliable partner in the fight against infectious diseases. However, before such tools are even available (and also supportive beyond that), other interventions take effect where the transmission takes place: At the human behavior. In situations where there is a particular risk of infection, protective measures such as mask wearing and keeping a physical distance of at least 1.5-m limit the risk of transmission in the long term &lt;a href=&#34;https://doi.org/10.1016/S0140-6736%2820%2931142-9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(Chu et al., 2020)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;However, many factors determine whether a person actually engages in appropriate protective behavior. In a journal article published in Social Science and Medicine &lt;a href=&#34;https://doi.org/10.1016/j.socscimed.2022.115633&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(Sprengholz et al., 2023)&lt;/a&gt;, we use survey data from 29,355 data donation participants to examine which characteristics alter behavior in the private domain, and how social environments affect behavior in the workplace.&lt;/p&gt;
+&lt;h3 id=&#34;five-reasons-why-people-protect-themselves-the-way-they-do&#34;&gt;Five reasons why people protect themselves the way they do&lt;/h3&gt;
+&lt;p&gt;People who purposefully avoid infection with SARS-CoV-2 do so for a variety of reasons. The following five factors are particularly important for individual decisions:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;How likely do I consider an infection for myself? How dangerous would that be for me? And how serious is my concern about contracting the virus?&lt;/li&gt;
+&lt;li&gt;Can I easily implement the protective behavior?&lt;/li&gt;
+&lt;li&gt;Do I trust the institution issuing recommendations for protective behavior?&lt;/li&gt;
+&lt;li&gt;Individual personality traits: Am I more likely to be conscientious and willing to compromise, or not?&lt;/li&gt;
+&lt;li&gt;Does my behavior violate social rules in the groups that surround and matter to me?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The last point carries particular weight for infection control, because people can exhibit protective behavior here even if they do not expect to benefit directly themselves. In our article, we examined the reasons in more detail and tested them statistically in a step-by-step manner. Here, we summarize the most important results for you.&lt;/p&gt;
+&lt;h3 id=&#34;those-who-are-more-likely-to-follow-rules-and-recommendations-in-their-private-lives&#34;&gt;Those who are more likely to follow rules and recommendations in their private lives&lt;/h3&gt;
+&lt;p&gt;&amp;hellip; according to our data, tend to be older, female, worry about infection, find it rather difficult, show increased trust in the federal government and perceive measures as appropriate for pandemic control. People are also more likely to be introverted, agreeable, open to new experiences, and conscientious. While these factors continue to apply in the workplace, one key component also plays a major role: the social environment.&lt;/p&gt;
+&lt;h3 id=&#34;colleagues-influence-ones-own-behavior-at-the-workplace&#34;&gt;Colleagues influence one&amp;rsquo;s own behavior at the workplace&lt;/h3&gt;
+&lt;p&gt;Being at the workplace not only increases the risk of infection due to closer contact with fellow workers, it also brings together a variety of potentially divergent perspectives and behaviors. Our data indicate that people who pay less attention to rules and recommendations in their private lives only transfer this behavior to the workplace if their colleagues do not value protective behavior either. If, on the other hand, colleagues followed rules and recommendations, the individual behavior adapted accordingly.&lt;/p&gt;
+&lt;p&gt;It is especially noteworthy that we did not observe any effect in the opposite direction. Someone who strongly complies with recommendations in their private life also does so at work - regardless of whether colleagues protect themselves particularly well or not.&lt;/p&gt;
+&lt;p&gt;The following tool lets you interactively explore and understand our findings. Toggle the button to reveal the difference between groups in which the professional environment places &lt;span style=&#34;color:; font-weight: bold; background-color:#2196F3;&#34;&gt;a higher&lt;/span&gt; emphasis on rules and recommendations instead of having &lt;span style=&#34;color:; font-weight: bold; background-color:#FF9933;&#34;&gt;little emphasis&lt;/span&gt; on them. Tip: Pay special attention to the size of the difference &lt;strong&gt;within&lt;/strong&gt; a group first, and then between groups.&lt;/p&gt;
+&lt;label class=&#34;switch&#34;&gt;
+  &lt;input type=&#34;checkbox&#34; id=&#34;switch&#34; onchange=&#34;toggleUpdate(this.checked)&#34;&gt;
+  &lt;span class=&#34;slider round&#34;&gt;&lt;/span&gt;
+&lt;/label&gt;
+&lt;figure id=workbehav&gt;
+	&lt;div id=&#34;workbehav-display&#34; class=&#34;panel-display&#34;&gt;
+	&lt;/div&gt;
+	
+ 	&lt;figcaption&gt;
+ 		&lt;div class=&#34;pa4 tl f3 lh-copy&#34;&gt;&lt;strong&gt;Tool explainer&lt;/strong&gt;: The grid shows two groups of people differing in their private protection behaviour (horizontal axis) and protection behaviour at work (vertical axis). The group on the left stated that they attach less importance to rules and behavioral recommendations in their private lives - in contrast to the group on the right. The further up a person is positioned in the grid, the more likely they are to follow rules and recommendations at work (horizontal axis).&lt;/div&gt;	
+ 	&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;script&gt;
+  function toggleUpdate(checked) {
+    if (checked) {
+      update(newData);
+    } else {
+      update(data);
+    }
+  }
+&lt;/script&gt;
+&lt;h3 id=&#34;lessons-learned-role-models-safeguard-our-health&#34;&gt;Lessons learned: Role models safeguard our health&lt;/h3&gt;
+&lt;p&gt;Whenever people come together in a group, they influence each other&amp;rsquo;s attitudes and behavior. In order to foster protective behaviour, it is therefore not only important to communicate risks and recommendations. It can also be useful to highlight exemplary behaviour of colleagues and thereby communicate group norms that potentially increase protective effortsd in the whole workgroup.
+In particular, people who are less compliant with rules and recommendations in their private lives could thus be better protected in contagion situations.&lt;/p&gt;
+&lt;h3 id=&#34;bonus-free-access-to-research-data&#34;&gt;Bonus: Free access to research data&lt;/h3&gt;
+&lt;p&gt;Our work ensures that the research we conduct can be checked and replicated. All &lt;a href=&#34;https://doi.org/10.5281/zenodo.7185199&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data used&lt;/a&gt; and the &lt;a href=&#34;http://doi.org/10.17605/OSF.IO/2XNSV&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;analysis script&lt;/a&gt; are published and freely accessible. The results shown here can be found in our &lt;a href=&#34;https://doi.org/10.1016/j.socscimed.2022.115633&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt;, in which we discuss all the findings in more detail.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

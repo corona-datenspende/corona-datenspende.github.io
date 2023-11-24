@@ -2,21 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cornelia Betsch | Corona Data Donation Project | News &amp; Analyses</title>
-    <link>https://corona-datenspende.de/en/authors/cornelia-betsch/</link>
-      <atom:link href="https://corona-datenspende.de/en/authors/cornelia-betsch/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://corona-datenspende.github.io/en/authors/cornelia-betsch/</link>
+      <atom:link href="https://corona-datenspende.github.io/en/authors/cornelia-betsch/index.xml" rel="self" type="application/rss+xml" />
     <description>Cornelia Betsch</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://corona-datenspende.de/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
+      <url>https://corona-datenspende.github.io/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
       <title>Cornelia Betsch</title>
-      <link>https://corona-datenspende.de/en/authors/cornelia-betsch/</link>
+      <link>https://corona-datenspende.github.io/en/authors/cornelia-betsch/</link>
     </image>
     
     <item>
+      <title>Situational pathogen avoidance mediates the impact of social connectedness on preventive measures during the COVID-19 pandemic</title>
+      <link>https://corona-datenspende.github.io/en/publication/taubert_etal_2023/</link>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://corona-datenspende.github.io/en/publication/taubert_etal_2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>From delta to omicron: The role of individual factors and social context in self-reported compliance with pandemic regulations and recommendations</title>
-      <link>https://corona-datenspende.de/en/publication/sprengholz_etal_2022/</link>
+      <link>https://corona-datenspende.github.io/en/publication/sprengholz_etal_2022/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/en/publication/sprengholz_etal_2022/</guid>
+      <guid>https://corona-datenspende.github.io/en/publication/sprengholz_etal_2022/</guid>
       <description></description>
     </item>
     

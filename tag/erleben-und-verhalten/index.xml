@@ -2,21 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Erleben und Verhalten | Corona-Datenspende | News &amp; Analysen</title>
-    <link>https://corona-datenspende.de/tag/erleben-und-verhalten/</link>
-      <atom:link href="https://corona-datenspende.de/tag/erleben-und-verhalten/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://corona-datenspende.github.io/tag/erleben-und-verhalten/</link>
+      <atom:link href="https://corona-datenspende.github.io/tag/erleben-und-verhalten/index.xml" rel="self" type="application/rss+xml" />
     <description>Erleben und Verhalten</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>de</language><lastBuildDate>Wed, 09 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de</language><lastBuildDate>Fri, 26 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://corona-datenspende.de/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
+      <url>https://corona-datenspende.github.io/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
       <title>Erleben und Verhalten</title>
-      <link>https://corona-datenspende.de/tag/erleben-und-verhalten/</link>
+      <link>https://corona-datenspende.github.io/tag/erleben-und-verhalten/</link>
     </image>
     
     <item>
+      <title>Wie das soziale Umfeld unser Schutzverhalten verändert</title>
+      <link>https://corona-datenspende.github.io/reports/soziales-umfeld-schutzverhalten/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://corona-datenspende.github.io/reports/soziales-umfeld-schutzverhalten/</guid>
+      <description>&lt;p&gt;Pharmazeutische Maßnahmen, insbesondere Impfungen, gelten als zuverlässiger Partner im Kampf gegen Infektionskrankheiten. Als weiterer zentraler Baustein setzen zusätzliche Interventionen dort an, wo die Übertragung stattfindet: am menschlichen Verhalten.
+In Situationen mit besonderem Ansteckungsrisiko schränken beispielsweise Schutzmasken und der 1,5m-Mindestabstand das Übertragungsrisiko ein &lt;a href=&#34;https://doi.org/10.1016/S0140-6736%2820%2931142-9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(Chu et al., 2020)&lt;/a&gt;. Ob eine Person aber tatsächlich das entsprechende Schutzverhalten zeigt, hängt von vielen Faktoren ab.&lt;/p&gt;
+&lt;p&gt;In einem Artikel in der Fachzeitschrift Social Science and Medicine untersuchen wir anhand der “Erleben und Verhalten”-Befragungsdaten von 29.355 Datenspender:innen, welche Eigenschaften das Verhalten im privaten Umfeld verändern, und wie das soziale Umfeld auf das Verhalten am Arbeitsplatz einwirkt &lt;a href=&#34;https://doi.org/10.1016/j.socscimed.2022.115633&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(Sprengholz et al., 2023)&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;fünf-gründe-warum-sich-menschen-schützen-wie-sie-sich-schützen&#34;&gt;Fünf Gründe, warum sich Menschen schützen, wie sie sich schützen&lt;/h3&gt;
+&lt;p&gt;Wer eine Infektion mit dem Coronavirus gezielt vermeidet, tut das aus verschiedenen Gründen. Diese fünf individuellen Fragestellungen sind dabei besonders wichtig:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Für wie wahrscheinlich halte ich es, dass ich mich anstecke? Wie gefährlich wäre das für mich? Und wie groß ist die emotionale Sorge vor dieser Ansteckung?&lt;/li&gt;
+&lt;li&gt;Ist das Schutzverhalten für mich einfach umsetzbar?&lt;/li&gt;
+&lt;li&gt;Vertraue ich der Institution, die die Empfehlungen herausgibt?&lt;/li&gt;
+&lt;li&gt;Individuelle Persönlichkeitsmerkmale: Bin ich eher gewissenhaft und kompromissbereit, oder eher nicht?&lt;/li&gt;
+&lt;li&gt;Verstößt mein Verhalten gegen soziale Regeln in den Gruppen, die mich umgeben und die mir wichtig sind?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Der letzte Punkt wiegt für den Infektionsschutz besonders stark, denn hier können Menschen selbst dann Schutzverhalten zeigen, wenn sie nicht erwarten, dass sie selbst unmittelbar profitieren werden. In unserem Artikel haben wir die Gründe genauer untersucht und Schritt für Schritt statistisch überprüft - hier fassen wir die wichtigsten Ergebnisse für euch zusammen.&lt;/p&gt;
+&lt;h3 id=&#34;wer-sich-im-privaten-eher-an-regeln-und-empfehlungen-hält&#34;&gt;Wer sich im Privaten eher an Regeln und Empfehlungen hält&lt;/h3&gt;
+&lt;p&gt;&amp;hellip; ist nach unserer Datenlage tendenziell eher älter, weiblich, macht sich Sorgen um eine Infektion, empfindet diese als eher schwer, zeigt ein erhöhtes Vertrauen in die Bundesregierung und nimmt Maßnahmen als angemessen wahr. Die Menschen sind zudem eher introvertiert, sozial verträglich, aufgeschlossen für neue Erfahrungen und gewissenhaft. Am Arbeitsplatz gelten diese Faktoren zwar weiter, aber ein entscheidender Punkt nimmt zusätzlich großen Einfluss: Das soziale Umfeld.&lt;/p&gt;
+&lt;h3 id=&#34;kolleginnen-beeinflussen-das-eigene-verhalten-am-arbeitsplatz&#34;&gt;Kolleg:innen beeinflussen das eigene Verhalten am Arbeitsplatz&lt;/h3&gt;
+&lt;p&gt;An der Arbeitsstätte ist nicht nur das Infektionsrisiko durch den engeren Kontakt mit Mitmenschen erhöht, es treffen auch verschiedene, möglicherweise unterschiedliche Verhaltensweisen aufeinander. Unsere Daten deuten an: Wer privat weniger auf Regeln und Empfehlungen Rücksicht nimmt, überträgt dieses Verhalten nur dann an den Arbeitsplatz, wenn Kolleg:innen ebenfalls nicht darauf achten. Wenn sich die Kolleg:innen hingegen an Regeln und Empfehlungen hielten, hat sich das Verhalten entsprechend angepasst.&lt;/p&gt;
+&lt;p&gt;Besonders wichtig: Wir konnten keinen Effekt in die gegenläufige Richtung beobachten. Jemand, der sich privat empfehlungskonform verhält, tut das auch auf der Arbeit - egal, ob sich die Kolleg:innen besonders gut schützen oder nicht.&lt;/p&gt;
+&lt;p&gt;Mit dem nachfolgenden Tool könnt ihr den Befund interaktiv nachvollziehen. Drückt den Schalter, um den Unterschied zwischen Gruppen zu sehen, in denen das kollegiale Umfeld anstatt &lt;span style=&#34;color:; font-weight: bold; background-color:#FF9933;&#34;&gt;wenig Wert&lt;/span&gt; eher &lt;span style=&#34;color:; font-weight: bold; background-color:#2196F3;&#34;&gt;viel Wert&lt;/span&gt; auf Regeln und Empfehlungen legt. Tipp: Achtet zuerst besonders auf die Größe des Unterschieds &lt;strong&gt;innerhalb&lt;/strong&gt; einer Gruppe, und dann zwischen den Gruppen.&lt;/p&gt;
+&lt;label class=&#34;switch&#34;&gt;
+  &lt;input type=&#34;checkbox&#34; id=&#34;switch&#34; onchange=&#34;toggleUpdate(this.checked)&#34;&gt;
+  &lt;span class=&#34;slider round&#34;&gt;&lt;/span&gt;
+&lt;/label&gt;
+&lt;figure id=workbehav&gt;
+	&lt;div id=&#34;workbehav-display&#34; class=&#34;panel-display&#34;&gt;
+	&lt;/div&gt;
+	
+ 	&lt;figcaption&gt;
+ 		&lt;div class=&#34;pa4 tl f3 lh-copy&#34;&gt;&lt;strong&gt;Tool-Explainer&lt;/strong&gt;: Das Raster zeigt zwei Personengruppen, die sich in ihrem privaten Schutzverhalten (horizontale Achse) und dem Schutzverhalten am Arbeitsplatz (vertikale Achse) unterscheiden. Die linke Gruppe gibt an, dass sie privat weniger Wert auf Regeln und Verhaltensempfehlungen legt - im Gegensatz zur rechten Gruppe, die im Privatleben verstärkt darauf achtet. Je weiter oben die Personen im Raster positioniert sind, desto eher halten sie sich auch am Arbeitsplatz an Regeln und Empfehlungen (vertikale Achse).&lt;/div&gt;	
+ 	&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;script&gt;
+  function toggleUpdate(checked) {
+    if (checked) {
+      update(newData);
+    } else {
+      update(data);
+    }
+  }
+&lt;/script&gt;
+&lt;h3 id=&#34;lessons-learned-vorbilder-schützen-unsere-gesundheit&#34;&gt;Lessons learned: Vorbilder schützen unsere Gesundheit&lt;/h3&gt;
+&lt;p&gt;Sobald mehrere Menschen in einer Gruppe zusammenkommen, beeinflussen sie sich gegenseitig in ihren Einstellungen und Verhaltensweisen. Um Schutzverhalten konkret zu fördern, ist es deshalb nicht nur wichtig, Risiken und korrektes Verhalten zu kommunizieren. Es kann auch sinnvoll sein, vorbildhaftes Verhalten von Kolleg:innen hervorzuheben und auf diese Weise Gruppennormen zu kommunizieren, die zu einem Anstieg des Schutzverhaltens in der gesamten Arbeitsgruppe führen.
+Besonders Personen, die privat weniger Wert auf Regeln und Empfehlungen legen, können so in Ansteckungssituationen besser geschützt werden.&lt;/p&gt;
+&lt;h3 id=&#34;bonus-forschungsdaten-frei-verfügbar&#34;&gt;Bonus: Forschungsdaten frei verfügbar&lt;/h3&gt;
+&lt;p&gt;Wir wollen, dass unsere Forschung nachvollziehbar und überprüfbar ist. Alle &lt;a href=&#34;https://doi.org/10.5281/zenodo.7185199&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;verwendeten Daten&lt;/a&gt; und das &lt;a href=&#34;http://doi.org/10.17605/OSF.IO/2XNSV&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Analyseskript&lt;/a&gt; sind deshalb publiziert und frei zugänglich. Die hier besprochenen Ergebnisse findet ihr in unserem &lt;a href=&#34;https://doi.org/10.1016/j.socscimed.2022.115633&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper&lt;/a&gt;, in dem wir alle Befunde nochmal ausführlich und detaillierter diskutieren.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>IFG-Anfrage: Wie sehr vertrauen Datenspender:innen der Bundesregierung in der Pandemiebekämpfung?</title>
-      <link>https://corona-datenspende.de/reports/trustgov/</link>
+      <link>https://corona-datenspende.github.io/reports/trustgov/</link>
       <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/reports/trustgov/</guid>
+      <guid>https://corona-datenspende.github.io/reports/trustgov/</guid>
       <description>&lt;p&gt;Liebe Datenspender:innen,&lt;/p&gt;
 &lt;p&gt;seit etwa einem halben Jahr könnt ihr nicht nur eure Vital- und Schlafdaten spenden, sondern auch in regelmäßigen Abständen verschiedene Fragebögen zum Erleben und Verhalten während der Coronapandemie in der Datenspende-App beantworten. So fragen wir beispielsweise jede Woche, wie sehr ihr der Bundesregierung vertraut, dass sie gut und richtig mit dem Coronavirus umgeht. Die Antworten werden auf einer fünfstufigen Skala von 1 (überhaupt nicht) bis 5 (ganz und gar) gemessen. Insgesamt 29.530 Spender:innen haben hier Ihre Antworten übermittelt. Da wir kürzlich eine Anfrage nach dem Informationsfreiheitsgesetz (IFG) hierzu erhalten haben, wollen wir heute einige Informationen zu diesem Thema mit euch teilen.&lt;/p&gt;
 &lt;h3 id=&#34;mittleres-vertrauen-schwankt-mit-den-fallzahlen&#34;&gt;Mittleres Vertrauen schwankt mit den Fallzahlen&lt;/h3&gt;
@@ -54,7 +108,7 @@
                /media/figures/governmental_trust/image2_hu0efbc6a414d0c52e6207a876ea52b223_191087_3a1b325cfd1f996a20537e7a077d2034.webp 400w,
                /media/figures/governmental_trust/image2_hu0efbc6a414d0c52e6207a876ea52b223_191087_8bdb5240687dce19661202745b06db2b.webp 760w,
                /media/figures/governmental_trust/image2_hu0efbc6a414d0c52e6207a876ea52b223_191087_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://corona-datenspende.de/media/figures/governmental_trust/image2_hu0efbc6a414d0c52e6207a876ea52b223_191087_3a1b325cfd1f996a20537e7a077d2034.webp&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/governmental_trust/image2_hu0efbc6a414d0c52e6207a876ea52b223_191087_3a1b325cfd1f996a20537e7a077d2034.webp&#34;
                width=&#34;760&#34;
                height=&#34;469&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

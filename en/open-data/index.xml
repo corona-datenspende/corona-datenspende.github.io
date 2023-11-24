@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Corona-Datenspende: #OpenData-Portal | Corona Data Donation Project | News &amp; Analyses</title>
+    <link>https://corona-datenspende.github.io/en/open-data/</link>
+      <atom:link href="https://corona-datenspende.github.io/en/open-data/index.xml" rel="self" type="application/rss+xml" />
+    <description>Corona-Datenspende: #OpenData-Portal</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 10 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://corona-datenspende.github.io/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
+      <title>Corona-Datenspende: #OpenData-Portal</title>
+      <link>https://corona-datenspende.github.io/en/open-data/</link>
+    </image>
+    
+    <item>
+      <title>Partial Data Set: Vital Data</title>
+      <link>https://corona-datenspende.github.io/en/open-data/teilds-vitaldaten/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://corona-datenspende.github.io/en/open-data/teilds-vitaldaten/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Partial Data Set: Experience and Behavior</title>
+      <link>https://corona-datenspende.github.io/en/open-data/teilds-erlebenverhalten2023/</link>
+      <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://corona-datenspende.github.io/en/open-data/teilds-erlebenverhalten2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

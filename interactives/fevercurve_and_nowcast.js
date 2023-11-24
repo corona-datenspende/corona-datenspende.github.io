@@ -14,13 +14,13 @@ else
 }
 
 if (queryString.includes("local-detection")){
-  var url = "/science/data/detection.json"
+  var url = "/data/detection.json"
   console.log("This is a test display with a local detection.json file in /static/data/")
 }
 
 // Select language
 var path = window.location.pathname;
-var lang = path.includes("/science/en/") ? "en" : "de"
+var lang = path.includes("en/") ? "en" : "de"
 
 if (lang == "en") {
   var legendKeys = ["Confirmed Incidence", "Fever-based nowcast", "Fever detections"]
@@ -56,8 +56,14 @@ function computeNowcast(r, detections) {
 var width = 700;
 var height = 500;
 var margin = {left: 75, top: 20, bottom: 70, right: 70};
-var colors = ["#2980b9", "maroon", "#455266"]
-var currentNowcastColor = "#f39c12"
+
+// colors
+var currentNowcastColor = "#FFAE2B"
+var NowcastColor = "#F39C12"
+var DetectionsColor = "#ADADAD"
+var IncidenceColor = "#24B9D1"
+var colors = ["#24B9D1", "#F39C12", "#ADADAD"]
+
 
 // Load data from external source
 d3.json(url).then(function(data) {
@@ -137,10 +143,10 @@ d3.json(url).then(function(data) {
                     .x((d, i) => xScale(new Date(time[i])))
                     .y((d) => yScaleRight(d)))
        .attr("fill", "none")
-       .attr("stroke", colors[2])
+       .attr("stroke", DetectionsColor)
        .attr("stroke-width", 2.5)
        .style("stroke-dasharray", ("3, 3"))
-       .attr("opacity", 0.6)
+       .attr("opacity", 0.7)
 
 
     // Draw incidence
@@ -151,8 +157,8 @@ d3.json(url).then(function(data) {
                     .x((d, i) => xScale(new Date(time[i])))
                     .y((d) => yScaleLeft(d)))
        .attr("fill", "none")
-       .attr("stroke", colors[0])
-       .attr("stroke-width", 2.5)
+       .attr("stroke", IncidenceColor)
+       .attr("stroke-width", 3.5)
        .attr("opacity", 0.6)
 
     // Draw nowcast
@@ -162,12 +168,12 @@ d3.json(url).then(function(data) {
                     .x((d, i) => xScale(new Date(time[i+1])))
                     .y((d) => yScaleLeft(d)))
        .attr("fill", "none")
-       .attr("stroke", colors[1])
-       .attr("stroke-width", 3)
+       .attr("stroke", currentNowcastColor)
+       .attr("stroke-width", 2)
        //.attr("opacity", 0.7)
 
 
-    // Highligh most recent nowcast with a circle
+    // Highlight most recent nowcast with a circle
     svg.selectAll("currentNowcast")
        .data(nowcast.filter((d, i) => i == nowcast.length - 1))
        .enter()
@@ -175,7 +181,7 @@ d3.json(url).then(function(data) {
        .attr("cx", (d) => xScale(new Date(time[time.length-1])))
        .attr("cy", (d) => yScaleLeft(d))
        .attr("r", 6)
-       .attr("fill", currentNowcastColor)
+       .attr("fill", NowcastColor)
        .attr("data-legend", "Nowcast")
 
     // Add axes labels
@@ -201,15 +207,14 @@ d3.json(url).then(function(data) {
 
     // Grey box around legend
     svg.append("rect").attr("x", 85).attr("y", margin.top+5).attr("rx", 5).attr("ry", 5)
-                      .attr("width", legendWidth).attr("height", 100)//.attr("opacity", 0.2)
+                      .attr("width", legendWidth).attr("height", 100).attr("opacity", 0.2)
                       .attr("fill",  "#ecf0f1")
 
     var legend = svg.selectAll(".lineLegend").data(legendKeys).enter()
                     .append("g").attr("class","lineLegend")
                     .attr("transform", (d,i) => "translate(100," + (margin.top+20+i*22)+")");
 
-
-
+                    
     // Legend entries for the line plots
     // See this post: https://stackoverflow.com/questions/38954316/adding-legends-to-d3-js-line-charts
     legend.append("text").text((d) => d).attr("transform", "translate(19,5.5)")
@@ -220,16 +225,16 @@ d3.json(url).then(function(data) {
 
     // Make detections line dashed in legend
     svg.append("rect").attr("x", 101).attr("y", margin.top+20+44)
-                      .attr("width", 2).attr("height", 10)
-                      .attr("fill",  "#ecf0f1")
+                      .attr("width", 2).attr("height", 2.5)
+                      .attr("fill",  "#ffffff")//.attr("opacity", 0.2)
 
     svg.append("rect").attr("x", 106).attr("y", margin.top+20+44)
-                      .attr("width", 2).attr("height", 10)
-                      .attr("fill",  "#ecf0f1")
+                      .attr("width", 2).attr("height", 2.5)
+                      .attr("fill",  "#ffffff")
 
     svg.append("rect").attr("x", 111).attr("y", margin.top+20+44)
-                      .attr("width", 2).attr("height", 10)
-                      .attr("fill",  "#ecf0f1")
+                      .attr("width", 2).attr("height", 2.5)
+                      .attr("fill",  "#ffffff")
 
     // Legend entry for the current nowcast
     svg.append("circle").attr("cx", 106).attr("cy", margin.top+20 + 3 * 22+1.5).attr("r", 6)

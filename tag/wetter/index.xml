@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wetter | Corona-Datenspende | News &amp; Analysen</title>
-    <link>https://corona-datenspende.de/tag/wetter/</link>
-      <atom:link href="https://corona-datenspende.de/tag/wetter/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://corona-datenspende.github.io/tag/wetter/</link>
+      <atom:link href="https://corona-datenspende.github.io/tag/wetter/index.xml" rel="self" type="application/rss+xml" />
     <description>Wetter</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>de</language><lastBuildDate>Tue, 07 Jul 2020 08:40:00 +0200</lastBuildDate>
     <image>
-      <url>https://corona-datenspende.de/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
+      <url>https://corona-datenspende.github.io/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
       <title>Wetter</title>
-      <link>https://corona-datenspende.de/tag/wetter/</link>
+      <link>https://corona-datenspende.github.io/tag/wetter/</link>
     </image>
     
     <item>
       <title>Schönes Wetter lässt Herzen höher Schlagen</title>
-      <link>https://corona-datenspende.de/reports/weather/</link>
+      <link>https://corona-datenspende.github.io/reports/weather/</link>
       <pubDate>Tue, 07 Jul 2020 08:40:00 +0200</pubDate>
-      <guid>https://corona-datenspende.de/reports/weather/</guid>
+      <guid>https://corona-datenspende.github.io/reports/weather/</guid>
       <description>&lt;p&gt;In den letzten Monaten hat sich viel verändert: die Zahl der aktiven COVID-19-Fälle,
 die regional unterschiedlichen Corona-Verordnungen aber auch alltägliche Dinge wie das Wetter.
 Viele dieser Dinge können die Vitaldaten unserer Spender:innen verändern, z.B. &lt;em&gt;könnten&lt;/em&gt; gelockerte Ausgangsbeschränkungen, Feiertage und gutes Wetter zu mehr Sport und Aktivität und damit &lt;em&gt;vielleicht&lt;/em&gt; auch zu einem höheren Ruhepuls führen.&lt;/p&gt;

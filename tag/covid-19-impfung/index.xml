@@ -2,23 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>COVID-19-Impfung | Corona-Datenspende | News &amp; Analysen</title>
-    <link>https://corona-datenspende.de/tag/covid-19-impfung/</link>
-      <atom:link href="https://corona-datenspende.de/tag/covid-19-impfung/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://corona-datenspende.github.io/tag/covid-19-impfung/</link>
+      <atom:link href="https://corona-datenspende.github.io/tag/covid-19-impfung/index.xml" rel="self" type="application/rss+xml" />
     <description>COVID-19-Impfung</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>de</language><lastBuildDate>Wed, 09 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://corona-datenspende.de/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
+      <url>https://corona-datenspende.github.io/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
       <title>COVID-19-Impfung</title>
-      <link>https://corona-datenspende.de/tag/covid-19-impfung/</link>
+      <link>https://corona-datenspende.github.io/tag/covid-19-impfung/</link>
     </image>
     
     <item>
       <title>Verlaufen Durchbruchsinfektionen im Mittel milder?</title>
-      <link>https://corona-datenspende.de/reports/breakthroughinfections/</link>
+      <link>https://corona-datenspende.github.io/reports/breakthroughinfections/</link>
       <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/reports/breakthroughinfections/</guid>
-      <description>&lt;p&gt;Liebe Datenspender:innen,&lt;/p&gt;
-&lt;p&gt;in einem unserer letzen &lt;a href=&#34;https://corona-datenspende.de/reports/prolongedchanges/&#34;&gt;Blog-Beiträge&lt;/a&gt; haben wir gezeigt, wie sich die gespendeten Vitaldaten im Verlauf einer COVID-19-Erkrankung typischerweise verändern. In den Wochen nach einem positiven PCR-Test sehen wir einen &lt;strong&gt;erhöhten Ruhepuls&lt;/strong&gt;, eine &lt;strong&gt;starke Verringerung der täglichen Aktivität&lt;/strong&gt; und eine &lt;strong&gt;verlängerte Schlafdauer&lt;/strong&gt;, die alle als Anzeichen für Krankheit und ein erhöhtes Ruhebedürfnis gedeutet werden können.&lt;/p&gt;
+      <guid>https://corona-datenspende.github.io/reports/breakthroughinfections/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Update 10.08.2023:&lt;/strong&gt; Die hier gezeigten Ergebnisse wurden als Teil einer umfassenderen Analyse in der wissenschaftlichen Fachzeitschrift PNAS Nexus &lt;a href=&#34;https://doi.org/10.1093/pnasnexus/pgad223&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;veröffentlicht&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Liebe Datenspender:innen,&lt;/p&gt;
+&lt;p&gt;in einem unserer letzen &lt;a href=&#34;https://corona-datenspende.github.io/science/reports/prolongedchanges/&#34;&gt;Blog-Beiträge&lt;/a&gt; haben wir gezeigt, wie sich die gespendeten Vitaldaten im Verlauf einer COVID-19-Erkrankung typischerweise verändern. In den Wochen nach einem positiven PCR-Test sehen wir einen &lt;strong&gt;erhöhten Ruhepuls&lt;/strong&gt;, eine &lt;strong&gt;starke Verringerung der täglichen Aktivität&lt;/strong&gt; und eine &lt;strong&gt;verlängerte Schlafdauer&lt;/strong&gt;, die alle als Anzeichen für Krankheit und ein erhöhtes Ruhebedürfnis gedeutet werden können.&lt;/p&gt;
 &lt;p&gt;Im Zuge der aktiven Beteiligung an der Datenspende und den entsprechenden Umfragen haben mittlerweile 25255 Spender:innen ihren Impfstatus und die Ergebnisse von insgesamt 16489 PCR-Tests übermittelt (von denen 2149 positiv waren). Wir können somit zwischen Infektionen unterscheiden, die vor oder nach einer vollständigen Impfung aufgetreten sind. Für beide Gruppen (geimpft und ungeimpft) untersuchen wir dazu die erwarteten Veränderungen der Vitaldaten im Vergleich zu einem Zeitraum von zwei Monaten vor der Infektion – also den typischen Werten für Schlafdauer, Aktivität und Ruhepuls. Auf diese Weise möchten wir herausfinden, welchen Effekt eine Impfung auf langfristige Auswirkungen von COVID-19 hat.&lt;/p&gt;
 &lt;p&gt;Noch ein Hinweis, bevor wir mit der Analyse beginnen: Mittlerweile sind fast alle Spender:innen, die ihren Impfstatus angegeben haben, vollständig erstimmunisiert oder geboostert. Wenn wir im Folgenden von ungeimpften Fällen sprechen, beziehen wir uns auf Personen, die sich bereits mit COVID-19 angesteckt haben, als Impfstoffe noch nicht verfügbar waren bzw. die Spender:innen noch keine Impfung erhielten. Fast alle ungeimpften Fälle wurden Ende 2020/Anfang 2021 (zweite/dritte Welle) registriert, während die meisten Durchbruchsinfektionen ab Herbst 2021 (vierte/fünfte Welle) verzeichnet werden. Es ist also möglich, dass die folgenden Ergebnisse teilweise auch auf unterschiedliche Reaktionen des Körpers auf die verschiedenen Varianten von Sars-CoV-2 zurückzuführen sind.&lt;/p&gt;
 &lt;h3 id=&#34;ruhepulsänderungen-fallen-bei-geimpften-schwächer-aus&#34;&gt;Ruhepulsänderungen fallen bei Geimpften schwächer aus&lt;/h3&gt;
@@ -44,7 +46,7 @@
                /media/figures/vaccinations/vaccines_long_covid_65_de_huf7890d83b8ea642bbfb756f21d3388af_148715_062936a7478d88908a3f311147070e14.webp 400w,
                /media/figures/vaccinations/vaccines_long_covid_65_de_huf7890d83b8ea642bbfb756f21d3388af_148715_b8c4a9310c0827038d8805d1b4e83b98.webp 760w,
                /media/figures/vaccinations/vaccines_long_covid_65_de_huf7890d83b8ea642bbfb756f21d3388af_148715_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://corona-datenspende.de/media/figures/vaccinations/vaccines_long_covid_65_de_huf7890d83b8ea642bbfb756f21d3388af_148715_062936a7478d88908a3f311147070e14.webp&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/vaccinations/vaccines_long_covid_65_de_huf7890d83b8ea642bbfb756f21d3388af_148715_062936a7478d88908a3f311147070e14.webp&#34;
                width=&#34;60%&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -76,14 +78,14 @@
                /media/figures/vaccinations/vaccines_long_covid_9_de_hu99dc90014ac6cb7e5fbb1918fab261d7_131657_b898b139636514dbd18a2ccfaf2810af.webp 400w,
                /media/figures/vaccinations/vaccines_long_covid_9_de_hu99dc90014ac6cb7e5fbb1918fab261d7_131657_656bc6bdc83956a0f3b69d1627a648c2.webp 760w,
                /media/figures/vaccinations/vaccines_long_covid_9_de_hu99dc90014ac6cb7e5fbb1918fab261d7_131657_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://corona-datenspende.de/media/figures/vaccinations/vaccines_long_covid_9_de_hu99dc90014ac6cb7e5fbb1918fab261d7_131657_b898b139636514dbd18a2ccfaf2810af.webp&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/vaccinations/vaccines_long_covid_9_de_hu99dc90014ac6cb7e5fbb1918fab261d7_131657_b898b139636514dbd18a2ccfaf2810af.webp&#34;
                width=&#34;60%&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;strong&gt;Abbildung 2:&lt;/strong&gt; Mittlere Änderung der Aktivität von ungeimpften (rot) und geimpften (violett) positiv auf COVID-19 getesteten Spender:innen sowie von negativ getesteten Personen (blau) zum Vergleich.
     &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;p&gt;Die tägliche Aktivität oder Schrittzahl ist eine zweite Kennzahl, die wir in der Datenspende &lt;a href=&#34;https://corona-datenspende.de/reports/schritte/&#34;&gt;häufig betrachten&lt;/a&gt;. Sowohl bei Geimpften als auch bei Ungeimpften nimmt dieser Wert in der Woche nach einem positiven PCR-Test am stärksten ab, was höchstwahrscheinlich darauf zurückzuführen ist, dass die Spender:innen sich in Quarantäne befinden. Wir stellen jedoch zwei subtile, aber wichtige Unterschiede zwischen geimpften und ungeimpften Fällen fest:&lt;/p&gt;
+&lt;p&gt;Die tägliche Aktivität oder Schrittzahl ist eine zweite Kennzahl, die wir in der Datenspende &lt;a href=&#34;https://corona-datenspende.github.io/science/reports/schritte/&#34;&gt;häufig betrachten&lt;/a&gt;. Sowohl bei Geimpften als auch bei Ungeimpften nimmt dieser Wert in der Woche nach einem positiven PCR-Test am stärksten ab, was höchstwahrscheinlich darauf zurückzuführen ist, dass die Spender:innen sich in Quarantäne befinden. Wir stellen jedoch zwei subtile, aber wichtige Unterschiede zwischen geimpften und ungeimpften Fällen fest:&lt;/p&gt;
 &lt;p&gt;(i) Der Aktivitätsrückgang in der eigentlichen Testwoche ist bei Ungeimpften fast doppelt so stark. Das heißt für diese Gruppe tritt die entsprechende Reduktion früher ein als bei geimpften Spender:innen – wahrscheinlich sogar schon in den Tagen vor der Testdurchführung. Es scheint also, dass ein solcher Rückgang bereits auf eine bevorstehende Erkrankung hindeutet und nicht nur eine Reaktion auf Isolationsanordnungen ist.&lt;/p&gt;
 &lt;p&gt;(ii) Während die Aktivität von Geimpften nach drei bis (höchstens) sechs Wochen zumeist wieder auf typische Werte zurückgeht, finden wir bei Ungeimpften geringe Abweichungen von diesen typischen Werten, die erst nach bis zu 13 Wochen verschwinden. Das deutet darauf hin, dass das Risiko einer andauernden Einschränkung üblicher Aktivitäten über die Isolationszeit hinaus bei Ungeimpften größer ist, obgleich sie auch bei geimpften Personen nicht völlig verschwindet.&lt;/p&gt;
 &lt;h3 id=&#34;schlafdauer-erhöht-sich-während-der-quarantäne&#34;&gt;Schlafdauer erhöht sich während der Quarantäne&lt;/h3&gt;
@@ -109,7 +111,7 @@
                /media/figures/vaccinations/vaccines_long_covid_43_de_hu156896adeecb4ca2d52fb04085457e02_138634_c90d7a0e314ff43cd4db3c25d58e9cd6.webp 400w,
                /media/figures/vaccinations/vaccines_long_covid_43_de_hu156896adeecb4ca2d52fb04085457e02_138634_345c9c362797dc6ce077609e680efaea.webp 760w,
                /media/figures/vaccinations/vaccines_long_covid_43_de_hu156896adeecb4ca2d52fb04085457e02_138634_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://corona-datenspende.de/media/figures/vaccinations/vaccines_long_covid_43_de_hu156896adeecb4ca2d52fb04085457e02_138634_c90d7a0e314ff43cd4db3c25d58e9cd6.webp&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/vaccinations/vaccines_long_covid_43_de_hu156896adeecb4ca2d52fb04085457e02_138634_c90d7a0e314ff43cd4db3c25d58e9cd6.webp&#34;
                width=&#34;60%&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

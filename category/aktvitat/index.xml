@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aktvität | Corona-Datenspende | News &amp; Analysen</title>
-    <link>https://corona-datenspende.de/category/aktvitat/</link>
-      <atom:link href="https://corona-datenspende.de/category/aktvitat/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://corona-datenspende.github.io/category/aktvitat/</link>
+      <atom:link href="https://corona-datenspende.github.io/category/aktvitat/index.xml" rel="self" type="application/rss+xml" />
     <description>Aktvität</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>de</language><lastBuildDate>Fri, 30 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://corona-datenspende.de/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
+      <url>https://corona-datenspende.github.io/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
       <title>Aktvität</title>
-      <link>https://corona-datenspende.de/category/aktvitat/</link>
+      <link>https://corona-datenspende.github.io/category/aktvitat/</link>
     </image>
     
     <item>
       <title>Ein Jahr Datenspende Daten</title>
-      <link>https://corona-datenspende.de/reports/oneyearofdata/</link>
+      <link>https://corona-datenspende.github.io/reports/oneyearofdata/</link>
       <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/reports/oneyearofdata/</guid>
+      <guid>https://corona-datenspende.github.io/reports/oneyearofdata/</guid>
       <description>&lt;p&gt;Liebe Spender:innen!&lt;/p&gt;
 &lt;p&gt;Als dieses Projekt im April 2020 begann, haben wir nicht mit Hunderttausenden von Menschen gerechnet, die
 ihre Gesundheitsdaten für mehr als ein Jahr spenden werden. Eure Teilnahme und anhaltende Bereitschaft,
@@ -129,9 +129,9 @@ Der Effekt ist jedoch eher gering, sodass wir keine konkrete Interpretation biet
     
     <item>
       <title>Vergleich der Detektionen</title>
-      <link>https://corona-datenspende.de/reports/detectionscompared/</link>
+      <link>https://corona-datenspende.github.io/reports/detectionscompared/</link>
       <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/reports/detectionscompared/</guid>
+      <guid>https://corona-datenspende.github.io/reports/detectionscompared/</guid>
       <description>&lt;h3 id=&#34;liebe-spenderinnen&#34;&gt;Liebe Spender:innen,&lt;/h3&gt;
 &lt;p&gt;in diesem Bericht wollen wir uns die Detektionen, die wir im Laufe des letzten Jahres beobachtet haben,
 genauer ansehen und die Fieberkurve mit anderen bestehenden COVID-19-bezogenen Public Health Daten vergleichen.&lt;/p&gt;
@@ -188,7 +188,7 @@ auch hier eine Schiefe aufweisen. 89% unserer Spender:innen befinden sich in Wes
 
 &lt;p&gt;Weitere Informationen zur Demografie der Spender:innen, einschließlich eines Vergleichs der Alters- und
 Geschlechterverteilung zum bundesdeutschen Durchschnitt finden Sie in unserem früheren Beitrag:
-&lt;a href=&#34;https://corona-datenspende.de/reports/demographie/&#34;&gt;Demographics des Spenders&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;https://corona-datenspende.github.io/reports/demographie/&#34;&gt;Demographics des Spenders&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;vergleich-mit-anderen-datenquellen&#34;&gt;Vergleich mit anderen Datenquellen&lt;/h2&gt;
 &lt;p&gt;Nun vergleichen wir die wöchentlich aggregierte Detektionskurve mit den drei folgenden Datenquellen:&lt;/p&gt;
 

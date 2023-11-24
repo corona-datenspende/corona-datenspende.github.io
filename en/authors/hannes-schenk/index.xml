@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hannes Schenk | Corona Data Donation Project | News &amp; Analyses</title>
-    <link>https://corona-datenspende.de/en/authors/hannes-schenk/</link>
-      <atom:link href="https://corona-datenspende.de/en/authors/hannes-schenk/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://corona-datenspende.github.io/en/authors/hannes-schenk/</link>
+      <atom:link href="https://corona-datenspende.github.io/en/authors/hannes-schenk/index.xml" rel="self" type="application/rss+xml" />
     <description>Hannes Schenk</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 22 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://corona-datenspende.de/en/authors/hannes-schenk/avatar_hu3e545f454951a82783925a563a4a3d76_85193_270x270_fill_q75_lanczos_center.jpeg</url>
+      <url>https://corona-datenspende.github.io/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
       <title>Hannes Schenk</title>
-      <link>https://corona-datenspende.de/en/authors/hannes-schenk/</link>
+      <link>https://corona-datenspende.github.io/en/authors/hannes-schenk/</link>
     </image>
     
     <item>
       <title>Two years of data donation: The Vital Data Explorer</title>
-      <link>https://corona-datenspende.de/en/reports/vital-data-explorer/</link>
+      <link>https://corona-datenspende.github.io/en/reports/vital-data-explorer/</link>
       <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/en/reports/vital-data-explorer/</guid>
+      <guid>https://corona-datenspende.github.io/en/reports/vital-data-explorer/</guid>
       <description>&lt;p&gt;Dear Donors,&lt;/p&gt;
-&lt;p&gt;About a year ago, we were able to &lt;a href=&#34;https://corona-datenspende.de/science/en/reports/oneyearofdata/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;take stock of the first year of Datenspende&lt;/a&gt;. Today, around 470 million donated data points on heart rate, step count and sleep provide us with a unique insight into the development of vital signs under pandemic conditions.&lt;/p&gt;
+&lt;p&gt;About a year ago, we were able to &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/oneyearofdata/&#34;&gt;take stock of the first year of Datenspende&lt;/a&gt;. Today, around 470 million donated data points on heart rate, step count and sleep provide us with a unique insight into the development of vital signs under pandemic conditions.&lt;/p&gt;
 &lt;p&gt;To give you a glimpse into our data analysis process and the amount of work that has gone into this project, in this article we touch upon some of the challenges we’ve faced over the course of two years of data donation. We further introduce you to a new tool for exploring these  vital signals for yourself.&lt;/p&gt;
 &lt;h3 id=&#34;what-we-were-able-to-show-last-time&#34;&gt;What we were able to show last time&lt;/h3&gt;
-&lt;p&gt;In May 2021, measurement data from 2020 and 2021 were available for the same month for the first time. This marked a major milestone for our analyses: we were able to explore what insights can be gathered from this year-to-year comparison. &lt;a href=&#34;https://corona-datenspende.de/science/en/reports/oneyearofdata/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;In this blog post&lt;/a&gt;, we demonstrated some of the interpretations we were able to draw. For example, the &lt;a href=&#34;https://www.tum.de/en/about-tum/news/covid-19/short/36715&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;weight gain of many people&lt;/a&gt; during the COVID-19 pandemic could be an explanation for the observed increase in resting heart rate during the year. Weather may also have a considerable influence on heart rate and activity patterns. However, one thing has become clear from many of our analyses to date: your donated data cannot just be analyzed independently, but must always be evaluated in the context of external, possibly interconnected circumstances.&lt;/p&gt;
+&lt;p&gt;In May 2021, measurement data from 2020 and 2021 were available for the same month for the first time. This marked a major milestone for our analyses: we were able to explore what insights can be gathered from this year-to-year comparison. &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/oneyearofdata/&#34;&gt;In this blog post&lt;/a&gt;, we demonstrated some of the interpretations we were able to draw. For example, the &lt;a href=&#34;https://www.tum.de/en/about-tum/news/covid-19/short/36715&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;weight gain of many people&lt;/a&gt; during the COVID-19 pandemic could be an explanation for the observed increase in resting heart rate during the year. Weather may also have a considerable influence on heart rate and activity patterns. However, one thing has become clear from many of our analyses to date: your donated data cannot just be analyzed independently, but must always be evaluated in the context of external, possibly interconnected circumstances.&lt;/p&gt;
 &lt;h3 id=&#34;what-is-possible-now&#34;&gt;What is possible now?&lt;/h3&gt;
 &lt;p&gt;A year ago our scope was relatively limited. At that time, we were only able to compare the month of May across two years - a month that already tended to be associated with declining case numbers following the end of the winter waves since the beginning of the COVID-19 pandemic. For periods with more prevalent infectious activity, we lacked year-to-year comparative values. &lt;strong&gt;Thanks to your donations, comparing for example seasonal influences (e.g. low temperatures and longer nights in winter) is now becoming viable&lt;/strong&gt;. But: there are many more possible influences and signals that can be found in our data - and we want to give you the opportunity to take a look for yourself.&lt;/p&gt;
 &lt;h3 id=&#34;two-years-at-a-glance&#34;&gt;Two years at a glance&lt;/h3&gt;
@@ -42,7 +42,171 @@ In case the visualization does not load right away, simply select select a data 
 &lt;h3 id=&#34;what-can-be-explored&#34;&gt;What can be explored?&lt;/h3&gt;
 &lt;p&gt;Basically everything. Using the example of Christmas 2021, we will show you what can be found in our data. In the period from 12/24/2021 to 12/31/2021, the average heart rate increased by almost a whole beat per minute. That may not sound like much, but at the population level, it is a very clear signal. The increase can be explained, for example, by holiday stress, or by a possible increase in alcohol consumption, which &lt;a href=&#34;https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012787.pub2/full&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;systematically increases the resting heart rate&lt;/a&gt;. During the same period, we also sleep less on average and take fewer steps per day than usual. Only after the holidays do these observed values normalize again.&lt;/p&gt;
 &lt;h3 id=&#34;whats-next&#34;&gt;What&amp;rsquo;s next?&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://corona-datenspende.de/science/en/reports/longcovidlaunch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Three months ago, we broadened the focus of our research&lt;/a&gt;. Together with various research groups working on the topic of long-COVID, we are investigating the question: What are the long-term effects of COVID-19 once the acute phase of the viral infection is over? With your data, we can approach this question from various angles, including heart rate, physical activity, sleep, mental health and quality of life. In one of the next blog posts, we’ll share insights on how we do that - and explore how the daily lives of people with chronic health conditions changed in the aftermath of an acute COVID-19 infection.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://corona-datenspende.github.io/en/reports/longcovidlaunch/&#34;&gt;Three months ago, we broadened the focus of our research&lt;/a&gt;. Together with various research groups working on the topic of long-COVID, we are investigating the question: What are the long-term effects of COVID-19 once the acute phase of the viral infection is over? With your data, we can approach this question from various angles, including heart rate, physical activity, sleep, mental health and quality of life. In one of the next blog posts, we’ll share insights on how we do that - and explore how the daily lives of people with chronic health conditions changed in the aftermath of an acute COVID-19 infection.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sleep as a further source of information during this pandemic</title>
+      <link>https://corona-datenspende.github.io/en/reports/c19sleep/</link>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://corona-datenspende.github.io/en/reports/c19sleep/</guid>
+      <description>&lt;p&gt;Around a quarter of you donates not only their daily heart rate and steps but also their sleep data, particularly how long and when you sleep. Since sleep provides a wealth of information on health and well-being, we are now taking a closer look at these data - enlisting also the expertise of sleep researchers.&lt;/p&gt;
+&lt;p&gt;Our analysis of the sleep data has two main aims:
+First, we would like to understand how sleep is changed under the pandemic - because of lockdowns, home office and psychological burden or distress. We hope that this will provide indications about general well-being and health during the pandemic as well as side effects of pandemic measures.
+Second, we want to further improve our fever monitor based on the sleep data. Someone who is acutely sick usually sleeps more than before. We seek to make use of this effect in our real-time monitoring of COVID-19 cases in Germany.&lt;/p&gt;
+&lt;p&gt;In this blog post, we would like to introduce the sleep data in general.&lt;/p&gt;
+&lt;h3 id=&#34;how-do-we-sleep&#34;&gt;How do we sleep?&lt;/h3&gt;
+&lt;p&gt;Sleep has multiple dimensions. Among those most easily measurable are sleep duration and sleep timing. Sleep duration refers to how long one sleeps; sleep timing refers to when one sleeps i.e. the midpoint between first falling asleep and the final wake-up. Both sleep duration and sleep timing change with age and differ between women and men. This is also the case in the data from the donation-data:&lt;/p&gt;
+&lt;h4 id=&#34;sleep-duration&#34;&gt;Sleep duration&lt;/h4&gt;
+&lt;p&gt;Sleep duration: You can see that young donors sleep on average the most and with increasing age, sleep gradually shortens. Across most ages, women sleep slightly longer than men. The group showing the shortest sleep duration are 60-year-old men with 6h 59 min. In contrast, the group of 20-year-old women sleeps on average half an hour longer at 7h 30min.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /media/figures/sleepTimesAgeGenderEng_hufce62f507e78772ed3d2ab1254c20bb8_57601_a94d153ac3181acf581789910efa5fb1.webp 400w,
+               /media/figures/sleepTimesAgeGenderEng_hufce62f507e78772ed3d2ab1254c20bb8_57601_14de0910807507006c6761d9d57c86f4.webp 760w,
+               /media/figures/sleepTimesAgeGenderEng_hufce62f507e78772ed3d2ab1254c20bb8_57601_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/sleepTimesAgeGenderEng_hufce62f507e78772ed3d2ab1254c20bb8_57601_a94d153ac3181acf581789910efa5fb1.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;380&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;h4 id=&#34;sleep-timing&#34;&gt;Sleep timing&lt;/h4&gt;
+&lt;p&gt;Who is the most pronounced night owl, can fall asleep only late and has trouble getting up in the morning? No surprises here: the teenagers and young adults show the latest sleep timing also in the donation-data (shown is the sleep timing on weekends). With increasing age, sleep becomes earlier and earlier, so owls slowly transform into larks. Generally, men tend to be more owlish than women i.e. sleep later. The earliest midsleep time is exhibited by 70-year-old men at 03:40. In contrast, the latest midsleep time, over one hour later, can be seen in 20-year-old men at 04:50. If one assumes a fixed sleep duration of 8 hours, a young man would sleep on average from 00:50AM to 08:50AM on his weekends, whereas a man well advanced in years would sleep rather from 11:40PM to 07:40AM.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /media/figures/midSleepTimeAgeGenderEng_hu92d55fbf1d6310c99b5bf11f10db9f96_55152_ec68c7cd4862ccbaf58a4c6ea581b101.webp 400w,
+               /media/figures/midSleepTimeAgeGenderEng_hu92d55fbf1d6310c99b5bf11f10db9f96_55152_b5b7f8b814ef19c7960eee263fbf7aa7.webp 760w,
+               /media/figures/midSleepTimeAgeGenderEng_hu92d55fbf1d6310c99b5bf11f10db9f96_55152_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/midSleepTimeAgeGenderEng_hu92d55fbf1d6310c99b5bf11f10db9f96_55152_ec68c7cd4862ccbaf58a4c6ea581b101.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;380&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;h3 id=&#34;sleep-timing-is-regulated-by-a-body-clock---set-by-light&#34;&gt;Sleep timing is regulated by a body clock - set by light&lt;/h3&gt;
+&lt;p&gt;When and how we sleep is not our free decision but subject to strong biological regulation. Our body clock, also called circadian clock, provides our body with an internal time-of-day: during the biological night, our body is programmed for sleep, during the biological day, it is programmed for wakefulness. The circadian clock is mainly set by light - the best and strongest light for synchronisation is sunlight.&lt;/p&gt;
+&lt;p&gt;The donation-data show quite nicely that our sleep is indeed influenced by sunlight. There is a clear pattern from East to West in sleep timing. In the East, where the sun rises and sets earlier, people sleep earlier on their free days (weekends and holidays) than in the West, where the sun rises and sets later (around 4 min per longitude).&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /media/figures/midSleepWeekendMapEng_huca923ce76c5b1672030e16edf38f3cf9_211895_24fdfb0780328e9855d9a47e2ecc99c9.webp 400w,
+               /media/figures/midSleepWeekendMapEng_huca923ce76c5b1672030e16edf38f3cf9_211895_aadf7105e9e64b0da858f06d3c4f88cc.webp 760w,
+               /media/figures/midSleepWeekendMapEng_huca923ce76c5b1672030e16edf38f3cf9_211895_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/midSleepWeekendMapEng_huca923ce76c5b1672030e16edf38f3cf9_211895_24fdfb0780328e9855d9a47e2ecc99c9.webp&#34;
+               width=&#34;475&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;p&gt;The cities stand out from this pattern: Here, sleep timing is significantly later than in the surrounding, less populated areas. Several studies indicate that this is at least partly due to lower daylight exposure in densely populated areas. A weaker light signal leads to a delay in the circadian clock and thus also in sleep timing. If opportunities for evening leisure activities also play a role is not clear, however, during pandemic times, there are much less such opportunities…&lt;/p&gt;
+&lt;p&gt;The town Sömmerada in Thuringia shows the earliest sleep timing with an average of 03:12. The people in the city of Mainz in North Rhine-Westphalia sleep almost a full hour later with an average of 04:11. For this comparison, however, one needs to take into account also the differing demographics between the regions.&lt;/p&gt;
+&lt;h3 id=&#34;living-and-sleeping-in-2-time-zones-jetlag-at-home-without-any-travel&#34;&gt;Living and sleeping in 2 time zones: jetlag at home without any travel&lt;/h3&gt;
+&lt;p&gt;Much stronger than the East-West pattern, however, is the workday-weekend pattern in sleep timing. This can be seen also in the plot of the daily sleep timing in the donation-data: on weekends, donors slept not only longer but also much later than during the week.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /media/figures/AvgSleepTimeEng_huea311139d4188f9451cd2a91661620e7_79665_9d3c899246b4c8c82a8ca8ae2522696a.webp 400w,
+               /media/figures/AvgSleepTimeEng_huea311139d4188f9451cd2a91661620e7_79665_b51eb17e1f6b4130ca49706018719841.webp 760w,
+               /media/figures/AvgSleepTimeEng_huea311139d4188f9451cd2a91661620e7_79665_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/AvgSleepTimeEng_huea311139d4188f9451cd2a91661620e7_79665_9d3c899246b4c8c82a8ca8ae2522696a.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;380&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;p&gt;The strong weekly pattern shows also interesting deviations: on public holidays in May and June, and most strongly over Christmas and New Year’s. As expected, the latest mid-sleep time was on January 1st at 05:29 after New Year’s celebrations. The earliest sleep timing was found at 02:47 on the day after the change from Daylight Saving Time to standard time at the end of October. This means a difference of 3 hours in average sleep timing across the year! What were the effects of the recent change into DST? We are most curious and will look into the DST effects more closely in a future blog post.&lt;/p&gt;
+&lt;p&gt;Since the weekly differences in sleep timing between workdays and free days remind of travel across time zones, this phenomenon is also called “social jetlag”. It seems that we literally travel between two time zones each week, one work time zone and one leisure time zone. According to our preliminary analyses, the north-westerly regions of Germany seem to be a bit more affected by social jetlag than the south-easterly regions. In southeasterly Upper Bavaria (Bavaria), donors show on average 45 min of social jetlag, in northwesterly Weser-Ems (Lower Saxony), they have 56 min of social jetlag. Also here, demographic differences between the regions need to be considered when interpreting the data.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /media/figures/socialJetlagMapEng_hu90ec062da5ed97c41c9654249c54b3ca_105470_96a3fcde923ccad84e556286c0132cfc.webp 400w,
+               /media/figures/socialJetlagMapEng_hu90ec062da5ed97c41c9654249c54b3ca_105470_e653ba437925824a7db723d6c9c49a72.webp 760w,
+               /media/figures/socialJetlagMapEng_hu90ec062da5ed97c41c9654249c54b3ca_105470_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/socialJetlagMapEng_hu90ec062da5ed97c41c9654249c54b3ca_105470_96a3fcde923ccad84e556286c0132cfc.webp&#34;
+               width=&#34;475&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;p&gt;How does COVID-19 and pandemic measures influence sleep and these patterns? We will take a closer look in one of our following blog posts.&lt;/p&gt;
 </description>
     </item>
     

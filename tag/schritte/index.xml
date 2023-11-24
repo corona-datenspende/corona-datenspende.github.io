@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Schritte | Corona-Datenspende | News &amp; Analysen</title>
-    <link>https://corona-datenspende.de/tag/schritte/</link>
-      <atom:link href="https://corona-datenspende.de/tag/schritte/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://corona-datenspende.github.io/tag/schritte/</link>
+      <atom:link href="https://corona-datenspende.github.io/tag/schritte/index.xml" rel="self" type="application/rss+xml" />
     <description>Schritte</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>de</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://corona-datenspende.de/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
+      <url>https://corona-datenspende.github.io/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
       <title>Schritte</title>
-      <link>https://corona-datenspende.de/tag/schritte/</link>
+      <link>https://corona-datenspende.github.io/tag/schritte/</link>
     </image>
     
     <item>
       <title>Schritt für Schritt</title>
-      <link>https://corona-datenspende.de/reports/schritte/</link>
+      <link>https://corona-datenspende.github.io/reports/schritte/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/reports/schritte/</guid>
+      <guid>https://corona-datenspende.github.io/reports/schritte/</guid>
       <description>&lt;h3 id=&#34;die-verteilung-der-täglichen-schrittanzahl&#34;&gt;Die Verteilung der täglichen Schrittanzahl&lt;/h3&gt;
-&lt;p&gt;Neben dem täglich gemittelten Ruhepuls liefern die Fitnessarmbänder / Wearables auch Daten zur täglichen Schrittanzahl. Die Schrittanzahl ist neben dem Ruhepuls eine ganz wichtige Größe für die wissenschaftliche Auswertung. Wie im &lt;a href=&#34;https://corona-datenspende.de/reports/pulse/&#34;&gt;Post &lt;strong&gt;Der Puls der Nation&lt;/strong&gt;&lt;/a&gt; genauer erklärt wurde, können Abweichungen vom normalen Ruhepuls ein Indiz für Fieber sein. Allerdings kann es auch sein, dass der tägliche Ruhepuls aus anderen Gründen vom Normalwert abweicht. Wenn aber gleichzeitig die tägliche Schrittanzahl deutlich niedriger ist als die normale tägliche Schrittanzahl, dann ist das in Kombination mit einem erhöhten Ruhepuls ein schärferes Indiz für Fieber. Die Schrittanzahlauswertung kann also die Analyseergebnisse verbessern.&lt;/p&gt;
+&lt;p&gt;Neben dem täglich gemittelten Ruhepuls liefern die Fitnessarmbänder / Wearables auch Daten zur täglichen Schrittanzahl. Die Schrittanzahl ist neben dem Ruhepuls eine ganz wichtige Größe für die wissenschaftliche Auswertung. Wie im &lt;a href=&#34;https://corona-datenspende.github.io/reports/pulse/&#34;&gt;Post &lt;strong&gt;Der Puls der Nation&lt;/strong&gt;&lt;/a&gt; genauer erklärt wurde, können Abweichungen vom normalen Ruhepuls ein Indiz für Fieber sein. Allerdings kann es auch sein, dass der tägliche Ruhepuls aus anderen Gründen vom Normalwert abweicht. Wenn aber gleichzeitig die tägliche Schrittanzahl deutlich niedriger ist als die normale tägliche Schrittanzahl, dann ist das in Kombination mit einem erhöhten Ruhepuls ein schärferes Indiz für Fieber. Die Schrittanzahlauswertung kann also die Analyseergebnisse verbessern.&lt;/p&gt;
 &lt;p&gt;Allerdings ist es auch hier wichtig, die Schrittanzahldaten zunächst einmal isoliert zu betrachten, damit wir besser verstehen, welchen Schwankungen diese Daten typischerweise unterliegen. Es ist ja zu erwarten, dass wir z.B. an Wochenenden oder Feiertagen im Vergleich zu Werktagen, bei gutem oder schlechtem Wetter, andere tägliche Schrittanzahlwerte produzieren. Da sich unsere Analysen auf die Bevölkerung von Stadt- und Landkreisen beziehen, müssen wir messen, ob sich Unterschiede zwischen einzelnen Spender:innen &amp;ldquo;rausmitteln&amp;rdquo; und ob die Schwankungen und Einflüsse für die ganze Population gelten. Nur so können wir dann genau die Referenzgrößen für die tägliche Schrittanzahl festlegen.&lt;/p&gt;
 &lt;h3 id=&#34;schrittanzahlstatistik-für-deutschland-und-die-bundesländer&#34;&gt;Schrittanzahlstatistik für Deutschland und die Bundesländer&lt;/h3&gt;
 &lt;p&gt;Was ist die typische tägliche Schrittanzahl, und wie stark ist die Streuung? Die nächste Abbildung zeigt die statistische Verteilung der Schrittanzahl der Spender:innen für Deutschland und alle Bundesländer.&lt;/p&gt;
@@ -52,7 +52,7 @@
 
 &lt;p&gt;Die Abbildung zeigt, dass der typische Wert für die tägliche Schrittanzahl zwischen 5.000 und 7.000 Schritten pro Tag liegt. Die Verteilung ist allerdings recht breit. Einige Spender:innen legen auch deutlich mehr Schritte am Tag zurück. Die Verteilungen der einzelnen Bundesländer unterscheiden sich nur wenig und folgen einer universellen Kurve.&lt;/p&gt;
 &lt;h3 id=&#34;die-schrittanzahlkarte&#34;&gt;Die Schrittanzahlkarte&lt;/h3&gt;
-&lt;p&gt;Ähnlich wie bei der &lt;a href=&#34;https://corona-datenspende.de/reports/pulse/&#34;&gt;Ruhepulskarte&lt;/a&gt;, können wir die mittlere Schrittanzahl für die einzelnen Stadt- und Landkreise berechnen. Das Ergebnis ist in der folgenden Karte zusammengefasst.&lt;/p&gt;
+&lt;p&gt;Ähnlich wie bei der &lt;a href=&#34;https://corona-datenspende.github.io/reports/pulse/&#34;&gt;Ruhepulskarte&lt;/a&gt;, können wir die mittlere Schrittanzahl für die einzelnen Stadt- und Landkreise berechnen. Das Ergebnis ist in der folgenden Karte zusammengefasst.&lt;/p&gt;
 &lt;section class=&#34;center mw10 mw8-ns&#34;&gt;
  &lt;figure&gt;
  	&lt;div&gt;
@@ -112,7 +112,7 @@
  &lt;/figure&gt;
 &lt;/section&gt;
 
-&lt;p&gt;Man erkennt, dass die Schrittanzahl grob einen konstanten Verlauf hat, ein Langzeittrend ist nicht sichtbar. Im Mittel liegt das Tagesmittel zwischen 6.000-7.000. Man erkennt auch, dass die Schrittanzahl stärker schwankt als z.B. der tagesgemittelte Ruhepuls (siehe &lt;a href=&#34;https://corona-datenspende.de/reports/pulse/&#34;&gt;Abbildung 2 im diesem Post&lt;/a&gt;). Man kann auch schon erkennen, dass an Wochenenden, besonders samstags, typischerweise höhere Schrittanzahlen zu beobachten sind.&lt;/p&gt;
+&lt;p&gt;Man erkennt, dass die Schrittanzahl grob einen konstanten Verlauf hat, ein Langzeittrend ist nicht sichtbar. Im Mittel liegt das Tagesmittel zwischen 6.000-7.000. Man erkennt auch, dass die Schrittanzahl stärker schwankt als z.B. der tagesgemittelte Ruhepuls (siehe &lt;a href=&#34;https://corona-datenspende.github.io/reports/pulse/&#34;&gt;Abbildung 2 im diesem Post&lt;/a&gt;). Man kann auch schon erkennen, dass an Wochenenden, besonders samstags, typischerweise höhere Schrittanzahlen zu beobachten sind.&lt;/p&gt;
 &lt;h3 id=&#34;durchschnittsschrittanzahl-in-den-bundesländern&#34;&gt;Durchschnittsschrittanzahl in den Bundesländern&lt;/h3&gt;
 &lt;p&gt;Nun stellt sich die Frage, ob sich die Schrittanzahl der Spender:innen regional unterscheiden. Die folgende Abbildung zeigt die mittlere Schrittanzahl der Spenderin:innen in den verschiedenen Bundesländern.&lt;/p&gt;
 &lt;section class=&#34;center mw10 mw10-ns&#34;&gt;

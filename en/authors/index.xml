@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Corona Data Donation Project | News &amp; Analyses</title>
-    <link>https://corona-datenspende.de/en/authors/</link>
-      <atom:link href="https://corona-datenspende.de/en/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://corona-datenspende.github.io/en/authors/</link>
+      <atom:link href="https://corona-datenspende.github.io/en/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 10 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://corona-datenspende.de/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
+      <url>https://corona-datenspende.github.io/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
       <title>Authors</title>
-      <link>https://corona-datenspende.de/en/authors/</link>
+      <link>https://corona-datenspende.github.io/en/authors/</link>
     </image>
     
     <item>
       <title>Experience</title>
-      <link>https://corona-datenspende.de/en/authors/marc-wiedermann/experience/</link>
+      <link>https://corona-datenspende.github.io/en/authors/marc-wiedermann/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/en/authors/marc-wiedermann/experience/</guid>
+      <guid>https://corona-datenspende.github.io/en/authors/marc-wiedermann/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mini CV</title>
-      <link>https://corona-datenspende.de/en/authors/dirk-brockmann/experience/</link>
+      <link>https://corona-datenspende.github.io/en/authors/dirk-brockmann/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/en/authors/dirk-brockmann/experience/</guid>
+      <guid>https://corona-datenspende.github.io/en/authors/dirk-brockmann/experience/</guid>
       <description></description>
     </item>
     

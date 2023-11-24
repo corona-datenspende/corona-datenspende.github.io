@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nowcast | Corona-Datenspende | News &amp; Analysen</title>
-    <link>https://corona-datenspende.de/category/nowcast/</link>
-      <atom:link href="https://corona-datenspende.de/category/nowcast/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://corona-datenspende.github.io/category/nowcast/</link>
+      <atom:link href="https://corona-datenspende.github.io/category/nowcast/index.xml" rel="self" type="application/rss+xml" />
     <description>Nowcast</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>de</language><lastBuildDate>Wed, 11 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://corona-datenspende.de/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
+      <url>https://corona-datenspende.github.io/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
       <title>Nowcast</title>
-      <link>https://corona-datenspende.de/category/nowcast/</link>
+      <link>https://corona-datenspende.github.io/category/nowcast/</link>
     </image>
     
     <item>
       <title>Ergänzende Nowcasts auf Basis der Fieberkurve</title>
-      <link>https://corona-datenspende.de/reports/nowcast/</link>
+      <link>https://corona-datenspende.github.io/reports/nowcast/</link>
       <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/reports/nowcast/</guid>
+      <guid>https://corona-datenspende.github.io/reports/nowcast/</guid>
       <description>&lt;p&gt;Liebe Datenspender:innen,&lt;/p&gt;
 &lt;p&gt;Im Lauf der letzten Monate hat unser Fiebermonitor stets zwei verschiedene Signale verglichen: Die positiven Fieberdetektionen auf Basis der gespendeten Daten und die wöchentliche Inzidenz von COVID-19. Beide Signale haben ihre eigenen Vor- und Nachteile, wenn es darum geht, aktuelle Trends der Pandemie zu überwachen:&lt;/p&gt;
 &lt;ol&gt;

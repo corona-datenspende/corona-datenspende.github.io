@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Long-Covid | Corona-Datenspende | News &amp; Analysen</title>
-    <link>https://corona-datenspende.de/tag/long-covid/</link>
-      <atom:link href="https://corona-datenspende.de/tag/long-covid/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://corona-datenspende.github.io/tag/long-covid/</link>
+      <atom:link href="https://corona-datenspende.github.io/tag/long-covid/index.xml" rel="self" type="application/rss+xml" />
     <description>Long-Covid</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>de</language><lastBuildDate>Sat, 02 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://corona-datenspende.de/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
+      <url>https://corona-datenspende.github.io/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
       <title>Long-Covid</title>
-      <link>https://corona-datenspende.de/tag/long-covid/</link>
+      <link>https://corona-datenspende.github.io/tag/long-covid/</link>
     </image>
     
     <item>
       <title>Datenspende startet Long COVID Studie</title>
-      <link>https://corona-datenspende.de/reports/longcovidlaunch/</link>
+      <link>https://corona-datenspende.github.io/reports/longcovidlaunch/</link>
       <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/reports/longcovidlaunch/</guid>
+      <guid>https://corona-datenspende.github.io/reports/longcovidlaunch/</guid>
       <description>&lt;p&gt;Liebe Datenspender:innen,&lt;/p&gt;
 &lt;p&gt;seit nunmehr fast zwei Jahren helfen eure Daten uns dabei den Verlauf der Corona-Pandemie besser zu verstehen. Dafür möchten wir Euch erneut herzlich danken.&lt;/p&gt;
-&lt;p&gt;Wir haben in dieser Zeit gelernt, dass es eine große Bereitschaft gibt, Wissenschaft und Forschung mit Gesundheitsdaten aus Fitnessarmbändern und Smartwatches zu unterstützen. Mehr als 500,000 Menschen haben zumindest über einen bestimmten Zeitraum ihre Vitaldaten gespendet, mehr als 38,000 Personen nehmen bereits regelmäßig an unseren in-App Befragungen teil. Mit Hilfe eurer Daten können wir COVID-19-Symptome wie Fieber gut erfassen und die Häufigkeit unserer Detektionen im &lt;a href=&#34;https://corona-datenspende.de/monitor/&#34;&gt;Fiebermonitor&lt;/a&gt; bildet die Infektionswellen der Pandemie gut ab.&lt;/p&gt;
+&lt;p&gt;Wir haben in dieser Zeit gelernt, dass es eine große Bereitschaft gibt, Wissenschaft und Forschung mit Gesundheitsdaten aus Fitnessarmbändern und Smartwatches zu unterstützen. Mehr als 500,000 Menschen haben zumindest über einen bestimmten Zeitraum ihre Vitaldaten gespendet, mehr als 38,000 Personen nehmen bereits regelmäßig an unseren in-App Befragungen teil. Mit Hilfe eurer Daten können wir COVID-19-Symptome wie Fieber gut erfassen und die Häufigkeit unserer Detektionen im &lt;a href=&#34;https://corona-datenspende.github.io/monitor/&#34;&gt;Fiebermonitor&lt;/a&gt; bildet die Infektionswellen der Pandemie gut ab.&lt;/p&gt;
 &lt;h3 id=&#34;die-langzeitfolgen-der-pandemie-im-blick&#34;&gt;Die Langzeitfolgen der Pandemie im Blick&lt;/h3&gt;
 &lt;p&gt;Im Jahr 2022 erweitern wir den Fokus unserer Forschung und untersuchen nun auch die gesundheitlichen Langzeitfolgen einer COVID-19-Erkrankung. In den kommenden Monaten möchten wir unter anderem untersuchen, wie sich körperliche Aktivität, Schlaf, Fitness, sowie die mentale Gesundheit bei Menschen nach der Erkrankung entwickeln.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Aus diesem Grund wird es in der Datenspende-App eine neue Studie zum Thema Long COVID geben&lt;/strong&gt; die wir in enger Zusammenarbeit mit der Long COVID-Gruppe am Robert Koch-Institut entwickelt haben. Durch das Beantworten monatlicher Fragebögen helft ihr uns dabei langfristige Veränderungen in den Vitaldaten zu verstehen und die Häufigkeiten lang anhaltender bzw. neu auftretender Symptome und Belastungen zu bestimmen.&lt;/p&gt;
 &lt;h3 id=&#34;neue-fragestellungen-dank-umfangreicher-vitaldaten&#34;&gt;Neue Fragestellungen dank umfangreicher Vitaldaten&lt;/h3&gt;
-&lt;p&gt;Bereits jetzt konnten wir aus euren gespendeten Daten wichtige Erkenntnisse zur Entwicklung von Vitaldaten nach einer COVID-19-Erkrankung feststellen. In einem unserer letzten &lt;a href=&#34;https://corona-datenspende.de/reports/prolongedchanges/&#34;&gt;Blogposts&lt;/a&gt; konnten wir beispielsweise zeigen, dass der mittlere Ruhepuls möglicherweise noch Monate nach der Infektion hinaus erhöht ist und sich unter Umständen nur sehr langsam normalisiert (Abb. 1).&lt;/p&gt;
+&lt;p&gt;Bereits jetzt konnten wir aus euren gespendeten Daten wichtige Erkenntnisse zur Entwicklung von Vitaldaten nach einer COVID-19-Erkrankung feststellen. In einem unserer letzten &lt;a href=&#34;https://corona-datenspende.github.io/reports/prolongedchanges/&#34;&gt;Blogposts&lt;/a&gt; konnten wir beispielsweise zeigen, dass der mittlere Ruhepuls möglicherweise noch Monate nach der Infektion hinaus erhöht ist und sich unter Umständen nur sehr langsam normalisiert (Abb. 1).&lt;/p&gt;
 &lt;p&gt;  &lt;!-- insert blank line before figure --&gt;
 
 
@@ -48,15 +48,15 @@
                /media/figures/prolonged_changes/vitals_65_de_hu8dc088bcc61666e02b89fbe06c1f7477_189544_a0fbaf479250ed2311e0dab904b25bf1.webp 400w,
                /media/figures/prolonged_changes/vitals_65_de_hu8dc088bcc61666e02b89fbe06c1f7477_189544_e7699b40f580c462667c91a6ebd90c9c.webp 760w,
                /media/figures/prolonged_changes/vitals_65_de_hu8dc088bcc61666e02b89fbe06c1f7477_189544_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://corona-datenspende.de/media/figures/prolonged_changes/vitals_65_de_hu8dc088bcc61666e02b89fbe06c1f7477_189544_a0fbaf479250ed2311e0dab904b25bf1.webp&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/prolonged_changes/vitals_65_de_hu8dc088bcc61666e02b89fbe06c1f7477_189544_a0fbaf479250ed2311e0dab904b25bf1.webp&#34;
                width=&#34;60%&#34;
                height=&#34;596&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
-      &lt;strong&gt;Abbildung 1:&lt;/strong&gt; Mittlere Änderung des täglichen Ruhepuls bei einer COVID-19-Erkrankung unabhängig vom Impfstatus mit Daten bis Ende Oktober 2021. Details zur Berechnung und den Ergebnissen findet ihr &lt;a href=&#34;https://corona-datenspende.de/reports/prolongedchanges/&#34;&gt;hier&lt;/a&gt;.
+      &lt;strong&gt;Abbildung 1:&lt;/strong&gt; Mittlere Änderung des täglichen Ruhepuls bei einer COVID-19-Erkrankung unabhängig vom Impfstatus mit Daten bis Ende Oktober 2021. Details zur Berechnung und den Ergebnissen findet ihr &lt;a href=&#34;https://corona-datenspende.github.io/reports/prolongedchanges/&#34;&gt;hier&lt;/a&gt;.
     &lt;/figcaption&gt;&lt;/figure&gt;
   &lt;!-- insert blank line before figure --&gt;&lt;/p&gt;
-&lt;p&gt;Ebenso haben wir in ersten Analysen herausgefunden, dass Impfungen einen starken positiven Effekt auf die Normalisierung der Vitaldaten nach einer Erkrankung haben können (Abb. 2). Auch diese Ergebnisse findet ihr in einem unserer letzten &lt;a href=&#34;https://corona-datenspende.de/reports/breakthroughinfections/&#34;&gt;Blogposts&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Ebenso haben wir in ersten Analysen herausgefunden, dass Impfungen einen starken positiven Effekt auf die Normalisierung der Vitaldaten nach einer Erkrankung haben können (Abb. 2). Auch diese Ergebnisse findet ihr in einem unserer letzten &lt;a href=&#34;https://corona-datenspende.github.io/reports/breakthroughinfections/&#34;&gt;Blogposts&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;  &lt;!-- insert blank line before figure --&gt;
 
 
@@ -80,12 +80,12 @@
                /media/figures/vaccinations/vaccines_long_covid_65_de_huf7890d83b8ea642bbfb756f21d3388af_148715_062936a7478d88908a3f311147070e14.webp 400w,
                /media/figures/vaccinations/vaccines_long_covid_65_de_huf7890d83b8ea642bbfb756f21d3388af_148715_b8c4a9310c0827038d8805d1b4e83b98.webp 760w,
                /media/figures/vaccinations/vaccines_long_covid_65_de_huf7890d83b8ea642bbfb756f21d3388af_148715_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://corona-datenspende.de/media/figures/vaccinations/vaccines_long_covid_65_de_huf7890d83b8ea642bbfb756f21d3388af_148715_062936a7478d88908a3f311147070e14.webp&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/vaccinations/vaccines_long_covid_65_de_huf7890d83b8ea642bbfb756f21d3388af_148715_062936a7478d88908a3f311147070e14.webp&#34;
                width=&#34;60%&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
-      &lt;strong&gt;Abbildung 2:&lt;/strong&gt; Mittlere Änderung des Ruhepuls (wochenweise aggregiert) bei einer COVID-19-Erkrankung von Personen, die ungeimpft (rot), und solchen, die zum Zeitpunkt der Infektion mindestens vollständig geimpft waren (lila). Es wurden Daten bis Ende Januar 2022 berücksichtigt. Alle Details dieser Analyse findet ihr &lt;a href=&#34;https://corona-datenspende.de/reports/breakthroughinfections/&#34;&gt;hier&lt;/a&gt;.
+      &lt;strong&gt;Abbildung 2:&lt;/strong&gt; Mittlere Änderung des Ruhepuls (wochenweise aggregiert) bei einer COVID-19-Erkrankung von Personen, die ungeimpft (rot), und solchen, die zum Zeitpunkt der Infektion mindestens vollständig geimpft waren (lila). Es wurden Daten bis Ende Januar 2022 berücksichtigt. Alle Details dieser Analyse findet ihr &lt;a href=&#34;https://corona-datenspende.github.io/reports/breakthroughinfections/&#34;&gt;hier&lt;/a&gt;.
     &lt;/figcaption&gt;&lt;/figure&gt;
   &lt;!-- insert blank line before figure --&gt;&lt;/p&gt;
 &lt;p&gt;Aus diesen Ergebnissen ergeben sich viele weitere Fragestellungen, die wir in den folgenden Monaten betrachten wollen und bei deren Verständnis ihr uns unterstützen könnt. Hierzu zählen unter anderem:&lt;/p&gt;

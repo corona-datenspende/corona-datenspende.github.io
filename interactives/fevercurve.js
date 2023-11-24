@@ -112,7 +112,7 @@ else
 
 if (queryString.includes("local-detection")){
   console.log("this is a test display with a local detection.json file in /static/data/")
-  datafile = "/science/data/detection.json"
+  datafile = "/data/detection.json"
 }
 
 var meta, data,plots,dates;

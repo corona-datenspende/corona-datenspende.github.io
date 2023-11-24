@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Trust | Corona Data Donation Project | News &amp; Analyses</title>
-    <link>https://corona-datenspende.de/en/tag/trust/</link>
-      <atom:link href="https://corona-datenspende.de/en/tag/trust/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://corona-datenspende.github.io/en/tag/trust/</link>
+      <atom:link href="https://corona-datenspende.github.io/en/tag/trust/index.xml" rel="self" type="application/rss+xml" />
     <description>Trust</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://corona-datenspende.de/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
+      <url>https://corona-datenspende.github.io/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
       <title>Trust</title>
-      <link>https://corona-datenspende.de/en/tag/trust/</link>
+      <link>https://corona-datenspende.github.io/en/tag/trust/</link>
     </image>
     
     <item>
       <title>IFG Inquiry: How much do data donors trust the German government in handling the pandemic?</title>
-      <link>https://corona-datenspende.de/en/reports/trustgov/</link>
+      <link>https://corona-datenspende.github.io/en/reports/trustgov/</link>
       <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/en/reports/trustgov/</guid>
+      <guid>https://corona-datenspende.github.io/en/reports/trustgov/</guid>
       <description>&lt;p&gt;Dear donors,&lt;/p&gt;
 &lt;p&gt;For about half a year now, you have not only been able to donate your vitals and sleep data, but also to respond to various regular surveys about your personal experience and behaviour during the pandemic. For example, each week we ask how much our donors trust the federal government to properly handle the pandemic. The responses are measured on a five-point scale ranging from 1 (not at all) to 5 (completely) and a total of 29,530 donors already submitted their responses. Since we recently received a request about this question according to the freedom of information (IFG) act we would like to share some information on that topic with you today.&lt;/p&gt;
 &lt;h3 id=&#34;trust-varies-with-case-numbers&#34;&gt;Trust varies with case numbers&lt;/h3&gt;
@@ -54,7 +54,7 @@
                /media/figures/governmental_trust/image4_hu0efbc6a414d0c52e6207a876ea52b223_176905_ac0548a5eca2d56a5f104448f7d3cfe7.webp 400w,
                /media/figures/governmental_trust/image4_hu0efbc6a414d0c52e6207a876ea52b223_176905_ef76d1ecfae7ad82ce4f5604e18a084c.webp 760w,
                /media/figures/governmental_trust/image4_hu0efbc6a414d0c52e6207a876ea52b223_176905_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://corona-datenspende.de/media/figures/governmental_trust/image4_hu0efbc6a414d0c52e6207a876ea52b223_176905_ac0548a5eca2d56a5f104448f7d3cfe7.webp&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/governmental_trust/image4_hu0efbc6a414d0c52e6207a876ea52b223_176905_ac0548a5eca2d56a5f104448f7d3cfe7.webp&#34;
                width=&#34;760&#34;
                height=&#34;469&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sociodemographics | Corona Data Donation Project | News &amp; Analyses</title>
-    <link>https://corona-datenspende.de/en/tag/sociodemographics/</link>
-      <atom:link href="https://corona-datenspende.de/en/tag/sociodemographics/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://corona-datenspende.github.io/en/tag/sociodemographics/</link>
+      <atom:link href="https://corona-datenspende.github.io/en/tag/sociodemographics/index.xml" rel="self" type="application/rss+xml" />
     <description>Sociodemographics</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 21 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://corona-datenspende.de/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
+      <url>https://corona-datenspende.github.io/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
       <title>Sociodemographics</title>
-      <link>https://corona-datenspende.de/en/tag/sociodemographics/</link>
+      <link>https://corona-datenspende.github.io/en/tag/sociodemographics/</link>
     </image>
     
     <item>
       <title>Comparison of data donors in the substudy on &#39;Tests, symptoms and living situation&#39; with other reference studies</title>
-      <link>https://corona-datenspende.de/en/reports/benchmark/</link>
+      <link>https://corona-datenspende.github.io/en/reports/benchmark/</link>
       <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/en/reports/benchmark/</guid>
+      <guid>https://corona-datenspende.github.io/en/reports/benchmark/</guid>
       <description>&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
 &lt;p&gt;In this blog post, we will give you further insight into the socio-demographic characteristics and the health situation of the data donors in the sub-study &amp;ldquo;Tests, Symptoms and Living Situation&amp;rdquo; (hereafter referred to as &amp;ldquo;sub-study&amp;rdquo;).
 This time we compare the educational level, the subjectively assessed health status and the utilization of general medical services of the participants in the sub-study with reference data.
@@ -999,11 +999,11 @@ How the selection of the sample affects the interpretation of the results of the
     
     <item>
       <title>Demographics of the donors in the &#39;Tests, symptoms and living situation&#39; study</title>
-      <link>https://corona-datenspende.de/en/reports/fragebogenteilnehmer/</link>
+      <link>https://corona-datenspende.github.io/en/reports/fragebogenteilnehmer/</link>
       <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/en/reports/fragebogenteilnehmer/</guid>
+      <guid>https://corona-datenspende.github.io/en/reports/fragebogenteilnehmer/</guid>
       <description>&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
-&lt;p&gt;In previous blogposts, we have already discussed the &lt;a href=&#34;https://corona-datenspende.de/en/reports/demographie/&#34;&gt;sociodemographics&lt;/a&gt; and &lt;a href=&#34;https://corona-datenspende.de/en/reports/users/&#34;&gt;spatial distribution&lt;/a&gt; of donors.&lt;/p&gt;
+&lt;p&gt;In previous blogposts, we have already discussed the &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/demographie/&#34;&gt;sociodemographics&lt;/a&gt; and &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/users/&#34;&gt;spatial distribution&lt;/a&gt; of donors.&lt;/p&gt;
 &lt;p&gt;In this blogpost, we will again look at the sociodemographic composition and spatial distribution of donors. For the analysis, we will look at two selection levels each and compare them with the actual population composition (Census update, as of 12/31/2019). To do this, we look at sociodemographic and spatial distribution using three variables: spatial distribution at the state level (classified using the first three digits of the given zip code), gender, and age (recorded in categories of 10). In the first group, the data of the self-report at new registration of all data donors are analyzed, in the second group the data of the sub-study &amp;ldquo;tests, symptoms and living situation&amp;rdquo;. We would like to investigate two questions:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;How much does the current sample of all individuals participating in the Data- Donation-App deviate from the true distribution in the population?&lt;/li&gt;
@@ -1318,7 +1318,7 @@ title: {
 &lt;p&gt;In the next step, we look at the gender distribution among all data donors and among the donors in the sub-study.
 At first glance, it is noticeable that &lt;strong&gt;male data donors are overrepresented and female data donors underrepresented&lt;/strong&gt; compared to the total population.
 We see the same result for the participants of the partial study. &lt;strong&gt;Here we also see that the gender difference in the sub-study increases&lt;/strong&gt;.
-In our old blog post on the &lt;a href=&#34;https://corona-datenspende.de/en/reports/demographie/&#34;&gt;sociodemographics&lt;/a&gt; of donors, we had to make a correction to the gender distribution. Already since the launch of the data donation app, more men than women participate in the data donation.
+In our old blog post on the &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/demographie/&#34;&gt;sociodemographics&lt;/a&gt; of donors, we had to make a correction to the gender distribution. Already since the launch of the data donation app, more men than women participate in the data donation.
 &lt;section class=&#34;center mw10 mw8-ns&#34;&gt;
  &lt;figure&gt;
  	&lt;script src=&#34;https://cdn.jsdelivr.net/npm/chart.js&#34;&gt;&lt;/script&gt;&lt;div style=&#34;display: block; margin-left: auto;  margin-right: auto; width: 90%; height:400px;&#34;&gt;&lt;canvas id=&#34;sex&#34; &gt;&lt;/canvas&gt;&lt;/div&gt;
@@ -1559,14 +1559,14 @@ In this way, we are getting closer and closer to one of the goals of the sub-stu
     
     <item>
       <title>Donor Demographics</title>
-      <link>https://corona-datenspende.de/en/reports/demographie/</link>
+      <link>https://corona-datenspende.github.io/en/reports/demographie/</link>
       <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/en/reports/demographie/</guid>
+      <guid>https://corona-datenspende.github.io/en/reports/demographie/</guid>
       <description>&lt;h3 id=&#34;demographics&#34;&gt;Demographics&lt;/h3&gt;
 &lt;p&gt;In previous blog posts, we examined the regional distribution of the donors and some properties of the data itself (steps, resting heart rate). This time we are reporting on the demographics of the donors, including age, gender, height and weight, which can be specified in the app.&lt;/p&gt;
 &lt;p&gt;A subset of donors (about 10%) provide voluntary information on age, gender, body size and weight in addition to their daily heart rate and step count. This data is not required for our work on COVID-19 but yields important information about how significantly the donor community deviates from a representative sample.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;08.12.2021&lt;/strong&gt;
-In an earlier version of this blogpost we said that more men participate in the data donation than men. This was a mistake, in fact the ration is about 60% men and 40% women. You can find more information on donor demographics in our new &lt;a href=&#34;https://corona-datenspende.de/en/reports/fragebogenteilnehmer/&#34;&gt;report&lt;/a&gt;.&lt;/p&gt;
+In an earlier version of this blogpost we said that more men participate in the data donation than men. This was a mistake, in fact the ration is about 60% men and 40% women. You can find more information on donor demographics in our new &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/fragebogenteilnehmer/&#34;&gt;report&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;age-distribution&#34;&gt;Age distribution&lt;/h3&gt;
 &lt;p&gt;&lt;section class=&#34;center mw10 mw10-ns&#34;&gt;
  &lt;figure&gt;
@@ -1657,15 +1657,15 @@ If we look at regional age distribution, we see that, not only is our overall do
 
 A combined analysis of gender and age shows that women in our donor population are slightly younger than the national average, while male donors are slightly older. The average age among men is 50.2 years, which is about 4 years older than the average age for women (46.4 years).&lt;/p&gt;
 &lt;h3 id=&#34;whats-next&#34;&gt;What&amp;rsquo;s next?&lt;/h3&gt;
-&lt;p&gt;As previously mentioned in the post &lt;a href=&#34;https://corona-datenspende.de/en/reports/schritte/&#34;&gt;Step by Step&lt;/a&gt;, we also examined the relationship between the number of steps and resting heart rate, which we then extended to different demographic groups. The results of this analysis await you in the next post.&lt;/p&gt;
+&lt;p&gt;As previously mentioned in the post &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/schritte/&#34;&gt;Step by Step&lt;/a&gt;, we also examined the relationship between the number of steps and resting heart rate, which we then extended to different demographic groups. The results of this analysis await you in the next post.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The Donor Map - regional distribution and statistics</title>
-      <link>https://corona-datenspende.de/en/reports/users/</link>
+      <link>https://corona-datenspende.github.io/en/reports/users/</link>
       <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/en/reports/users/</guid>
+      <guid>https://corona-datenspende.github.io/en/reports/users/</guid>
       <description>&lt;p&gt;Here we go: Our first intermediate result -
 &lt;strong&gt;The Regional Donor Map&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Prior to developing the anticipated fever map from aggregated heart rate information, we need to get a good understanding of the geographical distribution of our donors. Regional biases, for instance, need to be identified and considered in further analyses. Moreover, we must ensure that enough donors are registered in each district so that statistical evaluations are valid and the anonymization gained through the regional consolidation is guaranteed.&lt;/p&gt;

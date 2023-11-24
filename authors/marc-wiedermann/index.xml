@@ -2,29 +2,191 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marc Wiedermann | Corona-Datenspende | News &amp; Analysen</title>
-    <link>https://corona-datenspende.de/authors/marc-wiedermann/</link>
-      <atom:link href="https://corona-datenspende.de/authors/marc-wiedermann/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://corona-datenspende.github.io/authors/marc-wiedermann/</link>
+      <atom:link href="https://corona-datenspende.github.io/authors/marc-wiedermann/index.xml" rel="self" type="application/rss+xml" />
     <description>Marc Wiedermann</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>de</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de</language><lastBuildDate>Thu, 10 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://corona-datenspende.de/authors/marc-wiedermann/avatar_hua2ba85bd6a9e5a6ef45f6ee8487744ca_524131_270x270_fill_lanczos_center_3.png</url>
+      <url>https://corona-datenspende.github.io/authors/marc-wiedermann/avatar_hua2ba85bd6a9e5a6ef45f6ee8487744ca_524131_270x270_fill_lanczos_center_3.png</url>
       <title>Marc Wiedermann</title>
-      <link>https://corona-datenspende.de/authors/marc-wiedermann/</link>
+      <link>https://corona-datenspende.github.io/authors/marc-wiedermann/</link>
     </image>
     
     <item>
+      <title>Teildatensatz: Vitaldaten</title>
+      <link>https://corona-datenspende.github.io/open-data/teilds-vitaldaten/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://corona-datenspende.github.io/open-data/teilds-vitaldaten/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evidence for positive long- and short-term effects of vaccinations against COVID-19 in wearable sensor metrics</title>
+      <link>https://corona-datenspende.github.io/publication/wiedermann_etal_2023/</link>
+      <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://corona-datenspende.github.io/publication/wiedermann_etal_2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wie das soziale Umfeld unser Schutzverhalten verändert</title>
+      <link>https://corona-datenspende.github.io/reports/soziales-umfeld-schutzverhalten/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://corona-datenspende.github.io/reports/soziales-umfeld-schutzverhalten/</guid>
+      <description>&lt;p&gt;Pharmazeutische Maßnahmen, insbesondere Impfungen, gelten als zuverlässiger Partner im Kampf gegen Infektionskrankheiten. Als weiterer zentraler Baustein setzen zusätzliche Interventionen dort an, wo die Übertragung stattfindet: am menschlichen Verhalten.
+In Situationen mit besonderem Ansteckungsrisiko schränken beispielsweise Schutzmasken und der 1,5m-Mindestabstand das Übertragungsrisiko ein &lt;a href=&#34;https://doi.org/10.1016/S0140-6736%2820%2931142-9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(Chu et al., 2020)&lt;/a&gt;. Ob eine Person aber tatsächlich das entsprechende Schutzverhalten zeigt, hängt von vielen Faktoren ab.&lt;/p&gt;
+&lt;p&gt;In einem Artikel in der Fachzeitschrift Social Science and Medicine untersuchen wir anhand der “Erleben und Verhalten”-Befragungsdaten von 29.355 Datenspender:innen, welche Eigenschaften das Verhalten im privaten Umfeld verändern, und wie das soziale Umfeld auf das Verhalten am Arbeitsplatz einwirkt &lt;a href=&#34;https://doi.org/10.1016/j.socscimed.2022.115633&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(Sprengholz et al., 2023)&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;fünf-gründe-warum-sich-menschen-schützen-wie-sie-sich-schützen&#34;&gt;Fünf Gründe, warum sich Menschen schützen, wie sie sich schützen&lt;/h3&gt;
+&lt;p&gt;Wer eine Infektion mit dem Coronavirus gezielt vermeidet, tut das aus verschiedenen Gründen. Diese fünf individuellen Fragestellungen sind dabei besonders wichtig:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Für wie wahrscheinlich halte ich es, dass ich mich anstecke? Wie gefährlich wäre das für mich? Und wie groß ist die emotionale Sorge vor dieser Ansteckung?&lt;/li&gt;
+&lt;li&gt;Ist das Schutzverhalten für mich einfach umsetzbar?&lt;/li&gt;
+&lt;li&gt;Vertraue ich der Institution, die die Empfehlungen herausgibt?&lt;/li&gt;
+&lt;li&gt;Individuelle Persönlichkeitsmerkmale: Bin ich eher gewissenhaft und kompromissbereit, oder eher nicht?&lt;/li&gt;
+&lt;li&gt;Verstößt mein Verhalten gegen soziale Regeln in den Gruppen, die mich umgeben und die mir wichtig sind?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Der letzte Punkt wiegt für den Infektionsschutz besonders stark, denn hier können Menschen selbst dann Schutzverhalten zeigen, wenn sie nicht erwarten, dass sie selbst unmittelbar profitieren werden. In unserem Artikel haben wir die Gründe genauer untersucht und Schritt für Schritt statistisch überprüft - hier fassen wir die wichtigsten Ergebnisse für euch zusammen.&lt;/p&gt;
+&lt;h3 id=&#34;wer-sich-im-privaten-eher-an-regeln-und-empfehlungen-hält&#34;&gt;Wer sich im Privaten eher an Regeln und Empfehlungen hält&lt;/h3&gt;
+&lt;p&gt;&amp;hellip; ist nach unserer Datenlage tendenziell eher älter, weiblich, macht sich Sorgen um eine Infektion, empfindet diese als eher schwer, zeigt ein erhöhtes Vertrauen in die Bundesregierung und nimmt Maßnahmen als angemessen wahr. Die Menschen sind zudem eher introvertiert, sozial verträglich, aufgeschlossen für neue Erfahrungen und gewissenhaft. Am Arbeitsplatz gelten diese Faktoren zwar weiter, aber ein entscheidender Punkt nimmt zusätzlich großen Einfluss: Das soziale Umfeld.&lt;/p&gt;
+&lt;h3 id=&#34;kolleginnen-beeinflussen-das-eigene-verhalten-am-arbeitsplatz&#34;&gt;Kolleg:innen beeinflussen das eigene Verhalten am Arbeitsplatz&lt;/h3&gt;
+&lt;p&gt;An der Arbeitsstätte ist nicht nur das Infektionsrisiko durch den engeren Kontakt mit Mitmenschen erhöht, es treffen auch verschiedene, möglicherweise unterschiedliche Verhaltensweisen aufeinander. Unsere Daten deuten an: Wer privat weniger auf Regeln und Empfehlungen Rücksicht nimmt, überträgt dieses Verhalten nur dann an den Arbeitsplatz, wenn Kolleg:innen ebenfalls nicht darauf achten. Wenn sich die Kolleg:innen hingegen an Regeln und Empfehlungen hielten, hat sich das Verhalten entsprechend angepasst.&lt;/p&gt;
+&lt;p&gt;Besonders wichtig: Wir konnten keinen Effekt in die gegenläufige Richtung beobachten. Jemand, der sich privat empfehlungskonform verhält, tut das auch auf der Arbeit - egal, ob sich die Kolleg:innen besonders gut schützen oder nicht.&lt;/p&gt;
+&lt;p&gt;Mit dem nachfolgenden Tool könnt ihr den Befund interaktiv nachvollziehen. Drückt den Schalter, um den Unterschied zwischen Gruppen zu sehen, in denen das kollegiale Umfeld anstatt &lt;span style=&#34;color:; font-weight: bold; background-color:#FF9933;&#34;&gt;wenig Wert&lt;/span&gt; eher &lt;span style=&#34;color:; font-weight: bold; background-color:#2196F3;&#34;&gt;viel Wert&lt;/span&gt; auf Regeln und Empfehlungen legt. Tipp: Achtet zuerst besonders auf die Größe des Unterschieds &lt;strong&gt;innerhalb&lt;/strong&gt; einer Gruppe, und dann zwischen den Gruppen.&lt;/p&gt;
+&lt;label class=&#34;switch&#34;&gt;
+  &lt;input type=&#34;checkbox&#34; id=&#34;switch&#34; onchange=&#34;toggleUpdate(this.checked)&#34;&gt;
+  &lt;span class=&#34;slider round&#34;&gt;&lt;/span&gt;
+&lt;/label&gt;
+&lt;figure id=workbehav&gt;
+	&lt;div id=&#34;workbehav-display&#34; class=&#34;panel-display&#34;&gt;
+	&lt;/div&gt;
+	
+ 	&lt;figcaption&gt;
+ 		&lt;div class=&#34;pa4 tl f3 lh-copy&#34;&gt;&lt;strong&gt;Tool-Explainer&lt;/strong&gt;: Das Raster zeigt zwei Personengruppen, die sich in ihrem privaten Schutzverhalten (horizontale Achse) und dem Schutzverhalten am Arbeitsplatz (vertikale Achse) unterscheiden. Die linke Gruppe gibt an, dass sie privat weniger Wert auf Regeln und Verhaltensempfehlungen legt - im Gegensatz zur rechten Gruppe, die im Privatleben verstärkt darauf achtet. Je weiter oben die Personen im Raster positioniert sind, desto eher halten sie sich auch am Arbeitsplatz an Regeln und Empfehlungen (vertikale Achse).&lt;/div&gt;	
+ 	&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;script&gt;
+  function toggleUpdate(checked) {
+    if (checked) {
+      update(newData);
+    } else {
+      update(data);
+    }
+  }
+&lt;/script&gt;
+&lt;h3 id=&#34;lessons-learned-vorbilder-schützen-unsere-gesundheit&#34;&gt;Lessons learned: Vorbilder schützen unsere Gesundheit&lt;/h3&gt;
+&lt;p&gt;Sobald mehrere Menschen in einer Gruppe zusammenkommen, beeinflussen sie sich gegenseitig in ihren Einstellungen und Verhaltensweisen. Um Schutzverhalten konkret zu fördern, ist es deshalb nicht nur wichtig, Risiken und korrektes Verhalten zu kommunizieren. Es kann auch sinnvoll sein, vorbildhaftes Verhalten von Kolleg:innen hervorzuheben und auf diese Weise Gruppennormen zu kommunizieren, die zu einem Anstieg des Schutzverhaltens in der gesamten Arbeitsgruppe führen.
+Besonders Personen, die privat weniger Wert auf Regeln und Empfehlungen legen, können so in Ansteckungssituationen besser geschützt werden.&lt;/p&gt;
+&lt;h3 id=&#34;bonus-forschungsdaten-frei-verfügbar&#34;&gt;Bonus: Forschungsdaten frei verfügbar&lt;/h3&gt;
+&lt;p&gt;Wir wollen, dass unsere Forschung nachvollziehbar und überprüfbar ist. Alle &lt;a href=&#34;https://doi.org/10.5281/zenodo.7185199&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;verwendeten Daten&lt;/a&gt; und das &lt;a href=&#34;http://doi.org/10.17605/OSF.IO/2XNSV&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Analyseskript&lt;/a&gt; sind deshalb publiziert und frei zugänglich. Die hier besprochenen Ergebnisse findet ihr in unserem &lt;a href=&#34;https://doi.org/10.1016/j.socscimed.2022.115633&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper&lt;/a&gt;, in dem wir alle Befunde nochmal ausführlich und detaillierter diskutieren.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Situational pathogen avoidance mediates the impact of social connectedness on preventive measures during the COVID-19 pandemic</title>
+      <link>https://corona-datenspende.github.io/publication/taubert_etal_2023/</link>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://corona-datenspende.github.io/publication/taubert_etal_2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unser Datenspende-Fahrplan für 2023</title>
+      <link>https://corona-datenspende.github.io/reports/kickoff-2023/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://corona-datenspende.github.io/reports/kickoff-2023/</guid>
+      <description>&lt;p&gt;Liebe Datenspender:innen,&lt;/p&gt;
+&lt;p&gt;ihr seid Teil eines der weltweit größten Citizen Science Projekte in der öffentlichen Gesundheitsforschung. Über 540.000 Menschen aus ganz Deutschland haben uns seit April 2020 unterstützt, für mehr als 120.000 Personen liegen uns heute umfangreiche &lt;a href=&#34;https://corona-datenspende.github.io/vitaldata-tool/&#34;&gt;Aufzeichnungen von Ruhepuls, Tagesaktivität und Schlafdauer&lt;/a&gt; über eine Zeitspanne von 2,5 Jahren vor. Mit spezialisierten Algorithmen haben unser &lt;a href=&#34;https://corona-datenspende.github.io/reports/monitor/&#34;&gt;Fiebermonitor und Nowcast&lt;/a&gt; jeden Tag bis zu 120 Millionen Datenpunkte aus der Bevölkerung verarbeitet, anormale Bewegungs- und Pulsverläufe erkannt, und so einen Einblick in das Echtzeitmonitoring von möglichen Neuinfektionen mit SARS-CoV-2 gewonnen. Unser Datensatz ist geeignet, um gemeinsam mit den psychosozialen Daten aus den Fragebögen der Datenspende-App eine große Bandbreite an Fragestellungen zur COVID-19 Pandemie zu beantworten. Damit wir uns auf die entsprechenden Analysen voll und ganz konzentrieren können, haben wir die aktive Datenerhebung zum 31.12.2022 &lt;a href=&#34;https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Corona-Datenspende-allgemein.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eingestellt&lt;/a&gt;. Eure Mitarbeit hat dieses Projekt zu einer einzigartigen Schnittstelle zwischen Wissenschaft und Gesellschaft transformiert, und dafür möchten wir euch danken. Unser Team beginnt nun den nächsten Arbeitsschritt auf Basis der erhobenen Daten: Die wissenschaftliche Bewertung des Fieberalgorithmus, sowie eine verstärkte Untersuchung der Langzeitfolgen der Pandemie.&lt;/p&gt;
+&lt;h3 id=&#34;ab-zur-inspektion&#34;&gt;Ab zur Inspektion&lt;/h3&gt;
+&lt;p&gt;Neue technologische Ansätze im Bereich der Forschung, zu denen auch das Monitoring  von Vitalparametern durch Wearables gehört, läuten ein neues Zeitalter der digitalen Gesundheitforschung ein. Diese Entwicklungen verändern nicht nur die Werkzeuge und Ansätze, die Forschenden zur Verfügung stehen, sondern auch die Art und Weise, wie die Forschung durchgeführt wird. Wird der Einsatz dieser Methoden nicht regelmäßig überprüft, kann es zu Problemen mit der Reproduzierbarkeit und Validität der Messungen kommen Daher unterziehen wir unseren Fieberalgorithmus nach mehr als zwei Jahren aktivem Feldeinsatz nun einer umfassenden Überprüfung, um seine Eignung als Echtzeit-Monitoringsystem für die Erkennung von Krankheiten zu beurteilen. Dafür diskutieren wir Methodik und Ergebnisse unserer Arbeit mit der wissenschaftlichen Fachöffentlichkeit in entsprechenden Publikationen und überprüfen und verfeinern unseren Algorithmus mit den Erkenntnissen und Rahmenbedingungen &lt;a href=&#34;https://detect.scripps.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ähnlicher Projekte&lt;/a&gt;. Damit sind wir in der Lage zu bewerten, ob und unter welchen Bedingungen unser Fieberalgorithmus als sensorbasiertes Instrument für zukünftige Pandemien bereit ist.&lt;/p&gt;
+&lt;figure id=fever_curve&gt;
+	&lt;div id=&#34;fever_curve-display&#34; class=&#34;panel-display&#34;&gt;
+	&lt;/div&gt;
+	
+ 	&lt;figcaption&gt;
+ 		&lt;div class=&#34;pa4 tl f3 lh-copy&#34;&gt;&lt;strong&gt;Abb. 1&lt;/strong&gt;: Der Fieberalgorithmus auf dem aktuellsten und letzten Stand. Entkoppeln sich Ruhepuls und Schrittzahl einer Person signifikant von ihren bisherigen Messungen und verlaufen gegeneinander (&lt;a href=&#34;https://corona-datenspende.github.io/reports/fevercurve/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;“Fieberbeule”&lt;/a&gt;), signalisiert der Algorithmus eine potentielle Infektion.&lt;/div&gt;	
+ 	&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;die-langzeitfolgen-der-pandemie-weiter-im-blick&#34;&gt;Die Langzeitfolgen der Pandemie weiter im Blick&lt;/h3&gt;
+&lt;p&gt;Ein weiterer Schwerpunkt unserer wissenschaftlichen Arbeit wird die Auswertung der im April 2022 gestarteten Studie zu “Long COVID und Pandemiefolgen” sein. Wir wollen noch detaillierter verstehen, wie sich die beobachteten Vitaldaten nach einer Infektion mit SARS-CoV-2 verändern, wie lange es dauert bis ähnliche Werte wie vor der Erkrankung erreicht werden, unter welchen Umständen dies möglicherweise erst nach sehr langer Zeit geschieht, und welche Konsequenzen daraus entstehen. Erste Analysen hierzu haben wir euch bereits in einem unserer &lt;a href=&#34;https://corona-datenspende.github.io/reports/breakthroughinfections/&#34;&gt;verganenen Blogposts&lt;/a&gt; präsentiert. Zusätzlich sollen die Erkenntnisse aus der entsprechenden Befragungsstudie dabei helfen, die Signaturen in den Vitaldaten mit der Lebensrealität der Spender:innen abzugleichen. Beispielsweise wollen wir untersuchen, ob sich berichtete Probleme im Alltag oder Veränderungen in der gesundheitsbezogenen Lebensqualität auch in Ruhepuls-, Aktivitäts-, und Schlafmustern erkennen lassen.&lt;/p&gt;
+&lt;p&gt;  &lt;!-- insert blank line before figure --&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-abb-2-bei-spenderinnen-mit-nachgewiesener-covid-19-infektion-dauert-es-ca-2-3-monate-bis-sich-der-ruhepuls-wieder-normalisiert-hat-2023-wollen-wir-diesen-befund-noch-detaillierter-vor-allem-hinsichtlich-der-berichteten-gesundheitlichen-lebensqualität-der-spenderinnen-untersuchen&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;a href=&#34;https://corona-datenspende.github.io/reports/prolongedchanges&#34; &gt;&lt;img alt=&#34;**Abb. 2**: Bei Spender:innen mit nachgewiesener COVID-19-Infektion dauert es ca. 2-3 Monate, bis sich der Ruhepuls wieder normalisiert hat. 2023 wollen wir diesen Befund noch detaillierter, vor allem hinsichtlich der berichteten gesundheitlichen Lebensqualität der Spender:innen, untersuchen.&#34; srcset=&#34;
+               /media/figures/prolonged_changes/vitals_65_de_hu8dc088bcc61666e02b89fbe06c1f7477_189544_a0fbaf479250ed2311e0dab904b25bf1.webp 400w,
+               /media/figures/prolonged_changes/vitals_65_de_hu8dc088bcc61666e02b89fbe06c1f7477_189544_e7699b40f580c462667c91a6ebd90c9c.webp 760w,
+               /media/figures/prolonged_changes/vitals_65_de_hu8dc088bcc61666e02b89fbe06c1f7477_189544_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/prolonged_changes/vitals_65_de_hu8dc088bcc61666e02b89fbe06c1f7477_189544_a0fbaf479250ed2311e0dab904b25bf1.webp&#34;
+               width=&#34;60%&#34;
+               height=&#34;596&#34;
+               loading=&#34;lazy&#34; /&gt;&lt;/a&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;strong&gt;Abb. 2&lt;/strong&gt;: Bei Spender:innen mit nachgewiesener COVID-19-Infektion dauert es ca. 2-3 Monate, bis sich der Ruhepuls wieder normalisiert hat. 2023 wollen wir diesen Befund noch detaillierter, vor allem hinsichtlich der berichteten gesundheitlichen Lebensqualität der Spender:innen, untersuchen.
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;h3 id=&#34;alle-neuigkeiten-auch-weiterhin-auf-dem-blog&#34;&gt;Alle Neuigkeiten auch weiterhin auf dem Blog&lt;/h3&gt;
+&lt;p&gt;Die wissenschaftliche Arbeit geht also auch ohne weitere Datenerhebung im Jahr 2023 unverändert weiter. Wir arbeiten einerseits mit verschiedenen Forschungsgruppen zusammen, um die Methoden aus der Corona-Datenspende weiterzuentwickeln; andererseits forschen wir weiter aktiv am besseren Verständnis der Vitaldaten und zu verschiedenen Langzeitfolgen der Pandemie. Dafür sind wir weiter auf diesem Blog und auf den bekannten Kanälen aktiv. Wir freuen uns darauf, euch bei unseren neuen Entwicklungen und Ergebnissen auch 2023 auf dem Laufenden zu halten!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Prevalence of Positive COVID-19 Test Results Collected by Digital Self-report in the US and Germany</title>
+      <link>https://corona-datenspende.github.io/publication/kolb_etal_2023/</link>
+      <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://corona-datenspende.github.io/publication/kolb_etal_2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>From delta to omicron: The role of individual factors and social context in self-reported compliance with pandemic regulations and recommendations</title>
-      <link>https://corona-datenspende.de/publication/sprengholz_etal_2022/</link>
+      <link>https://corona-datenspende.github.io/publication/sprengholz_etal_2022/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/publication/sprengholz_etal_2022/</guid>
+      <guid>https://corona-datenspende.github.io/publication/sprengholz_etal_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Datenerhebung endet, neue Forschung voraus</title>
+      <link>https://corona-datenspende.github.io/reports/end-of-collection/</link>
+      <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://corona-datenspende.github.io/reports/end-of-collection/</guid>
+      <description>&lt;p&gt;Liebe Nutzer:innen,&lt;/p&gt;
+&lt;p&gt;die Datenerhebung über die Corona-Datenspende App wird zum 31.12.2022 eingestellt und die App aus den App-Stores entfernt. Die Forschungsarbeiten gehen aber weiter.&lt;/p&gt;
+&lt;p&gt;Die Verknüpfungen zu den von euch verbundenen Datenquellen (z. B. Google Fit) zum Datenspende-Server des RKI werden automatisch gelöscht. Zur Sicherheit empfehlen wir euch, euch euer Pseudonym und die PIN zu notieren und die App ab diesem Zeitpunkt auch von eurem Smartphone zu löschen. Auf den Datenspende-Servern des RKI werden die Pseudonyme und PINs noch für mindestens 6 Monate aufbewahrt, ​​auch um euch die Möglichkeit zu geben, während dieser Zeit Auskunfts- oder Löschungsbegehren an das Datenspende-Projektteam zu richten.&lt;/p&gt;
+&lt;p&gt;Die bis zum 31.12.2022 erhobenen Daten werden auch nach diesem Zeitpunkt wie in der &lt;a href=&#34;https://corona-datenspende.de/datenschutz-app.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Datenschutzerklärung&lt;/a&gt; und den Hinweisen zu den Teilstudien beschrieben, wissenschaftlich durch das RKI ausgewertet. Das Datenspende-Projektteam erreicht ihr weiterhin über das Postfach &lt;a href=&#34;mailto:corona-datenspende@rki.de&#34;&gt;corona-datenspende@rki.de&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Das RKI sowie das Datenspende-Projektteam dankt euch für die überwältigende Resonanz und Hilfsbereitschaft in der Unterstützung wissenschaftlicher Forschung zur Bewältigung der COVID-19 Pandemie. Das Projektteam am RKI wird euch auch zukünftig hier auf diesem Blog über neue Zwischenergebnisse aus der Auswertung informieren.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Teildatensatz: Erleben und Verhalten in der Pandemie</title>
+      <link>https://corona-datenspende.github.io/open-data/teilds-erlebenverhalten2023/</link>
+      <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://corona-datenspende.github.io/open-data/teilds-erlebenverhalten2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reicht zuhause testen aus? Schnelltests und die Teststatistik</title>
-      <link>https://corona-datenspende.de/reports/questionnaire-incidence/</link>
+      <link>https://corona-datenspende.github.io/reports/questionnaire-incidence/</link>
       <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/reports/questionnaire-incidence/</guid>
+      <guid>https://corona-datenspende.github.io/reports/questionnaire-incidence/</guid>
       <description>&lt;p&gt;Die Frage nach den wöchentlichen Neuerkrankungen an COVID-19 navigiert weiterhin unsere politischen und persönlichen Entscheidungen. Wie wir das Infektionsrisiko bewerten, mit welchen Mitteln wir uns schützen und wie wir in Zukunft weiter vorgehen – all das hängt maßgeblich von der Antwort auf diese Frage ab.&lt;/p&gt;
 &lt;p&gt;Seit einigen Wochen diskutiert Deutschland nun eine mögliche &lt;a href=&#34;https://www.tagesschau.de/inland/corona-infektionen-pcr-tests-impfungen-101.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Untererfassung der 7-Tage-Inzidenz&lt;/a&gt;. Während immer mehr Testzentren aufgrund der geringeren Sommernachfrage schließen, signalisieren &lt;a href=&#34;https://www1.wdr.de/nachrichten/themen/coronavirus/abwasser-corona-inzidenz-100.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;analysierte Abwasserproben&lt;/a&gt; und &lt;a href=&#34;https://www.rki.de/DE/Content/Infekt/Sentinel/Grippeweb/Wochenberichte/Wochenbericht_aktuell.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Systeme zur Überwachung von Atemwegsinfektionen&lt;/a&gt; Hinweise auf höhere Fallzahlen. Die kommunizierte 7-Tage-Inzidenz, die für Entscheidungen jeglicher Art maßgebend ist, basiert gemäß der aktuellen &lt;a href=&#34;https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Falldefinition.pdf?__blob=publicationFile&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Falldefinition&lt;/a&gt; ausschließlich auf PCR-Testergebnissen. Antigen-Schnelltests, egal ob im Labor oder zu Hause ausgewertet, werden in dieser Kennzahl nicht berücksichtigt. Im Vergleich zu Antigen-Schnelltests sind PCR-Tests häufig genauer und sorgen dafür, dass lokale Ausbruchsgeschehen mit großer Sicherheit korrekt erkannt werden können. Geht die PCR-Testmenge zurück, werden relative Trends zwar weiterhin sichtbar - die Größenordnung der Neuinfektionen lässt sich jedoch deutlich schlechter einschätzen.&lt;/p&gt;
 &lt;p&gt;Verschiedene Forschungsansätze versuchen nun, diese Dunkelziffer zu präzisieren. Mittels der Fragebogendaten von 28.274 Datenspender:innen, in denen wir Testergebnisse und Testart (z.B. PCR-Test und eben auch Antigen-Schnelltests) aufgezeichnet haben, wollen wir dazu beitragen, die Situation mit einem weiteren Puzzleteil besser einzuschätzen.&lt;/p&gt;
@@ -1666,7 +1828,7 @@ var localeObj = {
  &lt;/figure&gt;
 &lt;/section&gt;
 
-Wir sehen, dass sich die beiden Inzidenzen bis zum Ende des ersten Quartals recht ähnlich entwickeln, auch wenn sich die Größenordnungen der Zahlen nicht unbedingt gleichen. Teile des Unterschieds sind darauf zurückzuführen, dass sich unsere Gruppe der Datenspender:innen &lt;a href=&#34;https://corona-datenspende.de/science/reports/demographie/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;von der Allgemeinbevölkerung unterscheidet&lt;/a&gt; (mehr dazu später).&lt;/p&gt;
+Wir sehen, dass sich die beiden Inzidenzen bis zum Ende des ersten Quartals recht ähnlich entwickeln, auch wenn sich die Größenordnungen der Zahlen nicht unbedingt gleichen. Teile des Unterschieds sind darauf zurückzuführen, dass sich unsere Gruppe der Datenspender:innen &lt;a href=&#34;https://corona-datenspende.github.io/reports/demographie/&#34;&gt;von der Allgemeinbevölkerung unterscheidet&lt;/a&gt; (mehr dazu später).&lt;/p&gt;
 &lt;p&gt;Richtung Juni entkoppeln sich die Verläufe jedoch über das bisherige Maß hinaus. Wir vermuten, dass diese Entwicklung möglicherweise mit dem Rückgang der PCR-Tests zusammenhängt. Um diese Hypothese zu untersuchen, haben wir im nächsten Schritt das Verhältnis aus PCR- und Schnelltests in unseren Daten gebildet und mit dem Verhältnis der beiden oben angegebenen Inzidenzverläufe verglichen. &lt;br /&gt;&lt;/p&gt;
 &lt;section class=&#34;center mw10 mw10-ns&#34;&gt;
  &lt;figure&gt;
@@ -4953,7 +5115,7 @@ var localeObj = {
 &lt;/section&gt;
 
 &lt;h3 id=&#34;wie-sind-die-ergebnisse-einzuordnen&#34;&gt;Wie sind die Ergebnisse einzuordnen?&lt;/h3&gt;
-&lt;p&gt;Unsere Datenspender:innen weichen &lt;a href=&#34;https://corona-datenspende.de/science/reports/benchmark/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;in bestimmten Charakteristiken&lt;/a&gt; von der gesamtdeutschen Bevölkerung ab. Die Gruppen können daher nicht ohne weiteres miteinander verglichen werden. Unterschiede existieren beispielsweise hinsichtlich &lt;a href=&#34;https://corona-datenspende.de/science/reports/fragebogenteilnehmer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alter und Geschlecht&lt;/a&gt;, vermutlich auch in Bezug auf den sozioökonomischen Status und den Bildungsstand. Das Infektionsgeschehen innerhalb unserer Datenspender:innen-Gruppe unterscheidet sich also vermutlich von dem in der Gesamtbevölkerung.&lt;/p&gt;
+&lt;p&gt;Unsere Datenspender:innen weichen &lt;a href=&#34;https://corona-datenspende.github.io/reports/benchmark/&#34;&gt;in bestimmten Charakteristiken&lt;/a&gt; von der gesamtdeutschen Bevölkerung ab. Die Gruppen können daher nicht ohne weiteres miteinander verglichen werden. Unterschiede existieren beispielsweise hinsichtlich &lt;a href=&#34;https://corona-datenspende.github.io/reports/fragebogenteilnehmer/&#34;&gt;Alter und Geschlecht&lt;/a&gt;, vermutlich auch in Bezug auf den sozioökonomischen Status und den Bildungsstand. Das Infektionsgeschehen innerhalb unserer Datenspender:innen-Gruppe unterscheidet sich also vermutlich von dem in der Gesamtbevölkerung.&lt;/p&gt;
 &lt;p&gt;Dennoch halten wir fest: Die PCR-Tests in unserer Kohorte gehen zugunsten von Antigen-Schnelltests um rund 30 Prozent zurück. Für die offizielle Inzidenz entsteht so ein blinder Fleck im Infektionsgeschehen, der die tatsächliche Inzidenz vermutlich deutlich höher ausfallen lässt, als zurzeit berichtet.&lt;/p&gt;
 &lt;h3 id=&#34;was-ist-jetzt-wichtig&#34;&gt;Was ist jetzt wichtig?&lt;/h3&gt;
 &lt;p&gt;Auch wenn der genaue Faktor der Dunkelziffer nach wie vor unklar ist: Auch wir sehen in unseren Daten Hinweise darauf, dass die aktuell kommunizierte 7-Tage-Inzidenz das Infektionsgeschehen unterschätzt. Vor dem Hintergrund des vorherrschenden und stark ansteckenden Omikron-Subtyps BA.5 möchten wir auf dieses Thema aufmerksam machen.
@@ -4964,26 +5126,18 @@ Politik, Gesellschaft und Wissenschaft brauchen ein aussagekräftiges offizielle
     </item>
     
     <item>
-      <title>Evidence for positive long- and short-term effects of vaccinations against COVID-19 in wearable sensor metrics: Insights from the German Corona Data Donation Project</title>
-      <link>https://corona-datenspende.de/publication/wiedermann_etal_2022/</link>
-      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/publication/wiedermann_etal_2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Datenspende startet Long COVID Studie</title>
-      <link>https://corona-datenspende.de/reports/longcovidlaunch/</link>
+      <link>https://corona-datenspende.github.io/reports/longcovidlaunch/</link>
       <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/reports/longcovidlaunch/</guid>
+      <guid>https://corona-datenspende.github.io/reports/longcovidlaunch/</guid>
       <description>&lt;p&gt;Liebe Datenspender:innen,&lt;/p&gt;
 &lt;p&gt;seit nunmehr fast zwei Jahren helfen eure Daten uns dabei den Verlauf der Corona-Pandemie besser zu verstehen. Dafür möchten wir Euch erneut herzlich danken.&lt;/p&gt;
-&lt;p&gt;Wir haben in dieser Zeit gelernt, dass es eine große Bereitschaft gibt, Wissenschaft und Forschung mit Gesundheitsdaten aus Fitnessarmbändern und Smartwatches zu unterstützen. Mehr als 500,000 Menschen haben zumindest über einen bestimmten Zeitraum ihre Vitaldaten gespendet, mehr als 38,000 Personen nehmen bereits regelmäßig an unseren in-App Befragungen teil. Mit Hilfe eurer Daten können wir COVID-19-Symptome wie Fieber gut erfassen und die Häufigkeit unserer Detektionen im &lt;a href=&#34;https://corona-datenspende.de/monitor/&#34;&gt;Fiebermonitor&lt;/a&gt; bildet die Infektionswellen der Pandemie gut ab.&lt;/p&gt;
+&lt;p&gt;Wir haben in dieser Zeit gelernt, dass es eine große Bereitschaft gibt, Wissenschaft und Forschung mit Gesundheitsdaten aus Fitnessarmbändern und Smartwatches zu unterstützen. Mehr als 500,000 Menschen haben zumindest über einen bestimmten Zeitraum ihre Vitaldaten gespendet, mehr als 38,000 Personen nehmen bereits regelmäßig an unseren in-App Befragungen teil. Mit Hilfe eurer Daten können wir COVID-19-Symptome wie Fieber gut erfassen und die Häufigkeit unserer Detektionen im &lt;a href=&#34;https://corona-datenspende.github.io/monitor/&#34;&gt;Fiebermonitor&lt;/a&gt; bildet die Infektionswellen der Pandemie gut ab.&lt;/p&gt;
 &lt;h3 id=&#34;die-langzeitfolgen-der-pandemie-im-blick&#34;&gt;Die Langzeitfolgen der Pandemie im Blick&lt;/h3&gt;
 &lt;p&gt;Im Jahr 2022 erweitern wir den Fokus unserer Forschung und untersuchen nun auch die gesundheitlichen Langzeitfolgen einer COVID-19-Erkrankung. In den kommenden Monaten möchten wir unter anderem untersuchen, wie sich körperliche Aktivität, Schlaf, Fitness, sowie die mentale Gesundheit bei Menschen nach der Erkrankung entwickeln.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Aus diesem Grund wird es in der Datenspende-App eine neue Studie zum Thema Long COVID geben&lt;/strong&gt; die wir in enger Zusammenarbeit mit der Long COVID-Gruppe am Robert Koch-Institut entwickelt haben. Durch das Beantworten monatlicher Fragebögen helft ihr uns dabei langfristige Veränderungen in den Vitaldaten zu verstehen und die Häufigkeiten lang anhaltender bzw. neu auftretender Symptome und Belastungen zu bestimmen.&lt;/p&gt;
 &lt;h3 id=&#34;neue-fragestellungen-dank-umfangreicher-vitaldaten&#34;&gt;Neue Fragestellungen dank umfangreicher Vitaldaten&lt;/h3&gt;
-&lt;p&gt;Bereits jetzt konnten wir aus euren gespendeten Daten wichtige Erkenntnisse zur Entwicklung von Vitaldaten nach einer COVID-19-Erkrankung feststellen. In einem unserer letzten &lt;a href=&#34;https://corona-datenspende.de/reports/prolongedchanges/&#34;&gt;Blogposts&lt;/a&gt; konnten wir beispielsweise zeigen, dass der mittlere Ruhepuls möglicherweise noch Monate nach der Infektion hinaus erhöht ist und sich unter Umständen nur sehr langsam normalisiert (Abb. 1).&lt;/p&gt;
+&lt;p&gt;Bereits jetzt konnten wir aus euren gespendeten Daten wichtige Erkenntnisse zur Entwicklung von Vitaldaten nach einer COVID-19-Erkrankung feststellen. In einem unserer letzten &lt;a href=&#34;https://corona-datenspende.github.io/reports/prolongedchanges/&#34;&gt;Blogposts&lt;/a&gt; konnten wir beispielsweise zeigen, dass der mittlere Ruhepuls möglicherweise noch Monate nach der Infektion hinaus erhöht ist und sich unter Umständen nur sehr langsam normalisiert (Abb. 1).&lt;/p&gt;
 &lt;p&gt;  &lt;!-- insert blank line before figure --&gt;
 
 
@@ -5007,15 +5161,15 @@ Politik, Gesellschaft und Wissenschaft brauchen ein aussagekräftiges offizielle
                /media/figures/prolonged_changes/vitals_65_de_hu8dc088bcc61666e02b89fbe06c1f7477_189544_a0fbaf479250ed2311e0dab904b25bf1.webp 400w,
                /media/figures/prolonged_changes/vitals_65_de_hu8dc088bcc61666e02b89fbe06c1f7477_189544_e7699b40f580c462667c91a6ebd90c9c.webp 760w,
                /media/figures/prolonged_changes/vitals_65_de_hu8dc088bcc61666e02b89fbe06c1f7477_189544_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://corona-datenspende.de/media/figures/prolonged_changes/vitals_65_de_hu8dc088bcc61666e02b89fbe06c1f7477_189544_a0fbaf479250ed2311e0dab904b25bf1.webp&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/prolonged_changes/vitals_65_de_hu8dc088bcc61666e02b89fbe06c1f7477_189544_a0fbaf479250ed2311e0dab904b25bf1.webp&#34;
                width=&#34;60%&#34;
                height=&#34;596&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
-      &lt;strong&gt;Abbildung 1:&lt;/strong&gt; Mittlere Änderung des täglichen Ruhepuls bei einer COVID-19-Erkrankung unabhängig vom Impfstatus mit Daten bis Ende Oktober 2021. Details zur Berechnung und den Ergebnissen findet ihr &lt;a href=&#34;https://corona-datenspende.de/reports/prolongedchanges/&#34;&gt;hier&lt;/a&gt;.
+      &lt;strong&gt;Abbildung 1:&lt;/strong&gt; Mittlere Änderung des täglichen Ruhepuls bei einer COVID-19-Erkrankung unabhängig vom Impfstatus mit Daten bis Ende Oktober 2021. Details zur Berechnung und den Ergebnissen findet ihr &lt;a href=&#34;https://corona-datenspende.github.io/reports/prolongedchanges/&#34;&gt;hier&lt;/a&gt;.
     &lt;/figcaption&gt;&lt;/figure&gt;
   &lt;!-- insert blank line before figure --&gt;&lt;/p&gt;
-&lt;p&gt;Ebenso haben wir in ersten Analysen herausgefunden, dass Impfungen einen starken positiven Effekt auf die Normalisierung der Vitaldaten nach einer Erkrankung haben können (Abb. 2). Auch diese Ergebnisse findet ihr in einem unserer letzten &lt;a href=&#34;https://corona-datenspende.de/reports/breakthroughinfections/&#34;&gt;Blogposts&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Ebenso haben wir in ersten Analysen herausgefunden, dass Impfungen einen starken positiven Effekt auf die Normalisierung der Vitaldaten nach einer Erkrankung haben können (Abb. 2). Auch diese Ergebnisse findet ihr in einem unserer letzten &lt;a href=&#34;https://corona-datenspende.github.io/reports/breakthroughinfections/&#34;&gt;Blogposts&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;  &lt;!-- insert blank line before figure --&gt;
 
 
@@ -5039,12 +5193,12 @@ Politik, Gesellschaft und Wissenschaft brauchen ein aussagekräftiges offizielle
                /media/figures/vaccinations/vaccines_long_covid_65_de_huf7890d83b8ea642bbfb756f21d3388af_148715_062936a7478d88908a3f311147070e14.webp 400w,
                /media/figures/vaccinations/vaccines_long_covid_65_de_huf7890d83b8ea642bbfb756f21d3388af_148715_b8c4a9310c0827038d8805d1b4e83b98.webp 760w,
                /media/figures/vaccinations/vaccines_long_covid_65_de_huf7890d83b8ea642bbfb756f21d3388af_148715_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://corona-datenspende.de/media/figures/vaccinations/vaccines_long_covid_65_de_huf7890d83b8ea642bbfb756f21d3388af_148715_062936a7478d88908a3f311147070e14.webp&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/vaccinations/vaccines_long_covid_65_de_huf7890d83b8ea642bbfb756f21d3388af_148715_062936a7478d88908a3f311147070e14.webp&#34;
                width=&#34;60%&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
-      &lt;strong&gt;Abbildung 2:&lt;/strong&gt; Mittlere Änderung des Ruhepuls (wochenweise aggregiert) bei einer COVID-19-Erkrankung von Personen, die ungeimpft (rot), und solchen, die zum Zeitpunkt der Infektion mindestens vollständig geimpft waren (lila). Es wurden Daten bis Ende Januar 2022 berücksichtigt. Alle Details dieser Analyse findet ihr &lt;a href=&#34;https://corona-datenspende.de/reports/breakthroughinfections/&#34;&gt;hier&lt;/a&gt;.
+      &lt;strong&gt;Abbildung 2:&lt;/strong&gt; Mittlere Änderung des Ruhepuls (wochenweise aggregiert) bei einer COVID-19-Erkrankung von Personen, die ungeimpft (rot), und solchen, die zum Zeitpunkt der Infektion mindestens vollständig geimpft waren (lila). Es wurden Daten bis Ende Januar 2022 berücksichtigt. Alle Details dieser Analyse findet ihr &lt;a href=&#34;https://corona-datenspende.github.io/reports/breakthroughinfections/&#34;&gt;hier&lt;/a&gt;.
     &lt;/figcaption&gt;&lt;/figure&gt;
   &lt;!-- insert blank line before figure --&gt;&lt;/p&gt;
 &lt;p&gt;Aus diesen Ergebnissen ergeben sich viele weitere Fragestellungen, die wir in den folgenden Monaten betrachten wollen und bei deren Verständnis ihr uns unterstützen könnt. Hierzu zählen unter anderem:&lt;/p&gt;
@@ -5062,9 +5216,9 @@ Politik, Gesellschaft und Wissenschaft brauchen ein aussagekräftiges offizielle
     
     <item>
       <title>IFG-Anfrage: Wie sehr vertrauen Datenspender:innen der Bundesregierung in der Pandemiebekämpfung?</title>
-      <link>https://corona-datenspende.de/reports/trustgov/</link>
+      <link>https://corona-datenspende.github.io/reports/trustgov/</link>
       <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/reports/trustgov/</guid>
+      <guid>https://corona-datenspende.github.io/reports/trustgov/</guid>
       <description>&lt;p&gt;Liebe Datenspender:innen,&lt;/p&gt;
 &lt;p&gt;seit etwa einem halben Jahr könnt ihr nicht nur eure Vital- und Schlafdaten spenden, sondern auch in regelmäßigen Abständen verschiedene Fragebögen zum Erleben und Verhalten während der Coronapandemie in der Datenspende-App beantworten. So fragen wir beispielsweise jede Woche, wie sehr ihr der Bundesregierung vertraut, dass sie gut und richtig mit dem Coronavirus umgeht. Die Antworten werden auf einer fünfstufigen Skala von 1 (überhaupt nicht) bis 5 (ganz und gar) gemessen. Insgesamt 29.530 Spender:innen haben hier Ihre Antworten übermittelt. Da wir kürzlich eine Anfrage nach dem Informationsfreiheitsgesetz (IFG) hierzu erhalten haben, wollen wir heute einige Informationen zu diesem Thema mit euch teilen.&lt;/p&gt;
 &lt;h3 id=&#34;mittleres-vertrauen-schwankt-mit-den-fallzahlen&#34;&gt;Mittleres Vertrauen schwankt mit den Fallzahlen&lt;/h3&gt;
@@ -5102,7 +5256,7 @@ Politik, Gesellschaft und Wissenschaft brauchen ein aussagekräftiges offizielle
                /media/figures/governmental_trust/image2_hu0efbc6a414d0c52e6207a876ea52b223_191087_3a1b325cfd1f996a20537e7a077d2034.webp 400w,
                /media/figures/governmental_trust/image2_hu0efbc6a414d0c52e6207a876ea52b223_191087_8bdb5240687dce19661202745b06db2b.webp 760w,
                /media/figures/governmental_trust/image2_hu0efbc6a414d0c52e6207a876ea52b223_191087_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://corona-datenspende.de/media/figures/governmental_trust/image2_hu0efbc6a414d0c52e6207a876ea52b223_191087_3a1b325cfd1f996a20537e7a077d2034.webp&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/governmental_trust/image2_hu0efbc6a414d0c52e6207a876ea52b223_191087_3a1b325cfd1f996a20537e7a077d2034.webp&#34;
                width=&#34;760&#34;
                height=&#34;469&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -5118,11 +5272,13 @@ Politik, Gesellschaft und Wissenschaft brauchen ein aussagekräftiges offizielle
     
     <item>
       <title>Verlaufen Durchbruchsinfektionen im Mittel milder?</title>
-      <link>https://corona-datenspende.de/reports/breakthroughinfections/</link>
+      <link>https://corona-datenspende.github.io/reports/breakthroughinfections/</link>
       <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/reports/breakthroughinfections/</guid>
-      <description>&lt;p&gt;Liebe Datenspender:innen,&lt;/p&gt;
-&lt;p&gt;in einem unserer letzen &lt;a href=&#34;https://corona-datenspende.de/reports/prolongedchanges/&#34;&gt;Blog-Beiträge&lt;/a&gt; haben wir gezeigt, wie sich die gespendeten Vitaldaten im Verlauf einer COVID-19-Erkrankung typischerweise verändern. In den Wochen nach einem positiven PCR-Test sehen wir einen &lt;strong&gt;erhöhten Ruhepuls&lt;/strong&gt;, eine &lt;strong&gt;starke Verringerung der täglichen Aktivität&lt;/strong&gt; und eine &lt;strong&gt;verlängerte Schlafdauer&lt;/strong&gt;, die alle als Anzeichen für Krankheit und ein erhöhtes Ruhebedürfnis gedeutet werden können.&lt;/p&gt;
+      <guid>https://corona-datenspende.github.io/reports/breakthroughinfections/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Update 10.08.2023:&lt;/strong&gt; Die hier gezeigten Ergebnisse wurden als Teil einer umfassenderen Analyse in der wissenschaftlichen Fachzeitschrift PNAS Nexus &lt;a href=&#34;https://doi.org/10.1093/pnasnexus/pgad223&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;veröffentlicht&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Liebe Datenspender:innen,&lt;/p&gt;
+&lt;p&gt;in einem unserer letzen &lt;a href=&#34;https://corona-datenspende.github.io/science/reports/prolongedchanges/&#34;&gt;Blog-Beiträge&lt;/a&gt; haben wir gezeigt, wie sich die gespendeten Vitaldaten im Verlauf einer COVID-19-Erkrankung typischerweise verändern. In den Wochen nach einem positiven PCR-Test sehen wir einen &lt;strong&gt;erhöhten Ruhepuls&lt;/strong&gt;, eine &lt;strong&gt;starke Verringerung der täglichen Aktivität&lt;/strong&gt; und eine &lt;strong&gt;verlängerte Schlafdauer&lt;/strong&gt;, die alle als Anzeichen für Krankheit und ein erhöhtes Ruhebedürfnis gedeutet werden können.&lt;/p&gt;
 &lt;p&gt;Im Zuge der aktiven Beteiligung an der Datenspende und den entsprechenden Umfragen haben mittlerweile 25255 Spender:innen ihren Impfstatus und die Ergebnisse von insgesamt 16489 PCR-Tests übermittelt (von denen 2149 positiv waren). Wir können somit zwischen Infektionen unterscheiden, die vor oder nach einer vollständigen Impfung aufgetreten sind. Für beide Gruppen (geimpft und ungeimpft) untersuchen wir dazu die erwarteten Veränderungen der Vitaldaten im Vergleich zu einem Zeitraum von zwei Monaten vor der Infektion – also den typischen Werten für Schlafdauer, Aktivität und Ruhepuls. Auf diese Weise möchten wir herausfinden, welchen Effekt eine Impfung auf langfristige Auswirkungen von COVID-19 hat.&lt;/p&gt;
 &lt;p&gt;Noch ein Hinweis, bevor wir mit der Analyse beginnen: Mittlerweile sind fast alle Spender:innen, die ihren Impfstatus angegeben haben, vollständig erstimmunisiert oder geboostert. Wenn wir im Folgenden von ungeimpften Fällen sprechen, beziehen wir uns auf Personen, die sich bereits mit COVID-19 angesteckt haben, als Impfstoffe noch nicht verfügbar waren bzw. die Spender:innen noch keine Impfung erhielten. Fast alle ungeimpften Fälle wurden Ende 2020/Anfang 2021 (zweite/dritte Welle) registriert, während die meisten Durchbruchsinfektionen ab Herbst 2021 (vierte/fünfte Welle) verzeichnet werden. Es ist also möglich, dass die folgenden Ergebnisse teilweise auch auf unterschiedliche Reaktionen des Körpers auf die verschiedenen Varianten von Sars-CoV-2 zurückzuführen sind.&lt;/p&gt;
 &lt;h3 id=&#34;ruhepulsänderungen-fallen-bei-geimpften-schwächer-aus&#34;&gt;Ruhepulsänderungen fallen bei Geimpften schwächer aus&lt;/h3&gt;
@@ -5148,7 +5304,7 @@ Politik, Gesellschaft und Wissenschaft brauchen ein aussagekräftiges offizielle
                /media/figures/vaccinations/vaccines_long_covid_65_de_huf7890d83b8ea642bbfb756f21d3388af_148715_062936a7478d88908a3f311147070e14.webp 400w,
                /media/figures/vaccinations/vaccines_long_covid_65_de_huf7890d83b8ea642bbfb756f21d3388af_148715_b8c4a9310c0827038d8805d1b4e83b98.webp 760w,
                /media/figures/vaccinations/vaccines_long_covid_65_de_huf7890d83b8ea642bbfb756f21d3388af_148715_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://corona-datenspende.de/media/figures/vaccinations/vaccines_long_covid_65_de_huf7890d83b8ea642bbfb756f21d3388af_148715_062936a7478d88908a3f311147070e14.webp&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/vaccinations/vaccines_long_covid_65_de_huf7890d83b8ea642bbfb756f21d3388af_148715_062936a7478d88908a3f311147070e14.webp&#34;
                width=&#34;60%&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -5180,14 +5336,14 @@ Politik, Gesellschaft und Wissenschaft brauchen ein aussagekräftiges offizielle
                /media/figures/vaccinations/vaccines_long_covid_9_de_hu99dc90014ac6cb7e5fbb1918fab261d7_131657_b898b139636514dbd18a2ccfaf2810af.webp 400w,
                /media/figures/vaccinations/vaccines_long_covid_9_de_hu99dc90014ac6cb7e5fbb1918fab261d7_131657_656bc6bdc83956a0f3b69d1627a648c2.webp 760w,
                /media/figures/vaccinations/vaccines_long_covid_9_de_hu99dc90014ac6cb7e5fbb1918fab261d7_131657_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://corona-datenspende.de/media/figures/vaccinations/vaccines_long_covid_9_de_hu99dc90014ac6cb7e5fbb1918fab261d7_131657_b898b139636514dbd18a2ccfaf2810af.webp&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/vaccinations/vaccines_long_covid_9_de_hu99dc90014ac6cb7e5fbb1918fab261d7_131657_b898b139636514dbd18a2ccfaf2810af.webp&#34;
                width=&#34;60%&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;strong&gt;Abbildung 2:&lt;/strong&gt; Mittlere Änderung der Aktivität von ungeimpften (rot) und geimpften (violett) positiv auf COVID-19 getesteten Spender:innen sowie von negativ getesteten Personen (blau) zum Vergleich.
     &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;p&gt;Die tägliche Aktivität oder Schrittzahl ist eine zweite Kennzahl, die wir in der Datenspende &lt;a href=&#34;https://corona-datenspende.de/reports/schritte/&#34;&gt;häufig betrachten&lt;/a&gt;. Sowohl bei Geimpften als auch bei Ungeimpften nimmt dieser Wert in der Woche nach einem positiven PCR-Test am stärksten ab, was höchstwahrscheinlich darauf zurückzuführen ist, dass die Spender:innen sich in Quarantäne befinden. Wir stellen jedoch zwei subtile, aber wichtige Unterschiede zwischen geimpften und ungeimpften Fällen fest:&lt;/p&gt;
+&lt;p&gt;Die tägliche Aktivität oder Schrittzahl ist eine zweite Kennzahl, die wir in der Datenspende &lt;a href=&#34;https://corona-datenspende.github.io/science/reports/schritte/&#34;&gt;häufig betrachten&lt;/a&gt;. Sowohl bei Geimpften als auch bei Ungeimpften nimmt dieser Wert in der Woche nach einem positiven PCR-Test am stärksten ab, was höchstwahrscheinlich darauf zurückzuführen ist, dass die Spender:innen sich in Quarantäne befinden. Wir stellen jedoch zwei subtile, aber wichtige Unterschiede zwischen geimpften und ungeimpften Fällen fest:&lt;/p&gt;
 &lt;p&gt;(i) Der Aktivitätsrückgang in der eigentlichen Testwoche ist bei Ungeimpften fast doppelt so stark. Das heißt für diese Gruppe tritt die entsprechende Reduktion früher ein als bei geimpften Spender:innen – wahrscheinlich sogar schon in den Tagen vor der Testdurchführung. Es scheint also, dass ein solcher Rückgang bereits auf eine bevorstehende Erkrankung hindeutet und nicht nur eine Reaktion auf Isolationsanordnungen ist.&lt;/p&gt;
 &lt;p&gt;(ii) Während die Aktivität von Geimpften nach drei bis (höchstens) sechs Wochen zumeist wieder auf typische Werte zurückgeht, finden wir bei Ungeimpften geringe Abweichungen von diesen typischen Werten, die erst nach bis zu 13 Wochen verschwinden. Das deutet darauf hin, dass das Risiko einer andauernden Einschränkung üblicher Aktivitäten über die Isolationszeit hinaus bei Ungeimpften größer ist, obgleich sie auch bei geimpften Personen nicht völlig verschwindet.&lt;/p&gt;
 &lt;h3 id=&#34;schlafdauer-erhöht-sich-während-der-quarantäne&#34;&gt;Schlafdauer erhöht sich während der Quarantäne&lt;/h3&gt;
@@ -5213,7 +5369,7 @@ Politik, Gesellschaft und Wissenschaft brauchen ein aussagekräftiges offizielle
                /media/figures/vaccinations/vaccines_long_covid_43_de_hu156896adeecb4ca2d52fb04085457e02_138634_c90d7a0e314ff43cd4db3c25d58e9cd6.webp 400w,
                /media/figures/vaccinations/vaccines_long_covid_43_de_hu156896adeecb4ca2d52fb04085457e02_138634_345c9c362797dc6ce077609e680efaea.webp 760w,
                /media/figures/vaccinations/vaccines_long_covid_43_de_hu156896adeecb4ca2d52fb04085457e02_138634_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://corona-datenspende.de/media/figures/vaccinations/vaccines_long_covid_43_de_hu156896adeecb4ca2d52fb04085457e02_138634_c90d7a0e314ff43cd4db3c25d58e9cd6.webp&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/vaccinations/vaccines_long_covid_43_de_hu156896adeecb4ca2d52fb04085457e02_138634_c90d7a0e314ff43cd4db3c25d58e9cd6.webp&#34;
                width=&#34;60%&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -5229,9 +5385,9 @@ Politik, Gesellschaft und Wissenschaft brauchen ein aussagekräftiges offizielle
     
     <item>
       <title>Veränderungen der Vitaldaten nach einer COVID-19 Erkrankung</title>
-      <link>https://corona-datenspende.de/reports/prolongedchanges/</link>
+      <link>https://corona-datenspende.github.io/reports/prolongedchanges/</link>
       <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/reports/prolongedchanges/</guid>
+      <guid>https://corona-datenspende.github.io/reports/prolongedchanges/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Hinweis:&lt;/strong&gt; Dieser Artikel wurde am 11. April 2022 aktualisiert. Änderungshinweise am Ende des Texts.&lt;/p&gt;
 &lt;p&gt;Die Datenspende 2.0 ist endlich da. Seit Mitte Oktober könnt ihr uns durch die Beantwortung kurzer Fragebögen in der App dabei helfen unser Verständnis der gespendeten Vitaldaten weiter substantiell zu verbessern. Mehr als 12.000 Menschen haben bereits teilgenommen und uns diese Informationen anvertraut. Dafür möchten wir uns an dieser Stelle ganz herzlich bedanken.&lt;/p&gt;
 &lt;p&gt;Im Fragebogen &amp;ldquo;Tests, Symptome und Lebenssituation&amp;rdquo; fragen wir die Spender:innen beispielsweise nach dem ungefähren Zeitpunkt und Ergebnis ihres ersten PCR-Tests. Insgesamt &lt;strong&gt;521&lt;/strong&gt; Spender gaben an, in der Vergangenheit ein positives Testergebnis erhalten zu haben, &lt;strong&gt;5353&lt;/strong&gt; Spender berichteten von einem negativen Ergebnis.&lt;/p&gt;
@@ -5258,7 +5414,7 @@ Politik, Gesellschaft und Wissenschaft brauchen ein aussagekräftiges offizielle
                /media/figures/prolonged_changes/number_of_tests_de_huef96b4caa7687a1913e16cbbce7834a9_173517_95a3e9946f19fdfc5d89b8d5f568fc81.webp 400w,
                /media/figures/prolonged_changes/number_of_tests_de_huef96b4caa7687a1913e16cbbce7834a9_173517_123188a1dea39f0222be045209a13bb1.webp 760w,
                /media/figures/prolonged_changes/number_of_tests_de_huef96b4caa7687a1913e16cbbce7834a9_173517_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://corona-datenspende.de/media/figures/prolonged_changes/number_of_tests_de_huef96b4caa7687a1913e16cbbce7834a9_173517_95a3e9946f19fdfc5d89b8d5f568fc81.webp&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/prolonged_changes/number_of_tests_de_huef96b4caa7687a1913e16cbbce7834a9_173517_95a3e9946f19fdfc5d89b8d5f568fc81.webp&#34;
                width=&#34;60%&#34;
                height=&#34;456&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -5289,7 +5445,7 @@ Politik, Gesellschaft und Wissenschaft brauchen ein aussagekräftiges offizielle
                /media/figures/prolonged_changes/vitals_65_de_hu8dc088bcc61666e02b89fbe06c1f7477_189544_a0fbaf479250ed2311e0dab904b25bf1.webp 400w,
                /media/figures/prolonged_changes/vitals_65_de_hu8dc088bcc61666e02b89fbe06c1f7477_189544_e7699b40f580c462667c91a6ebd90c9c.webp 760w,
                /media/figures/prolonged_changes/vitals_65_de_hu8dc088bcc61666e02b89fbe06c1f7477_189544_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://corona-datenspende.de/media/figures/prolonged_changes/vitals_65_de_hu8dc088bcc61666e02b89fbe06c1f7477_189544_a0fbaf479250ed2311e0dab904b25bf1.webp&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/prolonged_changes/vitals_65_de_hu8dc088bcc61666e02b89fbe06c1f7477_189544_a0fbaf479250ed2311e0dab904b25bf1.webp&#34;
                width=&#34;60%&#34;
                height=&#34;596&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -5318,7 +5474,7 @@ Politik, Gesellschaft und Wissenschaft brauchen ein aussagekräftiges offizielle
                /media/figures/prolonged_changes/vitals_9_de_hu84cad983e26098ba57117401e8e5b2ba_158937_36a931b95a132cfc6a2f9dc7d4cbcae9.webp 400w,
                /media/figures/prolonged_changes/vitals_9_de_hu84cad983e26098ba57117401e8e5b2ba_158937_35dca5eca1d53ba82417ef1ae516c0b4.webp 760w,
                /media/figures/prolonged_changes/vitals_9_de_hu84cad983e26098ba57117401e8e5b2ba_158937_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://corona-datenspende.de/media/figures/prolonged_changes/vitals_9_de_hu84cad983e26098ba57117401e8e5b2ba_158937_36a931b95a132cfc6a2f9dc7d4cbcae9.webp&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/prolonged_changes/vitals_9_de_hu84cad983e26098ba57117401e8e5b2ba_158937_36a931b95a132cfc6a2f9dc7d4cbcae9.webp&#34;
                width=&#34;60%&#34;
                height=&#34;596&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -5347,7 +5503,7 @@ Politik, Gesellschaft und Wissenschaft brauchen ein aussagekräftiges offizielle
                /media/figures/prolonged_changes/vitals_43_de_hue30896c1ac07683613ca07755692a98a_176736_236ff8fb12f801157d8f68a2db0532bc.webp 400w,
                /media/figures/prolonged_changes/vitals_43_de_hue30896c1ac07683613ca07755692a98a_176736_7af346c204772d663dd69591045503e0.webp 760w,
                /media/figures/prolonged_changes/vitals_43_de_hue30896c1ac07683613ca07755692a98a_176736_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://corona-datenspende.de/media/figures/prolonged_changes/vitals_43_de_hue30896c1ac07683613ca07755692a98a_176736_236ff8fb12f801157d8f68a2db0532bc.webp&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/prolonged_changes/vitals_43_de_hue30896c1ac07683613ca07755692a98a_176736_236ff8fb12f801157d8f68a2db0532bc.webp&#34;
                width=&#34;60%&#34;
                height=&#34;596&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -5356,18 +5512,18 @@ Politik, Gesellschaft und Wissenschaft brauchen ein aussagekräftiges offizielle
 &lt;p&gt;Für alle drei Größen (also Ruhepuls, Aktivität und Schlafdauer) wurden ähnliche Kurven bereits in einer vergleichbaren &lt;a href=&#34;https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2781687&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Studie&lt;/a&gt; zu gespendeten Vitaldaten in den USA gefunden. Dies zeigt, dass unsere Ergebnisse also keinesfalls eine Ausnahme darstellen, sondern sich konsistent in den bisherigen Kenntnisstand einordnen.&lt;/p&gt;
 &lt;h3 id=&#34;verbesserung-des-fieberalgorithmus&#34;&gt;Verbesserung des Fieberalgorithmus&lt;/h3&gt;
 &lt;p&gt;Zusammenfassend legen die gespendeten Daten also nahe, dass &lt;strong&gt;eine COVID-19 Erkrankung langanhaltende Veränderungen im Verhalten und den Vitaldaten hervorrufen kann&lt;/strong&gt;. Gerade im Fall des Ruhepulses kann diese Veränderung mehrere Monate betragen. Wir werden dieses Phänomen nun weiter eingehend untersuchen und die neuen Erkenntnisse auch in den Algorithmus zur Fieberdetektion einfließen lassen. Dabei werden wir auch weitere Informationen wie das Alter und die Lebensumstände der Spender:innen berücksichtigen.&lt;/p&gt;
-&lt;p&gt;In einem unserer &lt;a href=&#34;https://corona-datenspende.de/reports/demographie/&#34;&gt;ersten Blogposts&lt;/a&gt; haben wir bereits erläutert, dass die Demographie unserer Spender:innen nicht vollständig repräsentativ ist. Gerade Senior:innen, eine der hauptsächlichen Risikogruppen von COVID-19, sind in der Datenspende möglicherweise unterrepräsentiert. Die beobachteten Effekte könnten also in der Realität noch stärker ausfallen als in den gespendeten Daten abgebildet. Die zusätzlichen demographischen Information, die im Rahmen des zweiten Fragebogens der Studie ‘Tests, Symptome &amp;amp; Lebenssituation’ erhoben werden, sollen uns daher zukünftig dabei helfen die in den Vitaldaten beobachteten Effekte noch genauer auf die Gesamtbevölkerung hochzurechnen.&lt;/p&gt;
+&lt;p&gt;In einem unserer &lt;a href=&#34;https://corona-datenspende.github.io/reports/demographie/&#34;&gt;ersten Blogposts&lt;/a&gt; haben wir bereits erläutert, dass die Demographie unserer Spender:innen nicht vollständig repräsentativ ist. Gerade Senior:innen, eine der hauptsächlichen Risikogruppen von COVID-19, sind in der Datenspende möglicherweise unterrepräsentiert. Die beobachteten Effekte könnten also in der Realität noch stärker ausfallen als in den gespendeten Daten abgebildet. Die zusätzlichen demographischen Information, die im Rahmen des zweiten Fragebogens der Studie ‘Tests, Symptome &amp;amp; Lebenssituation’ erhoben werden, sollen uns daher zukünftig dabei helfen die in den Vitaldaten beobachteten Effekte noch genauer auf die Gesamtbevölkerung hochzurechnen.&lt;/p&gt;
 &lt;p&gt;Wir danken auf diesem Wege allen Spender:innen für Ihre Bereitschaft uns beim Verständnis von COVID-19 weiterhin tatkräftig zu unterstützen, sowie für das uns entgegengebrachte Vertrauen beim Beantworten der Fragebögen. Wir werden euch auch weiterhin über unsere Fortschritte auf dem Laufenden halten und über neue Erkenntnisse berichten, die durch die Umfragedaten ermöglicht werden.&lt;/p&gt;
 &lt;h4 id=&#34;korrektur&#34;&gt;Korrektur&lt;/h4&gt;
-&lt;p&gt;In einer früheren Version des Blogposts wurde eine maximale Änderung des Ruhepuls um bis zu 3 Schläge pro Minute und eine Normalisierungszeit von bis zu drei Monaten angegeben. Ebenso wurde eine verlängerte Schlafdauer von 60 Minuten berichtet. In der Zwischenzeit haben wir unsere Berechung verbessert und ermitteln die jeweiligen Änderungen der Vitaldaten unter Berücksichtigung saisonaler Einflüsse, wie verändertem Ruhepuls im Winter, sowie erhöhter Aktivität und reduziertem Schlaf im Sommer. Um die Ergebnisse mit denen unseres späteren &lt;a href=&#34;https://corona-datenspende.de/reports/breakthroughinfections/&#34;&gt;Blogposts zum Thema Impfdurchbrüchen&lt;/a&gt; vergleichbar zu machen, haben wir die Abbildungen am 11. April 2022 an die neuen Berechnungen angepasst. Genauere Infos zur Berechnung dieser Einflüsse findet sich auch in einem unserer &lt;a href=&#34;https://arxiv.org/abs/2204.02846&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pre-prints&lt;/a&gt;. Weiterhin ist zu beachten, dass in den hier präsentierten Grafiken nur Daten bis Oktober 2021 berücksichtigt werden und sich die gezeigten Kurven durch Daten aus späteren Zeitpunkten erneut leicht ändern können.&lt;/p&gt;
+&lt;p&gt;In einer früheren Version des Blogposts wurde eine maximale Änderung des Ruhepuls um bis zu 3 Schläge pro Minute und eine Normalisierungszeit von bis zu drei Monaten angegeben. Ebenso wurde eine verlängerte Schlafdauer von 60 Minuten berichtet. In der Zwischenzeit haben wir unsere Berechung verbessert und ermitteln die jeweiligen Änderungen der Vitaldaten unter Berücksichtigung saisonaler Einflüsse, wie verändertem Ruhepuls im Winter, sowie erhöhter Aktivität und reduziertem Schlaf im Sommer. Um die Ergebnisse mit denen unseres späteren &lt;a href=&#34;https://corona-datenspende.github.io/reports/breakthroughinfections/&#34;&gt;Blogposts zum Thema Impfdurchbrüchen&lt;/a&gt; vergleichbar zu machen, haben wir die Abbildungen am 11. April 2022 an die neuen Berechnungen angepasst. Genauere Infos zur Berechnung dieser Einflüsse findet sich auch in einem unserer &lt;a href=&#34;https://arxiv.org/abs/2204.02846&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pre-prints&lt;/a&gt;. Weiterhin ist zu beachten, dass in den hier präsentierten Grafiken nur Daten bis Oktober 2021 berücksichtigt werden und sich die gezeigten Kurven durch Daten aus späteren Zeitpunkten erneut leicht ändern können.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Ergänzende Nowcasts auf Basis der Fieberkurve</title>
-      <link>https://corona-datenspende.de/reports/nowcast/</link>
+      <link>https://corona-datenspende.github.io/reports/nowcast/</link>
       <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/reports/nowcast/</guid>
+      <guid>https://corona-datenspende.github.io/reports/nowcast/</guid>
       <description>&lt;p&gt;Liebe Datenspender:innen,&lt;/p&gt;
 &lt;p&gt;Im Lauf der letzten Monate hat unser Fiebermonitor stets zwei verschiedene Signale verglichen: Die positiven Fieberdetektionen auf Basis der gespendeten Daten und die wöchentliche Inzidenz von COVID-19. Beide Signale haben ihre eigenen Vor- und Nachteile, wenn es darum geht, aktuelle Trends der Pandemie zu überwachen:&lt;/p&gt;
 &lt;ol&gt;

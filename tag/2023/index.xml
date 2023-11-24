@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2023 | Corona-Datenspende | News &amp; Analysen</title>
+    <link>https://corona-datenspende.github.io/tag/2023/</link>
+      <atom:link href="https://corona-datenspende.github.io/tag/2023/index.xml" rel="self" type="application/rss+xml" />
+    <description>2023</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://corona-datenspende.github.io/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
+      <title>2023</title>
+      <link>https://corona-datenspende.github.io/tag/2023/</link>
+    </image>
+    
+    <item>
+      <title>Unser Datenspende-Fahrplan für 2023</title>
+      <link>https://corona-datenspende.github.io/reports/kickoff-2023/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://corona-datenspende.github.io/reports/kickoff-2023/</guid>
+      <description>&lt;p&gt;Liebe Datenspender:innen,&lt;/p&gt;
+&lt;p&gt;ihr seid Teil eines der weltweit größten Citizen Science Projekte in der öffentlichen Gesundheitsforschung. Über 540.000 Menschen aus ganz Deutschland haben uns seit April 2020 unterstützt, für mehr als 120.000 Personen liegen uns heute umfangreiche &lt;a href=&#34;https://corona-datenspende.github.io/vitaldata-tool/&#34;&gt;Aufzeichnungen von Ruhepuls, Tagesaktivität und Schlafdauer&lt;/a&gt; über eine Zeitspanne von 2,5 Jahren vor. Mit spezialisierten Algorithmen haben unser &lt;a href=&#34;https://corona-datenspende.github.io/reports/monitor/&#34;&gt;Fiebermonitor und Nowcast&lt;/a&gt; jeden Tag bis zu 120 Millionen Datenpunkte aus der Bevölkerung verarbeitet, anormale Bewegungs- und Pulsverläufe erkannt, und so einen Einblick in das Echtzeitmonitoring von möglichen Neuinfektionen mit SARS-CoV-2 gewonnen. Unser Datensatz ist geeignet, um gemeinsam mit den psychosozialen Daten aus den Fragebögen der Datenspende-App eine große Bandbreite an Fragestellungen zur COVID-19 Pandemie zu beantworten. Damit wir uns auf die entsprechenden Analysen voll und ganz konzentrieren können, haben wir die aktive Datenerhebung zum 31.12.2022 &lt;a href=&#34;https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Corona-Datenspende-allgemein.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eingestellt&lt;/a&gt;. Eure Mitarbeit hat dieses Projekt zu einer einzigartigen Schnittstelle zwischen Wissenschaft und Gesellschaft transformiert, und dafür möchten wir euch danken. Unser Team beginnt nun den nächsten Arbeitsschritt auf Basis der erhobenen Daten: Die wissenschaftliche Bewertung des Fieberalgorithmus, sowie eine verstärkte Untersuchung der Langzeitfolgen der Pandemie.&lt;/p&gt;
+&lt;h3 id=&#34;ab-zur-inspektion&#34;&gt;Ab zur Inspektion&lt;/h3&gt;
+&lt;p&gt;Neue technologische Ansätze im Bereich der Forschung, zu denen auch das Monitoring  von Vitalparametern durch Wearables gehört, läuten ein neues Zeitalter der digitalen Gesundheitforschung ein. Diese Entwicklungen verändern nicht nur die Werkzeuge und Ansätze, die Forschenden zur Verfügung stehen, sondern auch die Art und Weise, wie die Forschung durchgeführt wird. Wird der Einsatz dieser Methoden nicht regelmäßig überprüft, kann es zu Problemen mit der Reproduzierbarkeit und Validität der Messungen kommen Daher unterziehen wir unseren Fieberalgorithmus nach mehr als zwei Jahren aktivem Feldeinsatz nun einer umfassenden Überprüfung, um seine Eignung als Echtzeit-Monitoringsystem für die Erkennung von Krankheiten zu beurteilen. Dafür diskutieren wir Methodik und Ergebnisse unserer Arbeit mit der wissenschaftlichen Fachöffentlichkeit in entsprechenden Publikationen und überprüfen und verfeinern unseren Algorithmus mit den Erkenntnissen und Rahmenbedingungen &lt;a href=&#34;https://detect.scripps.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ähnlicher Projekte&lt;/a&gt;. Damit sind wir in der Lage zu bewerten, ob und unter welchen Bedingungen unser Fieberalgorithmus als sensorbasiertes Instrument für zukünftige Pandemien bereit ist.&lt;/p&gt;
+&lt;figure id=fever_curve&gt;
+	&lt;div id=&#34;fever_curve-display&#34; class=&#34;panel-display&#34;&gt;
+	&lt;/div&gt;
+	
+ 	&lt;figcaption&gt;
+ 		&lt;div class=&#34;pa4 tl f3 lh-copy&#34;&gt;&lt;strong&gt;Abb. 1&lt;/strong&gt;: Der Fieberalgorithmus auf dem aktuellsten und letzten Stand. Entkoppeln sich Ruhepuls und Schrittzahl einer Person signifikant von ihren bisherigen Messungen und verlaufen gegeneinander (&lt;a href=&#34;https://corona-datenspende.github.io/reports/fevercurve/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;“Fieberbeule”&lt;/a&gt;), signalisiert der Algorithmus eine potentielle Infektion.&lt;/div&gt;	
+ 	&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;die-langzeitfolgen-der-pandemie-weiter-im-blick&#34;&gt;Die Langzeitfolgen der Pandemie weiter im Blick&lt;/h3&gt;
+&lt;p&gt;Ein weiterer Schwerpunkt unserer wissenschaftlichen Arbeit wird die Auswertung der im April 2022 gestarteten Studie zu “Long COVID und Pandemiefolgen” sein. Wir wollen noch detaillierter verstehen, wie sich die beobachteten Vitaldaten nach einer Infektion mit SARS-CoV-2 verändern, wie lange es dauert bis ähnliche Werte wie vor der Erkrankung erreicht werden, unter welchen Umständen dies möglicherweise erst nach sehr langer Zeit geschieht, und welche Konsequenzen daraus entstehen. Erste Analysen hierzu haben wir euch bereits in einem unserer &lt;a href=&#34;https://corona-datenspende.github.io/reports/breakthroughinfections/&#34;&gt;verganenen Blogposts&lt;/a&gt; präsentiert. Zusätzlich sollen die Erkenntnisse aus der entsprechenden Befragungsstudie dabei helfen, die Signaturen in den Vitaldaten mit der Lebensrealität der Spender:innen abzugleichen. Beispielsweise wollen wir untersuchen, ob sich berichtete Probleme im Alltag oder Veränderungen in der gesundheitsbezogenen Lebensqualität auch in Ruhepuls-, Aktivitäts-, und Schlafmustern erkennen lassen.&lt;/p&gt;
+&lt;p&gt;  &lt;!-- insert blank line before figure --&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-abb-2-bei-spenderinnen-mit-nachgewiesener-covid-19-infektion-dauert-es-ca-2-3-monate-bis-sich-der-ruhepuls-wieder-normalisiert-hat-2023-wollen-wir-diesen-befund-noch-detaillierter-vor-allem-hinsichtlich-der-berichteten-gesundheitlichen-lebensqualität-der-spenderinnen-untersuchen&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;a href=&#34;https://corona-datenspende.github.io/reports/prolongedchanges&#34; &gt;&lt;img alt=&#34;**Abb. 2**: Bei Spender:innen mit nachgewiesener COVID-19-Infektion dauert es ca. 2-3 Monate, bis sich der Ruhepuls wieder normalisiert hat. 2023 wollen wir diesen Befund noch detaillierter, vor allem hinsichtlich der berichteten gesundheitlichen Lebensqualität der Spender:innen, untersuchen.&#34; srcset=&#34;
+               /media/figures/prolonged_changes/vitals_65_de_hu8dc088bcc61666e02b89fbe06c1f7477_189544_a0fbaf479250ed2311e0dab904b25bf1.webp 400w,
+               /media/figures/prolonged_changes/vitals_65_de_hu8dc088bcc61666e02b89fbe06c1f7477_189544_e7699b40f580c462667c91a6ebd90c9c.webp 760w,
+               /media/figures/prolonged_changes/vitals_65_de_hu8dc088bcc61666e02b89fbe06c1f7477_189544_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/prolonged_changes/vitals_65_de_hu8dc088bcc61666e02b89fbe06c1f7477_189544_a0fbaf479250ed2311e0dab904b25bf1.webp&#34;
+               width=&#34;60%&#34;
+               height=&#34;596&#34;
+               loading=&#34;lazy&#34; /&gt;&lt;/a&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;strong&gt;Abb. 2&lt;/strong&gt;: Bei Spender:innen mit nachgewiesener COVID-19-Infektion dauert es ca. 2-3 Monate, bis sich der Ruhepuls wieder normalisiert hat. 2023 wollen wir diesen Befund noch detaillierter, vor allem hinsichtlich der berichteten gesundheitlichen Lebensqualität der Spender:innen, untersuchen.
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;h3 id=&#34;alle-neuigkeiten-auch-weiterhin-auf-dem-blog&#34;&gt;Alle Neuigkeiten auch weiterhin auf dem Blog&lt;/h3&gt;
+&lt;p&gt;Die wissenschaftliche Arbeit geht also auch ohne weitere Datenerhebung im Jahr 2023 unverändert weiter. Wir arbeiten einerseits mit verschiedenen Forschungsgruppen zusammen, um die Methoden aus der Corona-Datenspende weiterzuentwickeln; andererseits forschen wir weiter aktiv am besseren Verständnis der Vitaldaten und zu verschiedenen Langzeitfolgen der Pandemie. Dafür sind wir weiter auf diesem Blog und auf den bekannten Kanälen aktiv. Wir freuen uns darauf, euch bei unseren neuen Entwicklungen und Ergebnissen auch 2023 auf dem Laufenden zu halten!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,34 +2,150 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Robert W. Bruckmann | Corona Data Donation Project | News &amp; Analyses</title>
-    <link>https://corona-datenspende.de/en/authors/robert-bruckmann/</link>
-      <atom:link href="https://corona-datenspende.de/en/authors/robert-bruckmann/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://corona-datenspende.github.io/en/authors/robert-bruckmann/</link>
+      <atom:link href="https://corona-datenspende.github.io/en/authors/robert-bruckmann/index.xml" rel="self" type="application/rss+xml" />
     <description>Robert W. Bruckmann</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 10 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://corona-datenspende.de/en/authors/robert-bruckmann/avatar_hu707c57651901556241d6e69970129c9a_454679_270x270_fill_lanczos_center_3.png</url>
+      <url>https://corona-datenspende.github.io/en/authors/robert-bruckmann/avatar_hu707c57651901556241d6e69970129c9a_454679_270x270_fill_lanczos_center_3.png</url>
       <title>Robert W. Bruckmann</title>
-      <link>https://corona-datenspende.de/en/authors/robert-bruckmann/</link>
+      <link>https://corona-datenspende.github.io/en/authors/robert-bruckmann/</link>
     </image>
     
     <item>
+      <title>Partial Data Set: Vital Data</title>
+      <link>https://corona-datenspende.github.io/en/open-data/teilds-vitaldaten/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://corona-datenspende.github.io/en/open-data/teilds-vitaldaten/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How social environments alter protection behaviour</title>
+      <link>https://corona-datenspende.github.io/en/reports/soziales-umfeld-schutzverhalten/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://corona-datenspende.github.io/en/reports/soziales-umfeld-schutzverhalten/</guid>
+      <description>&lt;p&gt;Pharmaceutical interventions, especially vaccinations, are considered a reliable partner in the fight against infectious diseases. However, before such tools are even available (and also supportive beyond that), other interventions take effect where the transmission takes place: At the human behavior. In situations where there is a particular risk of infection, protective measures such as mask wearing and keeping a physical distance of at least 1.5-m limit the risk of transmission in the long term &lt;a href=&#34;https://doi.org/10.1016/S0140-6736%2820%2931142-9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(Chu et al., 2020)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;However, many factors determine whether a person actually engages in appropriate protective behavior. In a journal article published in Social Science and Medicine &lt;a href=&#34;https://doi.org/10.1016/j.socscimed.2022.115633&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(Sprengholz et al., 2023)&lt;/a&gt;, we use survey data from 29,355 data donation participants to examine which characteristics alter behavior in the private domain, and how social environments affect behavior in the workplace.&lt;/p&gt;
+&lt;h3 id=&#34;five-reasons-why-people-protect-themselves-the-way-they-do&#34;&gt;Five reasons why people protect themselves the way they do&lt;/h3&gt;
+&lt;p&gt;People who purposefully avoid infection with SARS-CoV-2 do so for a variety of reasons. The following five factors are particularly important for individual decisions:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;How likely do I consider an infection for myself? How dangerous would that be for me? And how serious is my concern about contracting the virus?&lt;/li&gt;
+&lt;li&gt;Can I easily implement the protective behavior?&lt;/li&gt;
+&lt;li&gt;Do I trust the institution issuing recommendations for protective behavior?&lt;/li&gt;
+&lt;li&gt;Individual personality traits: Am I more likely to be conscientious and willing to compromise, or not?&lt;/li&gt;
+&lt;li&gt;Does my behavior violate social rules in the groups that surround and matter to me?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The last point carries particular weight for infection control, because people can exhibit protective behavior here even if they do not expect to benefit directly themselves. In our article, we examined the reasons in more detail and tested them statistically in a step-by-step manner. Here, we summarize the most important results for you.&lt;/p&gt;
+&lt;h3 id=&#34;those-who-are-more-likely-to-follow-rules-and-recommendations-in-their-private-lives&#34;&gt;Those who are more likely to follow rules and recommendations in their private lives&lt;/h3&gt;
+&lt;p&gt;&amp;hellip; according to our data, tend to be older, female, worry about infection, find it rather difficult, show increased trust in the federal government and perceive measures as appropriate for pandemic control. People are also more likely to be introverted, agreeable, open to new experiences, and conscientious. While these factors continue to apply in the workplace, one key component also plays a major role: the social environment.&lt;/p&gt;
+&lt;h3 id=&#34;colleagues-influence-ones-own-behavior-at-the-workplace&#34;&gt;Colleagues influence one&amp;rsquo;s own behavior at the workplace&lt;/h3&gt;
+&lt;p&gt;Being at the workplace not only increases the risk of infection due to closer contact with fellow workers, it also brings together a variety of potentially divergent perspectives and behaviors. Our data indicate that people who pay less attention to rules and recommendations in their private lives only transfer this behavior to the workplace if their colleagues do not value protective behavior either. If, on the other hand, colleagues followed rules and recommendations, the individual behavior adapted accordingly.&lt;/p&gt;
+&lt;p&gt;It is especially noteworthy that we did not observe any effect in the opposite direction. Someone who strongly complies with recommendations in their private life also does so at work - regardless of whether colleagues protect themselves particularly well or not.&lt;/p&gt;
+&lt;p&gt;The following tool lets you interactively explore and understand our findings. Toggle the button to reveal the difference between groups in which the professional environment places &lt;span style=&#34;color:; font-weight: bold; background-color:#2196F3;&#34;&gt;a higher&lt;/span&gt; emphasis on rules and recommendations instead of having &lt;span style=&#34;color:; font-weight: bold; background-color:#FF9933;&#34;&gt;little emphasis&lt;/span&gt; on them. Tip: Pay special attention to the size of the difference &lt;strong&gt;within&lt;/strong&gt; a group first, and then between groups.&lt;/p&gt;
+&lt;label class=&#34;switch&#34;&gt;
+  &lt;input type=&#34;checkbox&#34; id=&#34;switch&#34; onchange=&#34;toggleUpdate(this.checked)&#34;&gt;
+  &lt;span class=&#34;slider round&#34;&gt;&lt;/span&gt;
+&lt;/label&gt;
+&lt;figure id=workbehav&gt;
+	&lt;div id=&#34;workbehav-display&#34; class=&#34;panel-display&#34;&gt;
+	&lt;/div&gt;
+	
+ 	&lt;figcaption&gt;
+ 		&lt;div class=&#34;pa4 tl f3 lh-copy&#34;&gt;&lt;strong&gt;Tool explainer&lt;/strong&gt;: The grid shows two groups of people differing in their private protection behaviour (horizontal axis) and protection behaviour at work (vertical axis). The group on the left stated that they attach less importance to rules and behavioral recommendations in their private lives - in contrast to the group on the right. The further up a person is positioned in the grid, the more likely they are to follow rules and recommendations at work (horizontal axis).&lt;/div&gt;	
+ 	&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;script&gt;
+  function toggleUpdate(checked) {
+    if (checked) {
+      update(newData);
+    } else {
+      update(data);
+    }
+  }
+&lt;/script&gt;
+&lt;h3 id=&#34;lessons-learned-role-models-safeguard-our-health&#34;&gt;Lessons learned: Role models safeguard our health&lt;/h3&gt;
+&lt;p&gt;Whenever people come together in a group, they influence each other&amp;rsquo;s attitudes and behavior. In order to foster protective behaviour, it is therefore not only important to communicate risks and recommendations. It can also be useful to highlight exemplary behaviour of colleagues and thereby communicate group norms that potentially increase protective effortsd in the whole workgroup.
+In particular, people who are less compliant with rules and recommendations in their private lives could thus be better protected in contagion situations.&lt;/p&gt;
+&lt;h3 id=&#34;bonus-free-access-to-research-data&#34;&gt;Bonus: Free access to research data&lt;/h3&gt;
+&lt;p&gt;Our work ensures that the research we conduct can be checked and replicated. All &lt;a href=&#34;https://doi.org/10.5281/zenodo.7185199&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data used&lt;/a&gt; and the &lt;a href=&#34;http://doi.org/10.17605/OSF.IO/2XNSV&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;analysis script&lt;/a&gt; are published and freely accessible. The results shown here can be found in our &lt;a href=&#34;https://doi.org/10.1016/j.socscimed.2022.115633&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt;, in which we discuss all the findings in more detail.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Our data donation roadmap for 2023</title>
+      <link>https://corona-datenspende.github.io/en/reports/kickoff-2023/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://corona-datenspende.github.io/en/reports/kickoff-2023/</guid>
+      <description>&lt;p&gt;Dear data donors,&lt;/p&gt;
+&lt;p&gt;You are part of what is one of the world&amp;rsquo;s largest citizen science projects in public health research. Over 540,000 people from across Germany have participated since April 2020, for more than 120,000 individuals we were able to gather comprehensive &lt;a href=&#34;https://corona-datenspende.github.io/en/vitaldata-tool/&#34;&gt;records of resting pulse, daily activity, and sleep duration&lt;/a&gt; over a span of 2.5 years. Using specialized algorithms, our &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/monitor/&#34;&gt;Fever Monitor and Nowcast&lt;/a&gt; have processed up to 120 million physiological and behavioral data points each day to detect anomalous movement and pulse patterns in the population and provide insights into real-time tracking the spread of possible infections with SARS-CoV-2. This data set, together with psychosocial data obtained from questionnaires, is well-suited to address a wide-variety of questions regarding the COVID-19 pandemic. For us to be able to make the most of this unique data set, we &lt;a href=&#34;https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Corona-Datenspende-allgemein.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;suspended&lt;/a&gt; active data collection as of December 31, 2022 in order to focus our efforts on diving deeper in our analyses. Your contributions have made this project a landmark milestone in bridging the gap between science and society, and we would like to thank you for that. As this stage of the project comes to a close, our team now shifts focus onto quantitatively evaluating the fever algorithm and comprehensively investigating the long-term consequences of the pandemic.&lt;/p&gt;
+&lt;h3 id=&#34;time-for-a-general-inspection&#34;&gt;Time for a general inspection&lt;/h3&gt;
+&lt;p&gt;Recent advancements in research technology, of which wearable-based monitoring your vital signs is one, usher a new age of digital health in biomedical research. These developments give rise to rapid changes, not only in the tools and approaches available to researchers, but also in the ways in which research is conducted. However, left unchecked, this rapid rate of scientific progress can lead to problems in reproducibility and validity. As such, after more than two years of active field operation, we are now subjecting our fever algorithm to a comprehensive evaluation assessing its validity as a real-time monitoring system for disease detection. To this end, we will be discussing methods and results of our work with the scientific community, taking into account the findings and frameworks of similar efforts such as &lt;a href=&#34;https://detect.scripps.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;findings from abroad&lt;/a&gt;. This enables us to evaluate the potential of our fever algorithm to be used as a sensor-based monitoring tool in future pandemics.&lt;/p&gt;
+&lt;figure id=fever_curve&gt;
+	&lt;div id=&#34;fever_curve-display&#34; class=&#34;panel-display&#34;&gt;
+	&lt;/div&gt;
+	
+ 	&lt;figcaption&gt;
+ 		&lt;div class=&#34;pa4 tl f3 lh-copy&#34;&gt;&lt;strong&gt;Fig. 1&lt;/strong&gt;: Up-to-date version of the fever algorithm. If a person&amp;rsquo;s resting heart rate and step count deviate significantly from their baseline measurements and run counter to each other (&lt;a href=&#34;%28https://corona-datenspende.github.io/en/reports/fevercurve/%29&#34;&gt;&amp;ldquo;fever bump&amp;rdquo;&lt;/a&gt;), the algorithm signals a potential infection.&lt;/div&gt;	
+ 	&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;keeping-an-eye-on-the-pandemics-long-term-consequences&#34;&gt;Keeping an eye on the pandemic’s long-term consequences&lt;/h3&gt;
+&lt;p&gt;The other major focus in the coming months is the analysis of the &amp;ldquo;Long COVID and Pandemic Consequences&amp;rdquo; study launched in April 2022. We seek to gain a better understanding of the dynamics of changes in vital signs following infection with SARS-CoV-2, including the nature and magnitude of observed changes, time it takes to return to pre-disease baseline levels, what factors or circumstances might delay in this normalization, and potential consequences thereof. Initial analyses have already been presented to you in one of our &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/breakthroughinfections/&#34;&gt;past blogposts&lt;/a&gt;. In addition,, we will investigate questionnaire data in relation to vital signs. For example, is it possible to identify physiological correlates of self-reported quality of life by analyzing patterns in resting heart rate, activity, and sleep.&lt;/p&gt;
+&lt;p&gt;  &lt;!-- insert blank line before figure --&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig-2-in-donors-with-confirmed-covid-19-infection-it-takes-about-2-3-months-for-the-resting-pulse-to-return-to-normal-in-2023-we-plan-to-investigate-this-finding-in-more-detail-especially-with-regard-to-the-reported-health-related-quality-of-life&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;a href=&#34;https://corona-datenspende.github.io/reports/prolongedchanges&#34; &gt;&lt;img alt=&#34;**Fig. 2**: In donors with confirmed COVID-19 infection, it takes about 2-3 months for the resting pulse to return to normal. In 2023, we plan to investigate this finding in more detail, especially with regard to the reported health-related quality of life.&#34; srcset=&#34;
+               /media/figures/prolonged_changes/vitals_65_de_hu8dc088bcc61666e02b89fbe06c1f7477_189544_a0fbaf479250ed2311e0dab904b25bf1.webp 400w,
+               /media/figures/prolonged_changes/vitals_65_de_hu8dc088bcc61666e02b89fbe06c1f7477_189544_e7699b40f580c462667c91a6ebd90c9c.webp 760w,
+               /media/figures/prolonged_changes/vitals_65_de_hu8dc088bcc61666e02b89fbe06c1f7477_189544_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/prolonged_changes/vitals_65_de_hu8dc088bcc61666e02b89fbe06c1f7477_189544_a0fbaf479250ed2311e0dab904b25bf1.webp&#34;
+               width=&#34;60%&#34;
+               height=&#34;596&#34;
+               loading=&#34;lazy&#34; /&gt;&lt;/a&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;strong&gt;Fig. 2&lt;/strong&gt;: In donors with confirmed COVID-19 infection, it takes about 2-3 months for the resting pulse to return to normal. In 2023, we plan to investigate this finding in more detail, especially with regard to the reported health-related quality of life.
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;h3 id=&#34;read-the-latest-news-on-the-blog&#34;&gt;Read the latest news on the blog&lt;/h3&gt;
+&lt;p&gt;In 2023, the scientific work will continue unchanged even without further data collection. On the one hand, we will strenghten collaborations with various research groups to further develop our methodology; on the other hand, we continue to engage in better understanding vital parameters and different long-term consequences of the pandemic. To that end, we will remain active on this blog and familiar channels. We are looking forward to share our research progress with you!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>From delta to omicron: The role of individual factors and social context in self-reported compliance with pandemic regulations and recommendations</title>
-      <link>https://corona-datenspende.de/en/publication/sprengholz_etal_2022/</link>
+      <link>https://corona-datenspende.github.io/en/publication/sprengholz_etal_2022/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/en/publication/sprengholz_etal_2022/</guid>
+      <guid>https://corona-datenspende.github.io/en/publication/sprengholz_etal_2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Two years of data donation: The Vital Data Explorer</title>
-      <link>https://corona-datenspende.de/en/reports/vital-data-explorer/</link>
+      <link>https://corona-datenspende.github.io/en/reports/vital-data-explorer/</link>
       <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/en/reports/vital-data-explorer/</guid>
+      <guid>https://corona-datenspende.github.io/en/reports/vital-data-explorer/</guid>
       <description>&lt;p&gt;Dear Donors,&lt;/p&gt;
-&lt;p&gt;About a year ago, we were able to &lt;a href=&#34;https://corona-datenspende.de/science/en/reports/oneyearofdata/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;take stock of the first year of Datenspende&lt;/a&gt;. Today, around 470 million donated data points on heart rate, step count and sleep provide us with a unique insight into the development of vital signs under pandemic conditions.&lt;/p&gt;
+&lt;p&gt;About a year ago, we were able to &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/oneyearofdata/&#34;&gt;take stock of the first year of Datenspende&lt;/a&gt;. Today, around 470 million donated data points on heart rate, step count and sleep provide us with a unique insight into the development of vital signs under pandemic conditions.&lt;/p&gt;
 &lt;p&gt;To give you a glimpse into our data analysis process and the amount of work that has gone into this project, in this article we touch upon some of the challenges we’ve faced over the course of two years of data donation. We further introduce you to a new tool for exploring these  vital signals for yourself.&lt;/p&gt;
 &lt;h3 id=&#34;what-we-were-able-to-show-last-time&#34;&gt;What we were able to show last time&lt;/h3&gt;
-&lt;p&gt;In May 2021, measurement data from 2020 and 2021 were available for the same month for the first time. This marked a major milestone for our analyses: we were able to explore what insights can be gathered from this year-to-year comparison. &lt;a href=&#34;https://corona-datenspende.de/science/en/reports/oneyearofdata/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;In this blog post&lt;/a&gt;, we demonstrated some of the interpretations we were able to draw. For example, the &lt;a href=&#34;https://www.tum.de/en/about-tum/news/covid-19/short/36715&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;weight gain of many people&lt;/a&gt; during the COVID-19 pandemic could be an explanation for the observed increase in resting heart rate during the year. Weather may also have a considerable influence on heart rate and activity patterns. However, one thing has become clear from many of our analyses to date: your donated data cannot just be analyzed independently, but must always be evaluated in the context of external, possibly interconnected circumstances.&lt;/p&gt;
+&lt;p&gt;In May 2021, measurement data from 2020 and 2021 were available for the same month for the first time. This marked a major milestone for our analyses: we were able to explore what insights can be gathered from this year-to-year comparison. &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/oneyearofdata/&#34;&gt;In this blog post&lt;/a&gt;, we demonstrated some of the interpretations we were able to draw. For example, the &lt;a href=&#34;https://www.tum.de/en/about-tum/news/covid-19/short/36715&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;weight gain of many people&lt;/a&gt; during the COVID-19 pandemic could be an explanation for the observed increase in resting heart rate during the year. Weather may also have a considerable influence on heart rate and activity patterns. However, one thing has become clear from many of our analyses to date: your donated data cannot just be analyzed independently, but must always be evaluated in the context of external, possibly interconnected circumstances.&lt;/p&gt;
 &lt;h3 id=&#34;what-is-possible-now&#34;&gt;What is possible now?&lt;/h3&gt;
 &lt;p&gt;A year ago our scope was relatively limited. At that time, we were only able to compare the month of May across two years - a month that already tended to be associated with declining case numbers following the end of the winter waves since the beginning of the COVID-19 pandemic. For periods with more prevalent infectious activity, we lacked year-to-year comparative values. &lt;strong&gt;Thanks to your donations, comparing for example seasonal influences (e.g. low temperatures and longer nights in winter) is now becoming viable&lt;/strong&gt;. But: there are many more possible influences and signals that can be found in our data - and we want to give you the opportunity to take a look for yourself.&lt;/p&gt;
 &lt;h3 id=&#34;two-years-at-a-glance&#34;&gt;Two years at a glance&lt;/h3&gt;
@@ -50,15 +166,15 @@ In case the visualization does not load right away, simply select select a data 
 &lt;h3 id=&#34;what-can-be-explored&#34;&gt;What can be explored?&lt;/h3&gt;
 &lt;p&gt;Basically everything. Using the example of Christmas 2021, we will show you what can be found in our data. In the period from 12/24/2021 to 12/31/2021, the average heart rate increased by almost a whole beat per minute. That may not sound like much, but at the population level, it is a very clear signal. The increase can be explained, for example, by holiday stress, or by a possible increase in alcohol consumption, which &lt;a href=&#34;https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012787.pub2/full&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;systematically increases the resting heart rate&lt;/a&gt;. During the same period, we also sleep less on average and take fewer steps per day than usual. Only after the holidays do these observed values normalize again.&lt;/p&gt;
 &lt;h3 id=&#34;whats-next&#34;&gt;What&amp;rsquo;s next?&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://corona-datenspende.de/science/en/reports/longcovidlaunch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Three months ago, we broadened the focus of our research&lt;/a&gt;. Together with various research groups working on the topic of long-COVID, we are investigating the question: What are the long-term effects of COVID-19 once the acute phase of the viral infection is over? With your data, we can approach this question from various angles, including heart rate, physical activity, sleep, mental health and quality of life. In one of the next blog posts, we’ll share insights on how we do that - and explore how the daily lives of people with chronic health conditions changed in the aftermath of an acute COVID-19 infection.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://corona-datenspende.github.io/en/reports/longcovidlaunch/&#34;&gt;Three months ago, we broadened the focus of our research&lt;/a&gt;. Together with various research groups working on the topic of long-COVID, we are investigating the question: What are the long-term effects of COVID-19 once the acute phase of the viral infection is over? With your data, we can approach this question from various angles, including heart rate, physical activity, sleep, mental health and quality of life. In one of the next blog posts, we’ll share insights on how we do that - and explore how the daily lives of people with chronic health conditions changed in the aftermath of an acute COVID-19 infection.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Is testing at home sufficient? Self tests and official statistics</title>
-      <link>https://corona-datenspende.de/en/reports/questionnaire-incidence/</link>
+      <link>https://corona-datenspende.github.io/en/reports/questionnaire-incidence/</link>
       <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/en/reports/questionnaire-incidence/</guid>
+      <guid>https://corona-datenspende.github.io/en/reports/questionnaire-incidence/</guid>
       <description>&lt;p&gt;The question of how many new COVID-19 cases per week continues to navigate our political and personal decisions. How we assess the risk of infection, the methods we use to protect ourselves, and how we handle the pandemic in the future all depend on the answer to this question.&lt;/p&gt;
 &lt;p&gt;For several weeks now, Germany has been discussing a &lt;a href=&#34;https://www.tagesschau.de/inland/corona-infektionen-pcr-tests-impfungen-101.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;potential underreporting&lt;/a&gt; of its COVID-19 incidence rate. While more and more testing centers are closing due to lower summer demand, &lt;a href=&#34;https://www1.wdr.de/nachrichten/themen/coronavirus/abwasser-corona-inzidenz-100.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;wastewater sample analysis&lt;/a&gt; and &lt;a href=&#34;https://www.rki.de/DE/Content/Infekt/Sentinel/Grippeweb/Wochenberichte/Wochenbericht_aktuell.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;respiratory infection monitoring systems&lt;/a&gt; indicate increasing case rates. According to the current case definition, the reported 7-day incidence is based exclusively &lt;a href=&#34;https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Falldefinition.pdf?__blob=publicationFile&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;on PCR test results&lt;/a&gt;, while rapid antigen tests, whether performed professionally or at home, are not considered. Compared to rapid tests, PCR tests are often more accurate and ensure that local outbreaks can be detected correctly with a high degree of certainty. If the PCR test volume decreases, relative trends will still be visible, but the magnitude of new infections will be much more difficult to estimate.&lt;/p&gt;
 &lt;p&gt;Various research approaches are attempting to describe this degree of underreporting more precisely. Using questionnaire data from 28,274 data donors, in which we recorded test results and test types (e.g. PCR test, rapid antigen test), we aim to better estimate this situation by adding another piece to the puzzle.&lt;/p&gt;
@@ -1536,7 +1652,7 @@ if (HTMLWidgets.shinyMode) {
  &lt;/figure&gt;
 &lt;/section&gt;
 
-&lt;p&gt;We observe that the two incidences evolve quite similarly until the end of the first quarter in 2022, although their magnitudes do in fact differ. Some of the variation can be attributed to the fact that our data donor population is &lt;a href=&#34;https://corona-datenspende.de/science/en/reports/demographie/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;not necessarily representative&lt;/a&gt; of the general German population (more on this later).&lt;/p&gt;
+&lt;p&gt;We observe that the two incidences evolve quite similarly until the end of the first quarter in 2022, although their magnitudes do in fact differ. Some of the variation can be attributed to the fact that our data donor population is &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/demographie/&#34;&gt;not necessarily representative&lt;/a&gt; of the general German population (more on this later).&lt;/p&gt;
 &lt;p&gt;Approaching June, however, the trajectories decouple from their former patterns. We hypothesize that this trend may be related to a decline in PCR testing. To investigate this further, we next looked at the ratio of PCR and rapid tests in our data set and compared it to the ratio of the two incidence curves shown above.&lt;/p&gt;
 &lt;section class=&#34;center mw10 mw10-ns&#34;&gt;
  &lt;figure&gt;
@@ -4486,7 +4602,7 @@ if (HTMLWidgets.shinyMode) {
 &lt;/section&gt;
 
 &lt;h3 id=&#34;how-can-we-interpret-these-results&#34;&gt;How can we interpret these results?&lt;/h3&gt;
-&lt;p&gt;Because our donor population is &lt;a href=&#34;https://corona-datenspende.de/science/en/reports/benchmark/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;not fully representative&lt;/a&gt; of the population of Germany, the groups cannot be directly compared. Differences exist, for example, with &lt;a href=&#34;https://corona-datenspende.de/science/en/reports/fragebogenteilnehmer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;regard to age and gender&lt;/a&gt;, and presumably also in level of education and socioeconomic status. Therefore, the COVID-19 incidence within the group of data donors likely differs from that in the population as a whole.&lt;/p&gt;
+&lt;p&gt;Because our donor population is &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/benchmark/&#34;&gt;not fully representative&lt;/a&gt; of the population of Germany, the groups cannot be directly compared. Differences exist, for example, with &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/fragebogenteilnehmer/&#34;&gt;regard to age and gender&lt;/a&gt;, and presumably also in level of education and socioeconomic status. Therefore, the COVID-19 incidence within the group of data donors likely differs from that in the population as a whole.&lt;/p&gt;
 &lt;p&gt;Nevertheless, we note that PCR testing in our cohort has declined by about 30 percent so far this year. This may create a blind spot in the estimation of the official incidence, which may suggest that case numbers might be larger than currently reported.&lt;/p&gt;
 &lt;h3 id=&#34;what-is-important-now&#34;&gt;What is important now?&lt;/h3&gt;
 &lt;p&gt;Even if the exact factor behind the number of unreported remains unclear, we see  indications in our data that the currently reported 7-day incidence underestimates the pandemic’s dynamics. Given the currently prevalent and highly infectious Omicron subtype BA.5, we would like to draw attention to this issue.

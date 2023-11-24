@@ -2,21 +2,76 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fiebermonitor | Corona-Datenspende | News &amp; Analysen</title>
-    <link>https://corona-datenspende.de/category/fiebermonitor/</link>
-      <atom:link href="https://corona-datenspende.de/category/fiebermonitor/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://corona-datenspende.github.io/category/fiebermonitor/</link>
+      <atom:link href="https://corona-datenspende.github.io/category/fiebermonitor/index.xml" rel="self" type="application/rss+xml" />
     <description>Fiebermonitor</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>de</language><lastBuildDate>Wed, 11 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://corona-datenspende.de/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
+      <url>https://corona-datenspende.github.io/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
       <title>Fiebermonitor</title>
-      <link>https://corona-datenspende.de/category/fiebermonitor/</link>
+      <link>https://corona-datenspende.github.io/category/fiebermonitor/</link>
     </image>
     
     <item>
+      <title>Unser Datenspende-Fahrplan für 2023</title>
+      <link>https://corona-datenspende.github.io/reports/kickoff-2023/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://corona-datenspende.github.io/reports/kickoff-2023/</guid>
+      <description>&lt;p&gt;Liebe Datenspender:innen,&lt;/p&gt;
+&lt;p&gt;ihr seid Teil eines der weltweit größten Citizen Science Projekte in der öffentlichen Gesundheitsforschung. Über 540.000 Menschen aus ganz Deutschland haben uns seit April 2020 unterstützt, für mehr als 120.000 Personen liegen uns heute umfangreiche &lt;a href=&#34;https://corona-datenspende.github.io/vitaldata-tool/&#34;&gt;Aufzeichnungen von Ruhepuls, Tagesaktivität und Schlafdauer&lt;/a&gt; über eine Zeitspanne von 2,5 Jahren vor. Mit spezialisierten Algorithmen haben unser &lt;a href=&#34;https://corona-datenspende.github.io/reports/monitor/&#34;&gt;Fiebermonitor und Nowcast&lt;/a&gt; jeden Tag bis zu 120 Millionen Datenpunkte aus der Bevölkerung verarbeitet, anormale Bewegungs- und Pulsverläufe erkannt, und so einen Einblick in das Echtzeitmonitoring von möglichen Neuinfektionen mit SARS-CoV-2 gewonnen. Unser Datensatz ist geeignet, um gemeinsam mit den psychosozialen Daten aus den Fragebögen der Datenspende-App eine große Bandbreite an Fragestellungen zur COVID-19 Pandemie zu beantworten. Damit wir uns auf die entsprechenden Analysen voll und ganz konzentrieren können, haben wir die aktive Datenerhebung zum 31.12.2022 &lt;a href=&#34;https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Corona-Datenspende-allgemein.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eingestellt&lt;/a&gt;. Eure Mitarbeit hat dieses Projekt zu einer einzigartigen Schnittstelle zwischen Wissenschaft und Gesellschaft transformiert, und dafür möchten wir euch danken. Unser Team beginnt nun den nächsten Arbeitsschritt auf Basis der erhobenen Daten: Die wissenschaftliche Bewertung des Fieberalgorithmus, sowie eine verstärkte Untersuchung der Langzeitfolgen der Pandemie.&lt;/p&gt;
+&lt;h3 id=&#34;ab-zur-inspektion&#34;&gt;Ab zur Inspektion&lt;/h3&gt;
+&lt;p&gt;Neue technologische Ansätze im Bereich der Forschung, zu denen auch das Monitoring  von Vitalparametern durch Wearables gehört, läuten ein neues Zeitalter der digitalen Gesundheitforschung ein. Diese Entwicklungen verändern nicht nur die Werkzeuge und Ansätze, die Forschenden zur Verfügung stehen, sondern auch die Art und Weise, wie die Forschung durchgeführt wird. Wird der Einsatz dieser Methoden nicht regelmäßig überprüft, kann es zu Problemen mit der Reproduzierbarkeit und Validität der Messungen kommen Daher unterziehen wir unseren Fieberalgorithmus nach mehr als zwei Jahren aktivem Feldeinsatz nun einer umfassenden Überprüfung, um seine Eignung als Echtzeit-Monitoringsystem für die Erkennung von Krankheiten zu beurteilen. Dafür diskutieren wir Methodik und Ergebnisse unserer Arbeit mit der wissenschaftlichen Fachöffentlichkeit in entsprechenden Publikationen und überprüfen und verfeinern unseren Algorithmus mit den Erkenntnissen und Rahmenbedingungen &lt;a href=&#34;https://detect.scripps.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ähnlicher Projekte&lt;/a&gt;. Damit sind wir in der Lage zu bewerten, ob und unter welchen Bedingungen unser Fieberalgorithmus als sensorbasiertes Instrument für zukünftige Pandemien bereit ist.&lt;/p&gt;
+&lt;figure id=fever_curve&gt;
+	&lt;div id=&#34;fever_curve-display&#34; class=&#34;panel-display&#34;&gt;
+	&lt;/div&gt;
+	
+ 	&lt;figcaption&gt;
+ 		&lt;div class=&#34;pa4 tl f3 lh-copy&#34;&gt;&lt;strong&gt;Abb. 1&lt;/strong&gt;: Der Fieberalgorithmus auf dem aktuellsten und letzten Stand. Entkoppeln sich Ruhepuls und Schrittzahl einer Person signifikant von ihren bisherigen Messungen und verlaufen gegeneinander (&lt;a href=&#34;https://corona-datenspende.github.io/reports/fevercurve/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;“Fieberbeule”&lt;/a&gt;), signalisiert der Algorithmus eine potentielle Infektion.&lt;/div&gt;	
+ 	&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;die-langzeitfolgen-der-pandemie-weiter-im-blick&#34;&gt;Die Langzeitfolgen der Pandemie weiter im Blick&lt;/h3&gt;
+&lt;p&gt;Ein weiterer Schwerpunkt unserer wissenschaftlichen Arbeit wird die Auswertung der im April 2022 gestarteten Studie zu “Long COVID und Pandemiefolgen” sein. Wir wollen noch detaillierter verstehen, wie sich die beobachteten Vitaldaten nach einer Infektion mit SARS-CoV-2 verändern, wie lange es dauert bis ähnliche Werte wie vor der Erkrankung erreicht werden, unter welchen Umständen dies möglicherweise erst nach sehr langer Zeit geschieht, und welche Konsequenzen daraus entstehen. Erste Analysen hierzu haben wir euch bereits in einem unserer &lt;a href=&#34;https://corona-datenspende.github.io/reports/breakthroughinfections/&#34;&gt;verganenen Blogposts&lt;/a&gt; präsentiert. Zusätzlich sollen die Erkenntnisse aus der entsprechenden Befragungsstudie dabei helfen, die Signaturen in den Vitaldaten mit der Lebensrealität der Spender:innen abzugleichen. Beispielsweise wollen wir untersuchen, ob sich berichtete Probleme im Alltag oder Veränderungen in der gesundheitsbezogenen Lebensqualität auch in Ruhepuls-, Aktivitäts-, und Schlafmustern erkennen lassen.&lt;/p&gt;
+&lt;p&gt;  &lt;!-- insert blank line before figure --&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-abb-2-bei-spenderinnen-mit-nachgewiesener-covid-19-infektion-dauert-es-ca-2-3-monate-bis-sich-der-ruhepuls-wieder-normalisiert-hat-2023-wollen-wir-diesen-befund-noch-detaillierter-vor-allem-hinsichtlich-der-berichteten-gesundheitlichen-lebensqualität-der-spenderinnen-untersuchen&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;a href=&#34;https://corona-datenspende.github.io/reports/prolongedchanges&#34; &gt;&lt;img alt=&#34;**Abb. 2**: Bei Spender:innen mit nachgewiesener COVID-19-Infektion dauert es ca. 2-3 Monate, bis sich der Ruhepuls wieder normalisiert hat. 2023 wollen wir diesen Befund noch detaillierter, vor allem hinsichtlich der berichteten gesundheitlichen Lebensqualität der Spender:innen, untersuchen.&#34; srcset=&#34;
+               /media/figures/prolonged_changes/vitals_65_de_hu8dc088bcc61666e02b89fbe06c1f7477_189544_a0fbaf479250ed2311e0dab904b25bf1.webp 400w,
+               /media/figures/prolonged_changes/vitals_65_de_hu8dc088bcc61666e02b89fbe06c1f7477_189544_e7699b40f580c462667c91a6ebd90c9c.webp 760w,
+               /media/figures/prolonged_changes/vitals_65_de_hu8dc088bcc61666e02b89fbe06c1f7477_189544_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/prolonged_changes/vitals_65_de_hu8dc088bcc61666e02b89fbe06c1f7477_189544_a0fbaf479250ed2311e0dab904b25bf1.webp&#34;
+               width=&#34;60%&#34;
+               height=&#34;596&#34;
+               loading=&#34;lazy&#34; /&gt;&lt;/a&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;strong&gt;Abb. 2&lt;/strong&gt;: Bei Spender:innen mit nachgewiesener COVID-19-Infektion dauert es ca. 2-3 Monate, bis sich der Ruhepuls wieder normalisiert hat. 2023 wollen wir diesen Befund noch detaillierter, vor allem hinsichtlich der berichteten gesundheitlichen Lebensqualität der Spender:innen, untersuchen.
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;h3 id=&#34;alle-neuigkeiten-auch-weiterhin-auf-dem-blog&#34;&gt;Alle Neuigkeiten auch weiterhin auf dem Blog&lt;/h3&gt;
+&lt;p&gt;Die wissenschaftliche Arbeit geht also auch ohne weitere Datenerhebung im Jahr 2023 unverändert weiter. Wir arbeiten einerseits mit verschiedenen Forschungsgruppen zusammen, um die Methoden aus der Corona-Datenspende weiterzuentwickeln; andererseits forschen wir weiter aktiv am besseren Verständnis der Vitaldaten und zu verschiedenen Langzeitfolgen der Pandemie. Dafür sind wir weiter auf diesem Blog und auf den bekannten Kanälen aktiv. Wir freuen uns darauf, euch bei unseren neuen Entwicklungen und Ergebnissen auch 2023 auf dem Laufenden zu halten!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Ergänzende Nowcasts auf Basis der Fieberkurve</title>
-      <link>https://corona-datenspende.de/reports/nowcast/</link>
+      <link>https://corona-datenspende.github.io/reports/nowcast/</link>
       <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/reports/nowcast/</guid>
+      <guid>https://corona-datenspende.github.io/reports/nowcast/</guid>
       <description>&lt;p&gt;Liebe Datenspender:innen,&lt;/p&gt;
 &lt;p&gt;Im Lauf der letzten Monate hat unser Fiebermonitor stets zwei verschiedene Signale verglichen: Die positiven Fieberdetektionen auf Basis der gespendeten Daten und die wöchentliche Inzidenz von COVID-19. Beide Signale haben ihre eigenen Vor- und Nachteile, wenn es darum geht, aktuelle Trends der Pandemie zu überwachen:&lt;/p&gt;
 &lt;ol&gt;
@@ -51,9 +106,9 @@
     
     <item>
       <title>Vergleich der Detektionen</title>
-      <link>https://corona-datenspende.de/reports/detectionscompared/</link>
+      <link>https://corona-datenspende.github.io/reports/detectionscompared/</link>
       <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/reports/detectionscompared/</guid>
+      <guid>https://corona-datenspende.github.io/reports/detectionscompared/</guid>
       <description>&lt;h3 id=&#34;liebe-spenderinnen&#34;&gt;Liebe Spender:innen,&lt;/h3&gt;
 &lt;p&gt;in diesem Bericht wollen wir uns die Detektionen, die wir im Laufe des letzten Jahres beobachtet haben,
 genauer ansehen und die Fieberkurve mit anderen bestehenden COVID-19-bezogenen Public Health Daten vergleichen.&lt;/p&gt;
@@ -110,7 +165,7 @@ auch hier eine Schiefe aufweisen. 89% unserer Spender:innen befinden sich in Wes
 
 &lt;p&gt;Weitere Informationen zur Demografie der Spender:innen, einschließlich eines Vergleichs der Alters- und
 Geschlechterverteilung zum bundesdeutschen Durchschnitt finden Sie in unserem früheren Beitrag:
-&lt;a href=&#34;https://corona-datenspende.de/reports/demographie/&#34;&gt;Demographics des Spenders&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;https://corona-datenspende.github.io/reports/demographie/&#34;&gt;Demographics des Spenders&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;vergleich-mit-anderen-datenquellen&#34;&gt;Vergleich mit anderen Datenquellen&lt;/h2&gt;
 &lt;p&gt;Nun vergleichen wir die wöchentlich aggregierte Detektionskurve mit den drei folgenden Datenquellen:&lt;/p&gt;
 
@@ -150,12 +205,12 @@ können, da diese Systeme oft eine Verzögerung um 1 bis 3 Wochen aufweisen.&lt;
     
     <item>
       <title>Kampf mit dem Wetter</title>
-      <link>https://corona-datenspende.de/reports/improved-method-2/</link>
+      <link>https://corona-datenspende.github.io/reports/improved-method-2/</link>
       <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/reports/improved-method-2/</guid>
+      <guid>https://corona-datenspende.github.io/reports/improved-method-2/</guid>
       <description>&lt;p&gt;Liebe Datenspender:innen,
 etwa seit Mitte Dezember letzten Jahres sahen wir bis Ende Februar einen deutlichen Rückgang der Zahl der bestätigten &lt;a href=&#34;https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;COVID-19-Fälle&lt;/a&gt; in Deutschland.
-Gleichzeitig beobachten wir, dass der &lt;a href=&#34;https://corona-datenspende.de/monitor/&#34;&gt;Fiebermonitor&lt;/a&gt; – ungefähr seit dem Jahreswechsel – von den COVID-19-Fallzahlen abweicht. In diesem Beitrag versuchen wir zu erklären, was in den vergangenen Wochen und Monaten passiert ist, wie es zu diesem Unterschied zwischen den beiden Kurven kommen konnte – und welche Schlüsse wir daraus gezogen haben. Das Ergebnis dieser Überlegungen wollen wir euch in unserem aktualisierten Algorithmus vorstellen.&lt;/p&gt;
+Gleichzeitig beobachten wir, dass der &lt;a href=&#34;https://corona-datenspende.github.io/monitor/&#34;&gt;Fiebermonitor&lt;/a&gt; – ungefähr seit dem Jahreswechsel – von den COVID-19-Fallzahlen abweicht. In diesem Beitrag versuchen wir zu erklären, was in den vergangenen Wochen und Monaten passiert ist, wie es zu diesem Unterschied zwischen den beiden Kurven kommen konnte – und welche Schlüsse wir daraus gezogen haben. Das Ergebnis dieser Überlegungen wollen wir euch in unserem aktualisierten Algorithmus vorstellen.&lt;/p&gt;
 &lt;h3 id=&#34;was-ist-passiert&#34;&gt;Was ist passiert?&lt;/h3&gt;
 &lt;p&gt;Kurz zur Erinnerung: Der Datenspende-Algorithmus zur Fieberdetektion verwendet die Daten des Ruhepulses und der täglichen Schrittanzahl von Fitness-Tracking-Geräten, um Muster zu erkennen, die für Fiebersymptome charakteristisch sind.
 Wir wissen, dass ein erhöhter Ruhepuls in Verbindung mit einer verminderten körperlichen Aktivität (weniger Bewegung) auf Fieber hinweisen kann. Daher ist unser Algorithmus so konzipiert, dass er für jede Person eine Baseline dieser Messgrößen ermittelt und Abweichungen davon erkennt.
@@ -189,7 +244,7 @@ Jetzt im Winter 2020/2021 scheint es genau umgekehrt zu sein. Nach einem plötzl
                /media/figures/mean_rhr_de_Mar21_hu9bcccdef5bdab3dcec71f38807277094_110469_581a826397d46942e9762237ed559e5c.webp 400w,
                /media/figures/mean_rhr_de_Mar21_hu9bcccdef5bdab3dcec71f38807277094_110469_f4b6336d98cdf245884a709494a9613c.webp 760w,
                /media/figures/mean_rhr_de_Mar21_hu9bcccdef5bdab3dcec71f38807277094_110469_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://corona-datenspende.de/media/figures/mean_rhr_de_Mar21_hu9bcccdef5bdab3dcec71f38807277094_110469_581a826397d46942e9762237ed559e5c.webp&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/mean_rhr_de_Mar21_hu9bcccdef5bdab3dcec71f38807277094_110469_581a826397d46942e9762237ed559e5c.webp&#34;
                width=&#34;760&#34;
                height=&#34;484&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -216,7 +271,7 @@ Jetzt im Winter 2020/2021 scheint es genau umgekehrt zu sein. Nach einem plötzl
                /media/figures/mean_steps_de_Mar21_hue76f54ba29e80eded2fd9bd1925c1279_116748_5825605cf74ca94c992eec23a62b7356.webp 400w,
                /media/figures/mean_steps_de_Mar21_hue76f54ba29e80eded2fd9bd1925c1279_116748_ad66b597b8ffc53835c12c71d9cae285.webp 760w,
                /media/figures/mean_steps_de_Mar21_hue76f54ba29e80eded2fd9bd1925c1279_116748_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://corona-datenspende.de/media/figures/mean_steps_de_Mar21_hue76f54ba29e80eded2fd9bd1925c1279_116748_5825605cf74ca94c992eec23a62b7356.webp&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/mean_steps_de_Mar21_hue76f54ba29e80eded2fd9bd1925c1279_116748_5825605cf74ca94c992eec23a62b7356.webp&#34;
                width=&#34;760&#34;
                height=&#34;484&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -253,7 +308,7 @@ Außerdem haben wir den Ruhepuls stärker gewichtet, da er unsere primäre Messg
                /media/figures/cases_vs_det_old_de_Mar21_hu9c669f7494bd17a90d573a877677ef3d_116472_6bd113e2c88d8682233896849a71eb6e.webp 400w,
                /media/figures/cases_vs_det_old_de_Mar21_hu9c669f7494bd17a90d573a877677ef3d_116472_1045ecb1b8c434b65f2361de6526beb3.webp 760w,
                /media/figures/cases_vs_det_old_de_Mar21_hu9c669f7494bd17a90d573a877677ef3d_116472_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://corona-datenspende.de/media/figures/cases_vs_det_old_de_Mar21_hu9c669f7494bd17a90d573a877677ef3d_116472_6bd113e2c88d8682233896849a71eb6e.webp&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/cases_vs_det_old_de_Mar21_hu9c669f7494bd17a90d573a877677ef3d_116472_6bd113e2c88d8682233896849a71eb6e.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -282,7 +337,7 @@ Außerdem haben wir den Ruhepuls stärker gewichtet, da er unsere primäre Messg
                /media/figures/cases_vs_det_de_Mar21_huf07ab39fdb002dfc4e0ce85e6bb3cb75_121392_19fcca9215071b5e655c19c102d5a086.webp 400w,
                /media/figures/cases_vs_det_de_Mar21_huf07ab39fdb002dfc4e0ce85e6bb3cb75_121392_0247320816f482a287ac2453866aa0db.webp 760w,
                /media/figures/cases_vs_det_de_Mar21_huf07ab39fdb002dfc4e0ce85e6bb3cb75_121392_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://corona-datenspende.de/media/figures/cases_vs_det_de_Mar21_huf07ab39fdb002dfc4e0ce85e6bb3cb75_121392_19fcca9215071b5e655c19c102d5a086.webp&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/cases_vs_det_de_Mar21_huf07ab39fdb002dfc4e0ce85e6bb3cb75_121392_19fcca9215071b5e655c19c102d5a086.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -298,10 +353,10 @@ Wir haben immer noch das Ziel, in Zukunft wieder regionale Kurven zur Verfügung
     
     <item>
       <title>Fieberhaft Reloaded</title>
-      <link>https://corona-datenspende.de/reports/improved-method/</link>
+      <link>https://corona-datenspende.github.io/reports/improved-method/</link>
       <pubDate>Sat, 17 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/reports/improved-method/</guid>
-      <description>&lt;p&gt;Seit einigen Wochen aktualisieren wir täglich unseren &lt;a href=&#34;https://corona-datenspende.de/monitor/&#34;&gt;Fiebermonitor&lt;/a&gt;
+      <guid>https://corona-datenspende.github.io/reports/improved-method/</guid>
+      <description>&lt;p&gt;Seit einigen Wochen aktualisieren wir täglich unseren &lt;a href=&#34;https://corona-datenspende.github.io/monitor/&#34;&gt;Fiebermonitor&lt;/a&gt;
 für Deutschland, basierend auf den Fitness-Trackerdaten von mehr als 520.000 Spender:innen.&lt;/p&gt;
 &lt;p&gt;Vielen von euch ist aufgefallen, dass sich die Fieberkurve vor ein paar Tagen verändert hat.
 Es sind nicht nur wie gewohnt neue Daten hinzugekommen, sondern die gesamte Kurve sieht etwas anders aus.
@@ -332,7 +387,7 @@ mit Referenzwerten. Dazu gehören die Zahlen der ILI/ARE Erkrankungen, Wetterdat
 auch die COVID-19-Fallzahlen.&lt;/p&gt;
 &lt;h4 id=&#34;1-saisonale-effekte&#34;&gt;1. Saisonale Effekte&lt;/h4&gt;
 &lt;p&gt;Dass das Wetter und die Temperaturen sich auf den Ruhepuls auswirken können, haben wir
-bereits im Post &lt;a href=&#34;https://corona-datenspende.de/reports/weather/&#34;&gt;Schönes Wetter lässt Herzen höher schlagen&lt;/a&gt; beschrieben.&lt;/p&gt;
+bereits im Post &lt;a href=&#34;https://corona-datenspende.github.io/reports/weather/&#34;&gt;Schönes Wetter lässt Herzen höher schlagen&lt;/a&gt; beschrieben.&lt;/p&gt;
 &lt;p&gt;Unser Verfahren baut auf einer Reihe von Publikationen auf, die sich
 mit der Detektion von Grippewellen beschäftigt haben. Einer der großen Unterschiede unseres
 Monitors zu diesen Studien ist, dass wir viel mehr Daten verarbeiten. Uns steht jetzt
@@ -360,13 +415,13 @@ Verfügung stehenden Werte einer Zeitreihe.&lt;/p&gt;
     
     <item>
       <title>COVID-19 &amp; Fiebermessungen</title>
-      <link>https://corona-datenspende.de/reports/c19detect/</link>
+      <link>https://corona-datenspende.github.io/reports/c19detect/</link>
       <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/reports/c19detect/</guid>
-      <description>&lt;p&gt;Die &lt;strong&gt;Corona Datenspende&lt;/strong&gt; wurde konzipiert, um in den Zeitreihen des Ruhepulses und der täglichen Schrittanzahl der Spender:innen Anomalien zu identifizieren und damit &lt;strong&gt;Fiebersymptomatik&lt;/strong&gt; zu detektieren. Im Blogpost &lt;a href=&#34;https://corona-datenspende.de/reports/how/&#34;&gt;&amp;ldquo;Wie funktioniert die Corona-Datenspende?&amp;rdquo;&lt;/a&gt; wurden die Grundidee und die Funktionsweise genauer erklärt und im Post &lt;a href=&#34;https://corona-datenspende.de/reports/fevercurve/&#34;&gt;&amp;ldquo;Fieberhaft&amp;rdquo;&lt;/a&gt; haben wir erste Ergebnisse gezeigt.&lt;/p&gt;
+      <guid>https://corona-datenspende.github.io/reports/c19detect/</guid>
+      <description>&lt;p&gt;Die &lt;strong&gt;Corona Datenspende&lt;/strong&gt; wurde konzipiert, um in den Zeitreihen des Ruhepulses und der täglichen Schrittanzahl der Spender:innen Anomalien zu identifizieren und damit &lt;strong&gt;Fiebersymptomatik&lt;/strong&gt; zu detektieren. Im Blogpost &lt;a href=&#34;https://corona-datenspende.github.io/reports/how/&#34;&gt;&amp;ldquo;Wie funktioniert die Corona-Datenspende?&amp;rdquo;&lt;/a&gt; wurden die Grundidee und die Funktionsweise genauer erklärt und im Post &lt;a href=&#34;https://corona-datenspende.github.io/reports/fevercurve/&#34;&gt;&amp;ldquo;Fieberhaft&amp;rdquo;&lt;/a&gt; haben wir erste Ergebnisse gezeigt.&lt;/p&gt;
 &lt;p&gt;Im Zusammenhang mit der Pandemie ist das wichtig, weil Fieber ein typisches Symptom der COVID-19-Erkrankung sein kann. Wenn wir nun einen Anstieg in den potenziellen Fieber-Detektionen messen, kann das ein Zeichen sein, dass auch die Anzahl der COVID-19 Fälle in Deutschland steigt.&lt;/p&gt;
 &lt;h2 id=&#34;aber-funktioniert-das&#34;&gt;Aber funktioniert das?&lt;/h2&gt;
-&lt;p&gt;Um die Funktionsweise zu testen, vergleichen wir die &lt;a href=&#34;https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;zeitliche Entwicklung der bestätigten täglichen COVID-19-Neuerkrankungen&lt;/a&gt; mit den aus der &lt;a href=&#34;https://corona-datenspende.de/monitor/&#34;&gt;Corona Datenspende errechneten Fieberfällen&lt;/a&gt; in der Gemeinschaft der Spender:innen. Wenn beide Zeitverläufe eine gleiche oder ähnliche Form haben, wenn sie also ähnliche &amp;ldquo;Berge&amp;rdquo; oder &amp;ldquo;Täler&amp;rdquo; im Kurvenverlauf zeigen, ist das ein Indiz dafür, dass wir auf der richtigen Spur sind und dass das Projekt funktioniert - also die Ermittlung von Fieber aus Fitness-Tracker-Daten. Die nächste Abbildung zeigt genau diesen Vergleich:&lt;/p&gt;
+&lt;p&gt;Um die Funktionsweise zu testen, vergleichen wir die &lt;a href=&#34;https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;zeitliche Entwicklung der bestätigten täglichen COVID-19-Neuerkrankungen&lt;/a&gt; mit den aus der &lt;a href=&#34;https://corona-datenspende.github.io/monitor/&#34;&gt;Corona Datenspende errechneten Fieberfällen&lt;/a&gt; in der Gemeinschaft der Spender:innen. Wenn beide Zeitverläufe eine gleiche oder ähnliche Form haben, wenn sie also ähnliche &amp;ldquo;Berge&amp;rdquo; oder &amp;ldquo;Täler&amp;rdquo; im Kurvenverlauf zeigen, ist das ein Indiz dafür, dass wir auf der richtigen Spur sind und dass das Projekt funktioniert - also die Ermittlung von Fieber aus Fitness-Tracker-Daten. Die nächste Abbildung zeigt genau diesen Vergleich:&lt;/p&gt;
 &lt;section class=&#34;center mw10 mw10-ns&#34;&gt;
  &lt;figure&gt;
  	&lt;div&gt;
@@ -466,11 +521,11 @@ Verfügung stehenden Werte einer Zeitreihe.&lt;/p&gt;
     
     <item>
       <title>Der Fiebermonitor</title>
-      <link>https://corona-datenspende.de/reports/monitor/</link>
+      <link>https://corona-datenspende.github.io/reports/monitor/</link>
       <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/reports/monitor/</guid>
+      <guid>https://corona-datenspende.github.io/reports/monitor/</guid>
       <description>&lt;h2 id=&#34;was-macht-der-monitor&#34;&gt;Was macht der Monitor?&lt;/h2&gt;
-&lt;p&gt;Seit heute featured der &lt;strong&gt;Corona-Datenspende-Blog&lt;/strong&gt; den &lt;a href=&#34;https://corona-datenspende.de/monitor/&#34;&gt;Fiebermonitor&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Seit heute featured der &lt;strong&gt;Corona-Datenspende-Blog&lt;/strong&gt; den &lt;a href=&#34;https://corona-datenspende.github.io/monitor/&#34;&gt;Fiebermonitor&lt;/a&gt;.&lt;/p&gt;
 
 
 
@@ -489,11 +544,11 @@ Verfügung stehenden Werte einer Zeitreihe.&lt;/p&gt;
 
 &lt;figure  id=&#34;figure-der-fiebermonitor-einmal-anklicken&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;a href=&#34;https://corona-datenspende.de/monitor&#34; &gt;&lt;img src=&#34;https://corona-datenspende.de/images/monitor2.png&#34; alt=&#34;Der Fiebermonitor (einmal anklicken!)&#34; loading=&#34;lazy&#34;  /&gt;&lt;/a&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;a href=&#34;https://corona-datenspende.github.io/monitor&#34; &gt;&lt;img src=&#34;https://corona-datenspende.github.io/images/monitor2.png&#34; alt=&#34;Der Fiebermonitor (einmal anklicken!)&#34; loading=&#34;lazy&#34;  /&gt;&lt;/a&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Der Fiebermonitor (einmal anklicken!)
     &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;p&gt;Der Monitor zeigt den zeitlichen Verlauf der Fieberdetektionen, die wir aus den Ruhepuls- und Schrittzahldaten der Spender:innen berechnen. Ähnliche Ergebnisse hatten wir schon in den Posts &lt;a href=&#34;https://corona-datenspende.de/reports/fevercurve/&#34;&gt;Fieberhaft&lt;/a&gt; und &lt;a href=&#34;https://corona-datenspende.de/reports/fevercurvestates/&#34;&gt;Fieber in den Bundesländern&lt;/a&gt; gezeigt.&lt;/p&gt;
+&lt;p&gt;Der Monitor zeigt den zeitlichen Verlauf der Fieberdetektionen, die wir aus den Ruhepuls- und Schrittzahldaten der Spender:innen berechnen. Ähnliche Ergebnisse hatten wir schon in den Posts &lt;a href=&#34;https://corona-datenspende.github.io/reports/fevercurve/&#34;&gt;Fieberhaft&lt;/a&gt; und &lt;a href=&#34;https://corona-datenspende.github.io/reports/fevercurvestates/&#34;&gt;Fieber in den Bundesländern&lt;/a&gt; gezeigt.&lt;/p&gt;
 &lt;h2 id=&#34;was-ist-also-neu---automatisierung&#34;&gt;Was ist also neu? - Automatisierung!&lt;/h2&gt;
 &lt;p&gt;Mit dem Monitor haben wir das letzte Glied in der Automatisierungskette geschlossen. Hinter dem Monitor liegen eine ganze Reihe komplexer Schritte in einer Prozesskette, die mit den Rohdaten der Spender:innen anfängt und mit den dargestellten Detektionskurven endet. Zwischenschritte sind die Aggregation der Daten, das Herausfiltern lückenhafter oder fehlerhafter Daten, die Identifizierung und Aufbereitung verwendbarer Zeitreihen. Diese werden dann in eine ganze Reihe von Analysealgorithmen gefüttert, die dann wiederum die Ergebniskurven produzieren. Diese werdenn dann schließlich für die visuelle Darstellung aufbereitet und klassifiziert.&lt;/p&gt;
 &lt;p&gt;Dieser ganze Prozess wird nun automatisch und täglich widerholt, sodass wir im &lt;strong&gt;Monitor&lt;/strong&gt; letztendlich immer tagesaktuell die Fiebermessung sehen können.&lt;/p&gt;
@@ -502,10 +557,10 @@ Verfügung stehenden Werte einer Zeitreihe.&lt;/p&gt;
     
     <item>
       <title>Fieber in den Bundesländern</title>
-      <link>https://corona-datenspende.de/reports/fevercurvestates/</link>
+      <link>https://corona-datenspende.github.io/reports/fevercurvestates/</link>
       <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/reports/fevercurvestates/</guid>
-      <description>&lt;p&gt;Im letzten Post &lt;a href=&#34;https://corona-datenspende.de/reports/fevercurve/&#34;&gt;Fieberhaft&lt;/a&gt; haben wir die erste aus den Spender:innen-Daten errechnete Fieberkurve gezeigt. Hier wollen wir Euch nicht nur die &lt;strong&gt;aktuellen Berechnungen&lt;/strong&gt; zeigen, sondern auch die unterschiedlichen &lt;strong&gt;Kurven für die einzelnen Bundesländer&lt;/strong&gt;.&lt;/p&gt;
+      <guid>https://corona-datenspende.github.io/reports/fevercurvestates/</guid>
+      <description>&lt;p&gt;Im letzten Post &lt;a href=&#34;https://corona-datenspende.github.io/reports/fevercurve/&#34;&gt;Fieberhaft&lt;/a&gt; haben wir die erste aus den Spender:innen-Daten errechnete Fieberkurve gezeigt. Hier wollen wir Euch nicht nur die &lt;strong&gt;aktuellen Berechnungen&lt;/strong&gt; zeigen, sondern auch die unterschiedlichen &lt;strong&gt;Kurven für die einzelnen Bundesländer&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Zur Erinnerung:&lt;/strong&gt; Wir werten den täglichen Ruhepuls und die tägliche Schrittanzahl der Spender:innen aus. Wenn im Vergleich zu den individuellen Normalwerten (der sogenannten &lt;em&gt;Baseline&lt;/em&gt;) der Ruhepulse über einige Tage signifikant ansteigt und gleichzeitig die tägliche Schrittanzahl über einige Tage deutlich sinkt, ist das (grob gesprochen) ein Indikator für Fieber. Hier ist nochmal ein typischer Verlauf mit Verdacht auf Fieber aus dem letzten Post:&lt;/p&gt;
 &lt;section class=&#34;center mw10 mw10-ns&#34;&gt;
  &lt;figure&gt;
@@ -537,7 +592,7 @@ Verfügung stehenden Werte einer Zeitreihe.&lt;/p&gt;
 
 &lt;p&gt;Diese Abweichungen werden für alle Spenderin:innen, die lange genug gespendet haben, mit Hilfe unserer Detektionsalgorithmen gefunden und gezählt.&lt;/p&gt;
 &lt;h3 id=&#34;update-fieberkurve-für-deutschland&#34;&gt;Update: Fieberkurve für Deutschland&lt;/h3&gt;
-&lt;p&gt;In der nächsten Abbildung sind die aktuellen Fieberkurven für Deutschland dargestellt. Wie die Detektion genau funktioniert ist im Post &lt;a href=&#34;https://corona-datenspende.de/reports/fevercurve/&#34;&gt;Fieberhaft&lt;/a&gt; erklärt. Wir verwenden momentan noch die beiden Detektionsalgorithmen A und B, die auf verschiedenen statistischen Maßen basieren aber ähnliche Kurvenverläufe produzieren.&lt;/p&gt;
+&lt;p&gt;In der nächsten Abbildung sind die aktuellen Fieberkurven für Deutschland dargestellt. Wie die Detektion genau funktioniert ist im Post &lt;a href=&#34;https://corona-datenspende.github.io/reports/fevercurve/&#34;&gt;Fieberhaft&lt;/a&gt; erklärt. Wir verwenden momentan noch die beiden Detektionsalgorithmen A und B, die auf verschiedenen statistischen Maßen basieren aber ähnliche Kurvenverläufe produzieren.&lt;/p&gt;
 &lt;section class=&#34;center mw10 mw10-ns&#34;&gt;
  &lt;figure&gt;
  	&lt;div&gt;
@@ -567,7 +622,7 @@ Verfügung stehenden Werte einer Zeitreihe.&lt;/p&gt;
 &lt;/section&gt;
 
 &lt;p&gt;Im Zeitraum vom 26.05. bis 03.08.2020 messen wir eine Detektionsrate im Bereich von 0.01-0.06, d.h. etwa 1-6% der Spender:innen haben Fieber. In den Kurvenverläufen sehen wir zwei wichtige qualitative Effekte. Zum einen sind das systematische Modulationen, also Schwankungen, die typischerweise eine Dauer von zwei Wochen haben. Wir konnten feststellen, dass diese Schwankungen höchstwahrscheinlich mit dem Wetter zusammenhängen, insbesondere mit Außentemperaturschwankungen. Diesen Zusammenhang werden wir in einem der nächsten Posts erklären.&lt;/p&gt;
-&lt;p&gt;Viel wichtiger als die Schwankungen sind aber die Trendkurven. Hier erkennen wir einen systematischen Anstieg der Fieberkurve im Juli. Wir können hieraus natürlich nicht schließen, dass der Anstieg durch steigende Fallzahlen von COVID-19 verursacht wird. Da wir &amp;ldquo;nur&amp;rdquo; Fiebersymptomatik messen und nicht direkt COVID-19 Infektionen, kann der Anstieg auch durch andere Infektionskrankheiten verursacht werden. Deshalb ist es wichtig, die Kurven mit anderen Surveillance Daten zu vergleichen. Mehr dazu im Blogpost &lt;a href=&#34;https://corona-datenspende.de/reports/fevercurve/&#34;&gt;Fieberhaft&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Viel wichtiger als die Schwankungen sind aber die Trendkurven. Hier erkennen wir einen systematischen Anstieg der Fieberkurve im Juli. Wir können hieraus natürlich nicht schließen, dass der Anstieg durch steigende Fallzahlen von COVID-19 verursacht wird. Da wir &amp;ldquo;nur&amp;rdquo; Fiebersymptomatik messen und nicht direkt COVID-19 Infektionen, kann der Anstieg auch durch andere Infektionskrankheiten verursacht werden. Deshalb ist es wichtig, die Kurven mit anderen Surveillance Daten zu vergleichen. Mehr dazu im Blogpost &lt;a href=&#34;https://corona-datenspende.github.io/reports/fevercurve/&#34;&gt;Fieberhaft&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;fieberkurven-für-die-bundesländer&#34;&gt;Fieberkurven für die Bundesländer&lt;/h3&gt;
 &lt;p&gt;Mittlerweile können wir die Fieberkurve auch für die einzelnen Bundesländer berechnen. Unser Ziel ist es, geographisch noch feiner aufzulösen und für einzelne Land- bzw. Stadtkreise Fieberkurven berechnen zu können. Momentan sind hierfür die Fallzahlen pro Landkreis bzw. die Detektionen noch zu gering.&lt;/p&gt;
 &lt;p&gt;In der nächsten Abbildung sind die Fieberkurven der individuellen Bundesländer gezeigt&lt;/p&gt;
@@ -636,11 +691,11 @@ Verfügung stehenden Werte einer Zeitreihe.&lt;/p&gt;
     
     <item>
       <title>Fieberhaft</title>
-      <link>https://corona-datenspende.de/reports/fevercurve/</link>
+      <link>https://corona-datenspende.github.io/reports/fevercurve/</link>
       <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/reports/fevercurve/</guid>
-      <description>&lt;p&gt;Erinnert Ihr euch an das Ziel der  &lt;strong&gt;Datenspende&lt;/strong&gt;? Als wir dieses Projekt vor drei Monaten konzipiert und gestartet haben, wollten wir die täglichen Spenden von Vitaldaten nutzen, um bei Spender:innen beginnendes Fieber zu detektieren. Da Fieber ja ein wesentliches Symptom der COVID-Erkrankung ist, hoffen wir damit indirekt Veränderungen in der Dynamik der COVID-Pandemie erkennen und messen zu können. Die wissenschaftlichen Details dieser Idee haben wir im Blogpost &lt;a href=&#34;https://corona-datenspende.de/reports/how/&#34;&gt;Wie funktioniert die Datenspende?&lt;/a&gt; diskutiert.&lt;/p&gt;
-&lt;p&gt;Obwohl diese Idee konzeptionell einfach ist, steckt der Teufel im Detail.  Wir mussten sicherstellen, dass zusätzliche Einflüsse wie Klima, Wetter, Ferien, und wöchentliche Modulationen der Spender:innen-Vitaldaten die Resultate nicht verfälschen und nebenher viele Algorithmen vergleichen, Optimierungen durchführen und mit Lücken in den Daten umgehen. Viele der hierzu notwendigen Analysen wurden in den &lt;a href=&#34;https://corona-datenspende.de/reports/&#34;&gt;vorherigen Blogposts&lt;/a&gt; diskutiert, und führten nebenbei zu spannenden wissenschaftlichen Einsichten, die zu Beginn außerhalb des Rahmens und der Zielsetzung des Projekts lagen.&lt;/p&gt;
+      <guid>https://corona-datenspende.github.io/reports/fevercurve/</guid>
+      <description>&lt;p&gt;Erinnert Ihr euch an das Ziel der  &lt;strong&gt;Datenspende&lt;/strong&gt;? Als wir dieses Projekt vor drei Monaten konzipiert und gestartet haben, wollten wir die täglichen Spenden von Vitaldaten nutzen, um bei Spender:innen beginnendes Fieber zu detektieren. Da Fieber ja ein wesentliches Symptom der COVID-Erkrankung ist, hoffen wir damit indirekt Veränderungen in der Dynamik der COVID-Pandemie erkennen und messen zu können. Die wissenschaftlichen Details dieser Idee haben wir im Blogpost &lt;a href=&#34;https://corona-datenspende.github.io/reports/how/&#34;&gt;Wie funktioniert die Datenspende?&lt;/a&gt; diskutiert.&lt;/p&gt;
+&lt;p&gt;Obwohl diese Idee konzeptionell einfach ist, steckt der Teufel im Detail.  Wir mussten sicherstellen, dass zusätzliche Einflüsse wie Klima, Wetter, Ferien, und wöchentliche Modulationen der Spender:innen-Vitaldaten die Resultate nicht verfälschen und nebenher viele Algorithmen vergleichen, Optimierungen durchführen und mit Lücken in den Daten umgehen. Viele der hierzu notwendigen Analysen wurden in den &lt;a href=&#34;https://corona-datenspende.github.io/reports/&#34;&gt;vorherigen Blogposts&lt;/a&gt; diskutiert, und führten nebenbei zu spannenden wissenschaftlichen Einsichten, die zu Beginn außerhalb des Rahmens und der Zielsetzung des Projekts lagen.&lt;/p&gt;
 &lt;p&gt;Nun ist es aber soweit. Heute können wir mit euch die ersten soliden Resultate unserer Fieberdetektion teilen, basierend auf der &lt;strong&gt;Corona-Datenspende&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Das Ergebnis ist &lt;em&gt;&lt;strong&gt;die erste Fieberkurve&lt;/strong&gt;&lt;/em&gt;. Sie ist noch vorläufig und kann sich in Zukunft mit der Weiterentwicklung unseres Detektionsalgorithmus ändern. Aber nach allen Tests, die wir durchgeführt haben, sind wir heute sehr überzeugt, dass wir tatsächlich in den Daten ein &lt;strong&gt;&lt;em&gt;&amp;ldquo;Signal sehen&amp;rdquo;&lt;/em&gt;&lt;/strong&gt;. Die ganze Sache scheint zu funktionieren.&lt;/p&gt;
 &lt;h3 id=&#34;nach-welchen-signalen-suchen-wir&#34;&gt;Nach welchen Signalen suchen wir?&lt;/h3&gt;
@@ -674,7 +729,7 @@ Verfügung stehenden Werte einer Zeitreihe.&lt;/p&gt;
  &lt;/figure&gt;
 &lt;/section&gt;
 
-&lt;p&gt;Die obige Abbildung zeigt den zeitlichen Verlauf des Ruhepulses (RP) und die täglichen Schritte einer Spender:in. Die Zeitreihen zeigen keine ungewöhnlichen Abweichungen von den Basiswerten. Während des gesamten Beobachtungszeitraums sind die Kurven bis auf kleine, unregelmäßige Schwankungen flach. Der Ruhepuls schwankt dabei weniger, die Schrittzahlwerte merklich stärker. Das ist aber völlig normal, wie wir aus unseren anfänglichen Analysen dieser Größen wissen. Die wichtigsten Erkenntnisse findet ihr in den Blogposts &lt;a href=&#34;https://corona-datenspende.de/reports/pulse/&#34;&gt;Der Puls der Nation&lt;/a&gt; und &lt;a href=&#34;https://corona-datenspende.de/reports/schritte/&#34;&gt;Schritt für Schritt&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Die obige Abbildung zeigt den zeitlichen Verlauf des Ruhepulses (RP) und die täglichen Schritte einer Spender:in. Die Zeitreihen zeigen keine ungewöhnlichen Abweichungen von den Basiswerten. Während des gesamten Beobachtungszeitraums sind die Kurven bis auf kleine, unregelmäßige Schwankungen flach. Der Ruhepuls schwankt dabei weniger, die Schrittzahlwerte merklich stärker. Das ist aber völlig normal, wie wir aus unseren anfänglichen Analysen dieser Größen wissen. Die wichtigsten Erkenntnisse findet ihr in den Blogposts &lt;a href=&#34;https://corona-datenspende.github.io/reports/pulse/&#34;&gt;Der Puls der Nation&lt;/a&gt; und &lt;a href=&#34;https://corona-datenspende.github.io/reports/schritte/&#34;&gt;Schritt für Schritt&lt;/a&gt;.&lt;/p&gt;
 &lt;h4 id=&#34;vermutlich-das-falsche-signal&#34;&gt;Vermutlich das falsche Signal&lt;/h4&gt;
 &lt;p&gt;Im Vergleich dazu zeigt die nächste Abbildung die Zeitreihen einer Spender:in, die durchaus Abweichungen von der Baseline aufweisen.&lt;/p&gt;
 &lt;section class=&#34;center mw10 mw10-ns&#34;&gt;
@@ -881,9 +936,9 @@ Wenn wir auf vielen Wegen zum gleichen Ergebnis kommen, dann ist es wahrscheinli
     
     <item>
       <title>Schönes Wetter lässt Herzen höher Schlagen</title>
-      <link>https://corona-datenspende.de/reports/weather/</link>
+      <link>https://corona-datenspende.github.io/reports/weather/</link>
       <pubDate>Tue, 07 Jul 2020 08:40:00 +0200</pubDate>
-      <guid>https://corona-datenspende.de/reports/weather/</guid>
+      <guid>https://corona-datenspende.github.io/reports/weather/</guid>
       <description>&lt;p&gt;In den letzten Monaten hat sich viel verändert: die Zahl der aktiven COVID-19-Fälle,
 die regional unterschiedlichen Corona-Verordnungen aber auch alltägliche Dinge wie das Wetter.
 Viele dieser Dinge können die Vitaldaten unserer Spender:innen verändern, z.B. &lt;em&gt;könnten&lt;/em&gt; gelockerte Ausgangsbeschränkungen, Feiertage und gutes Wetter zu mehr Sport und Aktivität und damit &lt;em&gt;vielleicht&lt;/em&gt; auch zu einem höheren Ruhepuls führen.&lt;/p&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>App-Update | Corona-Datenspende | News &amp; Analysen</title>
-    <link>https://corona-datenspende.de/category/app-update/</link>
-      <atom:link href="https://corona-datenspende.de/category/app-update/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://corona-datenspende.github.io/category/app-update/</link>
+      <atom:link href="https://corona-datenspende.github.io/category/app-update/index.xml" rel="self" type="application/rss+xml" />
     <description>App-Update</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>de</language><lastBuildDate>Tue, 19 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://corona-datenspende.de/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
+      <url>https://corona-datenspende.github.io/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
       <title>App-Update</title>
-      <link>https://corona-datenspende.de/category/app-update/</link>
+      <link>https://corona-datenspende.github.io/category/app-update/</link>
     </image>
     
     <item>
       <title>Die Datenspende 2.0 ist da</title>
-      <link>https://corona-datenspende.de/reports/release20/</link>
+      <link>https://corona-datenspende.github.io/reports/release20/</link>
       <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/reports/release20/</guid>
+      <guid>https://corona-datenspende.github.io/reports/release20/</guid>
       <description>&lt;h3 id=&#34;liebe-spenderinnen&#34;&gt;Liebe Spender:innen,&lt;/h3&gt;
 &lt;p&gt;nach mehreren Monaten der Vorbereitung ist sie endlich da: Die Corona-Datenspende 2.0, über die ihr ab heute an wissenschaftlichen Studien zu den Folgen der Corona-Pandemie teilnehmen könnt. In diesen bitten wir euch regelmäßig kurze Fragebögen zu konkreten Themen zu beantworten, natürlich freiwillig.&lt;/p&gt;
 &lt;p&gt;Die neue App steht ab sofort sowohl im &lt;a href=&#34;https://play.google.com/store/apps/details?id=de.rki.coronadatenspende&amp;amp;hl=de&amp;amp;gl=US&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Play Store&lt;/a&gt; von Google, im &lt;a href=&#34;https://apps.apple.com/de/app/corona-datenspende/id1504705422&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;App Store&lt;/a&gt; von Apple, oder in der Huawei &lt;a href=&#34;https://appgallery.huawei.com/app/C104457185&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;App Gallery&lt;/a&gt; zur Verfügung.&lt;/p&gt;
@@ -27,7 +27,7 @@
 In der zweiten Studie „Erleben und Verhalten in der Pandemie” arbeiten wir mit den Wissenschaftler:innen der COSMO-Studie um &lt;a href=&#34;https://twitter.com/CorneliaBetsch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cornelia Betsch&lt;/a&gt; zusammen, um die individuelle Belastung und Risikowahrnehmung, sowie das individuelle Verhalten in der Pandemie zu verstehen.&lt;/p&gt;
 &lt;h3 id=&#34;bessere-wissenschaft-dank-besserer-daten&#34;&gt;Bessere Wissenschaft dank besserer Daten&lt;/h3&gt;
 &lt;p&gt;Mit den Daten aus den Befragungen, zum Beispiel ob und wann ihr eine Covid-Erkrankung hattet, oder geimpft wurdet, können wir unsere Ergebnisse in zwei Richtungen verbessern.&lt;/p&gt;
-&lt;p&gt;Die erste ist die Evaluation und Verbesserung bisheriger Ergebnisse, zum Beispiel der Detektionen im &lt;a href=&#34;https://corona-datenspende.de/monitor/&#34;&gt;Fiebermonitor&lt;/a&gt;. Für die Detektionen betrachten wir mit unserem Algorithmus jeweils die Vitaldaten Ruhepuls und Schrittzahl einer Person - und schätzen ob im betrachteten Zeitraum eine Covid-Erkrankung vorgelegen haben könnte. Mit eurer Hilfe können wir das Ergebnis dieser Schätzung mit dem Ergebnis der Befragung vergleichen - und direkt überprüfen wie gut unser Algorithmus arbeitet.&lt;/p&gt;
+&lt;p&gt;Die erste ist die Evaluation und Verbesserung bisheriger Ergebnisse, zum Beispiel der Detektionen im &lt;a href=&#34;https://corona-datenspende.github.io/monitor/&#34;&gt;Fiebermonitor&lt;/a&gt;. Für die Detektionen betrachten wir mit unserem Algorithmus jeweils die Vitaldaten Ruhepuls und Schrittzahl einer Person - und schätzen ob im betrachteten Zeitraum eine Covid-Erkrankung vorgelegen haben könnte. Mit eurer Hilfe können wir das Ergebnis dieser Schätzung mit dem Ergebnis der Befragung vergleichen - und direkt überprüfen wie gut unser Algorithmus arbeitet.&lt;/p&gt;
 &lt;section class=&#34;center mw10 mw10-ns&#34;&gt;
  &lt;figure&gt;
  	&lt;div&gt;
@@ -56,7 +56,7 @@ In der zweiten Studie „Erleben und Verhalten in der Pandemie” arbeiten wir m
  &lt;/figure&gt;
 &lt;/section&gt;
 
-&lt;p&gt;Die zweite Verbesserung durch die Datenspende 2.0 ist die Beantwortung neuer Fragestellungen. In einer der letzten &lt;a href=&#34;https://corona-datenspende.de/reports/c19sleep/&#34;&gt;Analysen&lt;/a&gt; haben wir uns die Schlafdauer in der Pandemie angesehen und herausgefunden, dass es hier einen Geschlechterunterschied gibt. Doch zu welchem Anteil ist dieser durch verschiedenes Erleben der Pandemie begründet? Oder völlig unabhängig der Pandemie immer vorhanden? In der zweiten Studie “Erleben und Verhalten” wollen wir diese und weitere Fragen beantworten. Die folgende Grafik zeigt die bundesweite Schlafdauer in Stunden nach Alter und Geschlecht. Wie sehr ist der Unterschied vielleicht durch das unterschiedliche Erleben der Pandemie von Männern und Frauen bedingt?&lt;/p&gt;
+&lt;p&gt;Die zweite Verbesserung durch die Datenspende 2.0 ist die Beantwortung neuer Fragestellungen. In einer der letzten &lt;a href=&#34;https://corona-datenspende.github.io/reports/c19sleep/&#34;&gt;Analysen&lt;/a&gt; haben wir uns die Schlafdauer in der Pandemie angesehen und herausgefunden, dass es hier einen Geschlechterunterschied gibt. Doch zu welchem Anteil ist dieser durch verschiedenes Erleben der Pandemie begründet? Oder völlig unabhängig der Pandemie immer vorhanden? In der zweiten Studie “Erleben und Verhalten” wollen wir diese und weitere Fragen beantworten. Die folgende Grafik zeigt die bundesweite Schlafdauer in Stunden nach Alter und Geschlecht. Wie sehr ist der Unterschied vielleicht durch das unterschiedliche Erleben der Pandemie von Männern und Frauen bedingt?&lt;/p&gt;
 
 
 
@@ -79,7 +79,7 @@ In der zweiten Studie „Erleben und Verhalten in der Pandemie” arbeiten wir m
                /media/figures/sleepTimesAgeGenderGer_hudd82805bc2a495e4c9caff5695a40500_59002_fb8c5621bbe98117484bc9064c7284df.webp 400w,
                /media/figures/sleepTimesAgeGenderGer_hudd82805bc2a495e4c9caff5695a40500_59002_5f0997342eb46afe439544e95d2c0439.webp 760w,
                /media/figures/sleepTimesAgeGenderGer_hudd82805bc2a495e4c9caff5695a40500_59002_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://corona-datenspende.de/media/figures/sleepTimesAgeGenderGer_hudd82805bc2a495e4c9caff5695a40500_59002_fb8c5621bbe98117484bc9064c7284df.webp&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/sleepTimesAgeGenderGer_hudd82805bc2a495e4c9caff5695a40500_59002_fb8c5621bbe98117484bc9064c7284df.webp&#34;
                width=&#34;760&#34;
                height=&#34;380&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

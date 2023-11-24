@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Soziodemographie | Corona-Datenspende | News &amp; Analysen</title>
-    <link>https://corona-datenspende.de/tag/soziodemographie/</link>
-      <atom:link href="https://corona-datenspende.de/tag/soziodemographie/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://corona-datenspende.github.io/tag/soziodemographie/</link>
+      <atom:link href="https://corona-datenspende.github.io/tag/soziodemographie/index.xml" rel="self" type="application/rss+xml" />
     <description>Soziodemographie</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>de</language><lastBuildDate>Fri, 03 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://corona-datenspende.de/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
+      <url>https://corona-datenspende.github.io/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
       <title>Soziodemographie</title>
-      <link>https://corona-datenspende.de/tag/soziodemographie/</link>
+      <link>https://corona-datenspende.github.io/tag/soziodemographie/</link>
     </image>
     
     <item>
       <title>Demographie der Spender:innen</title>
-      <link>https://corona-datenspende.de/reports/demographie/</link>
+      <link>https://corona-datenspende.github.io/reports/demographie/</link>
       <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/reports/demographie/</guid>
+      <guid>https://corona-datenspende.github.io/reports/demographie/</guid>
       <description>&lt;h3 id=&#34;demographie&#34;&gt;Demographie&lt;/h3&gt;
-&lt;p&gt;In den bisherigen Blogposts haben wir die räumliche &lt;a href=&#34;https://corona-datenspende.de/reports/users/&#34;&gt;Verteilung&lt;/a&gt; der Spender:innen und die gespendeten &lt;a href=&#34;https://corona-datenspende.de/reports/schritte/&#34;&gt;Schrittzahlen&lt;/a&gt; und &lt;a href=&#34;https://corona-datenspende.de/reports/pulse/&#34;&gt;Pulsraten&lt;/a&gt;  beleuchtet. In diesem Blogpost beschäftigen wir uns nun eingehender mit der Demographie der Spender:innen. Hierzu gehören die Informationen zu Alter, Geschlecht, Größe, und Gewicht, die Nutzer:innen in der App angeben können.&lt;/p&gt;
+&lt;p&gt;In den bisherigen Blogposts haben wir die räumliche &lt;a href=&#34;https://corona-datenspende.github.io/reports/users/&#34;&gt;Verteilung&lt;/a&gt; der Spender:innen und die gespendeten &lt;a href=&#34;https://corona-datenspende.github.io/reports/schritte/&#34;&gt;Schrittzahlen&lt;/a&gt; und &lt;a href=&#34;https://corona-datenspende.github.io/reports/pulse/&#34;&gt;Pulsraten&lt;/a&gt;  beleuchtet. In diesem Blogpost beschäftigen wir uns nun eingehender mit der Demographie der Spender:innen. Hierzu gehören die Informationen zu Alter, Geschlecht, Größe, und Gewicht, die Nutzer:innen in der App angeben können.&lt;/p&gt;
 &lt;p&gt;Einige Spender:innen (etwa 10%) haben neben ihren täglichen Ruhepuls- und Schrittanzahldaten auch freiwillig Informationen zu Alter, Geschlecht, Größe und Gewicht angegeben.
 Diese Daten benötigen wir nicht zwingend für unsere Arbeit zur COVID-19-Bekämpfung, sie können aber wichtige Erkenntnisse liefern, wie stark die Spender:innen Community von einer repräsentativen Stichprobe abweicht.&lt;/p&gt;
 &lt;h3 id=&#34;männer-spenden-häufiger&#34;&gt;Männer spenden häufiger&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;08.12.2021&lt;/strong&gt;
-In einer früheren Version dieses Blogpost stand hier, das Frauen häufiger an der Datenspende teilnehmen. Hier ist uns ein Fehler unterlaufen, tatsächlich spenden Männer ca. 60% und Frauen ca. 40% der Daten. Weitere Informationen findet ihr im &lt;a href=&#34;https://corona-datenspende.de/reports/fragebogenteilnehmer/&#34;&gt;Blogpost&lt;/a&gt; zur Studie Tests, Symptome, und Lebenssituation.&lt;/p&gt;
+In einer früheren Version dieses Blogpost stand hier, das Frauen häufiger an der Datenspende teilnehmen. Hier ist uns ein Fehler unterlaufen, tatsächlich spenden Männer ca. 60% und Frauen ca. 40% der Daten. Weitere Informationen findet ihr im &lt;a href=&#34;https://corona-datenspende.github.io/reports/fragebogenteilnehmer/&#34;&gt;Blogpost&lt;/a&gt; zur Studie Tests, Symptome, und Lebenssituation.&lt;/p&gt;
 &lt;h3 id=&#34;die-spenderinnen-sind-durchschnittlich-etwas-älter&#34;&gt;Die Spender:innen sind durchschnittlich etwas älter&lt;/h3&gt;
 &lt;section class=&#34;center mw10 mw10-ns&#34;&gt;
  &lt;figure&gt;
@@ -114,7 +114,7 @@ Der räumliche Altersvergleich ergibt ebenso, dass unsere Spender:innen nicht nu
 
 Die kombinierte Analyse von Geschlecht und Alter zeigt, dass Spenderinnen im Durchschnitt etwas jünger, Spender etwas älter sind. Der durchschnittliche Spender ist 50,2 Jahre alt und damit circa 4 Jahre älter als die durchschnittliche Spenderin mit 46,4 Jahren. Das kann wiederum verschiedene Ursachen haben.&lt;/p&gt;
 &lt;h3 id=&#34;was-kommt-als-nächstes&#34;&gt;Was kommt als nächstes?&lt;/h3&gt;
-&lt;p&gt;Wie bereits im Post &lt;a href=&#34;https://corona-datenspende.de/reports/schritte/&#34;&gt;Schritt für Schritt&lt;/a&gt; erwähnt, untersuchen wir auch den Zusammenhang zwischen Schrittzahl, Ruhepuls und den hier vorgestellten demographischen Daten. Die Ergebnisse dieser Analyse erwarten Euch im nächsten Post.&lt;/p&gt;
+&lt;p&gt;Wie bereits im Post &lt;a href=&#34;https://corona-datenspende.github.io/reports/schritte/&#34;&gt;Schritt für Schritt&lt;/a&gt; erwähnt, untersuchen wir auch den Zusammenhang zwischen Schrittzahl, Ruhepuls und den hier vorgestellten demographischen Daten. Die Ergebnisse dieser Analyse erwarten Euch im nächsten Post.&lt;/p&gt;
 </description>
     </item>
     

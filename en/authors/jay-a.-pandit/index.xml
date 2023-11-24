@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jay A. Pandit | Corona Data Donation Project | News &amp; Analyses</title>
+    <link>https://corona-datenspende.github.io/en/authors/jay-a.-pandit/</link>
+      <atom:link href="https://corona-datenspende.github.io/en/authors/jay-a.-pandit/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jay A. Pandit</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 31 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://corona-datenspende.github.io/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
+      <title>Jay A. Pandit</title>
+      <link>https://corona-datenspende.github.io/en/authors/jay-a.-pandit/</link>
+    </image>
+    
+    <item>
+      <title>Prevalence of Positive COVID-19 Test Results Collected by Digital Self-report in the US and Germany</title>
+      <link>https://corona-datenspende.github.io/en/publication/kolb_etal_2023/</link>
+      <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://corona-datenspende.github.io/en/publication/kolb_etal_2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

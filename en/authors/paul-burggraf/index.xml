@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Paul Burggraf | Corona Data Donation Project | News &amp; Analyses</title>
-    <link>https://corona-datenspende.de/en/authors/paul-burggraf/</link>
-      <atom:link href="https://corona-datenspende.de/en/authors/paul-burggraf/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://corona-datenspende.github.io/en/authors/paul-burggraf/</link>
+      <atom:link href="https://corona-datenspende.github.io/en/authors/paul-burggraf/index.xml" rel="self" type="application/rss+xml" />
     <description>Paul Burggraf</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 29 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://corona-datenspende.de/en/authors/paul-burggraf/avatar_hu5e58d594dab55a007cff6b0bda1fbba9_1776169_270x270_fill_lanczos_center_3.png</url>
+      <url>https://corona-datenspende.github.io/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
       <title>Paul Burggraf</title>
-      <link>https://corona-datenspende.de/en/authors/paul-burggraf/</link>
+      <link>https://corona-datenspende.github.io/en/authors/paul-burggraf/</link>
     </image>
     
     <item>
       <title>Clock change</title>
-      <link>https://corona-datenspende.de/en/reports/clockchange/</link>
+      <link>https://corona-datenspende.github.io/en/reports/clockchange/</link>
       <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/en/reports/clockchange/</guid>
+      <guid>https://corona-datenspende.github.io/en/reports/clockchange/</guid>
       <description>&lt;p&gt;This weekend it&amp;rsquo;s that time again: The clocks will be changed back one hour, from daylight saving time to standard time.&lt;/p&gt;
 &lt;p&gt;Since the beginning of the Corona Data Donation, this is the third clock change. Whether these changeovers are useful, unnecessary or even harmful is widely debated - both in terms of personal preference and public health. After all, numerous studies have shown that in the short term, the changeover can disturb one’s routines and well-being. In the long term, the changes influence when and how much sunlight we get in our daily lives. This can have a variety of effects on our bodies and psyche, in part mediated by changes in our sleep.&lt;/p&gt;
 &lt;p&gt;Therefore, today, we take a look at the sleep data of our donors during the last two clock changes.&lt;/p&gt;
@@ -43,7 +43,7 @@
                /media/figures/dst/midSleepOverTimeYearEng_hu34056d5b548f919c821b52ba31d161d6_1014350_9f3ec5dfb03363fc2783f403148cc118.webp 400w,
                /media/figures/dst/midSleepOverTimeYearEng_hu34056d5b548f919c821b52ba31d161d6_1014350_7a575587881ea609aae25fb02784d666.webp 760w,
                /media/figures/dst/midSleepOverTimeYearEng_hu34056d5b548f919c821b52ba31d161d6_1014350_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://corona-datenspende.de/media/figures/dst/midSleepOverTimeYearEng_hu34056d5b548f919c821b52ba31d161d6_1014350_9f3ec5dfb03363fc2783f403148cc118.webp&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/dst/midSleepOverTimeYearEng_hu34056d5b548f919c821b52ba31d161d6_1014350_9f3ec5dfb03363fc2783f403148cc118.webp&#34;
                width=&#34;760&#34;
                height=&#34;532&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -78,7 +78,7 @@
                /media/figures/dst/sleepDurationSpringEng_hu8bb8b407e4a2933a0c97efbd69e1d983_454287_e0e2266d3ae9f1c275226d010e8f97f5.webp 400w,
                /media/figures/dst/sleepDurationSpringEng_hu8bb8b407e4a2933a0c97efbd69e1d983_454287_3fdf50910e194b5dd771ae9081891a00.webp 760w,
                /media/figures/dst/sleepDurationSpringEng_hu8bb8b407e4a2933a0c97efbd69e1d983_454287_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://corona-datenspende.de/media/figures/dst/sleepDurationSpringEng_hu8bb8b407e4a2933a0c97efbd69e1d983_454287_e0e2266d3ae9f1c275226d010e8f97f5.webp&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/dst/sleepDurationSpringEng_hu8bb8b407e4a2933a0c97efbd69e1d983_454287_e0e2266d3ae9f1c275226d010e8f97f5.webp&#34;
                width=&#34;760&#34;
                height=&#34;475&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -109,7 +109,7 @@
                /media/figures/dst/sleepOffsetSpringEng_hub36ad97898a65cf18228b4414248d435_497511_bb47ee10da83aad3bbb5f206445f33f1.webp 400w,
                /media/figures/dst/sleepOffsetSpringEng_hub36ad97898a65cf18228b4414248d435_497511_f84608884c200d78e5449adc1426a534.webp 760w,
                /media/figures/dst/sleepOffsetSpringEng_hub36ad97898a65cf18228b4414248d435_497511_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://corona-datenspende.de/media/figures/dst/sleepOffsetSpringEng_hub36ad97898a65cf18228b4414248d435_497511_bb47ee10da83aad3bbb5f206445f33f1.webp&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/dst/sleepOffsetSpringEng_hub36ad97898a65cf18228b4414248d435_497511_bb47ee10da83aad3bbb5f206445f33f1.webp&#34;
                width=&#34;760&#34;
                height=&#34;475&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -142,7 +142,7 @@
                /media/figures/dst/sleepDurationAutumnEng_hu8bb8b407e4a2933a0c97efbd69e1d983_473377_578479c95412e6a0b8c501c85ede47a0.webp 400w,
                /media/figures/dst/sleepDurationAutumnEng_hu8bb8b407e4a2933a0c97efbd69e1d983_473377_e9ce00cbec6f6de20854b1245738d766.webp 760w,
                /media/figures/dst/sleepDurationAutumnEng_hu8bb8b407e4a2933a0c97efbd69e1d983_473377_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://corona-datenspende.de/media/figures/dst/sleepDurationAutumnEng_hu8bb8b407e4a2933a0c97efbd69e1d983_473377_578479c95412e6a0b8c501c85ede47a0.webp&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/dst/sleepDurationAutumnEng_hu8bb8b407e4a2933a0c97efbd69e1d983_473377_578479c95412e6a0b8c501c85ede47a0.webp&#34;
                width=&#34;760&#34;
                height=&#34;475&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -171,7 +171,7 @@
                /media/figures/dst/sleepOffsetAutumEng_hub36ad97898a65cf18228b4414248d435_496333_635e7cf7a30bff126d6b607e22ab3a31.webp 400w,
                /media/figures/dst/sleepOffsetAutumEng_hub36ad97898a65cf18228b4414248d435_496333_db8976e5f68eb37450901478eaf18986.webp 760w,
                /media/figures/dst/sleepOffsetAutumEng_hub36ad97898a65cf18228b4414248d435_496333_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://corona-datenspende.de/media/figures/dst/sleepOffsetAutumEng_hub36ad97898a65cf18228b4414248d435_496333_635e7cf7a30bff126d6b607e22ab3a31.webp&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/dst/sleepOffsetAutumEng_hub36ad97898a65cf18228b4414248d435_496333_635e7cf7a30bff126d6b607e22ab3a31.webp&#34;
                width=&#34;760&#34;
                height=&#34;475&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -184,9 +184,9 @@
     
     <item>
       <title>Sleep as a further source of information during this pandemic</title>
-      <link>https://corona-datenspende.de/en/reports/c19sleep/</link>
+      <link>https://corona-datenspende.github.io/en/reports/c19sleep/</link>
       <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/en/reports/c19sleep/</guid>
+      <guid>https://corona-datenspende.github.io/en/reports/c19sleep/</guid>
       <description>&lt;p&gt;Around a quarter of you donates not only their daily heart rate and steps but also their sleep data, particularly how long and when you sleep. Since sleep provides a wealth of information on health and well-being, we are now taking a closer look at these data - enlisting also the expertise of sleep researchers.&lt;/p&gt;
 &lt;p&gt;Our analysis of the sleep data has two main aims:
 First, we would like to understand how sleep is changed under the pandemic - because of lockdowns, home office and psychological burden or distress. We hope that this will provide indications about general well-being and health during the pandemic as well as side effects of pandemic measures.
@@ -218,7 +218,7 @@ Second, we want to further improve our fever monitor based on the sleep data. So
                /media/figures/sleepTimesAgeGenderEng_hufce62f507e78772ed3d2ab1254c20bb8_57601_a94d153ac3181acf581789910efa5fb1.webp 400w,
                /media/figures/sleepTimesAgeGenderEng_hufce62f507e78772ed3d2ab1254c20bb8_57601_14de0910807507006c6761d9d57c86f4.webp 760w,
                /media/figures/sleepTimesAgeGenderEng_hufce62f507e78772ed3d2ab1254c20bb8_57601_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://corona-datenspende.de/media/figures/sleepTimesAgeGenderEng_hufce62f507e78772ed3d2ab1254c20bb8_57601_a94d153ac3181acf581789910efa5fb1.webp&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/sleepTimesAgeGenderEng_hufce62f507e78772ed3d2ab1254c20bb8_57601_a94d153ac3181acf581789910efa5fb1.webp&#34;
                width=&#34;760&#34;
                height=&#34;380&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -247,7 +247,7 @@ Second, we want to further improve our fever monitor based on the sleep data. So
                /media/figures/midSleepTimeAgeGenderEng_hu92d55fbf1d6310c99b5bf11f10db9f96_55152_ec68c7cd4862ccbaf58a4c6ea581b101.webp 400w,
                /media/figures/midSleepTimeAgeGenderEng_hu92d55fbf1d6310c99b5bf11f10db9f96_55152_b5b7f8b814ef19c7960eee263fbf7aa7.webp 760w,
                /media/figures/midSleepTimeAgeGenderEng_hu92d55fbf1d6310c99b5bf11f10db9f96_55152_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://corona-datenspende.de/media/figures/midSleepTimeAgeGenderEng_hu92d55fbf1d6310c99b5bf11f10db9f96_55152_ec68c7cd4862ccbaf58a4c6ea581b101.webp&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/midSleepTimeAgeGenderEng_hu92d55fbf1d6310c99b5bf11f10db9f96_55152_ec68c7cd4862ccbaf58a4c6ea581b101.webp&#34;
                width=&#34;760&#34;
                height=&#34;380&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -277,7 +277,7 @@ Second, we want to further improve our fever monitor based on the sleep data. So
                /media/figures/midSleepWeekendMapEng_huca923ce76c5b1672030e16edf38f3cf9_211895_24fdfb0780328e9855d9a47e2ecc99c9.webp 400w,
                /media/figures/midSleepWeekendMapEng_huca923ce76c5b1672030e16edf38f3cf9_211895_aadf7105e9e64b0da858f06d3c4f88cc.webp 760w,
                /media/figures/midSleepWeekendMapEng_huca923ce76c5b1672030e16edf38f3cf9_211895_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://corona-datenspende.de/media/figures/midSleepWeekendMapEng_huca923ce76c5b1672030e16edf38f3cf9_211895_24fdfb0780328e9855d9a47e2ecc99c9.webp&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/midSleepWeekendMapEng_huca923ce76c5b1672030e16edf38f3cf9_211895_24fdfb0780328e9855d9a47e2ecc99c9.webp&#34;
                width=&#34;475&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -308,7 +308,7 @@ Second, we want to further improve our fever monitor based on the sleep data. So
                /media/figures/AvgSleepTimeEng_huea311139d4188f9451cd2a91661620e7_79665_9d3c899246b4c8c82a8ca8ae2522696a.webp 400w,
                /media/figures/AvgSleepTimeEng_huea311139d4188f9451cd2a91661620e7_79665_b51eb17e1f6b4130ca49706018719841.webp 760w,
                /media/figures/AvgSleepTimeEng_huea311139d4188f9451cd2a91661620e7_79665_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://corona-datenspende.de/media/figures/AvgSleepTimeEng_huea311139d4188f9451cd2a91661620e7_79665_9d3c899246b4c8c82a8ca8ae2522696a.webp&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/AvgSleepTimeEng_huea311139d4188f9451cd2a91661620e7_79665_9d3c899246b4c8c82a8ca8ae2522696a.webp&#34;
                width=&#34;760&#34;
                height=&#34;380&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -337,7 +337,7 @@ Second, we want to further improve our fever monitor based on the sleep data. So
                /media/figures/socialJetlagMapEng_hu90ec062da5ed97c41c9654249c54b3ca_105470_96a3fcde923ccad84e556286c0132cfc.webp 400w,
                /media/figures/socialJetlagMapEng_hu90ec062da5ed97c41c9654249c54b3ca_105470_e653ba437925824a7db723d6c9c49a72.webp 760w,
                /media/figures/socialJetlagMapEng_hu90ec062da5ed97c41c9654249c54b3ca_105470_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://corona-datenspende.de/media/figures/socialJetlagMapEng_hu90ec062da5ed97c41c9654249c54b3ca_105470_96a3fcde923ccad84e556286c0132cfc.webp&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/socialJetlagMapEng_hu90ec062da5ed97c41c9654249c54b3ca_105470_96a3fcde923ccad84e556286c0132cfc.webp&#34;
                width=&#34;475&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

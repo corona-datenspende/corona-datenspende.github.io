@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Experience and Behavior | Corona Data Donation Project | News &amp; Analyses</title>
-    <link>https://corona-datenspende.de/en/tag/experience-and-behavior/</link>
-      <atom:link href="https://corona-datenspende.de/en/tag/experience-and-behavior/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://corona-datenspende.github.io/en/tag/experience-and-behavior/</link>
+      <atom:link href="https://corona-datenspende.github.io/en/tag/experience-and-behavior/index.xml" rel="self" type="application/rss+xml" />
     <description>Experience and Behavior</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 10 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://corona-datenspende.de/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
+      <url>https://corona-datenspende.github.io/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
       <title>Experience and Behavior</title>
-      <link>https://corona-datenspende.de/en/tag/experience-and-behavior/</link>
+      <link>https://corona-datenspende.github.io/en/tag/experience-and-behavior/</link>
     </image>
     
     <item>
       <title>Is testing at home sufficient? Self tests and official statistics</title>
-      <link>https://corona-datenspende.de/en/reports/questionnaire-incidence/</link>
+      <link>https://corona-datenspende.github.io/en/reports/questionnaire-incidence/</link>
       <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/en/reports/questionnaire-incidence/</guid>
+      <guid>https://corona-datenspende.github.io/en/reports/questionnaire-incidence/</guid>
       <description>&lt;p&gt;The question of how many new COVID-19 cases per week continues to navigate our political and personal decisions. How we assess the risk of infection, the methods we use to protect ourselves, and how we handle the pandemic in the future all depend on the answer to this question.&lt;/p&gt;
 &lt;p&gt;For several weeks now, Germany has been discussing a &lt;a href=&#34;https://www.tagesschau.de/inland/corona-infektionen-pcr-tests-impfungen-101.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;potential underreporting&lt;/a&gt; of its COVID-19 incidence rate. While more and more testing centers are closing due to lower summer demand, &lt;a href=&#34;https://www1.wdr.de/nachrichten/themen/coronavirus/abwasser-corona-inzidenz-100.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;wastewater sample analysis&lt;/a&gt; and &lt;a href=&#34;https://www.rki.de/DE/Content/Infekt/Sentinel/Grippeweb/Wochenberichte/Wochenbericht_aktuell.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;respiratory infection monitoring systems&lt;/a&gt; indicate increasing case rates. According to the current case definition, the reported 7-day incidence is based exclusively &lt;a href=&#34;https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Falldefinition.pdf?__blob=publicationFile&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;on PCR test results&lt;/a&gt;, while rapid antigen tests, whether performed professionally or at home, are not considered. Compared to rapid tests, PCR tests are often more accurate and ensure that local outbreaks can be detected correctly with a high degree of certainty. If the PCR test volume decreases, relative trends will still be visible, but the magnitude of new infections will be much more difficult to estimate.&lt;/p&gt;
 &lt;p&gt;Various research approaches are attempting to describe this degree of underreporting more precisely. Using questionnaire data from 28,274 data donors, in which we recorded test results and test types (e.g. PCR test, rapid antigen test), we aim to better estimate this situation by adding another piece to the puzzle.&lt;/p&gt;
@@ -1494,7 +1494,7 @@ if (HTMLWidgets.shinyMode) {
  &lt;/figure&gt;
 &lt;/section&gt;
 
-&lt;p&gt;We observe that the two incidences evolve quite similarly until the end of the first quarter in 2022, although their magnitudes do in fact differ. Some of the variation can be attributed to the fact that our data donor population is &lt;a href=&#34;https://corona-datenspende.de/science/en/reports/demographie/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;not necessarily representative&lt;/a&gt; of the general German population (more on this later).&lt;/p&gt;
+&lt;p&gt;We observe that the two incidences evolve quite similarly until the end of the first quarter in 2022, although their magnitudes do in fact differ. Some of the variation can be attributed to the fact that our data donor population is &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/demographie/&#34;&gt;not necessarily representative&lt;/a&gt; of the general German population (more on this later).&lt;/p&gt;
 &lt;p&gt;Approaching June, however, the trajectories decouple from their former patterns. We hypothesize that this trend may be related to a decline in PCR testing. To investigate this further, we next looked at the ratio of PCR and rapid tests in our data set and compared it to the ratio of the two incidence curves shown above.&lt;/p&gt;
 &lt;section class=&#34;center mw10 mw10-ns&#34;&gt;
  &lt;figure&gt;
@@ -4444,7 +4444,7 @@ if (HTMLWidgets.shinyMode) {
 &lt;/section&gt;
 
 &lt;h3 id=&#34;how-can-we-interpret-these-results&#34;&gt;How can we interpret these results?&lt;/h3&gt;
-&lt;p&gt;Because our donor population is &lt;a href=&#34;https://corona-datenspende.de/science/en/reports/benchmark/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;not fully representative&lt;/a&gt; of the population of Germany, the groups cannot be directly compared. Differences exist, for example, with &lt;a href=&#34;https://corona-datenspende.de/science/en/reports/fragebogenteilnehmer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;regard to age and gender&lt;/a&gt;, and presumably also in level of education and socioeconomic status. Therefore, the COVID-19 incidence within the group of data donors likely differs from that in the population as a whole.&lt;/p&gt;
+&lt;p&gt;Because our donor population is &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/benchmark/&#34;&gt;not fully representative&lt;/a&gt; of the population of Germany, the groups cannot be directly compared. Differences exist, for example, with &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/fragebogenteilnehmer/&#34;&gt;regard to age and gender&lt;/a&gt;, and presumably also in level of education and socioeconomic status. Therefore, the COVID-19 incidence within the group of data donors likely differs from that in the population as a whole.&lt;/p&gt;
 &lt;p&gt;Nevertheless, we note that PCR testing in our cohort has declined by about 30 percent so far this year. This may create a blind spot in the estimation of the official incidence, which may suggest that case numbers might be larger than currently reported.&lt;/p&gt;
 &lt;h3 id=&#34;what-is-important-now&#34;&gt;What is important now?&lt;/h3&gt;
 &lt;p&gt;Even if the exact factor behind the number of unreported remains unclear, we see  indications in our data that the currently reported 7-day incidence underestimates the pandemic’s dynamics. Given the currently prevalent and highly infectious Omicron subtype BA.5, we would like to draw attention to this issue.
@@ -4456,9 +4456,9 @@ Policy makers, society and science need reliable statistics to derive well-infor
     
     <item>
       <title>IFG Inquiry: How much do data donors trust the German government in handling the pandemic?</title>
-      <link>https://corona-datenspende.de/en/reports/trustgov/</link>
+      <link>https://corona-datenspende.github.io/en/reports/trustgov/</link>
       <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/en/reports/trustgov/</guid>
+      <guid>https://corona-datenspende.github.io/en/reports/trustgov/</guid>
       <description>&lt;p&gt;Dear donors,&lt;/p&gt;
 &lt;p&gt;For about half a year now, you have not only been able to donate your vitals and sleep data, but also to respond to various regular surveys about your personal experience and behaviour during the pandemic. For example, each week we ask how much our donors trust the federal government to properly handle the pandemic. The responses are measured on a five-point scale ranging from 1 (not at all) to 5 (completely) and a total of 29,530 donors already submitted their responses. Since we recently received a request about this question according to the freedom of information (IFG) act we would like to share some information on that topic with you today.&lt;/p&gt;
 &lt;h3 id=&#34;trust-varies-with-case-numbers&#34;&gt;Trust varies with case numbers&lt;/h3&gt;
@@ -4496,7 +4496,7 @@ Policy makers, society and science need reliable statistics to derive well-infor
                /media/figures/governmental_trust/image4_hu0efbc6a414d0c52e6207a876ea52b223_176905_ac0548a5eca2d56a5f104448f7d3cfe7.webp 400w,
                /media/figures/governmental_trust/image4_hu0efbc6a414d0c52e6207a876ea52b223_176905_ef76d1ecfae7ad82ce4f5604e18a084c.webp 760w,
                /media/figures/governmental_trust/image4_hu0efbc6a414d0c52e6207a876ea52b223_176905_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://corona-datenspende.de/media/figures/governmental_trust/image4_hu0efbc6a414d0c52e6207a876ea52b223_176905_ac0548a5eca2d56a5f104448f7d3cfe7.webp&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/governmental_trust/image4_hu0efbc6a414d0c52e6207a876ea52b223_176905_ac0548a5eca2d56a5f104448f7d3cfe7.webp&#34;
                width=&#34;760&#34;
                height=&#34;469&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

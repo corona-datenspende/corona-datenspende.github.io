@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Adrian Zachariae | Corona Data Donation Project | News &amp; Analyses</title>
-    <link>https://corona-datenspende.de/en/authors/adrian-zachariae/</link>
-      <atom:link href="https://corona-datenspende.de/en/authors/adrian-zachariae/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://corona-datenspende.github.io/en/authors/adrian-zachariae/</link>
+      <atom:link href="https://corona-datenspende.github.io/en/authors/adrian-zachariae/index.xml" rel="self" type="application/rss+xml" />
     <description>Adrian Zachariae</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 Jul 2020 08:40:00 +0200</lastBuildDate>
     <image>
-      <url>https://corona-datenspende.de/en/authors/adrian-zachariae/avatar_hufd8c24025f6d08f3dff103ffcf5c28fb_303597_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://corona-datenspende.github.io/en/authors/adrian-zachariae/avatar_hufd8c24025f6d08f3dff103ffcf5c28fb_303597_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Adrian Zachariae</title>
-      <link>https://corona-datenspende.de/en/authors/adrian-zachariae/</link>
+      <link>https://corona-datenspende.github.io/en/authors/adrian-zachariae/</link>
     </image>
     
     <item>
       <title>Great weather quickens the heart</title>
-      <link>https://corona-datenspende.de/en/reports/weather/</link>
+      <link>https://corona-datenspende.github.io/en/reports/weather/</link>
       <pubDate>Tue, 07 Jul 2020 08:40:00 +0200</pubDate>
-      <guid>https://corona-datenspende.de/en/reports/weather/</guid>
+      <guid>https://corona-datenspende.github.io/en/reports/weather/</guid>
       <description>&lt;p&gt;Many things have changed in the last few months; the number of active Covid-19 cases and local Corona-regulation, but also everyday things like the weather. Many of these things can influence the vital data of our donors; for example, lifted lockdowns, bank holidays and good weather &lt;em&gt;may&lt;/em&gt; lead to more sport activity and could &lt;em&gt;potentially&lt;/em&gt; lead to a high resting heart rate.&lt;/p&gt;
 &lt;p&gt;One of the big challanges of this project is the identification and correct handling of those numerous other factors.&lt;/p&gt;
 &lt;p&gt;A good example of a factor that might influence vital data is weather.&lt;/p&gt;

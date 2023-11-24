@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nowcast | Corona Data Donation Project | News &amp; Analyses</title>
-    <link>https://corona-datenspende.de/en/category/nowcast/</link>
-      <atom:link href="https://corona-datenspende.de/en/category/nowcast/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://corona-datenspende.github.io/en/category/nowcast/</link>
+      <atom:link href="https://corona-datenspende.github.io/en/category/nowcast/index.xml" rel="self" type="application/rss+xml" />
     <description>Nowcast</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://corona-datenspende.de/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
+      <url>https://corona-datenspende.github.io/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
       <title>Nowcast</title>
-      <link>https://corona-datenspende.de/en/category/nowcast/</link>
+      <link>https://corona-datenspende.github.io/en/category/nowcast/</link>
     </image>
     
     <item>
       <title>Complementary nowcasts based on our fever curve</title>
-      <link>https://corona-datenspende.de/en/reports/nowcast/</link>
+      <link>https://corona-datenspende.github.io/en/reports/nowcast/</link>
       <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/en/reports/nowcast/</guid>
+      <guid>https://corona-datenspende.github.io/en/reports/nowcast/</guid>
       <description>&lt;p&gt;Dear Donors,&lt;/p&gt;
 &lt;p&gt;For the past year, our fever monitor has compared two distinct signals: The detections of anomalous vital signs and weekly incidences of COVID-19. Both signals have unique advantages and disadvantages when it comes to monitoring current trends of the pandemic:&lt;/p&gt;
 &lt;ol&gt;

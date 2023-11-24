@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Steps | Corona Data Donation Project | News &amp; Analyses</title>
-    <link>https://corona-datenspende.de/en/tag/steps/</link>
-      <atom:link href="https://corona-datenspende.de/en/tag/steps/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://corona-datenspende.github.io/en/tag/steps/</link>
+      <atom:link href="https://corona-datenspende.github.io/en/tag/steps/index.xml" rel="self" type="application/rss+xml" />
     <description>Steps</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://corona-datenspende.de/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
+      <url>https://corona-datenspende.github.io/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
       <title>Steps</title>
-      <link>https://corona-datenspende.de/en/tag/steps/</link>
+      <link>https://corona-datenspende.github.io/en/tag/steps/</link>
     </image>
     
     <item>
       <title>Step by Step</title>
-      <link>https://corona-datenspende.de/en/reports/schritte/</link>
+      <link>https://corona-datenspende.github.io/en/reports/schritte/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/en/reports/schritte/</guid>
+      <guid>https://corona-datenspende.github.io/en/reports/schritte/</guid>
       <description>&lt;h3 id=&#34;the-distribution-of-daily-step-counts&#34;&gt;The distribution of daily step counts&lt;/h3&gt;
-&lt;p&gt;In addition to the daily average resting heart rate, we can obtain the daily step count from connected wearable fitness devices. Together with the resting heart rate, the step count is an important parameter for this study. As you can read in our post, &lt;a href=&#34;https://corona-datenspende.de/en/reports/pulse/&#34;&gt;&lt;strong&gt;The Pulse of the Nation&lt;/strong&gt;&lt;/a&gt;, deviations from the average resting heart rate could indicate fever. However, resting heart rate may also deviate for various unrelated reasons.&lt;/p&gt;
+&lt;p&gt;In addition to the daily average resting heart rate, we can obtain the daily step count from connected wearable fitness devices. Together with the resting heart rate, the step count is an important parameter for this study. As you can read in our post, &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/pulse/&#34;&gt;&lt;strong&gt;The Pulse of the Nation&lt;/strong&gt;&lt;/a&gt;, deviations from the average resting heart rate could indicate fever. However, resting heart rate may also deviate for various unrelated reasons.&lt;/p&gt;
 &lt;p&gt;By taking the step count into consideration as well as the resting heart rate, we can obtain a stronger indicator for fever: If your daily step count is much lower than your average step count, while your resting heart rate is significantly higher than baseline, it is more likely that fever is the underlying culprit. Thus, we obtain stronger results when combining step count and heart rate in our analysis.&lt;/p&gt;
 &lt;p&gt;However, before combining both parameters into one analysis, the step count itself needs to be analyzed on its own. By doing this, important variations due to weekday patterns or weather factors can be identified first. Moreover, step counts may even vary regionally between rural and urban areas. Taking all this into consideration, we aim to establish a solid reference baseline for further analyses.&lt;/p&gt;
 &lt;h3 id=&#34;step-count-statistics-for-germany-and-the-federal-states&#34;&gt;Step count statistics for Germany and the federal states&lt;/h3&gt;
@@ -53,7 +53,7 @@
 
 &lt;p&gt;As can be seen in the figure above, typical daily values fall between 5,000 and 7,000 steps, with a fairly broad variation. Some donors even show a significantly higher step count. Variations between different German states, on the other side, are rather insignificant, leading to a uniformly shaped step count curve.&lt;/p&gt;
 &lt;h3 id=&#34;the-step-count-map&#34;&gt;The step count map&lt;/h3&gt;
-&lt;p&gt;Similar to the &lt;a href=&#34;https://corona-datenspende.de/en/reports/pulse/&#34;&gt;Resting Heart Rate Map&lt;/a&gt;, we can determine the average step count per district in Germany. The result is shown in the following map.&lt;/p&gt;
+&lt;p&gt;Similar to the &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/pulse/&#34;&gt;Resting Heart Rate Map&lt;/a&gt;, we can determine the average step count per district in Germany. The result is shown in the following map.&lt;/p&gt;
 &lt;section class=&#34;center mw10 mw8-ns&#34;&gt;
  &lt;figure&gt;
  	&lt;div&gt;
@@ -113,7 +113,7 @@
  &lt;/figure&gt;
 &lt;/section&gt;
 
-&lt;p&gt;We can see that the daily step count follows roughly a constant curve. However, long-term tends cannot be predicted. The daily average is between 6,000 and 7,000 steps. Compared to the average daily resting heart rate, the step count displays higher variation (see &lt;a href=&#34;https://corona-datenspende.de/en/reports/pulse/&#34;&gt;Figure 2 in this post&lt;/a&gt;)). Moreover, weekends, especially Saturdays, are more prone to higher step counts than other weekdays.&lt;/p&gt;
+&lt;p&gt;We can see that the daily step count follows roughly a constant curve. However, long-term tends cannot be predicted. The daily average is between 6,000 and 7,000 steps. Compared to the average daily resting heart rate, the step count displays higher variation (see &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/pulse/&#34;&gt;Figure 2 in this post&lt;/a&gt;)). Moreover, weekends, especially Saturdays, are more prone to higher step counts than other weekdays.&lt;/p&gt;
 &lt;h3 id=&#34;average-daily-step-count-in-german-states&#34;&gt;Average daily step count in German states&lt;/h3&gt;
 &lt;p&gt;Now the question arises whether the number of steps of the donors differs regionally. The figure below shows the average daily step count of donors for each of the German states.&lt;/p&gt;
 &lt;section class=&#34;center mw10 mw10-ns&#34;&gt;

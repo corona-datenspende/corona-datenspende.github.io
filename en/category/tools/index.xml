@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tools | Corona Data Donation Project | News &amp; Analyses</title>
-    <link>https://corona-datenspende.de/en/category/tools/</link>
-      <atom:link href="https://corona-datenspende.de/en/category/tools/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://corona-datenspende.github.io/en/category/tools/</link>
+      <atom:link href="https://corona-datenspende.github.io/en/category/tools/index.xml" rel="self" type="application/rss+xml" />
     <description>Tools</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 22 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://corona-datenspende.de/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
+      <url>https://corona-datenspende.github.io/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
       <title>Tools</title>
-      <link>https://corona-datenspende.de/en/category/tools/</link>
+      <link>https://corona-datenspende.github.io/en/category/tools/</link>
     </image>
     
     <item>
       <title>Two years of data donation: The Vital Data Explorer</title>
-      <link>https://corona-datenspende.de/en/reports/vital-data-explorer/</link>
+      <link>https://corona-datenspende.github.io/en/reports/vital-data-explorer/</link>
       <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/en/reports/vital-data-explorer/</guid>
+      <guid>https://corona-datenspende.github.io/en/reports/vital-data-explorer/</guid>
       <description>&lt;p&gt;Dear Donors,&lt;/p&gt;
-&lt;p&gt;About a year ago, we were able to &lt;a href=&#34;https://corona-datenspende.de/science/en/reports/oneyearofdata/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;take stock of the first year of Datenspende&lt;/a&gt;. Today, around 470 million donated data points on heart rate, step count and sleep provide us with a unique insight into the development of vital signs under pandemic conditions.&lt;/p&gt;
+&lt;p&gt;About a year ago, we were able to &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/oneyearofdata/&#34;&gt;take stock of the first year of Datenspende&lt;/a&gt;. Today, around 470 million donated data points on heart rate, step count and sleep provide us with a unique insight into the development of vital signs under pandemic conditions.&lt;/p&gt;
 &lt;p&gt;To give you a glimpse into our data analysis process and the amount of work that has gone into this project, in this article we touch upon some of the challenges we’ve faced over the course of two years of data donation. We further introduce you to a new tool for exploring these  vital signals for yourself.&lt;/p&gt;
 &lt;h3 id=&#34;what-we-were-able-to-show-last-time&#34;&gt;What we were able to show last time&lt;/h3&gt;
-&lt;p&gt;In May 2021, measurement data from 2020 and 2021 were available for the same month for the first time. This marked a major milestone for our analyses: we were able to explore what insights can be gathered from this year-to-year comparison. &lt;a href=&#34;https://corona-datenspende.de/science/en/reports/oneyearofdata/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;In this blog post&lt;/a&gt;, we demonstrated some of the interpretations we were able to draw. For example, the &lt;a href=&#34;https://www.tum.de/en/about-tum/news/covid-19/short/36715&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;weight gain of many people&lt;/a&gt; during the COVID-19 pandemic could be an explanation for the observed increase in resting heart rate during the year. Weather may also have a considerable influence on heart rate and activity patterns. However, one thing has become clear from many of our analyses to date: your donated data cannot just be analyzed independently, but must always be evaluated in the context of external, possibly interconnected circumstances.&lt;/p&gt;
+&lt;p&gt;In May 2021, measurement data from 2020 and 2021 were available for the same month for the first time. This marked a major milestone for our analyses: we were able to explore what insights can be gathered from this year-to-year comparison. &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/oneyearofdata/&#34;&gt;In this blog post&lt;/a&gt;, we demonstrated some of the interpretations we were able to draw. For example, the &lt;a href=&#34;https://www.tum.de/en/about-tum/news/covid-19/short/36715&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;weight gain of many people&lt;/a&gt; during the COVID-19 pandemic could be an explanation for the observed increase in resting heart rate during the year. Weather may also have a considerable influence on heart rate and activity patterns. However, one thing has become clear from many of our analyses to date: your donated data cannot just be analyzed independently, but must always be evaluated in the context of external, possibly interconnected circumstances.&lt;/p&gt;
 &lt;h3 id=&#34;what-is-possible-now&#34;&gt;What is possible now?&lt;/h3&gt;
 &lt;p&gt;A year ago our scope was relatively limited. At that time, we were only able to compare the month of May across two years - a month that already tended to be associated with declining case numbers following the end of the winter waves since the beginning of the COVID-19 pandemic. For periods with more prevalent infectious activity, we lacked year-to-year comparative values. &lt;strong&gt;Thanks to your donations, comparing for example seasonal influences (e.g. low temperatures and longer nights in winter) is now becoming viable&lt;/strong&gt;. But: there are many more possible influences and signals that can be found in our data - and we want to give you the opportunity to take a look for yourself.&lt;/p&gt;
 &lt;h3 id=&#34;two-years-at-a-glance&#34;&gt;Two years at a glance&lt;/h3&gt;
@@ -42,7 +42,7 @@ In case the visualization does not load right away, simply select select a data 
 &lt;h3 id=&#34;what-can-be-explored&#34;&gt;What can be explored?&lt;/h3&gt;
 &lt;p&gt;Basically everything. Using the example of Christmas 2021, we will show you what can be found in our data. In the period from 12/24/2021 to 12/31/2021, the average heart rate increased by almost a whole beat per minute. That may not sound like much, but at the population level, it is a very clear signal. The increase can be explained, for example, by holiday stress, or by a possible increase in alcohol consumption, which &lt;a href=&#34;https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012787.pub2/full&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;systematically increases the resting heart rate&lt;/a&gt;. During the same period, we also sleep less on average and take fewer steps per day than usual. Only after the holidays do these observed values normalize again.&lt;/p&gt;
 &lt;h3 id=&#34;whats-next&#34;&gt;What&amp;rsquo;s next?&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://corona-datenspende.de/science/en/reports/longcovidlaunch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Three months ago, we broadened the focus of our research&lt;/a&gt;. Together with various research groups working on the topic of long-COVID, we are investigating the question: What are the long-term effects of COVID-19 once the acute phase of the viral infection is over? With your data, we can approach this question from various angles, including heart rate, physical activity, sleep, mental health and quality of life. In one of the next blog posts, we’ll share insights on how we do that - and explore how the daily lives of people with chronic health conditions changed in the aftermath of an acute COVID-19 infection.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://corona-datenspende.github.io/en/reports/longcovidlaunch/&#34;&gt;Three months ago, we broadened the focus of our research&lt;/a&gt;. Together with various research groups working on the topic of long-COVID, we are investigating the question: What are the long-term effects of COVID-19 once the acute phase of the viral infection is over? With your data, we can approach this question from various angles, including heart rate, physical activity, sleep, mental health and quality of life. In one of the next blog posts, we’ll share insights on how we do that - and explore how the daily lives of people with chronic health conditions changed in the aftermath of an acute COVID-19 infection.&lt;/p&gt;
 </description>
     </item>
     

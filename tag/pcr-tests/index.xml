@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PCR-Tests | Corona-Datenspende | News &amp; Analysen</title>
-    <link>https://corona-datenspende.de/tag/pcr-tests/</link>
-      <atom:link href="https://corona-datenspende.de/tag/pcr-tests/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://corona-datenspende.github.io/tag/pcr-tests/</link>
+      <atom:link href="https://corona-datenspende.github.io/tag/pcr-tests/index.xml" rel="self" type="application/rss+xml" />
     <description>PCR-Tests</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>de</language><lastBuildDate>Wed, 10 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://corona-datenspende.de/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
+      <url>https://corona-datenspende.github.io/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
       <title>PCR-Tests</title>
-      <link>https://corona-datenspende.de/tag/pcr-tests/</link>
+      <link>https://corona-datenspende.github.io/tag/pcr-tests/</link>
     </image>
     
     <item>
       <title>Reicht zuhause testen aus? Schnelltests und die Teststatistik</title>
-      <link>https://corona-datenspende.de/reports/questionnaire-incidence/</link>
+      <link>https://corona-datenspende.github.io/reports/questionnaire-incidence/</link>
       <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/reports/questionnaire-incidence/</guid>
+      <guid>https://corona-datenspende.github.io/reports/questionnaire-incidence/</guid>
       <description>&lt;p&gt;Die Frage nach den wöchentlichen Neuerkrankungen an COVID-19 navigiert weiterhin unsere politischen und persönlichen Entscheidungen. Wie wir das Infektionsrisiko bewerten, mit welchen Mitteln wir uns schützen und wie wir in Zukunft weiter vorgehen – all das hängt maßgeblich von der Antwort auf diese Frage ab.&lt;/p&gt;
 &lt;p&gt;Seit einigen Wochen diskutiert Deutschland nun eine mögliche &lt;a href=&#34;https://www.tagesschau.de/inland/corona-infektionen-pcr-tests-impfungen-101.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Untererfassung der 7-Tage-Inzidenz&lt;/a&gt;. Während immer mehr Testzentren aufgrund der geringeren Sommernachfrage schließen, signalisieren &lt;a href=&#34;https://www1.wdr.de/nachrichten/themen/coronavirus/abwasser-corona-inzidenz-100.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;analysierte Abwasserproben&lt;/a&gt; und &lt;a href=&#34;https://www.rki.de/DE/Content/Infekt/Sentinel/Grippeweb/Wochenberichte/Wochenbericht_aktuell.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Systeme zur Überwachung von Atemwegsinfektionen&lt;/a&gt; Hinweise auf höhere Fallzahlen. Die kommunizierte 7-Tage-Inzidenz, die für Entscheidungen jeglicher Art maßgebend ist, basiert gemäß der aktuellen &lt;a href=&#34;https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Falldefinition.pdf?__blob=publicationFile&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Falldefinition&lt;/a&gt; ausschließlich auf PCR-Testergebnissen. Antigen-Schnelltests, egal ob im Labor oder zu Hause ausgewertet, werden in dieser Kennzahl nicht berücksichtigt. Im Vergleich zu Antigen-Schnelltests sind PCR-Tests häufig genauer und sorgen dafür, dass lokale Ausbruchsgeschehen mit großer Sicherheit korrekt erkannt werden können. Geht die PCR-Testmenge zurück, werden relative Trends zwar weiterhin sichtbar - die Größenordnung der Neuinfektionen lässt sich jedoch deutlich schlechter einschätzen.&lt;/p&gt;
 &lt;p&gt;Verschiedene Forschungsansätze versuchen nun, diese Dunkelziffer zu präzisieren. Mittels der Fragebogendaten von 28.274 Datenspender:innen, in denen wir Testergebnisse und Testart (z.B. PCR-Test und eben auch Antigen-Schnelltests) aufgezeichnet haben, wollen wir dazu beitragen, die Situation mit einem weiteren Puzzleteil besser einzuschätzen.&lt;/p&gt;
@@ -1658,7 +1658,7 @@ var localeObj = {
  &lt;/figure&gt;
 &lt;/section&gt;
 
-Wir sehen, dass sich die beiden Inzidenzen bis zum Ende des ersten Quartals recht ähnlich entwickeln, auch wenn sich die Größenordnungen der Zahlen nicht unbedingt gleichen. Teile des Unterschieds sind darauf zurückzuführen, dass sich unsere Gruppe der Datenspender:innen &lt;a href=&#34;https://corona-datenspende.de/science/reports/demographie/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;von der Allgemeinbevölkerung unterscheidet&lt;/a&gt; (mehr dazu später).&lt;/p&gt;
+Wir sehen, dass sich die beiden Inzidenzen bis zum Ende des ersten Quartals recht ähnlich entwickeln, auch wenn sich die Größenordnungen der Zahlen nicht unbedingt gleichen. Teile des Unterschieds sind darauf zurückzuführen, dass sich unsere Gruppe der Datenspender:innen &lt;a href=&#34;https://corona-datenspende.github.io/reports/demographie/&#34;&gt;von der Allgemeinbevölkerung unterscheidet&lt;/a&gt; (mehr dazu später).&lt;/p&gt;
 &lt;p&gt;Richtung Juni entkoppeln sich die Verläufe jedoch über das bisherige Maß hinaus. Wir vermuten, dass diese Entwicklung möglicherweise mit dem Rückgang der PCR-Tests zusammenhängt. Um diese Hypothese zu untersuchen, haben wir im nächsten Schritt das Verhältnis aus PCR- und Schnelltests in unseren Daten gebildet und mit dem Verhältnis der beiden oben angegebenen Inzidenzverläufe verglichen. &lt;br /&gt;&lt;/p&gt;
 &lt;section class=&#34;center mw10 mw10-ns&#34;&gt;
  &lt;figure&gt;
@@ -4945,7 +4945,7 @@ var localeObj = {
 &lt;/section&gt;
 
 &lt;h3 id=&#34;wie-sind-die-ergebnisse-einzuordnen&#34;&gt;Wie sind die Ergebnisse einzuordnen?&lt;/h3&gt;
-&lt;p&gt;Unsere Datenspender:innen weichen &lt;a href=&#34;https://corona-datenspende.de/science/reports/benchmark/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;in bestimmten Charakteristiken&lt;/a&gt; von der gesamtdeutschen Bevölkerung ab. Die Gruppen können daher nicht ohne weiteres miteinander verglichen werden. Unterschiede existieren beispielsweise hinsichtlich &lt;a href=&#34;https://corona-datenspende.de/science/reports/fragebogenteilnehmer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alter und Geschlecht&lt;/a&gt;, vermutlich auch in Bezug auf den sozioökonomischen Status und den Bildungsstand. Das Infektionsgeschehen innerhalb unserer Datenspender:innen-Gruppe unterscheidet sich also vermutlich von dem in der Gesamtbevölkerung.&lt;/p&gt;
+&lt;p&gt;Unsere Datenspender:innen weichen &lt;a href=&#34;https://corona-datenspende.github.io/reports/benchmark/&#34;&gt;in bestimmten Charakteristiken&lt;/a&gt; von der gesamtdeutschen Bevölkerung ab. Die Gruppen können daher nicht ohne weiteres miteinander verglichen werden. Unterschiede existieren beispielsweise hinsichtlich &lt;a href=&#34;https://corona-datenspende.github.io/reports/fragebogenteilnehmer/&#34;&gt;Alter und Geschlecht&lt;/a&gt;, vermutlich auch in Bezug auf den sozioökonomischen Status und den Bildungsstand. Das Infektionsgeschehen innerhalb unserer Datenspender:innen-Gruppe unterscheidet sich also vermutlich von dem in der Gesamtbevölkerung.&lt;/p&gt;
 &lt;p&gt;Dennoch halten wir fest: Die PCR-Tests in unserer Kohorte gehen zugunsten von Antigen-Schnelltests um rund 30 Prozent zurück. Für die offizielle Inzidenz entsteht so ein blinder Fleck im Infektionsgeschehen, der die tatsächliche Inzidenz vermutlich deutlich höher ausfallen lässt, als zurzeit berichtet.&lt;/p&gt;
 &lt;h3 id=&#34;was-ist-jetzt-wichtig&#34;&gt;Was ist jetzt wichtig?&lt;/h3&gt;
 &lt;p&gt;Auch wenn der genaue Faktor der Dunkelziffer nach wie vor unklar ist: Auch wir sehen in unseren Daten Hinweise darauf, dass die aktuell kommunizierte 7-Tage-Inzidenz das Infektionsgeschehen unterschätzt. Vor dem Hintergrund des vorherrschenden und stark ansteckenden Omikron-Subtyps BA.5 möchten wir auf dieses Thema aufmerksam machen.

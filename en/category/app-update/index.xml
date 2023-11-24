@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>App update | Corona Data Donation Project | News &amp; Analyses</title>
-    <link>https://corona-datenspende.de/en/category/app-update/</link>
-      <atom:link href="https://corona-datenspende.de/en/category/app-update/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://corona-datenspende.github.io/en/category/app-update/</link>
+      <atom:link href="https://corona-datenspende.github.io/en/category/app-update/index.xml" rel="self" type="application/rss+xml" />
     <description>App update</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 19 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://corona-datenspende.de/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
+      <url>https://corona-datenspende.github.io/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
       <title>App update</title>
-      <link>https://corona-datenspende.de/en/category/app-update/</link>
+      <link>https://corona-datenspende.github.io/en/category/app-update/</link>
     </image>
     
     <item>
       <title>The data donation 2.0 is here</title>
-      <link>https://corona-datenspende.de/en/reports/release20/</link>
+      <link>https://corona-datenspende.github.io/en/reports/release20/</link>
       <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://corona-datenspende.de/en/reports/release20/</guid>
+      <guid>https://corona-datenspende.github.io/en/reports/release20/</guid>
       <description>&lt;h3 id=&#34;dear-donors&#34;&gt;Dear donors,&lt;/h3&gt;
 &lt;p&gt;After several months of preparation, it is finally here: Corona Data Donation 2.0, through which you can participate in scientific studies on the consequences of the Corona pandemic as of today. In these studies, we will regularly ask you to answer short questionnaires on specific topics, voluntarily of course.&lt;/p&gt;
 &lt;p&gt;The app update is available from the Google &lt;a href=&#34;https://play.google.com/store/apps/details?id=de.rki.coronadatenspende&amp;amp;hl=de&amp;amp;gl=US&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Play Store&lt;/a&gt; if you have an android phone, from the Apple &lt;a href=&#34;https://apps.apple.com/de/app/corona-datenspende/id1504705422&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;App Store&lt;/a&gt; if you are on iOS, as well as from the Huawei &lt;a href=&#34;https://appgallery.huawei.com/app/C104457185&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;App Gallery&lt;/a&gt;.&lt;/p&gt;
@@ -27,7 +27,7 @@
 In the second study, &amp;ldquo;Experience and Behavior in the Pandemic,&amp;rdquo; we are collaborating with the COSMO study scientists led by &lt;a href=&#34;https://twitter.com/CorneliaBetsch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cornelia Betsch&lt;/a&gt; to understand individual exposure and risk perceptions, as well as individual behavior in the pandemic.&lt;/p&gt;
 &lt;h3 id=&#34;better-science-thanks-to-better-data&#34;&gt;Better science thanks to better data&lt;/h3&gt;
 &lt;p&gt;Using data from the surveys, such as if and when you had a covid infection, or were vaccinated, we can improve our results in two ways.&lt;/p&gt;
-&lt;p&gt;The first is to evaluate and improve previous results, for example, detections in the &lt;a href=&#34;https://corona-datenspende.de/monitor/&#34;&gt;fever monitor&lt;/a&gt;. For the detections, we use our algorithm to look at a person&amp;rsquo;s vital signs - resting heart rate and step count - and estimate whether a Covid disease might have been present during the period under consideration. With your help we can compare the result of this estimation with the result of the survey - and check directly how well our algorithm works.&lt;/p&gt;
+&lt;p&gt;The first is to evaluate and improve previous results, for example, detections in the &lt;a href=&#34;https://corona-datenspende.github.io/monitor/&#34;&gt;fever monitor&lt;/a&gt;. For the detections, we use our algorithm to look at a person&amp;rsquo;s vital signs - resting heart rate and step count - and estimate whether a Covid disease might have been present during the period under consideration. With your help we can compare the result of this estimation with the result of the survey - and check directly how well our algorithm works.&lt;/p&gt;
 &lt;section class=&#34;center mw10 mw10-ns&#34;&gt;
  &lt;figure&gt;
  	&lt;div&gt;
@@ -56,7 +56,7 @@ In the second study, &amp;ldquo;Experience and Behavior in the Pandemic,&amp;rdq
  &lt;/figure&gt;
 &lt;/section&gt;
 
-&lt;p&gt;The second improvement through data donation 2.0 is answering new questions. In one of the recent &lt;a href=&#34;https://corona-datenspende.de/reports/c19sleep/&#34;&gt;analyses&lt;/a&gt;, we looked at sleep duration in the pandemic and found that there is a gender difference here. But to what extent is this due to different (gendered) experiences of the pandemic? Or is it always present completely independent of the pandemic? In the second study &amp;ldquo;Experience and Behavior&amp;rdquo; we want to answer these and other questions. The following graph shows the nationwide sleep duration in hours by age and gender. How much of the difference might be due to men and women experiencing the pandemic differently?&lt;/p&gt;
+&lt;p&gt;The second improvement through data donation 2.0 is answering new questions. In one of the recent &lt;a href=&#34;https://corona-datenspende.github.io/reports/c19sleep/&#34;&gt;analyses&lt;/a&gt;, we looked at sleep duration in the pandemic and found that there is a gender difference here. But to what extent is this due to different (gendered) experiences of the pandemic? Or is it always present completely independent of the pandemic? In the second study &amp;ldquo;Experience and Behavior&amp;rdquo; we want to answer these and other questions. The following graph shows the nationwide sleep duration in hours by age and gender. How much of the difference might be due to men and women experiencing the pandemic differently?&lt;/p&gt;
 
 
 
@@ -79,7 +79,7 @@ In the second study, &amp;ldquo;Experience and Behavior in the Pandemic,&amp;rdq
                /media/figures/sleepTimesAgeGenderGer_hudd82805bc2a495e4c9caff5695a40500_59002_fb8c5621bbe98117484bc9064c7284df.webp 400w,
                /media/figures/sleepTimesAgeGenderGer_hudd82805bc2a495e4c9caff5695a40500_59002_5f0997342eb46afe439544e95d2c0439.webp 760w,
                /media/figures/sleepTimesAgeGenderGer_hudd82805bc2a495e4c9caff5695a40500_59002_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://corona-datenspende.de/media/figures/sleepTimesAgeGenderGer_hudd82805bc2a495e4c9caff5695a40500_59002_fb8c5621bbe98117484bc9064c7284df.webp&#34;
+               src=&#34;https://corona-datenspende.github.io/media/figures/sleepTimesAgeGenderGer_hudd82805bc2a495e4c9caff5695a40500_59002_fb8c5621bbe98117484bc9064c7284df.webp&#34;
                width=&#34;760&#34;
                height=&#34;380&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
