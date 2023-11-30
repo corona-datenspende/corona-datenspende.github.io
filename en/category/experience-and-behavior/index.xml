@@ -5,12 +5,65 @@
     <link>https://corona-datenspende.github.io/en/category/experience-and-behavior/</link>
       <atom:link href="https://corona-datenspende.github.io/en/category/experience-and-behavior/index.xml" rel="self" type="application/rss+xml" />
     <description>Experience and Behavior</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 10 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://corona-datenspende.github.io/media/logo_hu67c7d7cb86270e1a53c42ee36a2e3695_20109_300x300_fit_lanczos_3.png</url>
       <title>Experience and Behavior</title>
       <link>https://corona-datenspende.github.io/en/category/experience-and-behavior/</link>
     </image>
+    
+    <item>
+      <title>Average pulse at rest increases with number of reported symptoms </title>
+      <link>https://corona-datenspende.github.io/en/reports/rhr-symptom-count/</link>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://corona-datenspende.github.io/en/reports/rhr-symptom-count/</guid>
+      <description>&lt;p&gt;As we already know from &lt;a href=&#34;https://corona-datenspende.github.io/en/reports/prolongedchanges/&#34;&gt;past analyses&lt;/a&gt;, the average resting heart rate of an individual deviates from baseline levels following a COVID-19 infection. Often the resting heart rate takes several months to return to its baseline. In this blog post, we further investigate how this systematic change in heart rate relates to the number of COVID-19 symptoms experienced.&lt;/p&gt;
+&lt;h3 id=&#34;the-resting-heart-rates-role-in-cardiovascular-wellness&#34;&gt;The Resting Heart Rate&amp;rsquo;s Role in Cardiovascular Wellness&lt;/h3&gt;
+&lt;p&gt;Your resting heart rate (RHR) measures heart beats per minute when the body is relaxed and inactive. It is an important indicator of not only cardiovascular, but overall health, reflecting both long-term and acute biological stress, as well as lifestyle and fitness. For healthy adults over the age of 18, RHR should range between 60 and 100 beats per minute, depending on factors such as physiological condition. However, a resting heart rate lower than 60 is not necessarily a cause for concern – it can also indicate good physical fitness. People who are physically active have stronger heart muscles that are able to pump more blood with each contraction, meaning the heart beats less frequently and more efficiently, which is reflected in a lower RHR.&lt;/p&gt;
+&lt;p&gt;When your RHR chronically exceeds normal levels, it may be a sign that your body cannot handle physical stress as well as it should. This can be attributed to various lifestyle behaviors, such as insufficient or inconsistent exercise, high levels of daily stress, lack of sleep or poor sleep quality, smoking, drinking, or unhealthy diet.&lt;/p&gt;
+&lt;p&gt;These behaviors can reflect a gradual increase in RHR. However, if your RHR suddenly increases far beyond its baseline, the root cause is usually found in acute health conditions. Among the main reasons: Infectious diseases.&lt;/p&gt;
+&lt;h3 id=&#34;how-infectious-diseases-put-strain-on-the-heart&#34;&gt;How infectious diseases put strain on the heart&lt;/h3&gt;
+&lt;p&gt;When a pathogen (e.g., a virus) attacks the front lines of our innate or adapted immune defense, the body undergoes severe stress. Viruses hijack the host&amp;rsquo;s cellular machinery and use it to replicate and spread inside the organism, triggering a resource-hungry inflammatory response that increases the heart’s workload. As SARS-CoV-2 is able to bind to heart muscle cells, cardiac injury can occur on a direct pathway too, for example as a result of inflamed heart muscular tissue. To defend against these processes, special messengers of the immune system called cytokines cause the body temperature to rise - an effective way to weaken pathogens: Higher temperatures can efficiently slow down their ability to multiply while triggering heat-sensitive cellular mechanisms that boost the immune response.&lt;/p&gt;
+&lt;p&gt;However, increased temperatures can also be dangerous for the body, especially in the very old and the very young. To prevent severe damage, thermoregulation mechanisms are capable of cooling down the body again - for example by increasing the amount and speed of blood flowing to and within the skin, allowing more heat to be lost over the skins surface. For this whole process to work, more blood has to flow through the skin again causing more strain on the heart.&lt;/p&gt;
+&lt;p&gt;Now, suppose the body also has less water available, for example, due to vomiting or diarrhea. As a result the blood thickens, making it more difficult to transport. At the same time, acute respiratory infections reduce the amount of oxygen being taken in, causing low levels of oxygen in the blood and, subsequently, to the vital organs which can in some cases be life-threatening.&lt;/p&gt;
+&lt;p&gt;In short, the more symptoms that occur simultaneously, the greater the increased workload, and the greater the overall burden on the heart. That’s where our data comes into play.&lt;/p&gt;
+&lt;h3 id=&#34;how-we-can-measure-this-increased-strain&#34;&gt;How we can measure this increased strain&lt;/h3&gt;
+&lt;p&gt;Through weekly questionnaires, users of the data donation project reported an array of symptoms associated with a SARS-CoV-2 infection as well as positive and negative PCR test results. Along with wearable-derived data, we investigated how the RHR changes that occur with COVID-19 infection differ with the number of symptoms reported, using the number of symptoms as a proxy indicator for the intensity of the disease.&lt;/p&gt;
+&lt;p&gt;In this analysis, we averaged individuals’ daily RHR values for 1.5 months before the active infection period and compared this baseline to the highest RHR peak recorded within a detection window of 4 days before and 10 days after the reported test result. This peak deviation is then compared to the symptom count.&lt;/p&gt;
+&lt;p&gt;Below, you can see how the peak change in RHR (relative to an individual&amp;rsquo;s baseline) increases monotonically with an increasing number of symptoms reported during the week of a positive PCR test. For now, we will only focus on people who have reported at least one symptom (so-called symptomatic cases). We will further investigate the resting pulse behavior in asymptomatic records separately in the future.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig-1-the-more-symptoms-reported-horizontal-axis-the-greater-the-difference-between-the-pre-infection-baseline-and-resting-heart-rate-peaks-during-the-infection-period-vertical-axis-the-shaded-area-represents-how-confident-we-can-interpret-these-results-if-we-repeated-this-experiment-100-times-we-would-expect-the-true-values-to-fall-within-the-shaded-area-95-times-the-bars-show-how-spread-out-the-observed-data-is-around-the-datas-mean--the-standard-error-the-shorter-the-bars-the-more-confident-we-can-be-about-the-precision-of-the-mean-value&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://corona-datenspende.github.io/lm_rhr_symp.png&#34; alt=&#34;**Fig. 1**: The more symptoms reported (horizontal axis), the greater the difference between the pre-infection baseline and resting heart rate peaks during the infection period (vertical axis). The shaded area represents how confident we can interpret these results: If we repeated this experiment 100 times, we would expect the true values to fall within the shaded area 95 times. The bars show how spread out the observed data is around the data’s mean (= the standard error). The shorter the bars, the more confident we can be about the precision of the mean value.&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;strong&gt;Fig. 1&lt;/strong&gt;: The more symptoms reported (horizontal axis), the greater the difference between the pre-infection baseline and resting heart rate peaks during the infection period (vertical axis). The shaded area represents how confident we can interpret these results: If we repeated this experiment 100 times, we would expect the true values to fall within the shaded area 95 times. The bars show how spread out the observed data is around the data’s mean (= the standard error). The shorter the bars, the more confident we can be about the precision of the mean value.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;As people have widely variable resting heart rates, we can not compare the raw RHR values between users. Instead, we use the Z-Score to compare the observed changes in RHR to the person&amp;rsquo;s normal variations in everyday life. These scores can then be compared between users. In short, a Z-score of 2 denotes the observed value deviates twice as much from the mean as a typical variation normally does. Read how it works here.&lt;/p&gt;
+&lt;details&gt;
+    &lt;summary&gt;&lt;i&gt;Explainer: How do Z-Scores work?&lt;/i&gt;&lt;/summary&gt;
+&lt;p&gt;Example: We observe Alex&amp;rsquo;s heart using a smartwatch. Alex&amp;rsquo;s heart beats an average of 60 times per minute at rest. Sometimes, it beats a little less, sometimes a little more. Using statistical methods, we can determine how much Alex&amp;rsquo;s heartbeat deviates on average from the mean value of 60. This is called the standard deviation (SD). In Alex’s case, for example, this could be 1.5 beats per minute. This means: In many cases, Helge&amp;rsquo;s heart beats between 58.5 and  61.5 times per minute.&lt;/p&gt;
+&lt;p&gt;A z-score tells you how many of these standard deviations the resting pulse is above or below the average resting heart rate. For instance, in Alex&amp;rsquo;s case, a resting heart rate of 61.5 bpm would correspond to a Z-score of 1, while 63 bpm would correspond to a Z-score of 2, and so on. Using this measure, we can compare different individuals in a standardized way.&lt;/p&gt;
+&lt;/details&gt;
+&lt;p&gt;Overall, we find that the RHR in our data continues to increase with each additional symptom reported. For high symptom counts, this correlation starts to flatten out and even dips slightly with 10+ symptoms. This is likely due to the large measurement errors in these categories stemming from significantly fewer users exhibiting so many symptoms.&lt;/p&gt;
+&lt;h3 id=&#34;our-takeaways&#34;&gt;Our takeaways&lt;/h3&gt;
+&lt;p&gt;The link between symptom count and resting heart rate is a simple but interesting observation that shows us how individually different COVID-19 experiences translate into one’s resting heart rate. What is particularly interesting is that we can already observe this regardless of what specific symptoms were experienced. In the future, we will investigate the role of specific symptoms that &lt;a href=&#34;https://doi.org/10.1038/s41591-021-01292-y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;have been shown&lt;/a&gt; to be early indicators for Long Covid, such as fatigue, headache, shortness of breath, a hoarse voice, and myalgia. We will report back again as soon as we have new results.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Is testing at home sufficient? Self tests and official statistics</title>
